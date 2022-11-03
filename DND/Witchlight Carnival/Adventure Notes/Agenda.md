@@ -1,0 +1,5 @@
+- [x] Figure out what the Prismere is
+- [x] Find out more information on how to get back what we had lost
+- [ ] Find a way into the Fey Wilds
+	- [ ] Find the White Hare near the Pixie Kingdom
+	- [x] Find the Gnome Bard with Black Hair and a White Frog

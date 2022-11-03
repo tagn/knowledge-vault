@@ -1,0 +1,5 @@
+- [ ] Get back what we had lost (Turdis is unable to keep secrets)
+	- [ ] Hags in the Fey Wilds may have something to do with what was taken
+	- [ ] The hag you seek has foreseen her own death, which happens during an eclipse. Upon on mountaintop theater you may find the peace of mind that was stolen away by Endelyn.
+- [ ] Figure out what this Unicorn Horn is
+	- [ ]

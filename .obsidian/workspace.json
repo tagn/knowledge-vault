@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "270056182d8eb6ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "c27dfb6fc6ac8af2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c49b3dae7873b5ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Session Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bfc809d0b3de37a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3c56ab377511e30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2ed483abcf08cad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4beb45a3ae22948e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c919327ecf250aca",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b6e4633f349b680",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7d9eaf580f766bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Session Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae3155af8a858b8a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f2ed483abcf08cad",
+  "lastOpenFiles": [
+    "DND/Witchlight Carnival/Adventure Notes/World.md",
+    "DND/Witchlight Carnival/Adventure Notes/Quests and Questions.md",
+    "DND/Witchlight Carnival/Adventure Notes/Agenda.md",
+    "DND/Witchlight Carnival/Adventure Notes/Sessions/Session0_Day1.md",
+    "DND/Witchlight Carnival/Adventure Notes/Sessions/Session1_Day1.md",
+    "DND/Witchlight Carnival/Turdis/Character/Witchlight Carnival.md",
+    "DND/Witchlight Carnival/Turdis/Character/Moonshae Isles.md",
+    "Astonia/Ruby.md",
+    "Astonia/Warrior Stat Guide.md",
+    "Astonia/Pricing.md"
+  ]
+}
