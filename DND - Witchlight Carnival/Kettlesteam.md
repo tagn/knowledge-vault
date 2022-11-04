@@ -1,5 +1,10 @@
 ## Description
 
+relationship: ally
+organization: "Anti-Hourglass Coven"
+
+## Misc Known Information
+
 - Female
 - Kenku
 - Black coloration

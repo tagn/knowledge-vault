@@ -11,7 +11,7 @@
 ## Locations
 
 - [[Witchlight Carnival]]
-- [[Prismere]]
+- [[Prismeer]]
 
 ## Non-Player Characters
 

@@ -1,11 +1,10 @@
-- [ ] Hags in the Fey Wilds may have something to do with what was taken
-	- [ ] The hag you seek has foreseen her own death, which happens during an eclipse. Upon on mountaintop theater you may find the peace of mind that was stolen away by Endelyn.
-- [x] Figure out what the Prismere is
+- [ ] [[Hags]] in the Prismeer are likely the ones that took things from us
 - [ ] Find out more information on how to get back what we had lost
-- [ ] Find a way into the Fey Wilds - Hall of Illusions after Crowning of the Witchlight Monarch
-	- [ ] Find the White Hare near the Pixie Kingdom
-	- [ ] Find the Gnome Bard with Black Hair and a White Frog
-
+- [ ] Find a way into the [[Prismeer]] - Hall of Illusions after Crowning of the Witchlight Monarch
+	- [ ] Find the [[White Hare]]White Hare near the Pixie Kingdom
+	- [x] Find [[Alleywick]]
+- [ ] Figure out why [[Zybilna]] is frozen
 ## Completed
+- [x] Figure out what the Prismere is
 - [x] Get back what we had lost (Turdis is unable to keep secrets)
 - [x] Figure out what this Unicorn Horn is
