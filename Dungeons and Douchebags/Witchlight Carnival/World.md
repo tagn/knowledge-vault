@@ -1,7 +1,7 @@
 
 ## Agenda
 
-- [[DND/Witchlight Carnival/Agenda]]
+- [[Agenda]]
 
 ## Sessions
 
