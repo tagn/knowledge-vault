@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Witchlight Carnival/Agenda.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND/Witchlight Carnival/Agenda.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND/Witchlight Carnival/Agenda.md"
+                "file": "README.md"
               }
             }
           },
@@ -127,15 +127,15 @@
   },
   "active": "e20226beec4eba16",
   "lastOpenFiles": [
-    "DND/Witchlight Carnival/World.md",
+    "home.md",
+    "README.md",
+    "Templates/Test.md",
     "DND/Witchlight Carnival/Agenda.md",
+    "DND/Witchlight Carnival/World.md",
     "DND/Witchlight Carnival/Adventure Notes/Sessions/Session1_Day1.md",
     "DND/Witchlight Carnival/Adventure Notes/Sessions/Session0_Day1.md",
     "DND/Witchlight Carnival/Adventure Notes/NPCs/White Hare.md",
     "DND/Witchlight Carnival/Adventure Notes/NPCs/Kettlesteam.md",
-    "DND/Witchlight Carnival/Adventure Notes/NPCs/Alleywick.md",
-    "DND/Witchlight Carnival/Adventure Notes/Locations/Prismere.md",
-    "DND/Witchlight Carnival/Adventure Notes/Locations/Witchlight Carnival.md",
-    "DND/Witchlight Carnival/Adventure Notes/NPCs/Clapperclaw.md"
+    "DND/Witchlight Carnival/Adventure Notes/NPCs/Alleywick.md"
   ]
 }
