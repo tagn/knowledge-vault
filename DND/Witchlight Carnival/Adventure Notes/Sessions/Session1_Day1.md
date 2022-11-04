@@ -1,8 +1,19 @@
+---
+type: session
+adventure: "The Wilds Beyond the Witchlight"
+location(s): [Witchlight Carnival]
+date: 2022-11-02
+tags: ""
+---
+
+## Session Summary
+
+## Session Event Log
+
 - Hags have their way with the people who don't have tickets
 - White hare wasn't seen for a while
 - Prismere is another name for the Fey Wilds
 - Fey Wilds is the closest link to the Fey Wilds
-
 - Dragonfly taking off crazy, someone is hanging off of the dragonfly, Gizzerk went to calm the animal
 - Kenku muttering some words to itself
 - Turdis walks up to the Kenku to ask if its doing something, Kenku takes off, Drayloch casted Halt command on the Kenku

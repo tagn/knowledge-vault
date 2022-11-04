@@ -1,8 +1,7 @@
 
-## Open Loops
+## Agenda
 
-- [[Quests and Questions]]
-- [[Agenda]]
+- [[DND/Witchlight Carnival/Agenda]]
 
 ## Sessions
 

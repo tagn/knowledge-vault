@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c27dfb6fc6ac8af2",
+        "id": "9ba81e201def42c3",
         "type": "tabs",
         "children": [
           {
-            "id": "c49b3dae7873b5ea",
+            "id": "e20226beec4eba16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Session Template.md",
+                "file": "DND/Witchlight Carnival/Agenda.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Session Template.md",
+                "file": "DND/Witchlight Carnival/Agenda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,31 +90,52 @@
             }
           },
           {
-            "id": "ae3155af8a858b8a",
+            "id": "031d9aa135e28429",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "outline",
+              "state": {
+                "file": "DND/Witchlight Carnival/Agenda.md"
+              }
+            }
+          },
+          {
+            "id": "396c64d9493484d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e3e6bf4f1d01c804",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "f2ed483abcf08cad",
+  "active": "e20226beec4eba16",
   "lastOpenFiles": [
-    "DND/Witchlight Carnival/Adventure Notes/World.md",
-    "DND/Witchlight Carnival/Adventure Notes/Quests and Questions.md",
-    "DND/Witchlight Carnival/Adventure Notes/Agenda.md",
-    "DND/Witchlight Carnival/Adventure Notes/Sessions/Session0_Day1.md",
+    "DND/Witchlight Carnival/World.md",
+    "DND/Witchlight Carnival/Agenda.md",
     "DND/Witchlight Carnival/Adventure Notes/Sessions/Session1_Day1.md",
-    "DND/Witchlight Carnival/Turdis/Character/Witchlight Carnival.md",
-    "DND/Witchlight Carnival/Turdis/Character/Moonshae Isles.md",
-    "Astonia/Ruby.md",
-    "Astonia/Warrior Stat Guide.md",
-    "Astonia/Pricing.md"
+    "DND/Witchlight Carnival/Adventure Notes/Sessions/Session0_Day1.md",
+    "DND/Witchlight Carnival/Adventure Notes/NPCs/White Hare.md",
+    "DND/Witchlight Carnival/Adventure Notes/NPCs/Kettlesteam.md",
+    "DND/Witchlight Carnival/Adventure Notes/NPCs/Alleywick.md",
+    "DND/Witchlight Carnival/Adventure Notes/Locations/Prismere.md",
+    "DND/Witchlight Carnival/Adventure Notes/Locations/Witchlight Carnival.md",
+    "DND/Witchlight Carnival/Adventure Notes/NPCs/Clapperclaw.md"
   ]
 }

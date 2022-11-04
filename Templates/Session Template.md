@@ -1,4 +1,14 @@
-{{ date }}
-## Date 
+---
+type: session
+adventure: "The Wilds Beyond the Witchlight"
+location(s): []
+date: {{date}}
+tags: ""
+---
 
-## Details
+## Session Summary
+
+## Session Event Log
+
+
+

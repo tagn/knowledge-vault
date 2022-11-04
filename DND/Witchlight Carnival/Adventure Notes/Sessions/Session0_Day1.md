@@ -1,5 +1,14 @@
+---
+type: session
+adventure: "The Wilds Beyond the Witchlight"
+location(s): [Witchlight Carnival]
+date: 2022-11-03
+tags: ""
+---
 
-## Location - Witchlight Carnival
+## Session Summary
+
+## Session Event Log
 - Encountered a Harengon who seemed to be the one that sent us the letters.
 	- He told us about the "Prismere(?)"
 - Ticket-man Nicolas gave us tickets in exchange for a rule being played on us
