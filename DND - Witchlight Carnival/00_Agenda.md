@@ -5,6 +5,7 @@
 - [ ] Find a way into the Fey Wilds - Hall of Illusions after Crowning of the Witchlight Monarch
 	- [ ] Find the White Hare near the Pixie Kingdom
 	- [ ] Find the Gnome Bard with Black Hair and a White Frog
+
 ## Completed
 - [x] Get back what we had lost (Turdis is unable to keep secrets)
 - [x] Figure out what this Unicorn Horn is
