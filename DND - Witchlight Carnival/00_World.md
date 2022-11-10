@@ -5,17 +5,18 @@
 
 ## Sessions
 
-- [[Session_0_10-26-2022]]
-- [[Session_1_11-02-2022]]
+```dataview
+list from "DND - Witchlight Carnival" where startswith(file.name, "Session")
+```
 
 ## Locations
 
-- [[Witchlight Carnival]]
-- [[Prismeer]]
+```dataview
+LIST FROM "DND - Witchlight Carnival" and #location
+```
 
 ## Non-Player Characters
 
-- [[Alleywick]]
-- [[White Hare]]
-- [[Kettlesteam]]
-- [[Clapperclaw]]
+```dataview
+LIST FROM "DND - Witchlight Carnival" and #npc
+```

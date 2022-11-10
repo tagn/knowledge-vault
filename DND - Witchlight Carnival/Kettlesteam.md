@@ -1,3 +1,7 @@
+---
+tags: ["#npc"]
+---
+
 ## Description
 
 relationship: ally

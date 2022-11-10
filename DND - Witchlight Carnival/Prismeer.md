@@ -1,3 +1,6 @@
+---
+tags: ["#location"]
+---
 ## Images
 
 ![](../Images/location_prismeer.png)

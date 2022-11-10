@@ -1,9 +1,10 @@
 - [ ] [[Hags]] in the Prismeer are likely the ones that took things from us
 - [ ] Find out more information on how to get back what we had lost
-- [ ] Find a way into the [[Prismeer]] - Hall of Illusions after Crowning of the Witchlight Monarch
-	- [ ] Find the [[White Hare]]White Hare near the Pixie Kingdom
-	- [x] Find [[Alleywick]]
-- [ ] Figure out why [[Zybilna]] is frozen
+- [ ] Figure out why [[Zybilna]] is frozen - Hags froze them
+- [ ] Time permitting, visit the remaining carnival attractions
+- [ ] Get a meeting with the carnival owner Mr. Light
+- [ ] Get into the [[Prismeer]]
+- [ ] Claim the crown of the Witchlight Monarch
 ## Completed
 - [x] Figure out what the Prismere is
 - [x] Get back what we had lost (Turdis is unable to keep secrets)
