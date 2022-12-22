@@ -1,11 +1,13 @@
 - [ ] [[Hags]] in the Prismeer are likely the ones that took things from us
 - [ ] Find out more information on how to get back what we had lost
 - [ ] Figure out why [[Zybilna]] is frozen - Hags froze them
-- [ ] Time permitting, visit the remaining carnival attractions
-- [ ] Get a meeting with the carnival owner Mr. Light
-- [ ] Get into the [[Prismeer]]
-- [ ] Claim the crown of the Witchlight Monarch
+- [ ] Meet with the Bullywog King
+- [ ] Take care of the Hag, Bavlorna, at Downfall
 ## Completed
+- [x] Get into the [[Prismeer]]
+- [x] Claim the crown of the Witchlight Monarch
+- [x] Time permitting, visit the remaining carnival attractions
+- [x] Get a meeting with the carnival owner Mr. Light
 - [x] Figure out what the Prismere is
 - [x] Get back what we had lost (Turdis is unable to keep secrets)
 - [x] Figure out what this Unicorn Horn is
