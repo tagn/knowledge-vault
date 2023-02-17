@@ -1,0 +1,3 @@
+- Keth: Introduce yourself twice
+- Arken: Devote yourself to a lost cause
+- 
