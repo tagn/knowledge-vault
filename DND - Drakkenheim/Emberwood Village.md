@@ -31,6 +31,7 @@ Tavern that is quite roudy compared to the rest. Very cheap to drink. Seems to b
 #### NPCs
 - Blackjack Mel - Member of the Queen's Men. Seems to run the place. Offered Keth a job.
 #### Notes
+- Don't order the Dip
 
 ---
 ### Eventide Manor

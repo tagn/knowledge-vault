@@ -1,0 +1,4 @@
+- Retrieve research from Oscar Yorn for River
+- Get lilies from the queens garden for Oscar Yorn
+- Go to the black ivory inn for the leader of Keth's queens men people (bandits for sure)
+- 
