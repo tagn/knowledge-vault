@@ -1,7 +1,7 @@
 - [x] Hiking Backpack
-- [x] Laptop
-- [x] Laptop Charger
-- [x] Power Bank
+- [ ] Laptop
+- [ ] Laptop Charger
+- [ ] Power Bank
 - [x] Phone Charger
 - [x] Switch
 - [x] Switch Games
