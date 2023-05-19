@@ -17,8 +17,8 @@
 
 ## Misc
 - [ ] Medicine
-- [ ] Wallet
-- [ ] Sunglasses
+- [x] Wallet
+- [x] Sunglasses
 - [x] Board Games
 
 ## Toiletries
