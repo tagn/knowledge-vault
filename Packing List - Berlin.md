@@ -10,14 +10,13 @@
 - [ ] Cargo Pants
 - [ ] Shirts
 - [ ] Socks
-- [ ] Underwear
-- [ ] Belt
+- [x] Underwear
+- [x] Belt
 - [x] Jacket
 - [ ] Hoodie
 
 ## Misc
 - [ ] Medicine
-- [ ] Travel Pillow
 - [ ] Wallet
 - [ ] Sunglasses
 - [x] Board Games
