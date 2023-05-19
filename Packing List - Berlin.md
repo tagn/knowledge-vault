@@ -13,7 +13,7 @@
 - [x] Underwear
 - [x] Belt
 - [x] Jacket
-- [ ] Hoodie
+- [x] Hoodie
 
 ## Misc
 - [x] Medicine
@@ -22,8 +22,8 @@
 - [x] Board Games
 
 ## Toiletries
-- [ ] Deodorant
-- [ ] Tooth Paste
+- [x] Deodorant
+- [x] Tooth Paste
 - [ ] Tooth Brush
 
 ## Hiking
@@ -32,5 +32,5 @@
 - [x] Trekking Poles
 - [x] Towel/Neck Gaiter
 - [x] Shovel
-- [ ] Knife
+- [x] Knife
 - [x] First Aid
