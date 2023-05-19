@@ -1,21 +1,18 @@
-- [ ] Hiking Backpack
-- [ ] Laptop
-- [ ] Laptop Charger
-- [ ] Power Bank
-- [ ] Phone Charger
-- [ ] Switch
-- [ ] Switch Games
-- [ ] Switch Charger
-- [ ] Headphones
+- [x] Hiking Backpack
+- [x] Power Bank
+- [x] Phone Charger
+- [x] Switch
+- [x] Switch Games
+- [x] Switch Charger
+- [x] Headphones
 
 ## Clothes
-- [ ] Jeans
 - [ ] Cargo Pants
 - [ ] Shirts
 - [ ] Socks
 - [ ] Underwear
 - [ ] Belt
-- [ ] Jacket
+- [x] Jacket
 - [ ] Hoodie
 
 ## Misc
@@ -23,7 +20,7 @@
 - [ ] Travel Pillow
 - [ ] Wallet
 - [ ] Sunglasses
-- [ ] Board Games
+- [x] Board Games
 
 ## Toiletries
 - [ ] Deodorant
@@ -32,9 +29,9 @@
 
 ## Hiking
 
-- [ ] Food
-- [ ] Trekking Poles
-- [ ] Towel/Neck Gaiter
-- [ ] Shovel
+- [x] Food
+- [x] Trekking Poles
+- [x] Towel/Neck Gaiter
+- [x] Shovel
 - [ ] Knife
-- [ ] First Aid
+- [x] First Aid
