@@ -7,9 +7,9 @@
 - [x] Headphones
 
 ## Clothes
-- [ ] Cargo Pants
-- [ ] Shirts
-- [ ] Socks
+- [x] Cargo Pants
+- [x] Shirts
+- [x] Socks
 - [x] Underwear
 - [x] Belt
 - [x] Jacket
