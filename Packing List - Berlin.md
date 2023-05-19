@@ -16,7 +16,7 @@
 - [ ] Hoodie
 
 ## Misc
-- [ ] Medicine
+- [x] Medicine
 - [x] Wallet
 - [x] Sunglasses
 - [x] Board Games
