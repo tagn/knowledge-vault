@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "03cc75425f27a3b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DND - Drakkenheim/Session_13_06-04-2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "90d64d2cfa7e59a8",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Witchlight Carnival/Session_28-05-31-2023.md",
+                "file": "DND - Drakkenheim/Session_13_06-04-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Witchlight Carnival/Session_28-05-31-2023.md"
+                "file": "DND - Drakkenheim/Session_13_06-04-2023.md"
               }
             }
           },
@@ -157,8 +171,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bb59a73312c41f73",
+  "active": "03cc75425f27a3b3",
   "lastOpenFiles": [
+    "DND - Drakkenheim/Session_12_05-12-2023.md",
+    "DND - Drakkenheim/Session_13_06-04-2023.md",
+    "DND - Drakkenheim/Shitty Notes.md",
     "DND - Witchlight Carnival/Session_27-05-17-2023.md",
     "DND - Witchlight Carnival/Session_28-05-31-2023.md",
     "Packing List - Berlin.md",
@@ -172,8 +189,6 @@
     "DND - Drakkenheim/Quests.md",
     "DND - Drakkenheim/NPCS.md",
     "DND - Drakkenheim/Travel.md",
-    "DND - Drakkenheim/Shitty Notes.md",
-    "DND - Drakkenheim/Session_12_05-12-2023.md",
     "Characters/Wyldenten Proudsky/Artificer.md",
     "Wow Notes.md",
     "DND - Drakkenheim/Session_1_01-19-2023.md",
@@ -183,7 +198,6 @@
     "DND - Drakkenheim/Session_3_01_31_2023.md",
     "DND - Drakkenheim/Session_2_01_26_2023.md",
     "DND - Witchlight Carnival/Session_25-05-10-2023.md",
-    "DND - Witchlight Carnival/Session_22_04-10-2023.md",
-    "DND - Witchlight Carnival/Session_21_04-05-2023.md"
+    "DND - Witchlight Carnival/Session_22_04-10-2023.md"
   ]
 }
