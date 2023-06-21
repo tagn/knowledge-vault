@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Characters/Unnamed/Character Info.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Characters/Unnamed/Character Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Characters/Unnamed/Character Info.md"
               }
             }
           },
@@ -146,6 +146,13 @@
   },
   "active": "1818373c877a3158",
   "lastOpenFiles": [
+    "Characters/Turdis/Backstory.md",
+    "Characters/Unnamed/Character Info.md",
+    "Characters/Wyldenten Proudsky/Artificer.md",
+    "Characters/Wyldenten Proudsky/Session Zero.md",
+    "README.md",
+    "Characters/Untitled.md",
+    "Characters/Unnamed",
     "Packing List - Berlin.md",
     "Diablo 4/Nightmare Dungeons.md",
     "DND - Drakkenheim/Session_3_01_31_2023.md",
@@ -166,12 +173,6 @@
     "DND - Witchlight Carnival/Session_14_02-01-2023.md",
     "DND - Witchlight Carnival/Session_5_11-23-2022.md",
     "DND - Witchlight Carnival/Session_4_11-22-2022.md",
-    "DND - Witchlight Carnival/Session_2_11-09-2022.md",
-    "DND - Witchlight Carnival/Session_6_11-3-2022.md",
-    "DND - Witchlight Carnival/Session_8_12-14-2022.md",
-    "DND - Witchlight Carnival/Session_7_12-07-2022.md",
-    "DND - Witchlight Carnival/Session_9_12-21-2022.md",
-    "DND - Witchlight Carnival/Session_10_12-23-2022.md",
-    "DND - Witchlight Carnival/Session_13_01-18-2023.md"
+    "DND - Witchlight Carnival/Session_2_11-09-2022.md"
   ]
 }
