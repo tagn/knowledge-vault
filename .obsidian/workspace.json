@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Unnamed/Character Info.md",
+                "file": "Characters/Unnamed/First Person Backstory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Unnamed/Character Info.md",
+                "file": "Characters/Unnamed/First Person Backstory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Unnamed/Character Info.md"
+                "file": "Characters/Unnamed/First Person Backstory.md"
               }
             }
           },
@@ -146,8 +146,9 @@
   },
   "active": "1818373c877a3158",
   "lastOpenFiles": [
-    "Characters/Turdis/Backstory.md",
     "Characters/Unnamed/Character Info.md",
+    "Characters/Unnamed/First Person Backstory.md",
+    "Characters/Turdis/Backstory.md",
     "Characters/Wyldenten Proudsky/Artificer.md",
     "Characters/Wyldenten Proudsky/Session Zero.md",
     "README.md",
@@ -172,7 +173,6 @@
     "DND - Witchlight Carnival/Session_13.5_01-30-2023.md",
     "DND - Witchlight Carnival/Session_14_02-01-2023.md",
     "DND - Witchlight Carnival/Session_5_11-23-2022.md",
-    "DND - Witchlight Carnival/Session_4_11-22-2022.md",
-    "DND - Witchlight Carnival/Session_2_11-09-2022.md"
+    "DND - Witchlight Carnival/Session_4_11-22-2022.md"
   ]
 }
