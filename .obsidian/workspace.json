@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 256.5
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -144,13 +144,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f2ed483abcf08cad",
+  "active": "36acdadedc3c90b8",
   "lastOpenFiles": [
+    "DND - Witchlight Carnival/Session_32-06-24-2023.md",
+    "DND - Witchlight Carnival/Session_33-06-28-2023.md",
+    "DND - Witchlight Carnival/Session_0_10-26-2022.md",
+    "Characters/Turdis/Backstory.md",
     "DND - Witchlight Carnival/Session_29_06-07-2023.md",
     "DND - Witchlight Carnival/Session_30_06-12-2023.md",
     "DND - Witchlight Carnival/Session_31-06-14-2023.md",
-    "DND - Witchlight Carnival/Session_32-06-24-2023.md",
-    "DND - Witchlight Carnival/Session_33-06-28-2023.md",
     "DND - Drakkenheim/Session_16_06-22-2023.md",
     "DND - Drakkenheim/Session_15_06-15-2023.md",
     "DND - Drakkenheim/Rumors.md",
@@ -162,7 +164,6 @@
     "DND - Drakkenheim/Session_6_02-23-2024.md",
     "Characters/Ponzi Deeproot/First Person Backstory.md",
     "Characters/Ponzi Deeproot/Character Info.md",
-    "Characters/Turdis/Backstory.md",
     "Characters/Wyldenten Proudsky/Artificer.md",
     "Characters/Wyldenten Proudsky/Session Zero.md",
     "README.md",
@@ -172,7 +173,6 @@
     "Diablo 4/Nightmare Dungeons.md",
     "DND - Drakkenheim/Session_3_01_31_2023.md",
     "DND - Drakkenheim/Quests.md",
-    "Diablo 4",
-    "DND - Drakkenheim/Shitty Notes.md"
+    "Diablo 4"
   ]
 }
