@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Witchlight Carnival/Session_33-06-28-2023.md",
-                "mode": "source",
+                "file": "Diablo 4/Nightmare Dungeons.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 200
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Witchlight Carnival/Session_33-06-28-2023.md",
+                "file": "Diablo 4/Nightmare Dungeons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Witchlight Carnival/Session_33-06-28-2023.md"
+                "file": "Diablo 4/Nightmare Dungeons.md"
               }
             }
           },
@@ -146,8 +146,8 @@
   },
   "active": "36acdadedc3c90b8",
   "lastOpenFiles": [
-    "DND - Witchlight Carnival/Session_32-06-24-2023.md",
     "DND - Witchlight Carnival/Session_33-06-28-2023.md",
+    "DND - Witchlight Carnival/Session_32-06-24-2023.md",
     "DND - Witchlight Carnival/Session_0_10-26-2022.md",
     "Characters/Turdis/Backstory.md",
     "DND - Witchlight Carnival/Session_29_06-07-2023.md",

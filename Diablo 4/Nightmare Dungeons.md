@@ -1,33 +1,33 @@
 
-| Dungeon Name         | Region   | Layout         | Part 1           | Part 2           | Part 3   | Speed | Recommended | Notes |
-| -------------------- | -------- | -------------- | ---------------- | ---------------- | -------- | ----- | ----------- | ----- |
-| Abandoned Mineworks  |          |                | Click Objects    | Kill Mini-Bosses |          |       |             |       |
-| Aldurwood            |          |                | Kill Mini-Bosses | Boss             |          |       |             |       |
-| Ancient's Lament     |          |                | Return Objects   | Kill Structures  |          |       |             |       |
-| Black Asylum         |          |                | Click Objects    | Slay All         |          |       |             |       |
-| Blind Burrows        |          |                | Kill Mini-Bosses | Boss             |          |       |             |       |
-| Champions Demise     |          |                | Return Objects   | Boss             |          |       |             |       |
-| Conclave             |          |                | Kill Mini-Bosses | Look for Item    | Slay All |       |             |       |
-| Crusader's Cathedral |          |                | Return Objects   | Kill Mini-Bosses | Boss     |       |             |       |
-| Cultist Refuge       |          |                | Slay All         | Kill Mini-Bosses |          |       |             |       |
-| Dark Ravine          |          |                | Collect Animus   | Kill Mini-Bosses | Boss     |       |             |       |
-| Demon's Wake         |          |                | Kill Structures  | Slay All         |          |       |             |       |
-| Earthen Wound        |          |                | Kill Structures  | Collect Animus   | Boss     |       |             |       |
-| Feral's Den          |          |                | Collect Animus   | Click Objects    | Boss     |       |             |       |
-| Guulrahn Canal       |          |                | Slay All         | Kill Structures  |          |       |             |       |
-| Guulrahn Slums       |          |                | Click Objects    | Slay All         | Boss     |       |             |       |
-| Kor Dragon Barracks  |          |                | Click Objects    | Kill Structures  |          |       |             |       |
-| Lost Archives        |          |                | Kill Mini-Bosses | Return Objects   | Boss     |       |             |       |
-| Maugan's Works       |          |                | Click Objects    | Boss             |          |       |             |       |
-| Maulwood             |          |                | Kill Mini-Bosses | Kill Structures  |          |       |             |       |
-| Onyx Hold            |          |                | Slay All         | Kill Mini-Bosses |          |       |             |       |
-| Prison of Caldeum    |          |                | Kill Mini-Bosses | Collect Animus   | Boss     |       |             |       |
-| Raethwind Wilds      |          |                | Slay All         | Kill Mini-Bosses | Boss     |       |             |       |
-| Renegard's Retreat   |          |                | Kill Mini-Bosses | Boss             |          |       |             |       |
-| Serpents Lair        |          |                | Collect Animus   | Kill Structures  |          |       |             |       |
-| Shadowed Plunge      |          |                | Click Objects    | Kill Structures  |          |       |             |       |
-| Shivta Ruins         |          |                | Return Objects   | Boss             |          |       |             |       |
-| Sunken Ruins         |          |                | Return Objects   | Kill Structures  |          |       |             |       |
-| Whispering Pines     | Scosglen | Open > Dungeon | Kill Mini-Bosses | Slay All         | Boss     |       |             |       |
-| Witchwater           |          |                | Click Objects    | Kill Structures  | Boss     |       |             |       |
-| Zenith               |          |                | Kill Mini-Bosses | Return Objects   | Boss     |       |             |       |
+| Dungeon Name         | Keep | Part 1           | Part 2           | Part 3   |
+| -------------------- | ---- | ---------------- | ---------------- | -------- |
+| Abandoned Mineworks  | N    | Click Objects    | Kill Mini-Bosses |          |
+| Aldurwood            | Y    | Kill Mini-Bosses | Boss             |          |
+| Ancient's Lament     | N    | Return Objects   | Kill Structures  |          |
+| Black Asylum         | N    | Click Objects    | Slay All         |          |
+| Blind Burrows        | Y    | Kill Mini-Bosses | Boss             |          |
+| Champions Demise     | Y    | Return Objects   | Boss             |          |
+| Conclave             | N    | Kill Mini-Bosses | Look for Item    | Slay All |
+| Crusader's Cathedral | N    | Return Objects   | Kill Mini-Bosses | Boss     |
+| Cultist Refuge       | Y    | Slay All         | Kill Mini-Bosses |          |
+| Dark Ravine          | N    | Collect Animus   | Kill Mini-Bosses | Boss     |
+| Demon's Wake         | N    | Kill Structures  | Slay All         |          |
+| Earthen Wound        | Y    | Kill Structures  | Collect Animus   | Boss     |
+| Feral's Den          | N    | Collect Animus   | Click Objects    | Boss     |
+| Guulrahn Canal       | Y    | Slay All         | Kill Structures  |          |
+| Guulrahn Slums       | N    | Click Objects    | Slay All         | Boss     |
+| Kor Dragon Barracks  | N    | Click Objects    | Kill Structures  |          |
+| Lost Archives        | N    | Kill Mini-Bosses | Return Objects   | Boss     |
+| Maugan's Works       | N    | Click Objects    | Boss             |          |
+| Maulwood             | Y    | Kill Mini-Bosses | Kill Structures  |          |
+| Onyx Hold            | N    | Slay All         | Kill Mini-Bosses |          |
+| Prison of Caldeum    | N    | Kill Mini-Bosses | Collect Animus   | Boss     |
+| Raethwind Wilds      | Y    | Slay All         | Kill Mini-Bosses | Boss     |
+| Renegard's Retreat   | Y    | Kill Mini-Bosses | Boss             |          |
+| Serpents Lair        | Y    | Collect Animus   | Kill Structures  |          |
+| Shadowed Plunge      | N    | Click Objects    | Kill Structures  |          |
+| Shivta Ruins         | N    | Return Objects   | Boss             |          |
+| Sunken Ruins         | Y    | Return Objects   | Kill Structures  |          |
+| Whispering Pines     | N    | Kill Mini-Bosses | Slay All         | Boss     |
+| Witchwater           | Y    | Click Objects    | Kill Structures  | Boss     |
+| Zenith               | N    | Kill Mini-Bosses | Return Objects   | Boss     |
