@@ -4,5 +4,7 @@
   "hotkeysplus-obsidian",
   "obsidian-task-collector",
   "obsidian-languagetool-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "buttons",
+  "templater-obsidian"
 ]

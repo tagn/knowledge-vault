@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Location Template.md",
+                "file": "Characters/Ponzi Deeproot/Character Info.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Location Template.md",
+                "file": "Characters/Ponzi Deeproot/Character Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Location Template.md"
+                "file": "Characters/Ponzi Deeproot/Character Info.md"
               }
             }
           },
@@ -141,14 +141,21 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "f2ed483abcf08cad",
+  "active": "17f4a68113f5b51d",
   "lastOpenFiles": [
-    "Templates/Session Template.md",
+    "Templates/Character Sheet.md",
+    "Characters/Ponzi Deeproot/Character Info.md",
+    "Characters/Ponzi Deeproot/Ponzi Deeproot Character.md",
+    "DND - Drakkenheim/Characters/NPCS.md",
     "Templates/NPC Information.md",
+    "Test Note.md",
     "Templates/Location Template.md",
+    "Templates/Session Template.md",
+    "DND - Witchlight Carnival/Sessions/Session 33.md",
     "DND - Witchlight Carnival/Locations/Prismeer.md",
     "DND - Witchlight Carnival/Locations/Witchlight Carnival.md",
     "DND - Out of the Abyss/World.md",
@@ -166,18 +173,11 @@
     "DND - Witchlight Carnival/00_Agenda.md",
     "DND - Drakkenheim/Sessions/Session 17.md",
     "DND - Witchlight Carnival/Locations",
-    "DND - Witchlight Carnival/Sessions/Session 33.md",
     "DND - Witchlight Carnival/Sessions/Session 2.md",
     "DND - Witchlight Carnival/Sessions/Session 0.md",
     "DND - Witchlight Carnival/Sessions/Session 32.md",
     "DND - Witchlight Carnival/Sessions/Session 31.md",
     "DND - Witchlight Carnival/Sessions/Session 30.md",
-    "DND - Witchlight Carnival/Session_30_06-12-2023 1.md",
-    "DND - Witchlight Carnival/Sessions/Session 29.md",
-    "DND - Witchlight Carnival/Sessions/Session 28.md",
-    "DND - Witchlight Carnival/Sessions/Session 27.md",
-    "DND - Witchlight Carnival/Sessions/Session 26.md",
-    "DND - Witchlight Carnival/Sessions/Session 23.md",
     "DND - Witchlight Carnival/Sessions",
     "DND - Out of the Abyss",
     "DND - Drakkenheim/Sessions",
