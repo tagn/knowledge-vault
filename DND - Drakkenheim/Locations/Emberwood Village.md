@@ -7,7 +7,7 @@ tags: ["#location"]
 Small village about five miles south of Drakkenheim. This is where our adventurers return after travels. There are various establishments and services available in the area, but since the area on 
 the outskirts of a literal hellscape, services in the town are very costly.
 
-Most of the people here are trying to make ends meet, with some adventurers passing through to make treks to the outskirts of the ruined city and some more ambitious will venture inside of the walls to search for delerium and other treasures.
+Most of the people here are trying to make ends meet, with some adventurers passing through to make treks to the outskirts of the ruined city and some more ambitious will venture inside of the walls to search for Delerium and other treasures.
 
 ## Notable Areas
 

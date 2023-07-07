@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diablo 4/Nightmare Dungeons.md",
-                "mode": "preview",
+                "file": "DND - Drakkenheim/Sessions/Session 17.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 247.5
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diablo 4/Nightmare Dungeons.md",
+                "file": "DND - Drakkenheim/Sessions/Session 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diablo 4/Nightmare Dungeons.md"
+                "file": "DND - Drakkenheim/Sessions/Session 17.md"
               }
             }
           },
@@ -146,33 +146,40 @@
   },
   "active": "36acdadedc3c90b8",
   "lastOpenFiles": [
-    "DND - Witchlight Carnival/Session_33-06-28-2023.md",
-    "DND - Witchlight Carnival/Session_32-06-24-2023.md",
-    "DND - Witchlight Carnival/Session_0_10-26-2022.md",
-    "Characters/Turdis/Backstory.md",
-    "DND - Witchlight Carnival/Session_29_06-07-2023.md",
-    "DND - Witchlight Carnival/Session_30_06-12-2023.md",
-    "DND - Witchlight Carnival/Session_31-06-14-2023.md",
-    "DND - Drakkenheim/Session_16_06-22-2023.md",
-    "DND - Drakkenheim/Session_15_06-15-2023.md",
-    "DND - Drakkenheim/Rumors.md",
-    "DND - Drakkenheim/Session_14_06-09-2023.md",
-    "DND - Drakkenheim/Session_9_03-26-2023.md",
-    "DND - Drakkenheim/Session_10_03-30-2023.md",
-    "DND - Drakkenheim/Session_8_03-09-2023.md",
-    "DND - Drakkenheim/Session_7_03-02-2023.md",
-    "DND - Drakkenheim/Session_6_02-23-2024.md",
-    "Characters/Ponzi Deeproot/First Person Backstory.md",
-    "Characters/Ponzi Deeproot/Character Info.md",
-    "Characters/Wyldenten Proudsky/Artificer.md",
-    "Characters/Wyldenten Proudsky/Session Zero.md",
-    "README.md",
-    "Characters/Untitled.md",
+    "DND - Drakkenheim/World.md",
+    "DND - Drakkenheim/Locations/Emberwood Village.md",
+    "DND - Drakkenheim/Locations/Black Ivory Inn.md",
+    "DND - Drakkenheim/Locations/Buckle Down Row.md",
+    "DND - Drakkenheim/Factions/Church of the Falling Fire.md",
+    "DND - Drakkenheim/Factions/Amethyst Academy.md",
+    "DND - Drakkenheim/Factions/Hooded Lanterns.md",
+    "DND - Drakkenheim/Factions/Queen's Men.md",
+    "DND - Drakkenheim/NPCS.md",
+    "DND - Drakkenheim/Reference/Delerium.md",
+    "DND - Witchlight Carnival/00_World.md",
+    "DND - Witchlight Carnival/00_Agenda.md",
+    "DND - Drakkenheim/Sessions/Session 17.md",
+    "DND - Drakkenheim/Will/Journal.md",
+    "DND - Drakkenheim/Sessions/Session 16.md",
+    "DND - Drakkenheim/Sessions/Session 15.md",
+    "DND - Drakkenheim/Sessions/Session 14.md",
+    "DND - Drakkenheim/Sessions/Session 13.md",
+    "DND - Drakkenheim/Sessions/Session 12.md",
+    "DND - Drakkenheim/Sessions/Session 11.md",
+    "DND - Drakkenheim/Sessions/Session 10.md",
+    "DND - Drakkenheim/Sessions/Session 9.md",
+    "DND - Drakkenheim/Sessions/Session 8.md",
+    "DND - Drakkenheim/Sessions/Session 7.md",
+    "DND - Drakkenheim/Sessions/Session 6.md",
+    "DND - Drakkenheim/Sessions/Session 5.md",
+    "DND - Out of the Abyss",
+    "DND - Drakkenheim/Sessions",
+    "DND - Drakkenheim/Factions",
+    "DND - Drakkenheim/Will",
+    "DND - Drakkenheim/Reference",
+    "DND - Drakkenheim/Characters",
+    "DND - Drakkenheim/Locations",
     "Characters/Ponzi Deeproot",
-    "Packing List - Berlin.md",
-    "Diablo 4/Nightmare Dungeons.md",
-    "DND - Drakkenheim/Session_3_01_31_2023.md",
-    "DND - Drakkenheim/Quests.md",
     "Diablo 4"
   ]
 }

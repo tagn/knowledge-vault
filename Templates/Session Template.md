@@ -1,6 +1,6 @@
 ---
 type: session
-adventure: "The Wilds Beyond the Witchlight"
+adventure: ""
 location(s): []
 date: {{date}}
 tags: ["#session"]
