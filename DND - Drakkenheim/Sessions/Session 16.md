@@ -16,7 +16,7 @@ tags: ["#session"]
 	- Will checks out the body
 	- Appears to be amythyst academy
 	- He wears 5 metallic rings of various colors
-	- 170gold on him
+	- 170 gold on him
 	- We stuff his body in the bag of holding
 - We head back upstairs
 	- We recognize a few voices coming from inside the Inn

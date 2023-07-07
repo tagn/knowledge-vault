@@ -27,4 +27,12 @@ tags: ["#session"]
 	- They also want us to go to the Scar to deal with a dwarven expedition, the Ironhelm's.
 	- They want the weaponry from these people
 	- Dwarves have a smithy at the "Scar"
-- 
+- Will goes off on his own to try to find Lyrian
+	- Will lets her touch the gun
+	- Will pulls out a notepad and starts scribbling what Lyrian tells him about what kind of ammo to get. She recommends talking to Gertrude Ironhelm.
+- We attempt to discuss who to help at this point
+- Will doesn't want to force anything on the dwarves, they should get to make their own decision
+- We fail a random encounter roll and trigger event: 65 (of 100) and also roll 1 (4)
+	- We're walking through a portion of Drakkenheim
+	- Keth gets caught on a thick ass spider web
+	- Blue and white spiders, shimmering
