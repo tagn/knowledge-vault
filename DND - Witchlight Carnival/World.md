@@ -1,8 +1,4 @@
 
-## Agenda
-
-- [[00_Agenda]]
-
 ## Sessions
 
 ```dataview

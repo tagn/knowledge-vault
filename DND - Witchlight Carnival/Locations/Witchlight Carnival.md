@@ -5,7 +5,7 @@ tags: ["#location"]
 
 ## Images
 
-![](../Images/location_witchlight_carnival.jpg)
+![](location_witchlight_carnival.jpg)
 
 ## Description
 

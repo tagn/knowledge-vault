@@ -6,13 +6,14 @@
 - [ ] Open Smugglers Tunnel under Black Ivory Inn - [[Queen's Men]] - Return to Rose Carver to complete
 - [ ] Get control of the Ironhelm's Delerium Mining Operation - [[Amethyst Academy]]
 - [ ] Get weaponry from the Ironhelm dwarves - [[Hooded Lanterns]]
+- [ ] We have a fortnight to 
+- [ ] Figure out what to do with the Dwarves
 
 ## Locations
 
-- [[Emberwood Village]]
-- [[Buckle Down Row]]
-- [[Black Ivory Inn]]
-- Will's Home - The Spokes
+```dataview
+list from "DND - Drakkenheim/Locations"
+```
 
 ## Rumors
 

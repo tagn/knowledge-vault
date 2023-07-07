@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9d1709966856d231",
+        "id": "72399da9a12aa5a2",
         "type": "tabs",
         "children": [
           {
-            "id": "36acdadedc3c90b8",
+            "id": "17f4a68113f5b51d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 17.md",
+                "file": "Templates/Location Template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 17.md",
+                "file": "Templates/Location Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 17.md"
+                "file": "Templates/Location Template.md"
               }
             }
           },
@@ -144,42 +144,43 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "36acdadedc3c90b8",
+  "active": "f2ed483abcf08cad",
   "lastOpenFiles": [
-    "DND - Drakkenheim/Reference/Travel.md",
-    "DND - Drakkenheim/Sessions/Session 17.md",
-    "DND - Drakkenheim/Will/Journal.md",
-    "DND - Drakkenheim/Factions/Church of the Falling Fire.md",
-    "DND - Drakkenheim/Sessions/Session 10.md",
-    "DND - Drakkenheim/Sessions/Session 11.md",
-    "DND - Drakkenheim/Sessions/Session 12.md",
-    "DND - Drakkenheim/Sessions/Session 16.md",
-    "DND - Drakkenheim/Factions/Queen's Men.md",
+    "Templates/Session Template.md",
+    "Templates/NPC Information.md",
+    "Templates/Location Template.md",
+    "DND - Witchlight Carnival/Locations/Prismeer.md",
+    "DND - Witchlight Carnival/Locations/Witchlight Carnival.md",
+    "DND - Out of the Abyss/World.md",
+    "Personal Misc",
+    "DND - Out of the Abyss/Sessions",
+    "DND - Out of the Abyss/Reference",
+    "DND - Out of the Abyss/Characters",
+    "DND - Out of the Abyss/Locations",
+    "DND - Drakkenheim/Locations/Black Ivory Inn.md",
+    "DND - Drakkenheim/Locations/Emberwood Village.md",
+    "DND - Drakkenheim/Locations/Buckle Down Row.md",
     "DND - Drakkenheim/NPCS.md",
     "DND - Drakkenheim/World.md",
-    "DND - Drakkenheim/Locations/Emberwood Village.md",
-    "DND - Drakkenheim/Locations/Black Ivory Inn.md",
-    "DND - Drakkenheim/Locations/Buckle Down Row.md",
-    "DND - Drakkenheim/Factions/Amethyst Academy.md",
-    "DND - Drakkenheim/Factions/Hooded Lanterns.md",
-    "DND - Drakkenheim/Reference/Delerium.md",
-    "DND - Witchlight Carnival/00_World.md",
+    "DND - Witchlight Carnival/World.md",
     "DND - Witchlight Carnival/00_Agenda.md",
-    "DND - Drakkenheim/Sessions/Session 15.md",
-    "DND - Drakkenheim/Sessions/Session 14.md",
-    "DND - Drakkenheim/Sessions/Session 13.md",
-    "DND - Drakkenheim/Sessions/Session 9.md",
-    "DND - Drakkenheim/Sessions/Session 8.md",
-    "DND - Drakkenheim/Sessions/Session 7.md",
-    "DND - Drakkenheim/Sessions/Session 6.md",
+    "DND - Drakkenheim/Sessions/Session 17.md",
+    "DND - Witchlight Carnival/Locations",
+    "DND - Witchlight Carnival/Sessions/Session 33.md",
+    "DND - Witchlight Carnival/Sessions/Session 2.md",
+    "DND - Witchlight Carnival/Sessions/Session 0.md",
+    "DND - Witchlight Carnival/Sessions/Session 32.md",
+    "DND - Witchlight Carnival/Sessions/Session 31.md",
+    "DND - Witchlight Carnival/Sessions/Session 30.md",
+    "DND - Witchlight Carnival/Session_30_06-12-2023 1.md",
+    "DND - Witchlight Carnival/Sessions/Session 29.md",
+    "DND - Witchlight Carnival/Sessions/Session 28.md",
+    "DND - Witchlight Carnival/Sessions/Session 27.md",
+    "DND - Witchlight Carnival/Sessions/Session 26.md",
+    "DND - Witchlight Carnival/Sessions/Session 23.md",
+    "DND - Witchlight Carnival/Sessions",
     "DND - Out of the Abyss",
     "DND - Drakkenheim/Sessions",
-    "DND - Drakkenheim/Factions",
-    "DND - Drakkenheim/Will",
-    "DND - Drakkenheim/Reference",
-    "DND - Drakkenheim/Characters",
-    "DND - Drakkenheim/Locations",
-    "Characters/Ponzi Deeproot",
-    "Diablo 4"
+    "DND - Drakkenheim/Factions"
   ]
 }

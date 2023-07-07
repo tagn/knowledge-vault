@@ -3,7 +3,7 @@ tags: ["#location"]
 ---
 ## Images
 
-![](../Images/location_prismeer.png)
+![](location_prismeer.png)
 
 ## Description
 
