@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "72399da9a12aa5a2",
+        "id": "8c77d0171f2e8d69",
         "type": "tabs",
         "children": [
           {
-            "id": "17f4a68113f5b51d",
+            "id": "956a74d2f29bddf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ponzi Deeproot/Character Info.md",
+                "file": "Templates/Session Template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Ponzi Deeproot/Character Info.md",
+                "file": "Templates/Session Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Ponzi Deeproot/Character Info.md"
+                "file": "Templates/Session Template.md"
               }
             }
           },
@@ -145,16 +145,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17f4a68113f5b51d",
+  "active": "956a74d2f29bddf5",
   "lastOpenFiles": [
-    "Templates/Character Sheet.md",
-    "Characters/Ponzi Deeproot/Character Info.md",
-    "Characters/Ponzi Deeproot/Ponzi Deeproot Character.md",
-    "DND - Drakkenheim/Characters/NPCS.md",
     "Templates/NPC Information.md",
-    "Test Note.md",
     "Templates/Location Template.md",
     "Templates/Session Template.md",
+    "Characters/Ponzi Deeproot/First Person Backstory.md",
+    "Characters/Ponzi Deeproot/Character Info.md",
+    "Templates/Character Sheet.md",
+    "Characters/Ponzi Deeproot/Ponzi Deeproot Character.md",
+    "DND - Drakkenheim/Characters/NPCS.md",
+    "Test Note.md",
     "DND - Witchlight Carnival/Sessions/Session 33.md",
     "DND - Witchlight Carnival/Locations/Prismeer.md",
     "DND - Witchlight Carnival/Locations/Witchlight Carnival.md",
