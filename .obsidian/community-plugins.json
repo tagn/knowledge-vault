@@ -6,5 +6,8 @@
   "obsidian-languagetool-plugin",
   "obsidian-git",
   "buttons",
-  "templater-obsidian"
+  "templater-obsidian",
+  "fantasy-calendar",
+  "obsidian-5e-statblocks",
+  "cm-editor-syntax-highlight-obsidian"
 ]
