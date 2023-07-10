@@ -1,6 +1,6 @@
 ---
 type: session
-adventure: ""
+campaign: ""
 location(s): []
 date: 2023-01-26
 tags: ["#session"]

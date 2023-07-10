@@ -1,6 +1,6 @@
 ---
 type: session
-adventure: "The Wilds Beyond the Witchlight"
+campaign: "The Wilds Beyond the Witchlight"
 location(s): ["Prismeer"]
 date: 2022-11-23
 tags: ["#session"]

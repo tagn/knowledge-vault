@@ -11,7 +11,7 @@
       "echo $(echo <% tp.file.path(relative=true) %> | awk -F '/' '{print $NF}')"
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": true,
   "shell_path": "C:/Windows/system32/bash.exe",
@@ -19,8 +19,16 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "drakkenheim/Sessions",
+      "template": "Templates/Session.md"
+    },
+    {
+      "folder": "DND - Drakkenheim/Characters",
+      "template": "Templates/Character.md"
+    },
+    {
+      "folder": "DND - Drakkenheim/Locations",
+      "template": "Templates/Location.md"
     }
   ],
   "syntax_highlighting": true,

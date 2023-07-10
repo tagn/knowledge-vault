@@ -1,15 +1,17 @@
 ---
+date: "<% tp.file.creation_date() %>"
 type: session
-campaign: ""
+campaign: <% tp.user.getThisCampaignName(tp) %>
 location(s): []
-date: <% tp.file.creation_date() %>
-last_modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
-tags: ["#session"]
+last_modified: "<% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>"
+tags: session
 ---
+<% tp.file.rename("Session " + tp.user.getThisSessionNum(tp)) %>
 
-## Session Summary
+## Summary
 
-## Session Event Log
+## Event Log
+
 
 
 

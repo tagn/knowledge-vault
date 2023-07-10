@@ -1,6 +1,6 @@
 ---
 type: session
-adventure: "Dungeons of Drakkenheim"
+campaign: "Dungeons of Drakkenheim"
 location(s): []
 date: 2023-01-19
 tags: ["#session"]

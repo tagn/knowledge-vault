@@ -1,6 +1,6 @@
 ---
 type: session
-adventure: "The Wilds Beyond the Witchlight"
+campaign: "The Wilds Beyond the Witchlight"
 location(s): []
 date: 2022-12-07
 tags: ["#session"]

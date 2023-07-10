@@ -1,6 +1,6 @@
 ---
 type: session
-adventure: "The Wilds Beyond the Witchlight"
+campaign: "The Wilds Beyond the Witchlight"
 location(s): [Witchlight Carnival]
 date: 2022-11-03
 tags: "#session"
