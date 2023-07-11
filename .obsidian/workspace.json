@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drakkenheim/Sessions/Untitled 5.md",
+                "file": "DND - Drakkenheim/World.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drakkenheim/Sessions/Untitled 5.md",
+                "file": "DND - Drakkenheim/World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drakkenheim/Sessions/Untitled 5.md"
+                "file": "DND - Drakkenheim/World.md"
               }
             }
           },
@@ -157,39 +157,39 @@
   },
   "active": "956a74d2f29bddf5",
   "lastOpenFiles": [
-    "drakkenheim/Sessions/Untitled 4.md",
+    "DND - Drakkenheim/Locations/Emberwood Village.md",
+    "DND - Drakkenheim/Locations/Buckle Down Row.md",
+    "DND - Drakkenheim/Locations/Black Ivory Inn.md",
+    "DND - Drakkenheim/World.md",
+    "README.md",
+    "Templates/Session.md",
+    "Templates/Npc.md",
+    "Templates/Location.md",
+    "Templates/Character.md",
+    "DND - Drakkenheim/Sessions/Session 001.md",
+    "drakkenheim/Sessions/Untitled.md",
     "drakkenheim/Sessions/Untitled 5.md",
+    "drakkenheim/Sessions/Untitled 4.md",
     "drakkenheim/Sessions/Untitled 3.md",
     "drakkenheim/Sessions/Untitled 2.md",
     "drakkenheim/Sessions/Untitled 1.md",
-    "drakkenheim/Sessions/Untitled.md",
     "drakkenheim/Sessions/Untitled 6.md",
     "drakkenheim/Sessions/Untitled 7.md",
-    "drakkenheim/Sessions/Session 001.md",
-    "drakkenheim/Sessions/Session 1.md",
-    "drakkenheim/Sessions/Session 17.md",
-    "drakkenheim/Sessions/Session 12.md",
-    "drakkenheim/Sessions/Session 3.md",
-    "Templates/Session.md",
-    "drakkenheim/Will/Journal.md",
-    "drakkenheim/Sessions/Session 9.md",
-    "drakkenheim/Sessions/Session 8.md",
-    "drakkenheim/Sessions/Session 7.md",
-    "drakkenheim/Sessions/Session 6.md",
-    "drakkenheim/Sessions/Session 5.md",
-    "drakkenheim/Sessions/Session 4.md",
-    "drakkenheim/Sessions/Session 2.md",
-    "drakkenheim/Sessions/Session 16.md",
-    "drakkenheim/Sessions/Session 15.md",
-    "drakkenheim/Sessions/Session 14.md",
-    "drakkenheim/Sessions/Session 13.md",
-    "drakkenheim/Will",
-    "drakkenheim/Sessions",
-    "drakkenheim/Reference",
-    "drakkenheim/Locations",
-    "drakkenheim/Factions",
-    "drakkenheim/Characters",
-    "drakkenheim",
+    "DND - Drakkenheim/Sessions/Session 1.md",
+    "DND - Drakkenheim/Sessions/Session 17.md",
+    "DND - Drakkenheim/Sessions/Session 12.md",
+    "DND - Drakkenheim/Sessions/Session 3.md",
+    "DND - Drakkenheim/Will/Journal.md",
+    "DND - Drakkenheim/Sessions/Session 9.md",
+    "DND - Drakkenheim/Sessions/Session 8.md",
+    "DND - Drakkenheim/Sessions/Session 7.md",
+    "DND - Drakkenheim/Will",
+    "DND - Drakkenheim/Sessions",
+    "DND - Drakkenheim/Reference",
+    "DND - Drakkenheim/Locations",
+    "DND - Drakkenheim/Factions",
+    "DND - Drakkenheim/Characters",
+    "DND - Drakkenheim",
     "DND - Witchlight Carnival/Sessions",
     "DND - Witchlight Carnival/NPCs",
     "DND - Witchlight Carnival/Locations"

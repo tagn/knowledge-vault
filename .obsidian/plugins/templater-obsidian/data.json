@@ -1,20 +1,11 @@
 {
   "command_timeout": 5,
   "templates_folder": "Templates",
-  "templates_pairs": [
-    [
-      "get_next_file_number",
-      "dirname \"<% tp.file.path() %>\" | ls | awk '{print $NF}' | awk -F '.' '{print $1}' | sort -rn | head -n 1"
-    ],
-    [
-      "increment",
-      "echo $(echo <% tp.file.path(relative=true) %> | awk -F '/' '{print $NF}')"
-    ]
-  ],
+  "templates_pairs": [],
   "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": true,
-  "shell_path": "C:/Windows/system32/bash.exe",
+  "shell_path": "",
   "user_scripts_folder": "Scripts",
   "enable_folder_templates": true,
   "folder_templates": [
