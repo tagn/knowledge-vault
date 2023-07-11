@@ -6,7 +6,7 @@
 - [ ] Open Smugglers Tunnel under Black Ivory Inn - [[Queen's Men]] - Return to Rose Carver to complete
 - [ ] Get control of the Ironhelm's Delerium Mining Operation - [[Amethyst Academy]]
 - [ ] Get weaponry from the Ironhelm dwarves - [[Hooded Lanterns]]
-- [ ] We have a fortnight to 
+- [ ] We have a fortnight to bomb a gate for the [[Hooded Lanterns]]
 - [ ] Figure out what to do with the Dwarves
 
 ## Locations
@@ -26,9 +26,3 @@ list from "DND - Drakkenheim/Locations"
 list from "DND - Drakkenheim/Sessions"
 ```
 `button-add-session`
-```button
-name Add Session
-type note(DND - Drakkenheim/Sessions/NewSession) template
-action Session
-templater true
-```

@@ -3,7 +3,7 @@
   "templates_folder": "Templates",
   "templates_pairs": [],
   "trigger_on_file_creation": true,
-  "auto_jump_to_cursor": false,
+  "auto_jump_to_cursor": true,
   "enable_system_commands": true,
   "shell_path": "",
   "user_scripts_folder": "Scripts",
@@ -20,6 +20,10 @@
     {
       "folder": "DND - Drakkenheim/Locations",
       "template": "Templates/Location.md"
+    },
+    {
+      "folder": "DND - Drakkenheim/NPCS",
+      "template": "Templates/NPC.md"
     }
   ],
   "syntax_highlighting": true,

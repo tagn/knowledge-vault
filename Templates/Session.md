@@ -1,5 +1,5 @@
 ---
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: <% tp.file.creation_date("YYYY-MM-DD") %>
 type: session
 campaign: <% tp.user.getThisCampaignName(tp) %>
 location: []
@@ -12,6 +12,6 @@ tags:
 
 ## Event Log
 
-
+<% tp.file.cursor() %>
 
 

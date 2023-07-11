@@ -8,6 +8,6 @@ action Session
 
 ```button
 name Add NPC
-type note(DND - Drakkenheim/Characters/NewNPC) template
+type note(DND - Drakkenheim/NPCS/NewNPC) template
 action NPC
 ```

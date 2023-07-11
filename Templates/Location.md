@@ -1,5 +1,6 @@
 ---
-tags: ["#location"]
+tags:
+ - location
 ---
 
 ## Description

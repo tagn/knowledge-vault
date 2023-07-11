@@ -1,5 +1,6 @@
 ---
-created: <% tp.date.now("YYYY-MM-DD") %>
+created: <% tp.file.creation_date("YYYY-MM-DD") %>
+name: ""
 type: npc
 faction: ""
 race: ""
@@ -9,8 +10,6 @@ tags:
  - npc
 ---
 ## Description
-relationship:
-organization: 
 
 <%*
 
@@ -33,7 +32,12 @@ if (!hasTitle) {
 _%>
 
 
-#### Appearances
+## Quests
 ```dataview
+TASK FROM "<% tp.user.getThisCampaignDir(tp) %>/Quests" WHERE !completed AND contains(outlinks, [[<% tp.file.title %>]]) 
+```
 
+#### Session Appearances
+```dataview
+LIST FROM [[<% tp.file.title %>]] WHERE file.folder = "<% tp.user.getThisCampaignDir %>/Sessions"
 ```
