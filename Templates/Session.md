@@ -1,10 +1,10 @@
 ---
-date: "<% tp.file.creation_date() %>"
+date: <% tp.date.now("YYYY-MM-DD") %>
 type: session
 campaign: <% tp.user.getThisCampaignName(tp) %>
-location(s): []
-last_modified: "<% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>"
-tags: session
+location: []
+tags:
+ - session
 ---
 <% tp.file.rename("Session " + tp.user.getThisSessionNum(tp)) %>
 

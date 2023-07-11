@@ -1,9 +1,10 @@
 ---
-type: session
-campaign: "The Wilds Beyond the Witchlight"
-location(s): []
 date: 2023-06-04
-tags: ["#session"]
+type: session
+campaign: Drakkenheim
+location: []
+tags:
+ - session
 ---
 
 ## Session Summary
