@@ -1,43 +1,28 @@
+<%* const title = await tp.system.prompt("Enter NPC Name"); -%>
+<%* await tp.file.rename(title) -%>
 ---
 created: <% tp.file.creation_date("YYYY-MM-DD") %>
-name: ""
-type: npc
-faction: ""
+name: "<%* tR += title %>"
+type: "npc"
+faction: "<% tp.system.suggester(["Hooded Lanterns", "Amethyst Academy", "Church of the Falling Fire", "Queen's Men"], ["Hooded Lanterns", "Amethyst Academy", "Church of the Falling Fire", "Queen's Men"]) %>"
 race: ""
-gender: ""
+gender: "<% tp.system.prompt("Gender") %>"
 class: ""
 tags:
  - npc
 ---
 ## Description
 
-<%*
-
-const hasTitle = !tp.file.title.startsWith("NewNPC");
-
-let title;
-
-if (!hasTitle) {
-
-    title = await tp.system.prompt("Enter NPC Name");
-
-    await tp.file.rename(title);
-
-} else {
-
-    title = tp.file.title;
-
-}
-
-_%>
-
 
 ## Quests
 ```dataview
-TASK FROM "<% tp.user.getThisCampaignDir(tp) %>/Quests" WHERE !completed AND contains(outlinks, [[<% tp.file.title %>]]) 
+TASK FROM "<% tp.user.getThisCampaignDir(tp) %>/Quests" WHERE !completed AND contains(outlinks, [[<%* tR += title %>]]) 
 ```
 
 #### Session Appearances
 ```dataview
-LIST FROM [[<% tp.file.title %>]] WHERE file.folder = "<% tp.user.getThisCampaignDir %>/Sessions"
+LIST FROM [[<%* tR += title %>]] WHERE file.folder = "<% tp.user.getThisCampaignDir(tp) %>/Sessions"
 ```
+
+
+

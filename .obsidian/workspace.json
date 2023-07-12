@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/NPC.md",
+                "file": "DND - Drakkenheim/NPCS/Petra Lang.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/NPC.md",
+                "file": "DND - Drakkenheim/NPCS/Petra Lang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/NPC.md"
+                "file": "DND - Drakkenheim/NPCS/Petra Lang.md"
               }
             }
           },
@@ -158,35 +158,34 @@
   },
   "active": "67190b1a625f7ebb",
   "lastOpenFiles": [
+    "DND - Drakkenheim/NPCS/River.md",
+    "DND - Drakkenheim/NPCS/Petra Lang.md",
+    "DND - Drakkenheim/Factions/Amethyst Academy.md",
+    "DND - Drakkenheim/Factions/Church of the Falling Fire.md",
+    "DND - Drakkenheim/Factions/Hooded Lanterns.md",
+    "DND - Drakkenheim/Factions/Queen's Men.md",
+    "DND - Drakkenheim/Buttons.md",
+    "Templates/NPC.md",
+    "DND - Drakkenheim/NPCS/Petra LAng.md",
+    "DND - Drakkenheim/NPCS/Ansom Lang.md",
+    "Templates/Session.md",
     "Templates/Quest.md",
     "DND - Drakkenheim/NPCS/Oscar Yorn.md",
-    "DND - Drakkenheim/Buttons.md",
+    "DND - Drakkenheim/World.md",
     "DND - Drakkenheim/Characters/Oscar Yorn.md",
     "DND - Drakkenheim/Characters/NewNPC.md",
-    "DND - Drakkenheim/NPCS/River.md",
     "DND - Drakkenheim/Sessions/Session 018.md",
-    "Templates/NPC.md",
     "DND - Drakkenheim/NPCS/Untitled.md",
     "Scripts/getThisCampaignDir.js",
-    "Templates/Session.md",
     "Templates/Character.md",
     "DND - Drakkenheim/Characters/NPCS.md",
     "DND - Drakkenheim/NPCS",
     "DND - Drakkenheim/Quests.md",
     "DND - Drakkenheim/Quests",
-    "DND - Drakkenheim/World.md",
     "DND - Drakkenheim/Characters/Sihrr.md",
     "DND - Drakkenheim/Characters/Keth.md",
-    "DND - Drakkenheim/Factions/Amethyst Academy.md",
     "DND - Drakkenheim/Characters/Untitled.md",
-    "DND - Drakkenheim/Factions/Church of the Falling Fire.md",
-    "DND - Drakkenheim/Factions/Queen's Men.md",
-    "DND - Drakkenheim/Factions/Hooded Lanterns.md",
     "DND - Drakkenheim/Locations/Emberwood Village.md",
-    "DND - Drakkenheim/Locations/Buckle Down Row.md",
-    "DND - Drakkenheim/Locations/Black Ivory Inn.md",
-    "DND - Drakkenheim/Reference/Delerium.md",
-    "Templates/ttrpg frontmatter.md",
     "DND - Drakkenheim/Creatures",
     "DND - Drakkenheim/Will",
     "DND - Drakkenheim/Sessions",
