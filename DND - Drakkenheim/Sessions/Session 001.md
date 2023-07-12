@@ -59,10 +59,10 @@ At this point in the session, Wyldenten Proudsky, one of the party members, was 
 - Ludvig gets fucking murdered by having his skull crushed
 - We get told a few details about how the dude got mutated, it only took 48 hours
 - [[Emma]] greets us into [[Emberwood Village]]
-- [[Barkin Buzzard]] - Ask for Karen, tell her Eren sent us - Used to be Sammy Eight fingers favorite place to relax, heard the lord of the feast pinned him down somewhere in town
+- [[Bark & Buzzard]] - Ask for Karen, tell her Eren sent us - Used to be Sammy Eight fingers favorite place to relax, heard the lord of the feast pinned him down somewhere in town
 - [[Eventide Manor]] - burned down before emma was born, she sometimes sees things moving inside at night
 - [[Gilded Lily]] - Tavern - no beer, fuck this place. They have a talent show.
-- [[Skull and the Sword]] - There was a three card monte guy Marco the Shark, turned into a mutant, got his head cut off
+- [[Skull & Sword]] - There was a three card monte guy Marco the Shark, turned into a mutant, got his head cut off
 - Brek Ironjaw got thrown out of the next place - Ripped in half by a [[haze hulk]]
 - [[Caravan Park]] in the middle of the park - Merchant grinning greg went into the town and met the Queen, never saw him again. Marketplace strung up around a boarded up water well. 
 - The [[watchtower]], north of town, run by the [[Hooded Lanterns]]
@@ -75,7 +75,7 @@ At this point in the session, Wyldenten Proudsky, one of the party members, was 
 - We see some potions, spell scrolls, a few various items, rings/gloves. Piles of material components.
 - We walk into a bar and sit down at a table, Karen comes by to greet us and we order some drinks. 
 - Some guy comes by and drops off drinks
-- Youngish man approaches us, flourishes his cloak and we notice a lot of blades. [[Renard]]. Seems to run some band of adventurers or something named "[[The Gentlemen Bastards]]". Elven woman and a bugbear approach us. They head in three/four times a week. [[Lyrian]] - elven woman. Bugbear pulls out a large pair of glasses, his name is [[Grummish]].
+- Youngish man approaches us, flourishes his cloak and we notice a lot of blades. [[Renard]]. Seems to run some band of adventurers or something named the "[[Gentlemen Bastards]]". Elven woman and a bugbear approach us. They head in three/four times a week. [[Lyrian]] - elven woman. Bugbear pulls out a large pair of glasses, his name is [[Grummish]].
 - Go talk to the [[Amethyst Academy]] about going to the city maybe.
 - [[The Spokes]] doesn't sound like its too hot.
 - Open mic night at the [[Gilded Lily]].

@@ -27,7 +27,7 @@ tags:
 - [[Hooded Lanterns]] - Their actual name is the [[Fourth Provisional Expeditionary Force]] - Named after the oil lanterns carried by old city watch
 - We go to the church place - Circular - Doors are opened - Stained Glass windows depict chunks of the meteor falling onto the city below.
 - We enter the chapel, people are in prayer/song. In the center there is a large bronze brazier, light with a golden roaring fire.
-- [[Arken Highbloom]] puts down his sword and kneels at the flame, some girl goes up to him, puts her hands on his head and walks away.
+- [[Arken]] puts down his sword and kneels at the flame, some girl goes up to him, puts her hands on his head and walks away.
 - [[Flamekeeper Hannah]] greets us
 - They worship the "star that came", which was the meteor
 - Two mining picks, torches, big pair of blacksmiths tongs, compass, goggles, heavy leather gloves, cartographers instrument set, pamphlet - correct and proper methods for handling delirium crystals. Burlap sack. Will bought a pack
@@ -50,6 +50,6 @@ tags:
 	- Minotaur looking bouncer
 	- A table of people in the back look rowdy
 - Older woman, maybe in her 50s glides across the floor comes in and greets us, opens open mic night.
-- Person from the [[hooded lantern]] group goes up, rings a bell, then does a river dance and gets paid 15-20 gold or so.
-- [[Keth Darklighter]] goes up to the stage and does a performance of throwing daggers at [[Arken Highbloom]]
-- [[Wyldenten Proudsky]] and [[Keth Darklighter]] take a cabin for the night.
+- Person from the [[Hooded Lanterns]] group goes up, rings a bell, then does a river dance and gets paid 15-20 gold or so.
+- [[Keth]] goes up to the stage and does a performance of throwing daggers at [[Arken]]
+- [[Wyldenten Proudsky]] and [[Keth]] take a cabin for the night.

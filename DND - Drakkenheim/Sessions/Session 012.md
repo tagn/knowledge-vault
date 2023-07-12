@@ -11,20 +11,20 @@ tags:
 
 ## Session Event Log
 
-- We travel to the city on the way towards the city to the Spokes 
-- Will asks Sihrr about his background and hes says he was a hooker or some sort and did things for people for money
+- We travel to the city on the way towards the city to [[The Spokes]] 
+- [[Wyldenten Proudsky]] asks [[Sihrr]] about his background and hes says he was a hooker or some sort and did things for people for money
 - We pass our first encounter check going into the city
-- We walk down the main path for Champion's Way and enter into a shopping looking district
+- We walk down the main path for [[Champion's Way]] and enter into a shopping looking district
 - Dazzling dreamsickle
 - We get to the cross roads of where the home once was - family home is pretty much destroyed
-- Arken offers to help dig things up to get inside
+- [[Arken]] offers to help dig things up to get inside
 - The stairwell to the back was in the back of the shop
-- Will grabs a book with a key lock on it
+- [[Wyldenten Proudsky]] grabs a book with a key lock on it
 - We go into the store room, giant safe that seems intact
-- In will's room he rolls up his rug, there were two beds because will was a bedwetter
+- In [[Wyldenten Proudsky]]'s room he rolls up his rug, there were two beds because [[Wyldenten Proudsky]] was a bedwetter
 - They open the journal and will looks through it
-- Keth fucks with the safe and it breathes fire on her and Arken
-- Will puts in his birthday, then puts in the day his parents got married
+- [[Keth]] fucks with the safe and it breathes fire on her and [[Arken]]
+- [[Wyldenten Proudsky]] puts in his birthday, then puts in the day his parents got married
 - Safe opens
 	- Top shelf - Tons of Gold and silver bars, even a few "platinum bars" - about 4750 gold
 	- Second shelf
@@ -36,10 +36,10 @@ tags:
 - It's two trolls setting up a camp, starting a fire, chatting
 - We wait a hour, then try to sneak out. Keth walks into the road to try to distract them
 - Succeeds, we head to buckle down row to figure out a boat to cross the river
-- Keth tries to get some leads on a boat
+- [[Keth]] tries to get some leads on a boat
 - We hear about a ferryman to the southwest
-- We run into Blackjack Mel and he talks us up about the pits
-- We walk towards the rriver to scout it out, and run into a pack of Wargs and Garmyr
+- We run into [[Blackjack Mel]] and he talks us up about the pits
+- We walk towards the river to scout it out, and run into a pack of Wargs and Garmyr
 - We kill a pack of shit
 - We still need to identify the items that I have - Spider and Arquebus
 - Spider is fucking dope

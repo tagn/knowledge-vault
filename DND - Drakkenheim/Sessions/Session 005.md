@@ -12,7 +12,7 @@ tags:
 ## Session Event Log
 
 - [[Wyldenten Proudsky]] has two arms now?
-- [[Keth Darklighter]] wanders over to the [[Skull & Sword]] with the map to inquire about "[[Buckle Down Row]]" and has to bribe the bartender for information
+- [[Keth]] wanders over to the [[Skull & Sword]] with the map to inquire about "[[Buckle Down Row]]" and has to bribe the bartender for information
 - [[Wyldenten Proudsky]] shows off his new armor
 - Our goal is to get to the Rat's Nest shitty tavern place
 - We went over to [[Armin Gainsbury]] to try to buy some paper
@@ -22,7 +22,7 @@ tags:
 - [[Amethyst Academy]] grinds delerium up into a powder and substitutes it for other components
 - [[Sihrr]] buys some paper and ink to make spell scrolls
 - [[Sihrr]] goes by himself to the chapel to detect evil and good
-- We go to the [[Bark & Buzzard]] to ask [[Grummash]] for some information
+- We go to the [[Bark & Buzzard]] to ask [[Grummish]] for some information
 - He tells us the general area in [[The Sprawl]]  - South of [[Shepard's Way]] in the north end of the sprawl
 - He mentioned wanting some Wine if we find some
 - Guy with Captain Insignia walks into [[Bark & Buzzard]] while we are in there

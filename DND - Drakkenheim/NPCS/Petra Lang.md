@@ -3,8 +3,9 @@ created: 2023-07-11
 name: "Petra Lang"
 type: "npc"
 faction: "Hooded Lanterns"
+group: ""
 race: ""
-gender: "Female"
+gender: ""
 class: ""
 tags:
  - npc

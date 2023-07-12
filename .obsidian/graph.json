@@ -1,10 +1,10 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -15,14 +15,21 @@
       }
     },
     {
+      "query": "path:\"DND - Out of the Abyss\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
       "query": "path:\"DND - Witchlight Carnival\"",
       "color": {
         "a": 1,
-        "rgb": 2142578
+        "rgb": 11657298
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224432,
-  "close": true
+  "scale": 1.0000000000000069,
+  "close": false
 }

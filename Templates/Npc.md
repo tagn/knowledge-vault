@@ -4,9 +4,10 @@
 created: <% tp.file.creation_date("YYYY-MM-DD") %>
 name: "<%* tR += title %>"
 type: "npc"
-faction: "<% tp.system.suggester(["Hooded Lanterns", "Amethyst Academy", "Church of the Falling Fire", "Queen's Men"], ["Hooded Lanterns", "Amethyst Academy", "Church of the Falling Fire", "Queen's Men"]) %>"
+faction: "<% tp.system.suggester(tp.user.getThisCampaignFactions(tp), tp.user.getThisCampaignFactions(tp), false, "Which faction?") %>"
+group: ""
 race: ""
-gender: "<% tp.system.prompt("Gender") %>"
+gender: ""
 class: ""
 tags:
  - npc

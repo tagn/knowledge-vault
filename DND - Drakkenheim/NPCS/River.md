@@ -1,13 +1,17 @@
 ---
 created: 2023-07-11
-type: npc
-faction: Amethyst Academy
+name: "River"
+type: "npc"
+faction: "Amethyst Academy"
+group: ""
 race: ""
-gender: Female
+gender: "Female"
 class: ""
 tags:
  - npc
 ---
+## Description
+
 
 ## Quests
 ```dataview
@@ -18,3 +22,6 @@ TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[R
 ```dataview
 LIST FROM [[River]] WHERE file.folder = "DND - Drakkenheim/Sessions"
 ```
+
+
+

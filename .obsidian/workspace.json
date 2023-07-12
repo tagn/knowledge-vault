@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "238a51be88e9b0ce",
+        "id": "a880b8ee19c879c6",
         "type": "tabs",
         "children": [
           {
-            "id": "67190b1a625f7ebb",
+            "id": "488a3c562a5e8196",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/NPCS/Petra Lang.md",
+                "file": "DND - Drakkenheim/NPCS/Aldor the Immense.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aviar",
+                "query": "\"DND - Drakkenheim/Characters/Arken\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/NPCS/Petra Lang.md",
+                "file": "DND - Drakkenheim/NPCS/Aldor the Immense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/NPCS/Petra Lang.md"
+                "file": "DND - Drakkenheim/NPCS/Aldor the Immense.md"
               }
             }
           },
@@ -156,42 +156,43 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "67190b1a625f7ebb",
+  "active": "488a3c562a5e8196",
   "lastOpenFiles": [
     "DND - Drakkenheim/NPCS/River.md",
-    "DND - Drakkenheim/NPCS/Petra Lang.md",
-    "DND - Drakkenheim/Factions/Amethyst Academy.md",
-    "DND - Drakkenheim/Factions/Church of the Falling Fire.md",
-    "DND - Drakkenheim/Factions/Hooded Lanterns.md",
-    "DND - Drakkenheim/Factions/Queen's Men.md",
-    "DND - Drakkenheim/Buttons.md",
-    "Templates/NPC.md",
-    "DND - Drakkenheim/NPCS/Petra LAng.md",
-    "DND - Drakkenheim/NPCS/Ansom Lang.md",
-    "Templates/Session.md",
-    "Templates/Quest.md",
+    "DND - Drakkenheim/NPCS/Rose Carver.md",
+    "DND - Drakkenheim/NPCS/Rita.md",
+    "DND - Drakkenheim/NPCS/Rain Highlash.md",
+    "DND - Drakkenheim/NPCS/Queen of Blades.md",
     "DND - Drakkenheim/NPCS/Oscar Yorn.md",
-    "DND - Drakkenheim/World.md",
-    "DND - Drakkenheim/Characters/Oscar Yorn.md",
-    "DND - Drakkenheim/Characters/NewNPC.md",
-    "DND - Drakkenheim/Sessions/Session 018.md",
-    "DND - Drakkenheim/NPCS/Untitled.md",
-    "Scripts/getThisCampaignDir.js",
-    "Templates/Character.md",
-    "DND - Drakkenheim/Characters/NPCS.md",
-    "DND - Drakkenheim/NPCS",
-    "DND - Drakkenheim/Quests.md",
-    "DND - Drakkenheim/Quests",
-    "DND - Drakkenheim/Characters/Sihrr.md",
+    "DND - Drakkenheim/NPCS/Flamekeeper Hannah.md",
+    "DND - Drakkenheim/NPCS/Ophelia Reed.md",
+    "DND - Drakkenheim/NPCS/Petra Lang.md",
+    "DND - Drakkenheim/NPCS/Lyrian.md",
+    "DND - Drakkenheim/NPCS/Bogdon.md",
+    "DND - Drakkenheim/NPCS/Armin Gainsbury.md",
+    "DND - Drakkenheim/NPCS/Aldor the Immense.md",
+    "DND - Drakkenheim/NPCS/Ansom Lang.md",
+    "Champion's Way.md",
+    "DND - Drakkenheim/Reference/Delerium.md",
+    "DND - Drakkenheim/Creatures/Haze Husk.md",
+    "DND - Drakkenheim/Reference/Contamination.md",
+    "DND - Drakkenheim/Reference/Travel.md",
+    "DND - Drakkenheim/Characters/Arken.md",
     "DND - Drakkenheim/Characters/Keth.md",
-    "DND - Drakkenheim/Characters/Untitled.md",
-    "DND - Drakkenheim/Locations/Emberwood Village.md",
+    "DND - Drakkenheim/Characters/Sihrr.md",
+    "DND - Drakkenheim/Characters/Wyldenten Proudsky.md",
+    "DND - Drakkenheim/Sessions/Session 017.md",
+    "DND - Drakkenheim/Sessions/Session 016.md",
+    "DND - Drakkenheim/Sessions/Session 015.md",
+    "DND - Drakkenheim/Factions/Groups",
+    "Scripts/getThisCampaignFactions.js",
+    "DND - Drakkenheim/Meta",
+    "Scripts/getThisCampaignDir.js",
+    "DND - Drakkenheim/NPCS",
+    "DND - Drakkenheim/Quests",
     "DND - Drakkenheim/Creatures",
     "DND - Drakkenheim/Will",
     "DND - Drakkenheim/Sessions",
-    "DND - Drakkenheim/Reference",
-    "DND - Drakkenheim/Locations",
-    "DND - Drakkenheim/Factions",
-    "DND - Drakkenheim/Characters"
+    "DND - Drakkenheim/Reference"
   ]
 }
