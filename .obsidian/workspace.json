@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/NPCS/Aldor the Immense.md",
+                "file": "DND - Witchlight Carnival/World.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/NPCS/Aldor the Immense.md",
+                "file": "DND - Witchlight Carnival/World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/NPCS/Aldor the Immense.md"
+                "file": "DND - Witchlight Carnival/World.md"
               }
             }
           },
@@ -158,6 +158,9 @@
   },
   "active": "488a3c562a5e8196",
   "lastOpenFiles": [
+    "DND - Witchlight Carnival/DND - Witchlight Carnival.md",
+    "DND - Witchlight Carnival/World.md",
+    "DND - Drakkenheim/NPCS/Aldor the Immense.md",
     "DND - Drakkenheim/NPCS/River.md",
     "DND - Drakkenheim/NPCS/Rose Carver.md",
     "DND - Drakkenheim/NPCS/Rita.md",
@@ -170,7 +173,6 @@
     "DND - Drakkenheim/NPCS/Lyrian.md",
     "DND - Drakkenheim/NPCS/Bogdon.md",
     "DND - Drakkenheim/NPCS/Armin Gainsbury.md",
-    "DND - Drakkenheim/NPCS/Aldor the Immense.md",
     "DND - Drakkenheim/NPCS/Ansom Lang.md",
     "Champion's Way.md",
     "DND - Drakkenheim/Reference/Delerium.md",
@@ -182,8 +184,6 @@
     "DND - Drakkenheim/Characters/Sihrr.md",
     "DND - Drakkenheim/Characters/Wyldenten Proudsky.md",
     "DND - Drakkenheim/Sessions/Session 017.md",
-    "DND - Drakkenheim/Sessions/Session 016.md",
-    "DND - Drakkenheim/Sessions/Session 015.md",
     "DND - Drakkenheim/Factions/Groups",
     "Scripts/getThisCampaignFactions.js",
     "DND - Drakkenheim/Meta",
