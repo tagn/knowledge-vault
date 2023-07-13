@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "270056182d8eb6ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "838fa6b9f1ab6858",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8bb1a27a4ae9800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DND - Drakkenheim/Sessions/Session 018.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f54a73cfa573edaf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7da289576e655094",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8e6017944cc8b6cb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "69c128c8164e542f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c5f1cdc9338310d5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a17bab1bd30e82aa",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5bd8441fc84679c9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "DND - Drakkenheim/Sessions/Session 018.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6fd8b396253272c5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "DND - Drakkenheim/Sessions/Session 018.md"
+          }
+        }
+      },
+      {
+        "id": "fd3655dabcc27ab7",
+        "type": "leaf",
+        "state": {
+          "type": "FANTASY_CALENDAR",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "a8bb1a27a4ae9800",
+  "lastOpenFiles": [
+    "Templates/Npc.md",
+    "DND - Drakkenheim/Sessions/Session 018.md",
+    "DND/Turdis/Origin.md",
+    "Nether Portals.md",
+    "Astonia/Leveling/Characters/Believeit.md",
+    "Astonia/Leveling/Characters/Shuckle.md",
+    "Astonia/Leveling/Template 1.md",
+    "Astonia/Leveling/Template.md",
+    "Astonia/Gear.md",
+    "Astonia/Leveling/Leveling Guide.md",
+    "Astonia/Leveling/Leveling Guide 1.md",
+    "Astonia/Leveling.md"
+  ]
+}
