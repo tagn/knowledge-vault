@@ -24,6 +24,10 @@
     {
       "folder": "DND - Drakkenheim/NPCS",
       "template": "Templates/NPC.md"
+    },
+    {
+      "folder": "DND - Drakkenheim/Quests",
+      "template": "Templates/Quest.md"
     }
   ],
   "syntax_highlighting": true,

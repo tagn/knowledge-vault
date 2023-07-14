@@ -1,6 +1,11 @@
 
 ## Active Quests
 
+```dataview
+TABLE
+file.title, initator
+FROM "DND - Drakkenheim" WHERE type = "quest"
+```
 - [ ] Retrieve research from Oscar Yorn for River
 - [ ] Locate "Lillies" in the Queen's Garden for Oscar Yorn
 - [ ] Open Smugglers Tunnel under Black Ivory Inn - [[Queen's Men]] - Return to Rose Carver to complete
