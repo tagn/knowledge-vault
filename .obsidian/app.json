@@ -2,5 +2,6 @@
   "legacyEditor": false,
   "livePreview": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Dungeons and Douchebags/Witchlight Carnival/Adventure Notes"
+  "attachmentFolderPath": "Dungeons and Douchebags/Witchlight Carnival/Adventure Notes",
+  "readableLineLength": false
 }

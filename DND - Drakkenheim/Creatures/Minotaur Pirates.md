@@ -1,1 +1,1 @@
-![[Pasted image 20230713231720.png]]
+![[pirate_minotaur.png]]
