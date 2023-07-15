@@ -1,17 +1,19 @@
 ---
+type: npc
 created: 2023-07-11
-name: "Grummish"
-type: "npc"
-faction: "Unaffiliated"
-group: "Gentlemen Bastards"
-race: ""
-gender: ""
-class: ""
+campaign: Drakkenheim
+name: Grummish
+faction: Unaffiliated
+group:
+locations: []
+race:
+gender:
+class:
 tags:
  - npc
 ---
-## Description
 
+## Description
 
 ## Quests
 ```dataview
@@ -22,6 +24,8 @@ TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[G
 ```dataview
 LIST FROM [[Grummish]] WHERE file.folder = "DND - Drakkenheim/Sessions"
 ```
+
+
 
 
 

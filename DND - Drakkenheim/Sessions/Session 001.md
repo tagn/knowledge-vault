@@ -53,7 +53,7 @@ At this point in the session, Wyldenten Proudsky, one of the party members, was 
 - Ludvig van groth, rickard and endra coming from [[Emberwood Village]]/[[Drakkenheim]]
 - They don't want to show us their friends "disfigurement"
 - [[Wyldenten Proudsky]] sets up an alarm between the groups and takes first watch with Keth
-- [[Keth]] goes and tries to steal their shit
+- [[Keth Darklighter]] goes and tries to steal their shit
 - The gross guy has damp cloaks on
 - Stands up in the middle of the night - turns out to be a delirium dreg
 - Ludvig gets fucking murdered by having his skull crushed

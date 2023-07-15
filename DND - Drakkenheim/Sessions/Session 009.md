@@ -16,14 +16,14 @@ tags:
 - We walk about a hour and a half out of town towards the [[Hendricks Farm]] and find an old looking barn that we think the [[Favored Few]] might be in
 - We scout out the barn with [[Lily]], it has 3 inhabitants
 - Right side of the barn, door is open
-- [[Keth]] walks up and sees:
+- [[Keth Darklighter]] walks up and sees:
 	- Tortle inside eating something
 	- Female Dwarf, rummaging through some bag, shield/mace
 	- Old Male Goblin, playing with a set of dice, has a "stick" next to him
 - They have the bag of coins and box
-- [[Keth]] told them we are to retrieve it by "any means necessary"
+- [[Keth Darklighter]] told them we are to retrieve it by "any means necessary"
 - They don't have the coin, they offer the box back to be returned, they say they have not "been able to open it"
-- They walk over and hand [[Keth]] the box, its shoe-box sized. Shaking the box it feels like there are some things inside of it
+- They walk over and hand [[Keth Darklighter]] the box, its shoe-box sized. Shaking the box it feels like there are some things inside of it
 - [[Wyldenten Proudsky]] uses Detect Magic to check out the box
 	- Minor Abjuration
 	- Heavier Divination
@@ -35,7 +35,7 @@ tags:
 - The bell boy person names us "Bert" and "Ernie"
 - We make our way to the city, towards [[Buckle Down Row]], with a pit stop after to [[The Spokes]] if we have time
 - Matt rolls a nat 1 on our encounter check, we run into a group of 9 [[haze husk]]s and some creature leading them
-- We win, but [[Arken]] got pretty fucked up and looks ghastly now.
+- We win, but [[Arken Highbloom]] got pretty fucked up and looks ghastly now.
 - We looted 5 [[Delerium]] fragments
 
 #### Aldor Shopping

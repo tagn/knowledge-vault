@@ -25,17 +25,17 @@ tags:
 - [[Boseefus]] - the name of the imp from [[River]]
 - Michael greets us at the [[Watchtower]], [[Ansom Lang]] is at the gate in town
 - We head back to our houses to clean up
-- [[Arken]] and [[Sihrr]] have a conversation about [[Flamekeeper Hannah]] having [[Delerium]] or something inside of her
+- [[Arken Highbloom]] and [[Sihrr]] have a conversation about [[Flamekeeper Hannah]] having [[Delerium]] or something inside of her
 - Toenails and fingernails are gone, one or two left on each hand or foot. Hair seems to be falling out. When I spit out some water, chalky black substance comes out. My teeth feel like they are getting thinner.
 - We go to the [[Bark & Buzzard]] and discuss what to do with the rest of the [[Delerium]]
 - [[Flamekeeper Hannah]] has a [[Delerium]] shard in her chest
 - Outside the chapel, four heavily armored knights, with four warhorses adorned with the emblems of the [[Knights of the Silver Order]]
 - [[Ophelia Reed]] is in the chapel, she is the "high flamekeeper"
-- [[Arken]] pulls [[Flamekeeper Hannah]] to the back for a private conversation'
-- [[Arken]] touches the [[Delerium]] shard and gets a mutation
+- [[Arken Highbloom]] pulls [[Flamekeeper Hannah]] to the back for a private conversation'
+- [[Arken Highbloom]] touches the [[Delerium]] shard and gets a mutation
 - [[Ophelia Reed]] has some magic shit:
 	- A censer, lights up strongly with magic
 	- Metal gloves clipped to her waist
 	- Something in the small sack giving off a glow 
 - [[Wyldenten Proudsky]] gets his corruption cleansed
-- [[Keth]] goes to the [[Skull & Sword]] and orders the "Dip"
+- [[Keth Darklighter]] goes to the [[Skull & Sword]] and orders the "Dip"

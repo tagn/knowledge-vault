@@ -1,5 +1,12 @@
 ---
-tags: ["#location"]
+aliases:
+ - Emberwood
+type: location
+created: 2023-02-16
+campaign: Drakkenheim
+name: Emberwood Village
+container: true
+within: Drakkenheim Wilds
 ---
 
 ## Description
@@ -8,6 +15,14 @@ Small village about five miles south of Drakkenheim. This is where our adventure
 the outskirts of a literal hellscape, services in the town are very costly.
 
 Most of the people here are trying to make ends meet, with some adventurers passing through to make treks to the outskirts of the ruined city and some more ambitious will venture inside of the walls to search for Delerium and other treasures.
+
+## Sub Areas/Locations
+
+```dataview
+LIST
+FROM "DND - Drakkenheim/Locations"
+WHERE within = "Emberwood Village"
+```
 
 ## Notable Areas
 

@@ -12,7 +12,7 @@ tags:
 ## Session Event Log
 
 - [[Wyldenten Proudsky]] has two arms now?
-- [[Keth]] wanders over to the [[Skull & Sword]] with the map to inquire about "[[Buckle Down Row]]" and has to bribe the bartender for information
+- [[Keth Darklighter]] wanders over to the [[Skull & Sword]] with the map to inquire about "[[Buckle Down Row]]" and has to bribe the bartender for information
 - [[Wyldenten Proudsky]] shows off his new armor
 - Our goal is to get to the Rat's Nest shitty tavern place
 - We went over to [[Armin Gainsbury]] to try to buy some paper

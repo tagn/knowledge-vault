@@ -20,11 +20,11 @@ tags:
 - Everyone seems confused where they came from
 	- We're stuck and can't get out, slowly forgetting everything
 - Meteor strikes, we get blasted off the balcony, a wall collapses on us, we all die.
-- [[Arken]] and [[Wyldenten Proudsky]] have no memory of what happened.
+- [[Arken Highbloom]] and [[Wyldenten Proudsky]] have no memory of what happened.
 - [[Wyldenten Proudsky]] is restored, has his hand back, looks like he would have 15 years ago?
-- The group  is trying to convince [[Arken]] and [[Wyldenten Proudsky]] of what is happening
+- The group  is trying to convince [[Arken Highbloom]] and [[Wyldenten Proudsky]] of what is happening
 - [[Wyldenten Proudsky]] somewhat believes them, but is really confused.
-- [[Arken]] seems to be denying what is happening and wants to keep an eye on [[Sihrr]] and [[Keth]]
+- [[Arken Highbloom]] seems to be denying what is happening and wants to keep an eye on [[Sihrr]] and [[Keth Darklighter]]
 - We talk to the bandits downstairs, they convince them to maybe let us join but we need to be back in a hour
 - We go upstairs and discuss whats going on
 - [[Wyldenten Proudsky]] goes back to the same old couple and makes up some shit to get them to let him know what the date is.
@@ -33,7 +33,7 @@ tags:
 - He offers us a job to steal from a shop a few miles south in the spokes, and maybe murder the family because they sometimes sleep in the basement - It's [[Wyldenten Proudsky]]'s families shop
 - We lie and say Fifer told us about the den
 - Fifer says Reginald
-- [[Keth]] murders Fifer
+- [[Keth Darklighter]] murders Fifer
 - Reginald blames the mage
 - Mage comes down, combat starts
 - [[Wyldenten Proudsky]] dips down the tunnel, sees a gross fucking thing of flesh, its eyes fixate on him and he darts back down the hall to the rest of the group

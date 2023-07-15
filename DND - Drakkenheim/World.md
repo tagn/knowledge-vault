@@ -2,22 +2,19 @@
 ## Active Quests
 
 ```dataview
-TABLE
-file.title, initator
-FROM "DND - Drakkenheim" WHERE type = "quest"
+TABLE WITHOUT ID
+file.link AS "Quest", "[[" + location + "]]" as "Location", complete_by AS "Time Remaining", "[[" + faction + "]]" as "Faction", initator AS "Initiator"
+FROM "DND - Drakkenheim"
+WHERE type = "quest" AND !completed
+SORT file.name ASC
 ```
-- [ ] Retrieve research from Oscar Yorn for River
-- [ ] Locate "Lillies" in the Queen's Garden for Oscar Yorn
-- [ ] Open Smugglers Tunnel under Black Ivory Inn - [[Queen's Men]] - Return to Rose Carver to complete
-- [ ] Get control of the Ironhelm's Delerium Mining Operation - [[Amethyst Academy]]
-- [ ] Get weaponry from the Ironhelm dwarves - [[Hooded Lanterns]]
-- [ ] We have a fortnight to bomb a gate for the [[Hooded Lanterns]]
-- [ ] Figure out what to do with the Dwarves
 
-## Locations
+## Major Locations
 
 ```dataview
-list from "DND - Drakkenheim/Locations"
+LIST
+FROM "DND - Drakkenheim/Locations"
+WHERE within = "None"
 ```
 
 ## Rumors
@@ -28,6 +25,8 @@ list from "DND - Drakkenheim/Locations"
 
 ## Sessions
 ```dataview
-list from "DND - Drakkenheim/Sessions"
+LIST
+FROM "DND - Drakkenheim/Sessions"
+SORT file.name ASC
 ```
 `button-add-session`

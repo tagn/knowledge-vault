@@ -17,13 +17,13 @@ tags:
 - We walk down the main path for [[Champion's Way]] and enter into a shopping looking district
 - Dazzling dreamsickle
 - We get to the cross roads of where the home once was - family home is pretty much destroyed
-- [[Arken]] offers to help dig things up to get inside
+- [[Arken Highbloom]] offers to help dig things up to get inside
 - The stairwell to the back was in the back of the shop
 - [[Wyldenten Proudsky]] grabs a book with a key lock on it
 - We go into the store room, giant safe that seems intact
 - In [[Wyldenten Proudsky]]'s room he rolls up his rug, there were two beds because [[Wyldenten Proudsky]] was a bedwetter
 - They open the journal and will looks through it
-- [[Keth]] fucks with the safe and it breathes fire on her and [[Arken]]
+- [[Keth Darklighter]] fucks with the safe and it breathes fire on her and [[Arken Highbloom]]
 - [[Wyldenten Proudsky]] puts in his birthday, then puts in the day his parents got married
 - Safe opens
 	- Top shelf - Tons of Gold and silver bars, even a few "platinum bars" - about 4750 gold
@@ -36,7 +36,7 @@ tags:
 - It's two trolls setting up a camp, starting a fire, chatting
 - We wait a hour, then try to sneak out. Keth walks into the road to try to distract them
 - Succeeds, we head to buckle down row to figure out a boat to cross the river
-- [[Keth]] tries to get some leads on a boat
+- [[Keth Darklighter]] tries to get some leads on a boat
 - We hear about a ferryman to the southwest
 - We run into [[Blackjack Mel]] and he talks us up about the pits
 - We walk towards the river to scout it out, and run into a pack of Wargs and Garmyr

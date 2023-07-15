@@ -32,7 +32,7 @@ tags:
 		- He may have been in here less than 5 days
 		- He was on his way to take the sacrament for the falling fire and heard the music
 		- He pulls out a feather, pulls out a small jug from some interdimensional looking space
-			- Hands [[Keth]] a Brownish Jug - Interlaced carvings, has 12 stoppers - Alchemy Jug
+			- Hands [[Keth Darklighter]] a Brownish Jug - Interlaced carvings, has 12 stoppers - Alchemy Jug
 		- He might be able to get us across the river magically
 	- [[Fate Hope]] - Human - Looks roguelike - Girl at the bar that was drinking out of the broken glass
 		- Pretty much mute at this point. Sitting and staring into space
@@ -41,7 +41,7 @@ tags:
 - They inquire about if we removed the loop that everyone was stuck in
 - Priest guy wants to go to [[Saint Selina's Monastery]]? [[Lucritia]] is there at the monastery
 	- Priest guy definitely tries to cast a helpful spell on [[Sihrr]] after he made a snarky remark about shoving [[Delerium]] into his chest
-- We take a short rest - [[Wyldenten Proudsky]] uses feature to heal [[Arken]] and [[Sihrr]]
+- We take a short rest - [[Wyldenten Proudsky]] uses feature to heal [[Arken Highbloom]] and [[Sihrr]]
 - [[Wyldenten Proudsky]] investigates the destroyed bar area
 	- Find a couple of bottles, "nice looking bottles of wine"
 	- We find a crate and load it into the bag of holding
@@ -49,11 +49,11 @@ tags:
 - We encounter some [[Hooded Lanterns]] Scouts
 	- [[Aaron Grint]] lowers his hood - they tell him that he has been gone for weeks
 	- They escort us back into town
-- [[Keth]] takes "Goldie", aka "[[Fate Hope]]" to the [[Skull & Sword]] to see if she gets recognized
+- [[Keth Darklighter]] takes "Goldie", aka "[[Fate Hope]]" to the [[Skull & Sword]] to see if she gets recognized
 - The rest of the gang takes the dead wizard to the [[Red Lion Hotel]] to see [[River]], maybe she knows the guy?
 - Goldie says something to the Bartender, seemingly in thieves' cant
 - Some guy is told about her or something, turns white, immediately leaves
-- [[Keth]] is told that we did a service returning her, someone might be reaching her out. She receives a coin purse from the bartender as a thank you. She receives 136 gold
+- [[Keth Darklighter]] is told that we did a service returning her, someone might be reaching her out. She receives a coin purse from the bartender as a thank you. She receives 136 gold
 - We carry the corpse of the wizard into the Red Lion Inn
 	- [[River]] and dead wizard man are wearing the same number of rings
 	- [[Osiris]] - she thought he'd left or they would never see him again
@@ -63,13 +63,13 @@ tags:
 	- She reaches into the inside of his robe, pulls out a small -red- green gem, hands it over to us. It's an elemental gem. Will gives it over to Sihrr
 	- [[Sihrr]] offers river an old bottle of wine from our crate of basement wine
 - We leave to get [[Balthazar Adamos]] over to his stupid fucking farm
-- [[Wyldenten Proudsky]] and [[Sihrr]] ditch [[Arken]] at the farm
-- [[Arken]] approaches some shitty house in the shitty farm
+- [[Wyldenten Proudsky]] and [[Sihrr]] ditch [[Arken Highbloom]] at the farm
+- [[Arken Highbloom]] approaches some shitty house in the shitty farm
 	- They have him put his sword away before entering, they kinda sorta recognize [[Balthazar Adamos]]?
 	- Younger man, sitting kneeling before the fire inside, wearing pilgrims robes
 	- Guy recognizes [[Balthazar Adamos]]
-	- [[Arken]] is stronger with his sword than his tongue
-	- [[Arken]] sucks up to these people
+	- [[Arken Highbloom]] is stronger with his sword than his tongue
+	- [[Arken Highbloom]] sucks up to these people
 	- They have a bit of a quest for him, something in [[The Scar]]
 	- In the spokes, some Dwarves set up shop there, they are mining up all the [[Delerium]] in the area and selling it for outrageous costs
 	- They want us to drive out the dwarves to get them some delerium flow
@@ -78,9 +78,9 @@ tags:
 	- They come from a mountain to the south. They are incredible good at mining [[Delerium]]. They have some sort of mechanical weaponry that they used to claim the area
 	- They've reopened the smithy in [[The Spokes]]
 	- These bitches crazy - [[Delerium]] is a gift
-- A dagger is stuck in our door, "[[Keth]] and [[Wyldenten Proudsky]]", Queen of Diamonds playing card
-- [[Keth]] goes to the [[Skull & Sword]] to inquire about the card
-- It's a summons from [[Keth]]'s bosses boss
+- A dagger is stuck in our door, "[[Keth Darklighter]] and [[Wyldenten Proudsky]]", Queen of Diamonds playing card
+- [[Keth Darklighter]] goes to the [[Skull & Sword]] to inquire about the card
+- It's a summons from [[Keth Darklighter]]'s bosses boss
 - [[Sihrr]] goes to the [[Red Lion Hotel]] to inquire about some wine
 
 

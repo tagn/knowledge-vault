@@ -11,7 +11,7 @@ tags:
 
 ## Session Event Log
 
-- [[Arken]] awakes to [[Flamekeeper Hannah]] inquiring if he is sick
+- [[Arken Highbloom]] awakes to [[Flamekeeper Hannah]] inquiring if he is sick
 - She informs him that hes near death
 - He pays 250g to recover his [[contamination]], but swaps it for 4 levels of exhaustion
 - We talk about resting for a bit before we get to the city
@@ -22,10 +22,10 @@ tags:
 - [[Wyldenten Proudsky]] fashions up some [[Keth's Krew]] pins
 - We make the journey out to [[Reed Manor]]
 - [[Lily]] tries to scout, but sucks ass at it
-- [[Keth]] goes forward and identifies the guys house potentially
+- [[Keth Darklighter]] goes forward and identifies the guys house potentially
 - She dives into a house nearby, retcon, she jumped up on the roof and got a general idea about the house we're targetting
 - We walk up to the house and figure out the plan
-- [[Keth]] sees two hulking figures outside of the manor, wearing hoods and have bandaged faces.
+- [[Keth Darklighter]] sees two hulking figures outside of the manor, wearing hoods and have bandaged faces.
 - We think these things are roughly the size of an ogre
 - We engage in combat with some ogres infront of the house
 - One of the back doors explodes, stepping out is a guy we assume is [[Oscar Yorn]]
@@ -34,12 +34,12 @@ tags:
 - We're invited inside, we see the "Reed" family crest on the wall
 - Locked door/closed door to our right
 - We're led into a "sitting room" to the left, which appears to be a makeshift alchemical workshop
-- [[Keth]] scopes out the room to see if there are any notes
+- [[Keth Darklighter]] scopes out the room to see if there are any notes
 - She swipes a note about growing fauna in the haze
 - [[Gemma]] goes to get [[Oscar Yorn]] after we mention the latest shipment
 - [[Oscar Yorn]] says that the shipments are messed up because he is missing the reagents
 - He needs [[Eldritch Lilies]] to make more of the [[Aqua Delerium]]
-- [[Oscar Yorn]] says he doesn't like people that hide their true identity to [[Sihrr]] - bring this up privately to [[Arken]]
+- [[Oscar Yorn]] says he doesn't like people that hide their true identity to [[Sihrr]] - bring this up privately to [[Arken Highbloom]]
 - We speak with one of the apprentices: Bolter, about purchasing potions
 - 38g each for healing potions
 - Marco is the "potion" guy

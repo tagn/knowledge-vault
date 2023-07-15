@@ -1,6 +1,6 @@
 ---
-date: <% tp.file.creation_date("YYYY-MM-DD") %>
 type: session
+created: <% tp.file.creation_date("YYYY-MM-DD") %>
 campaign: <% tp.user.getThisCampaignName(tp) %>
 location: []
 tags:

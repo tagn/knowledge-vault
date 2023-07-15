@@ -1,8 +1,20 @@
 ---
-tags:
- - location
+type: location
+created: 2023-07-11
+campaign: Drakkenheim
+name: Scrag Lane
+container: false
+within: The Spokes
 ---
 
 ## Description
 
-## Notable Areas
+
+## Sub Areas/Locations
+
+```dataview
+LIST
+FROM "DND - Drakkenheim/Locations"
+WHERE within = "Scrag Lane"
+```
+

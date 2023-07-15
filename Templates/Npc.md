@@ -1,28 +1,42 @@
-<%* const title = await tp.system.prompt("Enter NPC Name"); -%>
-<%* await tp.file.rename(title) -%>
+<%*
+	const creation_date = tp.file.creation_date("YYYY-MM-DD");
+	if (tp.file.title.includes("Untitled")) {
+		npc_name = await tp.system.prompt("Enter NPC Name")
+		await tp.file.rename(npc_name);
+	} else {
+		npc_name = tp.file.title;
+	}
+	const campaign_dir = await tp.user.getThisCampaignDir(tp);
+	const campaign_name = await tp.user.getThisCampaignName(tp);
+	const factions = await tp.user.getThisCampaignFactions(tp);
+	const faction = await tp.system.suggester(factions, factions, false, "Which faction is this NPC associated with?");
+-%>
 ---
-created: <% tp.file.creation_date("YYYY-MM-DD") %>
-name: "<%* tR += title %>"
-type: "npc"
-faction: "<% tp.system.suggester(tp.user.getThisCampaignFactions(tp), tp.user.getThisCampaignFactions(tp), false, "Which faction?") %>"
-group: ""
-race: ""
-gender: ""
-class: ""
+aliases: []
+type: npc
+created: <%* tR += creation_date %>
+campaign: <%* tR += campaign_name %>
+name: <%* tR += npc_name %>
+faction: <%* tR += faction %>
+group:
+locations: []
+race:
+gender:
+class:
 tags:
  - npc
 ---
-## Description
 
+## Description
 
 ## Quests
 ```dataview
-TASK FROM "<% tp.user.getThisCampaignDir(tp) %>/Quests" WHERE !completed AND contains(outlinks, [[<%* tR += title %>]]) 
+TASK FROM "<%* tR += campaign_dir %>/Quests" WHERE !completed AND contains(outlinks, [[<%* tR += npc_name %>]]) 
 ```
 
 #### Session Appearances
 ```dataview
-LIST FROM [[<%* tR += title %>]] WHERE file.folder = "<% tp.user.getThisCampaignDir(tp) %>/Sessions"
+LIST FROM [[<%* tR += npc_name %>]] WHERE file.folder = "<%* tR += campaign_dir %>/Sessions"
 ```
 
 

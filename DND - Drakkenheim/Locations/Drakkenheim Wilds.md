@@ -1,10 +1,10 @@
 ---
 type: location
-created: 2023-07-11
+created: 2023-07-15
 campaign: Drakkenheim
-name: Chapel of Saint Ardenna
-container: false
-within: Emberwood Village
+name: Drakkenheim Wilds
+container: true
+within: None
 ---
 
 ## Description
@@ -15,5 +15,5 @@ within: Emberwood Village
 ```dataview
 LIST
 FROM "DND - Drakkenheim/Locations"
-WHERE within = "Chapel of Saint Ardenna"
+WHERE within = "Drakkenheim Wilds"
 ```

@@ -1,8 +1,20 @@
 ---
-type: "faction"
+aliases: []
+type: faction
+created: 2023-07-06
+campaign: Drakkenheim
+name: Amethyst Academy
 ---
+
+## Description
+
+
 ## Associated NPCS
 
 ```dataview
-TABLE faction, gender from "DND - Drakkenheim/Characters" WHERE type = "npc" AND faction = "Amethyst Academy"
+LIST
+FROM "DND - Drakkenheim/NPCS"
+WHERE faction = "Amethyst Academy"
 ```
+
+## Notes

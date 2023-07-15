@@ -2,9 +2,9 @@
 type: location
 created: 2023-07-11
 campaign: Drakkenheim
-name: Chapel of Saint Ardenna
+name: Castle Drakken
 container: false
-within: Emberwood Village
+within: Drakkenheim
 ---
 
 ## Description
@@ -15,5 +15,6 @@ within: Emberwood Village
 ```dataview
 LIST
 FROM "DND - Drakkenheim/Locations"
-WHERE within = "Chapel of Saint Ardenna"
+WHERE within = "Castle Drakken"
 ```
+

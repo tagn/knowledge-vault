@@ -1,6 +1,8 @@
 ---
+aliases: []
+type: character
 created: <% tp.file.creation_date("YYYY-MM-DD") %>
-type: npc
+campaign: <% tp.user.getThisCampaignName(tp) %>
 faction: ""
 race: ""
 gender: ""
