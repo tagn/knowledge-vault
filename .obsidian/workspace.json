@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Factions/Queen's Men.md",
+                "file": "DND - Drakkenheim/World.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/Factions/Queen's Men.md",
+                "file": "DND - Drakkenheim/World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/Factions/Queen's Men.md"
+                "file": "DND - Drakkenheim/World.md"
               }
             }
           },
@@ -157,10 +157,22 @@
   },
   "active": "3172e6b9e7244a29",
   "lastOpenFiles": [
-    "DND - Drakkenheim/Factions/Knights of the Silver Order.md",
-    "DND - Drakkenheim/Factions/Hooded Lanterns.md",
-    "DND - Drakkenheim/Factions/Church of the Falling Fire.md",
+    "Templates/Session.md",
+    "Templates/Quest.md",
+    "Templates/NPC.md",
+    "Templates/Character.md",
+    "Templates/Location.md",
+    "Templates/Faction.md",
     "DND - Drakkenheim/Factions/Amethyst Academy.md",
+    "DND - Drakkenheim/Factions/Groups/Keth's Krew.md",
+    "DND - Drakkenheim/Factions/Groups/Howling Dogs.md",
+    "DND - Drakkenheim/Factions/Groups/Gentlemen Bastards.md",
+    "DND - Drakkenheim/Factions/Groups/Fourth Provisional Expeditionary Force.md",
+    "DND - Drakkenheim/Factions/Groups/Favored Few.md",
+    "DND - Drakkenheim/Factions/Church of the Falling Fire.md",
+    "DND - Drakkenheim/Factions/Hooded Lanterns.md",
+    "DND - Drakkenheim/Factions/Knights of the Silver Order.md",
+    "DND - Drakkenheim/Factions/Queen's Men.md",
     "DND - Drakkenheim/NPCS/Aldor the Immense.md",
     "DND - Drakkenheim/NPCS/Ansom Lang.md",
     "DND - Drakkenheim/NPCS/Rose Carver.md",
@@ -171,18 +183,6 @@
     "DND - Drakkenheim/NPCS/Bogdon.md",
     "DND - Drakkenheim/NPCS/Armin Gainsbury.md",
     "DND - Drakkenheim/Quests/Bomb the Gate.md",
-    "DND - Drakkenheim/Quests/It Always Starts With Rats In A Cellar.md",
-    "DND - Drakkenheim/Quests/Prayers for Ironhelm Delerium.md",
-    "DND - Drakkenheim/Quests/Rescue From The Rat Captors.md",
-    "DND - Drakkenheim/Quests/Smuggler's Bar.md",
-    "DND - Drakkenheim/Quests/Ironhelm Delerium Exclusivity.md",
-    "DND - Drakkenheim/Reference/Contamination.md",
-    "DND - Drakkenheim/Reference/Travel.md",
-    "DND - Drakkenheim/Reference/Delerium.md",
-    "DND - Drakkenheim/Locations/The Spokes.md",
-    "DND - Drakkenheim/Locations/The Sprawl.md",
-    "DND - Drakkenheim/Locations/Shepard's Way.md",
-    "DND - Drakkenheim/Locations/Skull & Sword.md",
     "Scripts/getThisCampaignLocations.js",
     "Scripts/getThisSessionNum.js",
     "Scripts/getThisCampaignName.js",
