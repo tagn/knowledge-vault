@@ -8,6 +8,6 @@ race: ""
 gender: ""
 class: ""
 tags:
- - npc
+ - pc
 ---
 

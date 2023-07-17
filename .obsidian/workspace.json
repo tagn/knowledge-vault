@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/World.md",
+                "file": "DND - Out of the Abyss/Locations/Underdark Prison.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/World.md",
+                "file": "DND - Out of the Abyss/Locations/Underdark Prison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/World.md"
+                "file": "DND - Out of the Abyss/Locations/Underdark Prison.md"
               }
             }
           },
@@ -157,32 +157,36 @@
   },
   "active": "3172e6b9e7244a29",
   "lastOpenFiles": [
-    "Templates/Session.md",
-    "Templates/Quest.md",
-    "Templates/NPC.md",
+    "DND - Out of the Abyss/Locations/Slave Pen.md",
+    "DND - Out of the Abyss/Locations/Menzoberranzan.md",
+    "DND - Out of the Abyss/Locations/Blingdenstone.md",
+    "DND - Out of the Abyss/Factions/House Mizzrym.md",
+    "DND - Out of the Abyss/Characters/Winnie Eveningfog.md",
+    "DND - Out of the Abyss/Characters/Ty.md",
+    "DND - Out of the Abyss/Characters/Ponzi Deeproot.md",
+    "DND - Out of the Abyss/Characters/Duskplume.md",
+    "DND - Out of the Abyss/World.md",
+    "DND - Out of the Abyss/Locations/Underdark.md",
+    "DND - Out of the Abyss/Locations/Underdark Prison.md",
+    "DND - Out of the Abyss/NPCS/Jimjar.md",
+    "DND - Out of the Abyss/NPCS/Shuushar the Awakened.md",
+    "DND - Out of the Abyss/NPCS/Buppido.md",
+    "DND - Out of the Abyss/NPCS/Prince Derendil.md",
+    "DND - Out of the Abyss/NPCS/Eldeth.md",
+    "DND - Out of the Abyss/NPCS/Mistress Ilvara.md",
+    "DND - Out of the Abyss/NPCS/Sarith.md",
+    "Ponzi.md",
+    "DND - Out of the Abyss/Introduction.md",
+    "DND - Out of the Abyss/Factions",
+    "DND - Out of the Abyss/Quests/Prison Escape.md",
+    "DND - Drakkenheim/World.md",
+    "DND - Out of the Abyss/Sessions/Session 001.md",
+    "DND - Out of the Abyss/Sessions/Session 000.md",
+    "DND - Out of the Abyss/Sessions/Session 003.md",
     "Templates/Character.md",
-    "Templates/Location.md",
-    "Templates/Faction.md",
-    "DND - Drakkenheim/Factions/Amethyst Academy.md",
-    "DND - Drakkenheim/Factions/Groups/Keth's Krew.md",
-    "DND - Drakkenheim/Factions/Groups/Howling Dogs.md",
-    "DND - Drakkenheim/Factions/Groups/Gentlemen Bastards.md",
-    "DND - Drakkenheim/Factions/Groups/Fourth Provisional Expeditionary Force.md",
-    "DND - Drakkenheim/Factions/Groups/Favored Few.md",
-    "DND - Drakkenheim/Factions/Church of the Falling Fire.md",
-    "DND - Drakkenheim/Factions/Hooded Lanterns.md",
-    "DND - Drakkenheim/Factions/Knights of the Silver Order.md",
-    "DND - Drakkenheim/Factions/Queen's Men.md",
-    "DND - Drakkenheim/NPCS/Aldor the Immense.md",
-    "DND - Drakkenheim/NPCS/Ansom Lang.md",
-    "DND - Drakkenheim/NPCS/Rose Carver.md",
-    "DND - Drakkenheim/NPCS/Renard.md",
-    "DND - Drakkenheim/NPCS/Petra Lang.md",
-    "DND - Drakkenheim/NPCS/Lyrian.md",
-    "DND - Drakkenheim/NPCS/Grummish.md",
-    "DND - Drakkenheim/NPCS/Bogdon.md",
-    "DND - Drakkenheim/NPCS/Armin Gainsbury.md",
-    "DND - Drakkenheim/Quests/Bomb the Gate.md",
+    "DND - Out of the Abyss/Quests",
+    "DND - Out of the Abyss/NPCS",
+    "Scripts/getThisCampaignMetadata.js",
     "Scripts/getThisCampaignLocations.js",
     "Scripts/getThisSessionNum.js",
     "Scripts/getThisCampaignName.js",
@@ -191,10 +195,6 @@
     "Scripts",
     "Images/giant_clockwork_spider.png",
     "Images/pirate_minotaur.png",
-    "Pasted image 20230713231720.png",
-    "DND - Drakkenheim/Factions/Groups",
-    "DND - Drakkenheim/Meta",
-    "DND - Drakkenheim/NPCS",
-    "DND - Drakkenheim/Quests"
+    "Pasted image 20230713231720.png"
   ]
 }
