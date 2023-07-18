@@ -8,6 +8,7 @@ name: House Mizzrym
 
 ## Description
 
+Some sort of Drow high house.
 
 ## Associated NPCS
 

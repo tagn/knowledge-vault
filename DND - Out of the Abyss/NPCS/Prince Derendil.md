@@ -6,7 +6,8 @@ campaign: Out of the Abyss
 name: Prince Derendil
 faction: Unknown
 group:
-locations: []
+locations:
+  - Velkenvelve
 race:
 gender:
 class:
@@ -14,7 +15,10 @@ tags:
  - npc
 ---
 
+![[npc_derendil.png|250]]
 ## Description
+
+An elf, cursed to take on the appearance of a [[Quaggoth]]
 
 ## Quests
 ```dataview

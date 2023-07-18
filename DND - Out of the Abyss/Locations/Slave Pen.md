@@ -1,11 +1,12 @@
 ---
-aliases: []
+aliases:
+  - Slave Pens
 type: location
 created: 2023-07-17
 campaign: Out of the Abyss
 name: Slave Pen
 container: false
-within: Underdark Prison
+within: Velkenvelve
 ---
 
 ## Description

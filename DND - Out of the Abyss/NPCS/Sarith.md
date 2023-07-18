@@ -7,14 +7,14 @@ name: Sarith
 faction: Unknown
 group:
 locations:
-  - Underdark Prison
+  - Velkenvelve
 race: Drow
 gender:
 class:
 tags:
  - npc
 ---
-
+![[npc_sarith.png|250]]
 ## Description
 
 Since the arrival of [[Ponzi Deeproot|Ponzi]] to the [[Underdark Prison|Prison]], he has only mumbled a few unintelligible words to the Drow guards.

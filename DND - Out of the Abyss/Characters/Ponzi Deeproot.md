@@ -12,7 +12,7 @@ tags:
  - pc
 ---
 
-## Background
+## Backstory
 
 > Ah, greetings! It's a pleasure to make your acquaintance, I am Ponzi Deeproot. No doubt you've already heard of me, but if you'll lend me your ear I'll share a few details of myself and how I've wound up in this predicament. You see, I've had my fair share of adventures and encounters in the realms of deception and gambling.
 > 

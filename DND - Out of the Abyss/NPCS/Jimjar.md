@@ -6,14 +6,15 @@ campaign: Out of the Abyss
 name: Jimjar
 faction: Unknown
 group:
-locations: []
-race:
+locations:
+  - Velkenvelve
+race: Deep Gnome
 gender:
 class:
 tags:
  - npc
 ---
-
+![[npc_jimjar.png|250]]
 ## Description
 
 ## Quests

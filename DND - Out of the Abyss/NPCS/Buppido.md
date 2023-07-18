@@ -6,7 +6,8 @@ campaign: Out of the Abyss
 name: Buppido
 faction: Unknown
 group:
-locations: []
+locations:
+  - Velkenvelve
 race:
 gender:
 class:
@@ -14,6 +15,7 @@ tags:
  - npc
 ---
 
+![[npc_buppido.png|250]]
 ## Description
 
 ## Quests

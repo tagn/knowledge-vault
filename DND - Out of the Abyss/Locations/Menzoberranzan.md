@@ -10,7 +10,7 @@ within: Underdark
 
 ## Description
 
-Capital city of the Drow.
+Capital city of the Drow
 
 ## Sub Areas/Locations
 

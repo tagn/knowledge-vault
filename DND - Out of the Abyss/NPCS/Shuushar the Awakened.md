@@ -1,19 +1,21 @@
 ---
-aliases: []
+aliases:
+  - Shuushar
 type: npc
 created: 2023-07-17
 campaign: Out of the Abyss
 name: Shuushar the Awakened
 faction: Unknown
 group:
-locations: []
+locations:
+  - Velkenvelve
 race:
 gender:
 class:
 tags:
  - npc
 ---
-
+![[npc_shuushar.png|250]]
 ## Description
 
 ## Quests
