@@ -51,7 +51,6 @@ tags:
 - Silverware, mushrooms, a bag of holding is hanging on the wall in the back
 - We get our belongings back from the bag of holding
 - We hear voices below, [[Ponzi Deeproot|Ponzi]] tries to convince [[Ront]] that the drow below are actually our rescuers coming
-- 
 
 
 

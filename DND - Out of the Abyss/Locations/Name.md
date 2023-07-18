@@ -1,12 +1,11 @@
 ---
-aliases:
-  - Slave Pens
+aliases: []
 type: location
 created: 2023-07-17
 campaign: Out of the Abyss
-name: Slave Pen
+name: Name
 container: false
-within: Velkynvelve
+within: null
 ---
 
 ## Description
@@ -17,5 +16,5 @@ within: Velkynvelve
 ```dataview
 LIST
 FROM "DND - Out of the Abyss/Locations"
-WHERE within = "Slave Pen"
+WHERE within = "Name"
 ```
