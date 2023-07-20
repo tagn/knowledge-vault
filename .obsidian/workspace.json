@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Out of the Abyss/Locations/Slave Pen.md",
-                "mode": "preview",
+                "file": "DND - Out of the Abyss/Characters/Ty Feteru.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Out of the Abyss/Locations/Slave Pen.md",
+                "file": "DND - Out of the Abyss/Characters/Ty Feteru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Out of the Abyss/Locations/Slave Pen.md"
+                "file": "DND - Out of the Abyss/Characters/Ty Feteru.md"
               }
             }
           },
@@ -157,20 +157,23 @@
   },
   "active": "8210896e09386875",
   "lastOpenFiles": [
-    "DND - Out of the Abyss/Locations/Name.md",
-    "DND - Out of the Abyss/Locations/Slave Pen.md",
-    "DND - Out of the Abyss/Locations/Velkynvelve.md",
-    "DND - Out of the Abyss/Locations/Menzoberranzan.md",
-    "DND - Out of the Abyss/Locations/Blingdenstone.md",
-    "DND - Out of the Abyss/NPCS/Buppido.md",
+    "DND - Out of the Abyss/Sessions/Session 002.md",
     "DND - Out of the Abyss/NPCS/Eldeth.md",
     "DND - Out of the Abyss/NPCS/Jimjar.md",
     "DND - Out of the Abyss/NPCS/Mistress Ilvara.md",
-    "DND - Out of the Abyss/NPCS/Prince Derendil.md",
     "DND - Out of the Abyss/NPCS/Ront.md",
-    "DND - Out of the Abyss/NPCS/Shuushar the Awakened.md",
-    "DND - Out of the Abyss/NPCS/Scarred Male Drow.md",
     "DND - Out of the Abyss/NPCS/Sarith.md",
+    "DND - Out of the Abyss/NPCS/Scarred Male Drow.md",
+    "DND - Out of the Abyss/NPCS/Prince Derendil.md",
+    "DND - Out of the Abyss/NPCS/Buppido.md",
+    "DND - Out of the Abyss/Reference/Quaggoth.md",
+    "Pasted image 20230719204902.png",
+    "DND - Out of the Abyss/NPCS/Shuushar the Awakened.md",
+    "DND - Out of the Abyss/Locations/Slave Pen.md",
+    "DND - Out of the Abyss/Locations/Name.md",
+    "DND - Out of the Abyss/Locations/Velkynvelve.md",
+    "DND - Out of the Abyss/Locations/Menzoberranzan.md",
+    "DND - Out of the Abyss/Locations/Blingdenstone.md",
     "DND - Out of the Abyss/Quests/Prison Escape.md",
     "DND - Out of the Abyss/Quests/Cursed with Living Mushrooms.md",
     "DND - Out of the Abyss/Sessions/Session 001.md",
@@ -181,8 +184,6 @@
     "DND - Drakkenheim/Sessions/Session 013.md",
     "DND - Drakkenheim/Sessions/Session 015.md",
     "DND - Drakkenheim/Sessions/Session 016.md",
-    "DND - Drakkenheim/Sessions/Session 017.md",
-    "DND - Out of the Abyss/Characters/Duskplume.md",
     "Images/npc_ilvara.png",
     "Images/npc_shuushar.png",
     "Images/npc_sarith.png",
@@ -192,7 +193,6 @@
     "Images/npc_derendil.png",
     "Images/npc_buppido.png",
     "Images/Drakkenheim_City_Map.png",
-    "Images/giant_clockwork_spider.png",
     "Personal Misc/Characters/Ponzi Deeproot",
     "Personal Misc/Characters/Wyldenten Proudsky",
     "Personal Misc/Characters/Turdis",
