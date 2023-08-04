@@ -6,6 +6,6 @@ Corrupted rocks that came from when the meteor fell on Drakkenheim. Touching the
 | -------- | -------- |
 | Chip     |          |
 | Fragment | 100 gold |
-| Shard    |          |
+| Shard    | 500 gold |
 | Crystal  |          |
 | Geode    |          |
