@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Out of the Abyss/Sessions/Session 004.md",
-                "mode": "source",
+                "file": "DND - Drakkenheim/Creatures/Giant Clockwork Spider.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Out of the Abyss/Sessions/Session 004.md",
+                "file": "DND - Drakkenheim/Creatures/Giant Clockwork Spider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Out of the Abyss/Sessions/Session 004.md"
+                "file": "DND - Drakkenheim/Creatures/Giant Clockwork Spider.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "900ea66b843e099a",
   "lastOpenFiles": [
-    "DND - Out of the Abyss/Locations/Menzoberranzan.md",
     "DND - Out of the Abyss/Sessions/Session 004.md",
+    "DND - Out of the Abyss/Locations/Menzoberranzan.md",
     "DND - Out of the Abyss/Sessions/Session 003.md",
     "DND - Out of the Abyss/Reference/Mechanics.md",
     "DND - Drakkenheim/Sessions/Session 021.md",
