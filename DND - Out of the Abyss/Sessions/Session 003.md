@@ -22,6 +22,6 @@ tags:
 - [[Jimjar]] mentions that we're getting closer to [[Sloobludop]] but the path may be treacherous
 - We find a ruined city, [[Duskplume]] looks around and finds an indecipherable treasure map and an old key
 - [[Ponzi Deeproot|Ponzi]] convinces [[Ty Feteru|Ty]] to become his apprentice for what is definitely not a Ponzi Scheme.
-- 
+- We find a safe place off the path to hide, and take a long rest.
 
 
