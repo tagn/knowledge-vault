@@ -30,5 +30,5 @@ tags:
 - [[Jimjar]] says the tunnels are in worse condition than when he last traveled. He says to the north there is the [[Hook Horrors]] cave. The other path is unexplored.
 - [[Ponzi Deeproot|Ponzi]] feels that the [[Hook Horrors]] cave path is deadly. The group decides to go to the unexplored route to the south.
 - [[Jimjar]] mentions that the spiders aren't exactly friendly, and a lit torch may be a lure for them. [[Duskplume]] insists we extinguish the torch and [[Ponzi Deeproot|Ponzi]] is to hold hands with him, but he declines the offer and continues on.  [[Winnie Eveningfog|Winnie]] starts flying at a lower elevation once we start to see spiders on the walls and ceiling.
-- 
+- We get into a fight with a bunch of spiders. After [[Duskplume]] used Darkness during the fight, [[Ponzi Deeproot|Ponzi]] was convinced it was the spiders doing.
 
