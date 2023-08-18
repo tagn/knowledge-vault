@@ -25,7 +25,12 @@ tags:
 - Stone slab in the center of the room. The door quickly slams shut after [[Arken Highbloom|Arken]] removed the rod upstairs.
 - [[Arken Highbloom|Arken]] goes back upstairs and inserts the rod, then locks it in place. The door opens and stays open.
 - We enter the burial chamber and [[Arken]] begins a prayer for what appears to be the corpse of Saint Brenna. [[Sihrr]] notices shuffling of bones in the hallway that we just came from.
-- 
-
-
-
+- [[Wyldenten Proudsky|Will]] gets chased around the room by the mummy of what we assume to be [[Saint Brenna]], terrified of her.
+- After combat, [[Keth Darklighter|Keth]] throws the gems at one of the final skeletons. 
+- Engraved on the door "None are forever lost to shadow, candlelight glows brightly in the darkest night"
+- "May the sacred flame keep vigil over the souls of our revered dead". The circular room has various murals on the walls.
+- The murals appear to depict the process to lay a cleric or paladin to rest. They prepare the body, place a gemstone on each eyelid, holy symbol in their hand. Priest anoints the body with holy water/sacred oils. Priest places candles around the body. Priest reads some scroll out to them.
+- We find another burial chamber, with what appears to be some paladins/clerics that had been laid to rest. There is a helmet and a greatsword that appears to be etched and glowing.
+- "No darkness is eternal while our faith fuels the flame"
+- [[Wyldenten Proudsky|Wyl]] and [[Keth Darklighter|Keth]] head upstairs leaving [[Arken Highbloom|Arken]] and [[Sihrr]] inside of the second burial chamber to move the rod from the second contraption back to the first.
+- Back downstairs, the chamber door we entered from shuts behind [[Arken]] and [[Sihrr]]. After swapping the rod, the opposite door opens revealing another chamber populated by [[Saint Brenna]] and various skeletons.
