@@ -34,3 +34,4 @@ tags:
 - "No darkness is eternal while our faith fuels the flame"
 - [[Wyldenten Proudsky|Wyl]] and [[Keth Darklighter|Keth]] head upstairs leaving [[Arken Highbloom|Arken]] and [[Sihrr]] inside of the second burial chamber to move the rod from the second contraption back to the first.
 - Back downstairs, the chamber door we entered from shuts behind [[Arken]] and [[Sihrr]]. After swapping the rod, the opposite door opens revealing another chamber populated by [[Saint Brenna]] and various skeletons.
+- [[Arken]] successfully stole the scepter
