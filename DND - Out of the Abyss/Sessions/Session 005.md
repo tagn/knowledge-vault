@@ -20,3 +20,5 @@ tags:
 - [[Ponzi Deeproot|Ponzi]] doesn't like that [[Duskplume]] talked some shit to him, so he disguises himself to look like an 11 foot version of him and follows right behind him.
 - [[Ty Feteru|Ty]] attempts to have the group reconcile things. [[Ponzi Deeproot|Ponzi]] sees some thieves cant pointing towards a thieves hideout.
 - We comes to a clearing, part of the path is water. There is about 50 feet of water. We're ambushed by a bunch of grey oozes in the water.
+- We think [[Ty Feteru|Ty]] died, but he just swam to the bottom of the water while we fought. Turns out he is pretty much a fish.
+- We make our way over to the other side of the water and take a short rest.
