@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Out of the Abyss/Sessions/Session 006.md",
+                "file": "DND - Out of the Abyss/Sessions/Session 007.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Out of the Abyss/Sessions/Session 006.md",
+                "file": "DND - Out of the Abyss/Sessions/Session 007.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Out of the Abyss/Sessions/Session 006.md"
+                "file": "DND - Out of the Abyss/Sessions/Session 007.md"
               }
             }
           },
@@ -158,9 +158,10 @@
   },
   "active": "900ea66b843e099a",
   "lastOpenFiles": [
-    "DND - Out of the Abyss/Locations/Menzoberranzan.md",
-    "DND - Out of the Abyss/Sessions/Session 005.md",
     "DND - Out of the Abyss/Sessions/Session 006.md",
+    "DND - Out of the Abyss/Sessions/Session 007.md",
+    "DND - Out of the Abyss/Sessions/Session 005.md",
+    "DND - Out of the Abyss/Locations/Menzoberranzan.md",
     "DND - Drakkenheim/Sessions/Session 023.md",
     "DND - Drakkenheim/Sessions/Session 012.md",
     "DND - Drakkenheim/Sessions/Session 013.md",
@@ -183,7 +184,6 @@
     "DND - Drakkenheim/Sessions/Session 019.md",
     "DND - Drakkenheim/Sessions/Session 018.md",
     "DND - Drakkenheim/Sessions/Session 017.md",
-    "DND - Drakkenheim/Sessions/Session 015.md",
     "Images/quaggoth.png",
     "Images/npc_ilvara.png",
     "Images/npc_shuushar.png",

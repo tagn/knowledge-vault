@@ -31,5 +31,5 @@ tags:
 - Halfway through the night, they bring some mushrooms into the room. [[Ty Feteru|Ty]] is handed two trays of food/mushrooms.
 - The rest of the night is uneventful.
 - We awaken to a loud ass conversation between [[Duskplume]] and [[Buppido]] about the reason [[Buppido]] was in prison, turns out, Murder!
-- 
+
 
