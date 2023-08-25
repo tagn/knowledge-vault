@@ -29,6 +29,8 @@ tags:
 - Charm person fades from Surshar and he accuses the group of stealing the books.
 - [[Winnie]] places his bag on the ground to be searched, and signals [[Ponzi Deeproot|Ponzi]] to take care of him.
 - Surshar turns and [[Ponzi Deeproot|Ponzi]] cracks him in the head.
+- During the rumble, [[Duskplume]] casts darkness and covers up the murder, but uses it as cover to kill [[Buppido]] in cold blood.
+- We have a heated discussion about "what the fuck" just happened, then move on.
 - 
 
 
