@@ -35,3 +35,6 @@ tags:
 - [[Wyldenten Proudsky|Wyl]] and [[Keth Darklighter|Keth]] head upstairs leaving [[Arken Highbloom|Arken]] and [[Sihrr]] inside of the second burial chamber to move the rod from the second contraption back to the first.
 - Back downstairs, the chamber door we entered from shuts behind [[Arken]] and [[Sihrr]]. After swapping the rod, the opposite door opens revealing another chamber populated by [[Saint Brenna]] and various skeletons.
 - [[Arken]] successfully stole the scepter
+- We identify the scepter to be the item we've searched for.
+- We attempt to open the back door hatch, turns out it was trapped and we got torched. We swiftly exit and hear the [[Knights of the Silver Order]] have returned, but we don't want them to get the staff.
+- We hop the wall and make our exit....into a random encounter rolled failed.
