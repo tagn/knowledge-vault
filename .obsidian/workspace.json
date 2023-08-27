@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "431bc0001c3267dd",
+        "id": "cee2560b3790b8f3",
         "type": "tabs",
         "children": [
           {
-            "id": "900ea66b843e099a",
+            "id": "aec2a7fa64f46f95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 024.md",
+                "file": "Personal Misc/Session 24.5.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 024.md",
+                "file": "Personal Misc/Session 24.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 024.md"
+                "file": "Personal Misc/Session 24.5.md"
               }
             }
           },
@@ -156,14 +156,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "900ea66b843e099a",
+  "active": "aec2a7fa64f46f95",
   "lastOpenFiles": [
-    "DND - Drakkenheim/Sessions/Session 023.md",
     "DND - Drakkenheim/Sessions/Session 024.md",
-    "DND - Drakkenheim/Sessions/Session 022.md",
-    "DND - Drakkenheim/Sessions/Session 021.md",
     "DND - Drakkenheim/Sessions/Session 019.md",
     "DND - Drakkenheim/Sessions/Session 018.md",
+    "Personal Misc/Session 24.5.md",
+    "DND - Drakkenheim/Factions/Knights of the Silver Order.md",
+    "DND - Drakkenheim/Sessions/Session 023.md",
+    "DND - Drakkenheim/Sessions/Session 022.md",
+    "DND - Drakkenheim/Sessions/Session 021.md",
     "DND - Drakkenheim/Sessions/Session 017.md",
     "DND - Drakkenheim/Sessions/Session 020.md",
     "DND - Drakkenheim/Locations/Chapel of Saint Ardenna.md",
@@ -182,8 +184,6 @@
     "DND - Drakkenheim/Characters/Keth Darklighter.md",
     "DND - Drakkenheim/Characters/Arken Highbloom.md",
     "DND - Drakkenheim/Sessions/Session 016.md",
-    "DND - Out of the Abyss/Sessions/Session 004.md",
-    "DND - Drakkenheim/Creatures/Giant Clockwork Spider.md",
     "Images/quaggoth.png",
     "Images/npc_ilvara.png",
     "Images/npc_shuushar.png",
