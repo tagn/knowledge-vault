@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Misc/Characters/Unnamed Warforged/Sheet.md",
+                "file": "Personal Misc/Characters/Seven/Sheet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Misc/Characters/Unnamed Warforged/Sheet.md",
+                "file": "Personal Misc/Characters/Seven/Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Misc/Characters/Unnamed Warforged/Sheet.md"
+                "file": "Personal Misc/Characters/Seven/Sheet.md"
               }
             }
           },
@@ -133,6 +133,14 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "bc4c9257a40b9a1a",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -159,8 +167,8 @@
   "active": "aec2a7fa64f46f95",
   "lastOpenFiles": [
     "Personal Misc/Session 24.5.md",
-    "Personal Misc/Characters/Unnamed Warforged/Sheet.md",
-    "Personal Misc/Characters/Unnamed Warforged",
+    "Personal Misc/Characters/Seven/Sheet.md",
+    "Personal Misc/Characters/Seven",
     "DND - Drakkenheim/Sessions/Session 024.md",
     "DND - Drakkenheim/Sessions/Session 019.md",
     "DND - Drakkenheim/Sessions/Session 018.md",
