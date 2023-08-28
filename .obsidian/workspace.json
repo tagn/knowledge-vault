@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Misc/Characters/Seven/Backstory.md",
+                "file": "Personal Misc/Characters/Seven/Backstory V2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Misc/Characters/Seven/Backstory.md",
+                "file": "Personal Misc/Characters/Seven/Backstory V2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Misc/Characters/Seven/Backstory.md"
+                "file": "Personal Misc/Characters/Seven/Backstory V2.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "aec2a7fa64f46f95",
   "lastOpenFiles": [
-    "Personal Misc/Characters/Seven/Sheet.md",
     "Personal Misc/Characters/Seven/Backstory.md",
+    "Personal Misc/Characters/Seven/Backstory V2.md",
+    "Personal Misc/Characters/Seven/Sheet.md",
     "Personal Misc/Characters/Seven/Path of the Haze Rager.md",
     "Personal Misc/Session 24.5.md",
     "Personal Misc/Characters/Seven",
@@ -192,7 +193,6 @@
     "DND - Drakkenheim/Locations/Red Lion Hotel.md",
     "DND - Drakkenheim/Will/Skywrite Message Ideas.md",
     "DND - Drakkenheim/Characters/Wyldenten Proudsky.md",
-    "DND - Drakkenheim/Characters/Sihrr.md",
     "Images/quaggoth.png",
     "Images/npc_ilvara.png",
     "Images/npc_shuushar.png",
