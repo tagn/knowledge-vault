@@ -43,4 +43,4 @@ tags:
 - The group is returned [[Wyldenten Proudsky|Will]]'s possessions, and is forced to give up their cloaks.
 - They then realize, they are not permitted to get out through [[Shepard's Gate]]. They are given a job to regain access through the gate to leave.
 - The group goes and looks at the [[Academy Gate]] and it looks shimmery, maybe covered in webs. They decide against approaching it.
-- The party encounters [[Seven]], on the way to the Queen's Park Garden
+- The party encounters [[Seven]], on the way to the Queen's Park Garden.
