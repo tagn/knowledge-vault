@@ -1,9 +1,9 @@
 ---
 received: 2023-07-13
 type: quest
-initiator: "Queen of Blades"
-faction: "Queen's Men"
-location: "Shepard's Gate"
+initiator: Queen of Blades
+faction: Queen's Men
+location: Shepard's Gate
 fc-date:
   year: 1126
   month: 3
@@ -12,7 +12,7 @@ fc-end:
   year: 1126
   month: 4
   day: 12
-completed: false
+completed: true
 reward: ""
 ---
 

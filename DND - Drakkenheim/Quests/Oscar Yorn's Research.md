@@ -1,9 +1,9 @@
 ---
 received: 2023-07-13
 type: quest
-initiator: "River"
+initiator: River
 complete_by: ""
-completed: false
+completed: true
 reward: ""
 ---
 

@@ -1,9 +1,9 @@
 ---
 received: 2023-07-13
 type: quest
-initiator: "Elias Drexxel"
+initiator: Elias Drexxel
 complete_by: ""
-completed: false
+completed: true
 reward: ""
 ---
 
