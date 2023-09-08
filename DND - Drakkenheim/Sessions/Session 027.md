@@ -26,6 +26,16 @@ tags:
 - We pay for the services to get our contamination removed. [[Seven]] does not have to pay material costs, but pays 150 gold for the labor.
 - Everyone gets healed up, [[Seven]] seems pretty much perfect.
 - [[Keth Darklighter|Keth]] opens up the envelope that was waiting in front of her house. It's a letter written in Elvish, a dialect popular in the Underdark. It's a letter from her horrible dude, turns out he knows where she is.
+- We go check on our house, get the keys from [[Emma]]. [[Seven]] buys a set of Scale Mail from the Crowe and Sons.
+- We head over to [[Aldor the Immense]], there is a Drow next to him named [[Milando]], seems to be some other magic merchant. He beckons us to join him for a meal.
+- [[Aldor the Immense]] shows us his inventory of what he's got for sale.
+	- Some sort of pearl that might be able to hold magic.
+	- A small purple stone, very bright. Can make you harder to hit
+	- Pair of house slippers. Allows you to shift around the battlefield when you attack.
+- We head into the [[Bark & Buzzard]], [[Keth Darklighter|Keth]] is shown a light crossbow, she test fires it at [[Arken Highbloom|Arken]] with a glass over his head shattering the glass.
+- [[Keth Darklighter|Keth]] signs a contract exchanging the crossbow for an IOU. Definitely not ominous in any way.
+- He then pulls out another box containing a wand that looks like a weather vane. It is a Wand of Wonder. It does *something* when you use it, but its not really clear what it does.
+- He then pulls out a belt. It makes you healthier in some way, but has some side effects possibly. 2500 gold for it. [[Arken Highbloom|Arken]] buys it, turns out its a belt of dwarvenkind.
 - 
 
 
