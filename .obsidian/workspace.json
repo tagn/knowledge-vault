@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Quests.md",
+                "file": "DND - Drakkenheim/Sessions/Session 027.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/Quests.md",
+                "file": "DND - Drakkenheim/Sessions/Session 027.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/Quests.md"
+                "file": "DND - Drakkenheim/Sessions/Session 027.md"
               }
             }
           },
@@ -164,11 +164,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f2ed483abcf08cad",
+  "active": "aec2a7fa64f46f95",
   "lastOpenFiles": [
+    "DND - Drakkenheim/Characters/Seven.md",
+    "Personal Misc/Characters/Seven/Backstory V2.md",
+    "Personal Misc/Characters/Seven/Path of the Haze Rager.md",
+    "Personal Misc/Characters/Seven/Sheet.md",
+    "DND - Drakkenheim/Characters/Sihrr.md",
+    "DND - Drakkenheim/Sessions/Session 027.md",
+    "DND - Drakkenheim/Sessions/Session 026.md",
+    "DND - Drakkenheim/Quests.md",
     "DND - Drakkenheim/World.md",
     "DND - Drakkenheim/Quests/Oscar Yorn's Research.md",
-    "DND - Drakkenheim/Quests.md",
     "DND - Drakkenheim/Quests/This Helm Is My Ironhelm.md",
     "DND - Drakkenheim/Quests/The Queen's Lillies.md",
     "DND - Drakkenheim/Quests/Smuggler's Bar.md",
@@ -180,18 +187,11 @@
     "DND - Drakkenheim/Rumors.md",
     "DND - Drakkenheim/Will/Journal.md",
     "DND - Drakkenheim/Will/Skywrite Message Ideas.md",
-    "DND - Drakkenheim/Sessions/Session 026.md",
     "DND - Drakkenheim/Sessions/Session 015.md",
     "DND - Drakkenheim/Sessions/Session 020.md",
     "DND - Drakkenheim/Sessions/Session 025.md",
     "DND - Drakkenheim/Sessions/Session 005.md",
     "DND - Drakkenheim/Sessions/Session 010.md",
-    "DND - Drakkenheim/Sessions/Session 021.md",
-    "DND - Drakkenheim/Sessions/Session 023.md",
-    "DND - Drakkenheim/Sessions/Session 024.md",
-    "DND - Drakkenheim/Sessions/Session 001.md",
-    "DND - Drakkenheim/Characters/Seven.md",
-    "DND - Drakkenheim/Characters/Wyldenten Proudsky.md",
     "Personal Misc/Characters/Seven",
     "Images/quaggoth.png",
     "Images/npc_ilvara.png",

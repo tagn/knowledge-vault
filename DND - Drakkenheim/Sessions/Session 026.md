@@ -43,3 +43,4 @@ tags:
 - We continue down the corridor and find a pond, Eldritch lilies are seen around the chamber. There seems to be some lavish shit.
 - Chalky white skin, writhing mass of thick orange tendrils. Wears an emerald necklace, distressed black ball gown. Face covered with a cracked mask.
 - Turns out it's the queen, and looking at her is not a good thing.
+- We spend the next like two hours trying to make sure [[Keth Darklighter|Keth]] didn't die
