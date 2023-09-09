@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 027.md",
+                "file": "DND - Drakkenheim/Characters/Seven.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 027.md",
+                "file": "DND - Drakkenheim/Characters/Seven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 027.md"
+                "file": "DND - Drakkenheim/Characters/Seven.md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "aec2a7fa64f46f95",
   "lastOpenFiles": [
-    "DND - Drakkenheim/Sessions/Session 026.md",
     "DND - Drakkenheim/Sessions/Session 027.md",
+    "DND - Drakkenheim/Sessions/Session 026.md",
     "DND - Drakkenheim/Sessions/Session 024.md",
     "DND - Drakkenheim/Sessions/Session 025.md",
     "DND - Drakkenheim/Characters/Seven.md",
