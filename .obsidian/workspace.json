@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cee2560b3790b8f3",
+        "id": "87ed4dd7b6e3d803",
         "type": "tabs",
         "children": [
           {
-            "id": "aec2a7fa64f46f95",
+            "id": "5c6902689c226ab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Characters/Seven.md",
+                "file": "Personal Misc/Asheville/Places.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/Characters/Seven.md",
+                "file": "Personal Misc/Asheville/Places.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/Characters/Seven.md"
+                "file": "Personal Misc/Asheville/Places.md"
               }
             }
           },
@@ -164,13 +164,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "aec2a7fa64f46f95",
+  "active": "5c6902689c226ab7",
   "lastOpenFiles": [
+    "().md",
+    "Personal Misc/Asheville/Places.md",
+    "DND - Drakkenheim/Characters/Seven.md",
+    "Personal Misc/Asheville",
     "DND - Drakkenheim/Sessions/Session 027.md",
     "DND - Drakkenheim/Sessions/Session 026.md",
     "DND - Drakkenheim/Sessions/Session 024.md",
     "DND - Drakkenheim/Sessions/Session 025.md",
-    "DND - Drakkenheim/Characters/Seven.md",
     "Personal Misc/Characters/Seven/Backstory V2.md",
     "Personal Misc/Characters/Seven/Path of the Haze Rager.md",
     "Personal Misc/Characters/Seven/Sheet.md",
@@ -190,8 +193,6 @@
     "DND - Drakkenheim/Will/Journal.md",
     "DND - Drakkenheim/Will/Skywrite Message Ideas.md",
     "DND - Drakkenheim/Sessions/Session 015.md",
-    "DND - Drakkenheim/Sessions/Session 020.md",
-    "DND - Drakkenheim/Sessions/Session 005.md",
     "Personal Misc/Characters/Seven",
     "Images/quaggoth.png",
     "Images/npc_ilvara.png",
@@ -210,7 +211,6 @@
     "DND - Out of the Abyss/Factions",
     "DND - Out of the Abyss/Quests",
     "DND - Out of the Abyss/NPCS",
-    "Scripts/getThisCampaignMetadata.js",
-    "Scripts/getThisCampaignLocations.js"
+    "Scripts/getThisCampaignMetadata.js"
   ]
 }
