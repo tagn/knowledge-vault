@@ -36,6 +36,6 @@ tags:
 - [[Keth Darklighter|Keth]] signs a contract exchanging the crossbow for an IOU. Definitely not ominous in any way.
 - He then pulls out another box containing a wand that looks like a weather vane. It is a Wand of Wonder. It does *something* when you use it, but its not really clear what it does.
 - He then pulls out a belt. It makes you healthier in some way, but has some side effects possibly. 2500 gold for it. [[Arken Highbloom|Arken]] buys it, turns out its a belt of dwarvenkind.
-- 
+- We go and argue with the [[Ironhelm]] dwarves about getting back [[Wyldenten Proudsky|Wyl]]'s gun. They were complete dicks about it. 
 
 
