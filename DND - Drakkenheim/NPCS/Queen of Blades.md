@@ -12,6 +12,7 @@ tags:
 ---
 ## Description
 
+She appears to be human.
 
 ## Quests
 ```dataview
