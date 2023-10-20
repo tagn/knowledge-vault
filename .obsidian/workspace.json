@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "87ed4dd7b6e3d803",
+        "id": "00524942bf9a07ae",
         "type": "tabs",
         "children": [
           {
-            "id": "5c6902689c226ab7",
+            "id": "bb6f001e2f1a9dd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 029.md",
+                "file": "DND - Drakkenheim/Sessions/Session 030.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 029.md",
+                "file": "DND - Drakkenheim/Sessions/Session 030.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 029.md"
+                "file": "DND - Drakkenheim/Sessions/Session 030.md"
               }
             }
           },
@@ -174,11 +174,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5c6902689c226ab7",
+  "active": "bb6f001e2f1a9dd9",
   "lastOpenFiles": [
-    "DND - Drakkenheim/Rumors.md",
+    "DND - Drakkenheim/Characters/Seven.md",
+    "DND - Drakkenheim/Sessions/Session 030.md",
     "DND - Drakkenheim/Sessions/Session 029.md",
+    "Personal Misc/Characters/Seven/Path of the Haze Rager.md",
+    "DND - Drakkenheim/World.md",
+    "DND - Drakkenheim/Quests.md",
+    "DND - Drakkenheim/Reference/Travel.md",
+    "DND - Drakkenheim/Reference/Delerium.md",
+    "DND - Drakkenheim/Reference/Haze.md",
+    "DND - Drakkenheim/Meta/Buttons.md",
+    "DND - Drakkenheim/Characters/Sihrr.md",
     "DND - Drakkenheim/Reference/Contamination.md",
+    "DND - Drakkenheim/Rumors.md",
+    "DND - Drakkenheim/Locations/Shrine of the Old Gods.md",
     "DND - Drakkenheim/Sessions/Session 028.md",
     "DND - Drakkenheim/NPCS/Queen of Blades.md",
     "DND - Drakkenheim/Will/Journal.md",
@@ -188,20 +199,9 @@
     "DND - Drakkenheim/Factions/Hooded Lanterns.md",
     "DND - Drakkenheim/Factions/Church of the Falling Fire.md",
     "DND - Drakkenheim/Factions/Amethyst Academy.md",
-    "DND - Drakkenheim/Quests.md",
     "DND - Drakkenheim/Sessions/Session 008.md",
     "DND - Drakkenheim/NPCS/Archmage Adriana Modiera.md",
     "DND - Drakkenheim/Sessions/Session 022.md",
-    "DND - Drakkenheim/Sessions/Session 024.md",
-    "DND - Drakkenheim/Sessions/Session 025.md",
-    "DND - Drakkenheim/Quests/This Helm Is My Ironhelm.md",
-    "DND - Drakkenheim/Quests/Smuggler's Bar.md",
-    "DND - Drakkenheim/Quests/Oscar Yorn's Research.md",
-    "DND - Drakkenheim/Quests/Ironhelm Delerium Exclusivity.md",
-    "DND - Drakkenheim/Quests/Bomb the Gate.md",
-    "DND - Drakkenheim/Reference/Travel.md",
-    "DND - Drakkenheim/Reference/Haze.md",
-    "DND - Drakkenheim/Reference/Delerium.md",
     "Personal Misc/Asheville",
     "Personal Misc/Characters/Seven",
     "Images/quaggoth.png",
