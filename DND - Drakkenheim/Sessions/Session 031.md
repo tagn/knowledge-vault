@@ -35,6 +35,9 @@ tags:
 	- She asks if he is present in the city of [[Drakkenheim]], he receives a "yes"
 	- She asks "is he himself", it spins a half turn clockwise, then breaks and falls into the water.
 - We don't have much time left in the haze. [[Lucritia]] departs the tent and we start to get a sense back of reality of the situation we're in.
+- We encounter some weird fish folk that rush at us singing on our way back to [[Emberwood Village]] after failing an encounter check.
+- We wipe the floor with the creatures.
+- We continue back to [[Emberwood Village]] to the [[Chapel of Saint Ardenna]] to see [[Flamekeeper Hannah]] about getting some contamination cured.
 - 
 
 
