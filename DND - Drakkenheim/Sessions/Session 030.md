@@ -45,5 +45,7 @@ tags:
 - Using some minor heals a healers kit, we get all of the fallen out of risk of immediate death.
 - We hear a wailing/moaning and are ambushed by some creatures.
 - [[Seven]] gains two levels of contamination and takes the Spider Climb mutation.
+- [[Seven]] also "gains" the Eyeless sight mutation, his eyes become milky orbs.
+- 
 
 

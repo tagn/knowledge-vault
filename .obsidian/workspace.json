@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "00524942bf9a07ae",
+        "id": "a490037ff2ce2d31",
         "type": "tabs",
         "children": [
           {
-            "id": "bb6f001e2f1a9dd9",
+            "id": "2b6f4193820bc2b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 030.md",
+                "file": "DND - Drakkenheim/Sessions/Session 031.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 030.md",
+                "file": "DND - Drakkenheim/Sessions/Session 031.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 030.md"
+                "file": "DND - Drakkenheim/Sessions/Session 031.md"
               }
             }
           },
@@ -174,10 +174,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bb6f001e2f1a9dd9",
+  "active": "2b6f4193820bc2b0",
   "lastOpenFiles": [
-    "DND - Drakkenheim/Characters/Seven.md",
+    "Arken.md",
+    "DND - Drakkenheim/Sessions/Session 031.md",
     "DND - Drakkenheim/Sessions/Session 030.md",
+    "DND - Drakkenheim/Characters/Seven.md",
     "DND - Drakkenheim/Sessions/Session 029.md",
     "Personal Misc/Characters/Seven/Path of the Haze Rager.md",
     "DND - Drakkenheim/World.md",
@@ -200,8 +202,6 @@
     "DND - Drakkenheim/Factions/Church of the Falling Fire.md",
     "DND - Drakkenheim/Factions/Amethyst Academy.md",
     "DND - Drakkenheim/Sessions/Session 008.md",
-    "DND - Drakkenheim/NPCS/Archmage Adriana Modiera.md",
-    "DND - Drakkenheim/Sessions/Session 022.md",
     "Personal Misc/Asheville",
     "Personal Misc/Characters/Seven",
     "Images/quaggoth.png",
