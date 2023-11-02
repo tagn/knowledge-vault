@@ -38,6 +38,11 @@ tags:
 - We encounter some weird fish folk that rush at us singing on our way back to [[Emberwood Village]] after failing an encounter check.
 - We wipe the floor with the creatures.
 - We continue back to [[Emberwood Village]] to the [[Chapel of Saint Ardenna]] to see [[Flamekeeper Hannah]] about getting some contamination cured.
-- 
+- We discuss strategies for handling the dwarves. Likely we're going to be going with a sabotage style plan where we. 
+- We talk about what's up with the [[Church of the Falling Fire]] for a bit, and how we don't typically see people returning from the pilgrimage.
+- [[Milando]] is in our house when we arrive, he made us pancakes and left us a housewarming plant.
+- [[Keth Darklighter|Keth]] learns that eating the berries could maybe do something, but we shouldn't mix them.
+- [[Seven]] eats a gritty Grey berry.
+- [[Seven]] awakens? as a statue on the front doorstep. Whoopsie oopsie.
 
 
