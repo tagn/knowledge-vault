@@ -29,4 +29,7 @@ tags:
 - [[Arken Highbloom|Arken]] gets a message from what we assume to be the female dwarf that it's not nice to wait on someone's porch unannounced.
 - We break in, nobody is home. Leave them a note that we might be allies.
 - We get home, on our door there is a note from the Iconics saying "We know where you live too, don't get any ideas."
-- 
+- Scouting for the dwarves, it looks like around three times a day a group of dwarves/hooded lanterns move in or out of the city
+	- Around 6AM a group of hooded lanterns and dwarves are outbound. Roughly 15 people. 
+	- Around 3PM a group comes back from the scar.
+	- Once in two days, a group came back around 10PM.
