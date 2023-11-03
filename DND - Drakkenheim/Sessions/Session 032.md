@@ -26,4 +26,7 @@ tags:
 - [[Arken Highbloom|Arken]] heads by himself over to the watchtower to inquire about work.
 - [[Ansom Lang]] tells him they've recently had a problem with another group of adventurers ambushing patrols in the city.  They call themselves the "Iconics" now, but we believe them to be the "Favored Few".
 - We go looking for them, they don't seem home. We wait outside for a bit.
-- [[Arken Highbloom|Arken]]
+- [[Arken Highbloom|Arken]] gets a message from what we assume to be the female dwarf that it's not nice to wait on someone's porch unannounced.
+- We break in, nobody is home. Leave them a note that we might be allies.
+- We get home, on our door there is a note from the Iconics saying "We know where you live too, don't get any ideas."
+- 
