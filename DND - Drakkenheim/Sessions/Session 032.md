@@ -22,4 +22,6 @@ tags:
 - They spend 2000 gold on the potion.
 - They pour the jar of mayonnaise onto [[Seven]]. He comes back to normal and tries to figure out what's going on.
 - We discuss how to handle the watch over the [[Hooded Lanterns]] and [[Ironhelm]] dwarves.
+- [[Keth Darklighter|Keth]] gets a sending one day from [[Milando]] and he asks if everyone is okay.
+- [[Arken Highbloom|Arken]] heads by himself over to the watchtower to inquire about work.
 - 
