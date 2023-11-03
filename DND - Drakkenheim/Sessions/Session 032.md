@@ -24,4 +24,4 @@ tags:
 - We discuss how to handle the watch over the [[Hooded Lanterns]] and [[Ironhelm]] dwarves.
 - [[Keth Darklighter|Keth]] gets a sending one day from [[Milando]] and he asks if everyone is okay.
 - [[Arken Highbloom|Arken]] heads by himself over to the watchtower to inquire about work.
-- 
+- [[Ansom Lang]] tells him they've recently had a problem with another group of adventurers ambushing patrols in the city. 
