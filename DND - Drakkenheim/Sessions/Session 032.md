@@ -25,4 +25,5 @@ tags:
 - [[Keth Darklighter|Keth]] gets a sending one day from [[Milando]] and he asks if everyone is okay.
 - [[Arken Highbloom|Arken]] heads by himself over to the watchtower to inquire about work.
 - [[Ansom Lang]] tells him they've recently had a problem with another group of adventurers ambushing patrols in the city.  They call themselves the "Iconics" now, but we believe them to be the "Favored Few".
-- 
+- We go looking for them, they don't seem home. We wait outside for a bit.
+- [[Arken Highbloom|Arken]]
