@@ -11,8 +11,13 @@
             "id": "5a0f94623c147091",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DND - Drakkenheim/Sessions/Session 032.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.51103591918945
+    "width": 325.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DND - Drakkenheim/Sessions/Session 032.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DND - Drakkenheim/Sessions/Session 032.md"
+              }
             }
           },
           {
@@ -168,6 +177,7 @@
   },
   "active": "5a0f94623c147091",
   "lastOpenFiles": [
+    "DND - Drakkenheim/Sessions/Session 032.md",
     "DND - Drakkenheim/Characters/Seven.md",
     "DND - Drakkenheim/Characters/Wyldenten Proudsky.md",
     "DND - Drakkenheim/Characters/Keth Darklighter.md",
@@ -194,7 +204,6 @@
     "DND - Drakkenheim/NPCS/Queen of Blades.md",
     "DND - Drakkenheim/Will/Journal.md",
     "DND - Drakkenheim/Will/Skywrite Message Ideas.md",
-    "DND - Drakkenheim/Sessions/Session 027.md",
     "Personal Misc/Asheville",
     "Personal Misc/Characters/Seven",
     "Images/quaggoth.png",
