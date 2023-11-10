@@ -20,4 +20,5 @@ tags:
 - We try to fuck up the deal between [[Oscar Yorn]] and the [[Hooded Lanterns]].
 - [[Seven]] attempts to make some mutations happen to himself so [[Oscar Yorn]] can try to tinker with him, but after gaining three levels of contamination it doesn't have any effect.
 - [[Klingberg Estate]] might be a lead on finding [[Justin Tousant]] for [[Sihrr]].
+- Through the academy gate, [[Seven]] sees a vision of [[Drakkenheim]] covered in flames.
 - 
