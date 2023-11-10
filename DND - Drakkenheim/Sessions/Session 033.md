@@ -25,4 +25,5 @@ tags:
 - [[Keth Darklighter|Keth]] follows after them
 - We approach the gate, we're both incapacitated and collapse to the ground. We both receive a level of "Drakkenheim Madness".
 	- [[Seven]] feels compelled to believe: "The monsters are civilians trying to live a peaceful life! We need to protect them!"
+- [[Seven]] approaches the gate, then reaches through to help a girl who is injured. The web/glimmer shatters.
 - 
