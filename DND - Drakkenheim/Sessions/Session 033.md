@@ -17,4 +17,4 @@ tags:
 - If we encounter a Chuule again, they'd like the sack inside of it.
 - We inquire about buying/selling potions. Matt buys some Aqua Delerium, we buy a few "healing potions"
 - Gemma made some shitty potion, now Oscar is mad.
-- 
+- We try to fuck up the deal with 
