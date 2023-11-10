@@ -21,4 +21,8 @@ tags:
 - [[Seven]] attempts to make some mutations happen to himself so [[Oscar Yorn]] can try to tinker with him, but after gaining three levels of contamination it doesn't have any effect.
 - [[Klingberg Estate]] might be a lead on finding [[Justin Tousant]] for [[Sihrr]].
 - Through the academy gate, [[Seven]] sees a vision of [[Drakkenheim]] covered in flames.
+- [[Seven]] kind of believes whatever is happening is real and he feels compelled to get closer to help.
+- [[Keth Darklighter|Keth]] follows after them
+- We approach the gate, we're both incapacitated and collapse to the ground. We both receive a level of "Drakkenheim Madness".
+	- [[Seven]] feels compelled to believe: "The monsters are civilians trying to live a peaceful life! We need to protect them!"
 - 
