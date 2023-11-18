@@ -20,4 +20,4 @@ tags:
 - [[Seven]] dies half a dozen times. Mostly to [[Sihrr]] because he's out of his fucking mind.
 - We find in a back room of the building what may be a smuggling tunnel.
 - We find a locked door to a room, inside we find a ring with a shield looking thing on it. A staff with two bright white wings coming off of it.
-- 
+- [[Keth Darklighter|Keth]] skins another corpse and dons it. Then when we get back to Emberwood she scares the shit out of somebody.
