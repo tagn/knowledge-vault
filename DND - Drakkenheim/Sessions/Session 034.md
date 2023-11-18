@@ -17,4 +17,5 @@ tags:
 - [[Keth Darklighter|Keth]] hears the banging coming from further back. [[Seven]] checks in then takes a seat and wait to see what happens.
 - [[Sihrr]] shouts out it might be the "hands". He hears something back behind us skittering.
 - We enter combat with a large red toad. A creature floats through a wall, it's incorporeal but retakes physical form after it passes through the wall.
-- 
+- [[Seven]] dies half a dozen times. Mostly to [[Sihrr]] because he's out of his fucking mind.
+- We find in a back room of the building what may be a smuggling tunnel.
