@@ -16,4 +16,5 @@ tags:
 - [[Keth Darklighter|Keth]] takes the lead sneaking into the building to figure out if there is something causing the sound. The group follows from a safe distance back.
 - [[Keth Darklighter|Keth]] hears the banging coming from further back. [[Seven]] checks in then takes a seat and wait to see what happens.
 - [[Sihrr]] shouts out it might be the "hands". He hears something back behind us skittering.
-- We enter combat with a large red toad. A creature floats through a wall, it's incorporeal but retakes physical form after it passes through the wall. Seven drops from 54 to 
+- We enter combat with a large red toad. A creature floats through a wall, it's incorporeal but retakes physical form after it passes through the wall.
+- 
