@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Misc/Characters/New Unnamed/New Character Idea.md",
+                "file": "DND - Drakkenheim/Reference/Apothecary Spell List.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Misc/Characters/New Unnamed/New Character Idea.md",
+                "file": "DND - Drakkenheim/Reference/Apothecary Spell List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Misc/Characters/New Unnamed/New Character Idea.md"
+                "file": "DND - Drakkenheim/Reference/Apothecary Spell List.md"
               }
             }
           },
@@ -174,36 +174,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5a0f94623c147091",
+  "active": "f2ed483abcf08cad",
   "lastOpenFiles": [
-    "DND - Drakkenheim/Sessions/Session 035.md",
     "Personal Misc/Characters/New Unnamed/New Character Idea.md",
+    "DND - Drakkenheim/Reference/Apothecary Spell List.md",
+    "DND - Drakkenheim/Characters/Wyldenten Proudsky.md",
+    "DND - Drakkenheim/Characters/Seven.md",
+    "DND - Drakkenheim/Characters/Keth Darklighter.md",
+    "DND - Drakkenheim/Characters/Arken Highbloom.md",
+    "DND - Drakkenheim/Locations/Scrag Lane.md",
+    "DND - Drakkenheim/Locations/Emberwood Village.md",
+    "DND - Drakkenheim/Locations/Bark & Buzzard.md",
+    "DND - Drakkenheim/World.md",
+    "DND - Drakkenheim/Rumors.md",
+    "DND - Drakkenheim/Quests.md",
+    "DND - Drakkenheim/Will/Journal.md",
+    "DND - Drakkenheim/Will/Skywrite Message Ideas.md",
+    "Personal Misc/Session 24.5.md",
+    "Personal Misc/Packing List - Berlin.md",
+    "Personal Misc/Desired Functionality.md",
+    "Personal Misc/Characters/New Unnamed/Untitled",
+    "DND - Drakkenheim/Sessions/Session 035.md",
     "Personal Misc/Characters/New Unnamed",
     "DND - Drakkenheim/Sessions/Session 034.md",
     "DND - Drakkenheim/Sessions/Session 032.md",
     "DND - Drakkenheim/Sessions/Session 033.md",
     "DND - Drakkenheim/Reference/Delerium.md",
     "DND - Drakkenheim/Reference/Contamination.md",
-    "DND - Drakkenheim/Quests.md",
     "DND - Drakkenheim/Sessions/Session 013.md",
     "DND - Drakkenheim/Sessions/Session 012.md",
     "DND - Drakkenheim/Sessions/Session 011.md",
-    "DND - Drakkenheim/Sessions/Session 010.md",
-    "DND - Drakkenheim/Sessions/Session 009.md",
-    "DND - Drakkenheim/Sessions/Session 008.md",
-    "DND - Drakkenheim/Sessions/Session 007.md",
-    "DND - Drakkenheim/Sessions/Session 005.md",
-    "DND - Drakkenheim/Sessions/Session 006.md",
-    "DND - Drakkenheim/Sessions/Session 004.md",
-    "DND - Drakkenheim/Sessions/Session 031.md",
-    "DND - Drakkenheim/Characters/Seven.md",
-    "DND - Drakkenheim/Characters/Wyldenten Proudsky.md",
-    "DND - Drakkenheim/Characters/Keth Darklighter.md",
-    "DND - Drakkenheim/Characters/Arken Highbloom.md",
-    "README.md",
-    "().md",
     "Personal Misc/Archived",
-    "DND - Drakkenheim/Sessions/Session 030.md",
     "Personal Misc/Asheville",
     "Personal Misc/Characters/Seven",
     "Images/quaggoth.png",
@@ -220,7 +221,6 @@
     "Personal Misc/Characters/Wyldenten Proudsky",
     "Personal Misc/Characters/Turdis",
     "Personal Misc/Characters",
-    "Personal Misc/Archived/DND - Out of the Abyss/Factions",
-    "Personal Misc/Archived/DND - Out of the Abyss/Quests"
+    "Personal Misc/Archived/DND - Out of the Abyss/Factions"
   ]
 }
