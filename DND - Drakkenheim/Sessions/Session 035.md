@@ -19,7 +19,8 @@ tags:
 - We go down to the [[Shepard's Gate]] to attempt to pay the [[Hooded Lanterns]]. They ask our business, we refuse to tell them at first, then suggest we're going to the [[Queen's Garden]]
 - [[Petra Lang]] comes and greets us. She seems partially healed, and her voice is rough.
 - We pay 100 gold to get through the gate.
-- The gate will close at midnight. 
+- The gate will close at sundown. 
+- 
 
 
 
