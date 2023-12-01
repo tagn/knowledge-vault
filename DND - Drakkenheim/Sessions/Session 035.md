@@ -20,6 +20,8 @@ tags:
 - [[Petra Lang]] comes and greets us. She seems partially healed, and her voice is rough.
 - We pay 100 gold to get through the gate.
 - The gate will close at sundown. 
+- We roll double 1's on our initial inner city encounter check. We hear some sort of screeching. A wraith looking creature comes out of the wall and attempts to drain the life from [[Arken Highbloom|Arken]].
+- Next, a naked appearing human with taloned hands and bird wings comes flying at the group and charms us.
 - 
 
 
