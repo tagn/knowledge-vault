@@ -15,7 +15,9 @@ tags:
 - [[Arken Highbloom|Arken]] is now a snake person.
 - We intend to go into [[Drakkenheim]] to take our escort over to the [[Queen's Garden]] with the guy we met over at [[Oscar Yorn]]'s abode.
 - We fail our encounter check while going into [[Drakkenheim]]. We encounter a group of knights of the Silver Order. They seem anxious with us around, we quickly continue on our way.
-- 
+- We approach the [[Academy Gate]] and Marco suggests we don't go through there.
+- We go down to the [[Shepard's Gate]] to attempt to pay the [[Hooded Lanterns]]. They ask our business, we refuse to tell them at first, then suggest we're going to the [[Queen's Garden]]
+- [[Petra Lang]] comes and greets us. She seems partially healed, and her voice is rough.
 
 
 
