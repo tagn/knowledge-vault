@@ -13,7 +13,7 @@ tags:
 ## Event Log
 
 - [[Arken Highbloom|Arken]] is now a snake person.
-- 
+- We intend to go into [[Drakkenheim]] to 
 
 
 
