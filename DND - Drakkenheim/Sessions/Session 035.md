@@ -12,6 +12,7 @@ tags:
 
 ## Event Log
 
+- [[Arken Highbloom|Arken]] is now a snake person.
 - 
 
 
