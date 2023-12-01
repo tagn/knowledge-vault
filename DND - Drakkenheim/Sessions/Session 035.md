@@ -22,7 +22,7 @@ tags:
 - The gate will close at sundown. 
 - We roll double 1's on our initial inner city encounter check. We hear some sort of screeching. A wraith looking creature comes out of the wall and attempts to drain the life from [[Arken Highbloom|Arken]].
 - Next, a naked appearing human with taloned hands and bird wings comes flying at the group and charms us.
-- 
+- RIP [[Seven]]. Used a heavy blow to force myself into a monsterous transformation to give the party an opportunity to run.
 
 
 
