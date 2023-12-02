@@ -23,7 +23,7 @@ This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level 
 **Components:** V, S
 **Duration:** Instantaneous
 
-You attack a creature in range with a quick spreading infection that takes advantage of existing conditions. Make a ranged spell attack against a target, on a hit the infection does 1d8 necrotic damage to the target. If the target is suffering from the poisoned condition or a disease, it instead takes Id12 necrotic damage. 
+You attack a creature in range with a quick spreading infection that takes advantage of existing conditions. Make a ranged spell attack against a target, on a hit the infection does 1d8 necrotic damage to the target. If the target is suffering from the poisoned condition or a disease, it instead takes 1d12 necrotic damage. 
 
 The spell's damage increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12).
 
@@ -36,11 +36,11 @@ The spell's damage increases by one die when you reach 5th level (2d8 or 2d12), 
 **Components:** V, S
 **Duration:** Instantaneous
 
-You launch a conjured dart coated with lethal poison at a creature you can see within range. Make a ranged spell attack against the target. On a hit, the target takes Idro poison damage.
+You launch a conjured dart coated with lethal poison at a creature you can see within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 poison damage.
 
-If the poison damage reduces the target to o hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
-This spell's damage increases by 1d10 when you reach 5th level (2010), 11th level (3d10), and 17th level (4d10).
+This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
 ## 1st Level
 
