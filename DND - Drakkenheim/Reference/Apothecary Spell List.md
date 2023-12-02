@@ -237,3 +237,20 @@ One target you choose within range must make a Constitution saving throw or take
 
 You emit a baleful aura which disorients creatures who approach you. Any creatures that start their turn within 10 feet of you are poisoned until the start of their next turn.
 
+
+
+## Special
+
+Unique/homebrew spells.
+
+### Hag's Caress
+*1st-level necromancy*
+
+**Casting Time:** 1 action
+**Range:** Touch
+**Components:** V, S
+**Duration:** Instantaneous
+
+You reach out and touch a creature, channeling the malevolent energy of the hag. The target must make a Constitution saving throw. On a failed save, the target takes 2d8 necrotic damage, and you regain hit points equal to half the amount of necrotic damage dealt. On a successful save, the target takes half damage, and you do not regain any hit points.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the necrotic damage increases by 1d8 for each slot level above 1st.
