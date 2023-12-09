@@ -11,8 +11,13 @@
             "id": "c352ff39f93236e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal Misc/Characters/Silas Nightshade/Background.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal Misc/Characters/Silas Nightshade/Background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal Misc/Characters/Silas Nightshade/Background.md"
+              }
             }
           },
           {
@@ -168,9 +176,12 @@
   },
   "active": "c352ff39f93236e3",
   "lastOpenFiles": [
+    "Personal Misc/Characters/Silas Nightshade/Faction Relationships.md",
+    "Personal Misc/Characters/Silas Nightshade/Stats and Choices.md",
+    "Personal Misc/Characters/Silas Nightshade/Background.md",
+    "Personal Misc/Characters/Silas Nightshade/Untitled",
+    "Personal Misc/Characters/Silas Nightshade/Character Sheet.md",
     "DND - Drakkenheim/Reference/Apothecary Spell List.md",
-    "Personal Misc/Characters/New Unnamed/New Character Idea.md",
-    "Personal Misc/Characters/New Unnamed/Character Sheet.md",
     "DND - Drakkenheim/Creatures/Giant Clockwork Spider.md",
     "DND - Drakkenheim/Creatures/Haze Hulk.md",
     "DND - Drakkenheim/Creatures/Haze Hulk Juggernaut.md",
@@ -193,9 +204,7 @@
     "Personal Misc/Packing List - Berlin.md",
     "Personal Misc/Desired Functionality.md",
     "Personal Misc/Characters/New Unnamed/Untitled",
-    "DND - Drakkenheim/Sessions/Session 035.md",
-    "Personal Misc/Characters/New Unnamed",
-    "DND - Drakkenheim/Sessions/Session 034.md",
+    "Personal Misc/Characters/Silas Nightshade",
     "Personal Misc/Archived",
     "Personal Misc/Asheville",
     "Personal Misc/Characters/Seven",
@@ -212,7 +221,6 @@
     "Personal Misc/Characters/Ponzi Deeproot",
     "Personal Misc/Characters/Wyldenten Proudsky",
     "Personal Misc/Characters/Turdis",
-    "Personal Misc/Characters",
-    "Personal Misc/Archived/DND - Out of the Abyss/Factions"
+    "Personal Misc/Characters"
   ]
 }
