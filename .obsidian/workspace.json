@@ -11,8 +11,13 @@
             "id": "d9f7820c26885e86",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DND - Drakkenheim/Sessions/Session 036.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DND - Drakkenheim/Sessions/Session 036.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DND - Drakkenheim/Sessions/Session 036.md"
+              }
             }
           },
           {
@@ -168,6 +176,7 @@
   },
   "active": "d9f7820c26885e86",
   "lastOpenFiles": [
+    "DND - Drakkenheim/Sessions/Session 036.md",
     "DND - Drakkenheim/Sessions/Session 035.md",
     "Personal Misc/Characters/Silas Nightshade/Stats and Choices.md",
     "DND - Drakkenheim/Reference/Apothecary Spell List.md",
@@ -194,7 +203,6 @@
     "DND - Drakkenheim/Will/Journal.md",
     "DND - Drakkenheim/Will/Skywrite Message Ideas.md",
     "Personal Misc/Session 24.5.md",
-    "Personal Misc/Packing List - Berlin.md",
     "Personal Misc/Characters/New Unnamed/Untitled",
     "Personal Misc/Characters/Silas Nightshade",
     "Personal Misc/Archived",
