@@ -16,6 +16,7 @@ tags:
 - The gang thinks of some stupid ass ideas to get themselves killed.
 - The gang fucks about at the red lion in.
 - The gang fucks about at the gilded lily.
-- The group meets [[Silas]]
+- The group meets [[Silas]] in the gilded lily, who inquires about hired help to venture into the city.
+- 
 
 
