@@ -17,6 +17,6 @@ tags:
 - The gang fucks about at the red lion in.
 - The gang fucks about at the gilded lily.
 - The group meets [[Silas]] in the gilded lily, who inquires about hired help to venture into the city.
-- 
+- After a night of rest, the group heads into the city to investigate a sewer.
 
 
