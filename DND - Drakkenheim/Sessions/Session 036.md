@@ -12,7 +12,7 @@ tags:
 
 ## Event Log
 
-- The group fucks about in the garrison.
-- 
+- The gang fucks about in the garrison.
+- The gang thinks of some stupid ass ideas to get themselves killed.
 
 
