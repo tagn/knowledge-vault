@@ -12,6 +12,7 @@ tags:
 
 ## Event Log
 
+- The group fucks about in the garrison.
 - 
 
 
