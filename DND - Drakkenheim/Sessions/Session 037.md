@@ -22,4 +22,8 @@ tags:
 - After dispatching the two ogre looking fellas, we dip out before the water weird becomes reactive again.
 - Our next search finds us 6 [[Delerium]] fragments
 - We continue searching towards Drakkenheim inner city to see if there is a pathway in via the sewers.
+- Silas receives a mutation, two eyes manifest from his crown.
+- We wander near to the Temple Gate and find a shanty town/encampment near the gate, with a bunch of Garmyr? It seems like way too much to handle ourselves.
+- We find a metal fence/portcullis that may lead into the city. We'd have to break it or something to get through.
+- Keth finds some markings depicting some information about the Garymr camp.
 - 
