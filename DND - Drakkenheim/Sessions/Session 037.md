@@ -18,4 +18,5 @@ tags:
 - We search around and find 6 [[Delerium]] chips.
 - We search for signs of the [[Queen's Men]] or similar and end up finding a small cache with 25g and a potion of healing.
 - We fail an encounter check while searching for more [[Delerium]].
+- Used Vital Signs against Sihrr, down until I short/long rest for him.
 
