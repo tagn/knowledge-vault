@@ -19,4 +19,5 @@ tags:
 - We search for signs of the [[Queen's Men]] or similar and end up finding a small cache with 25g and a potion of healing.
 - We fail an encounter check while searching for more [[Delerium]].
 - Used Vital Signs against Sihrr, down until I short/long rest for him.
+- After dispatching the two ogre looking fellas, we dip out before the water weird becomes reactive again.
 
