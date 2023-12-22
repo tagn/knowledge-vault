@@ -18,7 +18,7 @@ tags:
 - We search around and find 6 [[Delerium]] chips. Silas keeps one.
 - We search for signs of the [[Queen's Men]] or similar and end up finding a small cache with 25g and a potion of healing.
 - We fail an encounter check while searching for more [[Delerium]].
-- Used Vital Signs against Sihrr, down until I short/long rest for him.
+- Used Vital Signs against Sihrr, down until I short/long rest for him. (Recovered it on a short rest)
 - After dispatching the two ogre looking fellas, we dip out before the water weird becomes reactive again.
 - Our next search finds us 6 [[Delerium]] fragments
 - We continue searching towards Drakkenheim inner city to see if there is a pathway in via the sewers.
@@ -27,3 +27,5 @@ tags:
 - We find a metal fence/portcullis that may lead into the city. We'd have to break it or something to get through.
 - Keth finds some markings depicting some information about the Garymr camp.
 - We find ourselves in another precarious situation underground in the sewers. Some strange creatures break themselves off of the wall.
+- Used Vital signs on Arken
+- 
