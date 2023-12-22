@@ -15,9 +15,11 @@ tags:
 - We pick up right after our combat.
 - The group investigates the sewers travelling towards the direction of the inner city.
 - After exploring for a bit: inside the Sprawl area, we have a decent idea of where entry and exits may be within the sewers.
-- We search around and find 6 [[Delerium]] chips.
+- We search around and find 6 [[Delerium]] chips. Silas keeps one.
 - We search for signs of the [[Queen's Men]] or similar and end up finding a small cache with 25g and a potion of healing.
 - We fail an encounter check while searching for more [[Delerium]].
 - Used Vital Signs against Sihrr, down until I short/long rest for him.
 - After dispatching the two ogre looking fellas, we dip out before the water weird becomes reactive again.
-
+- Our next search finds us 6 [[Delerium]] fragments
+- We continue searching towards Drakkenheim inner city to see if there is a pathway in via the sewers.
+- 
