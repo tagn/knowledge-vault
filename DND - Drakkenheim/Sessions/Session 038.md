@@ -12,6 +12,7 @@ tags:
 
 ## Event Log
 
-
-
+- On our way out of town we encounter..dundundun..the Iconics.
+- KEITH!
+- 
 
