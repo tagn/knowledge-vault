@@ -14,5 +14,11 @@ tags:
 
 - On our way out of town we encounter..dundundun..the Iconics.
 - KEITH!
+- We kill the Iconics.
+	- Shelldon, looted some magic greatsword, 
+	- Grita, hand axes,
+	- Breastplate from Keith
+	- Wand from the goblin
+	- 
 - 
 
