@@ -27,5 +27,5 @@ tags:
 - We find a metal fence/portcullis that may lead into the city. We'd have to break it or something to get through.
 - Keth finds some markings depicting some information about the Garymr camp.
 - We find ourselves in another precarious situation underground in the sewers. Some strange creatures break themselves off of the wall.
-- Used Vital signs on Arken
+- Used Vital signs on Arken, Keth
 - 
