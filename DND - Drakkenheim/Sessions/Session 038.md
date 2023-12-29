@@ -19,6 +19,7 @@ tags:
 	- Grita, hand axes,
 	- Breastplate from Keith
 	- Wand from the goblin
-	- 
+- We make it back to Emberwood. Arken gets cured of contamination from Flamekeeper Hannah.
+- Silas cures his own contamination by exploding into zits.
 - 
 
