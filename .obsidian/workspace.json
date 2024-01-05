@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 038.md",
+                "file": "DND - Drakkenheim/Sessions/Session 039.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 038.md",
+                "file": "DND - Drakkenheim/Sessions/Session 039.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 038.md"
+                "file": "DND - Drakkenheim/Sessions/Session 039.md"
               }
             }
           },
@@ -140,7 +140,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -176,8 +178,9 @@
   },
   "active": "d9f7820c26885e86",
   "lastOpenFiles": [
-    "DND - Drakkenheim/Sessions/Session 037.md",
     "DND - Drakkenheim/Sessions/Session 038.md",
+    "DND - Drakkenheim/Sessions/Session 039.md",
+    "DND - Drakkenheim/Sessions/Session 037.md",
     "DND - Drakkenheim/Sessions/Session 036.md",
     "Personal Misc/Characters/Silas Nightshade/Stats and Choices.md",
     "Personal Misc/Characters/Silas Nightshade/Faction Relationships.md",
@@ -202,7 +205,6 @@
     "DND - Drakkenheim/Characters/Keth Darklighter.md",
     "DND - Drakkenheim/Characters/Arken Highbloom.md",
     "DND - Drakkenheim/Locations/Scrag Lane.md",
-    "DND - Drakkenheim/Locations/Emberwood Village.md",
     "Personal Misc/Characters/New Unnamed/Untitled",
     "Personal Misc/Characters/Silas Nightshade",
     "Personal Misc/Archived",
