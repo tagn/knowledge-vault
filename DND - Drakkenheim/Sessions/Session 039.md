@@ -39,5 +39,7 @@ tags:
 		- Roughly a dozen hooded lanterns
 		- At least 3 haze hulks chained up, possibly 4.
 - Keth does what Keth does best. Go in solo to scout and hope for the best.
+- We test by firing an arrow through one of the Haze Hulks, it passes straight through. Seemingly it's an illusion.
+- We fail another encounter check on our way back to Emberwood. We're attacked by Gargoyles and a Warp Witch.
 - 
 
