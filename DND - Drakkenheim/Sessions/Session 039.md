@@ -29,5 +29,7 @@ tags:
 - We go shopping to find Silas a bed. He wants a nice four post bed.
 - Keth attempts to swindle Mr. Crow for some studded leather
 - We make our way into Drakkenheim towards the Scar, and fail an encounter check.
+- A bed tries to bite my ass. I take a short vacation, then come back to beat the furniture to death.
+- We continue towards the camp at the Scar.
 - 
 
