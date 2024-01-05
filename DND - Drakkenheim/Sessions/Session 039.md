@@ -25,5 +25,7 @@ tags:
 - Silas does a wee bit of bloodletting to get rid of his migraine after that message. Much better.
 - There is a sign at the site where Aldor's cart was. It's saying coming soon with some new magical purveyor named "Vil".
 	- Sihrr notices a shimmer around the sign.
+- Silas attempts to give one of the children a tooth, but he is denied. He asks Keth for a favor to try to plant it on the cart.
+- We go shopping to find Silas a bed. He wants a nice four post bed.
 - 
 
