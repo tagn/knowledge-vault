@@ -18,5 +18,7 @@ tags:
 - We plan to head over to the Hendrick's farm to get an idea of what the people look like
 - There are less people at the farm than we usually see. We check to see if Nathaniel is home and his home seems empty. We head over towards the barn to see if anyone has.
 - We've informed members of leadership have been called into the city on urgent business.
+- Good day, I'm an acquaintance of your fellow Arken heard they were called. Do they require assistance?
+- Nathaniel Flint - got his full name
 - 
 
