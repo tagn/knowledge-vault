@@ -20,5 +20,6 @@ tags:
 - We've informed members of leadership have been called into the city on urgent business.
 - Good day, I'm an acquaintance of your fellow Arken heard they were called. Do they require assistance?
 - Nathaniel Flint - got his full name
+- Silas receives a heavy psychic bashlash after attempting to send a message.
 - 
 
