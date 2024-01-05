@@ -13,5 +13,7 @@ tags:
 ## Event Log
 
 
-
+- We pick up a discussion in our house about next steps.
+- We call 1-800-talk-to-the-queen to discuss the Scar.
+- 
 
