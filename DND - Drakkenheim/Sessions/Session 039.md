@@ -20,6 +20,10 @@ tags:
 - We've informed members of leadership have been called into the city on urgent business.
 - Good day, I'm an acquaintance of your fellow Arken heard they were called. Do they require assistance?
 - Nathaniel Flint - got his full name
-- Silas receives a heavy psychic bashlash after attempting to send a message.
+- Silas receives a heavy psychic backlash after attempting to send a message.
+- These Falling Flame individuals are heathens. How dare they attack me for simply attempting contact.
+- Silas does a wee bit of bloodletting to get rid of his migraine after that message. Much better.
+- There is a sign at the site where Aldor's cart was. It's saying coming soon with some new magical purveyor named "Vil".
+	- Sihrr notices a shimmer around the sign.
 - 
 
