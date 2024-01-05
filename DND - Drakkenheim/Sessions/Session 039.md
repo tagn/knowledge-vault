@@ -31,5 +31,12 @@ tags:
 - We make our way into Drakkenheim towards the Scar, and fail an encounter check.
 - A bed tries to bite my ass. I take a short vacation, then come back to beat the furniture to death.
 - We continue towards the camp at the Scar.
+- Arken dresses up like a pilgrim, Silas disguises himself as Nathaniel.
+- We see some hulking creature. We don't think it's really been doing anything.
+- We're told to leave the area.
+	- Silas counts at least 3 chained up haze hulks, 1 hooded lantern looking fella, at least one dwarf with a rifle. We assume more are in the camp.
+		- At least 5 dwarves
+		- Roughly a dozen hooded lanterns
+		- At least 3 haze hulks chained up, possibly 4.
 - 
 
