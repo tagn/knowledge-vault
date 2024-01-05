@@ -38,5 +38,6 @@ tags:
 		- At least 5 dwarves
 		- Roughly a dozen hooded lanterns
 		- At least 3 haze hulks chained up, possibly 4.
+- Keth does what Keth does best. Go in solo to scout and hope for the best.
 - 
 
