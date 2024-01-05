@@ -28,5 +28,6 @@ tags:
 - Silas attempts to give one of the children a tooth, but he is denied. He asks Keth for a favor to try to plant it on the cart.
 - We go shopping to find Silas a bed. He wants a nice four post bed.
 - Keth attempts to swindle Mr. Crow for some studded leather
+- We make our way into Drakkenheim towards the Scar, and fail an encounter check.
 - 
 
