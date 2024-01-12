@@ -23,6 +23,9 @@ tags:
 	- It is rumored his body is buried beneath some building within the city.
 	- Resurrecting him may have some great outcome.
 	- This was the gold dragon who fought beside [[Saint Vitruvio]].
+- [[Keth Darklighter|Keth]] goes out and finds us a cat.
+- The rest of the gang goes to look for the [[Gentlemen Bastards]] to get some information about the Clock Tower.
+- We head to the [[Bark & Buzzard]] and chat with Karen.
 - 
 
 
