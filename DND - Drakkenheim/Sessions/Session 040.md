@@ -22,7 +22,7 @@ tags:
 	- During his life, he was a loyal defender of the city of Drakkenheim.
 	- It is rumored his body is buried beneath some building within the city.
 	- Resurrecting him may have some great outcome.
-	- This was the gold dragon who fought beside [[Saint Vitruvio]]
+	- This was the gold dragon who fought beside [[Saint Vitruvio]].
 - 
 
 
