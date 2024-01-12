@@ -28,6 +28,7 @@ tags:
 - We head to the [[Bark & Buzzard]] and chat with Karen.
 - We don't find the [[Gentlemen Bastards]], so we explore some other ideas about where we can go for information.
 - The tower rests in the middle of [[Market Square Plaza]].
+- We finish up breakfast, chat for a bit about who to go talk to, then go out to find [[Keth Darklighter|Keth]].
 - 
 
 

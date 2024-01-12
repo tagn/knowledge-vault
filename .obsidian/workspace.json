@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c96def63bc9a7b5a",
+        "id": "12fef96de5b42653",
         "type": "tabs",
         "children": [
           {
-            "id": "39ec4027ef297dfb",
+            "id": "5939674b657a64b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,13 +176,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "39ec4027ef297dfb",
+  "active": "5939674b657a64b2",
   "lastOpenFiles": [
+    "DND - Drakkenheim/Locations/Market Square Plaza.md",
+    "DND - Drakkenheim/Locations/Bark & Buzzard.md",
+    "DND - Drakkenheim/Sessions/Session 040.md",
     "DND - Drakkenheim/Rumors.md",
     "DND - Drakkenheim/Quests.md",
     "DND - Drakkenheim/Will/Journal.md",
     "DND - Drakkenheim/Will/Skywrite Message Ideas.md",
-    "DND - Drakkenheim/Sessions/Session 040.md",
     "DND - Drakkenheim/Reference/Delerium.md",
     "DND - Drakkenheim/Reference/Haze.md",
     "DND - Drakkenheim/Reference/Travel.md",
@@ -202,8 +204,6 @@
     "DND - Drakkenheim/Quests/Bomb the Gate.md",
     "DND - Drakkenheim/World.md",
     "DND - Drakkenheim/Sessions/Session 037.md",
-    "DND - Drakkenheim/Sessions/Session 036.md",
-    "Personal Misc/Characters/Silas Nightshade/Stats and Choices.md",
     "Personal Misc/Characters/Silas Nightshade/Untitled",
     "Personal Misc/Characters/New Unnamed/Untitled",
     "Personal Misc/Characters/Silas Nightshade",
