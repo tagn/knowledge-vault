@@ -40,6 +40,8 @@ tags:
 - [[Arken Highbloom|Arken]] and [[Sihrr]] stay for a sermon. [[Keth Darklighter|Keth]] finds a cat.
 - [[Silas]] drags [[Keth Darklighter|Keth]] reluctantly into the [[Skull & Sword]] after being insulted by the boy on a soapbox in the middle of town with a bunch of ignorant remarks.
 - [[Silas]] gets yelled at when entering the bar by the stupid ass skull.
+- We have some racists try to start shit with us, we step out before something escalates.
+- The group gets back together. [[Keth Darklighter|Keth]] tries to fuck with the new magic shop. [[Sihrr]] goes to listen to the kid yelling stupid stories in the middle of town.
 - 
 
 
