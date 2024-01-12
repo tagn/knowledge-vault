@@ -45,5 +45,7 @@ tags:
 - [[Sihrr]] fucks up the kids sandwich. The kid surprisingly, also hates snakes.
 - We walk back to the [[Skull & Sword]], [[Silas]] disguises himself as a human princess similar to one the town crier had described before entering.
 - After getting into a confrontation with the Black Iron group, we notice the severed head of Oscar Yorn.
+- Before a fight starts, [[Sihrr]] warps both [[Silas]] and [[Keth Darklighter|Keth]] out of the bar.
+- 
 
 
