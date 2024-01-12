@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a22587ce1ccf7406",
+        "id": "f5adaa6319764df4",
         "type": "tabs",
         "children": [
           {
-            "id": "d9f7820c26885e86",
+            "id": "c97918dcd28edfaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 039.md",
+                "file": "DND - Drakkenheim/Quests/The Pale Man with a Pale Plan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pale man",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 039.md",
+                "file": "DND - Drakkenheim/Quests/The Pale Man with a Pale Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 039.md"
+                "file": "DND - Drakkenheim/Quests/The Pale Man with a Pale Plan.md"
               }
             }
           },
@@ -176,35 +176,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9f7820c26885e86",
+  "active": "c97918dcd28edfaf",
   "lastOpenFiles": [
+    "DND - Drakkenheim/Quests/The Queen's Lillies.md",
+    "DND - Drakkenheim/Quests/This Helm Is My Ironhelm.md",
+    "DND - Drakkenheim/Sessions/Session 039.md",
+    "DND - Drakkenheim/Sessions/Session 038.md",
+    "DND - Drakkenheim/Sessions/Session 001.md",
+    "DND - Drakkenheim/Rumors.md",
+    "DND - Drakkenheim/Sessions/Session 029.md",
+    "DND - Drakkenheim/Quests/Smuggler's Bar.md",
+    "DND - Drakkenheim/Quests/Rescue From The Rat Captors.md",
     "DND - Drakkenheim/Quests/I'm Cleaning Out My Clock Tower.md",
     "DND - Drakkenheim/Quests/Bomb the Gate.md",
     "DND - Drakkenheim/Quests/The Pale Man with a Pale Plan.md",
     "DND - Drakkenheim/World.md",
     "DND - Drakkenheim/Sessions/Session 037.md",
-    "DND - Drakkenheim/Sessions/Session 038.md",
-    "DND - Drakkenheim/Sessions/Session 039.md",
     "DND - Drakkenheim/Sessions/Session 036.md",
     "Personal Misc/Characters/Silas Nightshade/Stats and Choices.md",
     "Personal Misc/Characters/Silas Nightshade/Faction Relationships.md",
     "Personal Misc/Characters/Silas Nightshade/Background.md",
-    "DND - Drakkenheim/Sessions/Session 001.md",
     "DND - Drakkenheim/Will/Journal.md",
     "DND - Drakkenheim/Will/Skywrite Message Ideas.md",
     "DND - Drakkenheim/Quests.md",
-    "DND - Drakkenheim/Rumors.md",
     "DND - Drakkenheim/Sessions/Session 035.md",
     "DND - Drakkenheim/Reference/Apothecary Spell List.md",
     "Personal Misc/Characters/Silas Nightshade/Untitled",
     "Personal Misc/Characters/Silas Nightshade/Character Sheet.md",
     "DND - Drakkenheim/Creatures/Giant Clockwork Spider.md",
     "DND - Drakkenheim/Creatures/Haze Hulk.md",
-    "DND - Drakkenheim/Creatures/Haze Hulk Juggernaut.md",
-    "DND - Drakkenheim/Creatures/Haze Husk.md",
-    "DND - Drakkenheim/Creatures/Minotaur Pirates.md",
-    "DND - Drakkenheim/Creatures/Rat Prince.md",
-    "DND - Drakkenheim/Characters/Wyldenten Proudsky.md",
     "Personal Misc/Characters/New Unnamed/Untitled",
     "Personal Misc/Characters/Silas Nightshade",
     "Personal Misc/Archived",
