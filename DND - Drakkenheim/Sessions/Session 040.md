@@ -43,6 +43,7 @@ tags:
 - We have some racists try to start shit with us, we step out before something escalates.
 - The group gets back together. [[Keth Darklighter|Keth]] tries to fuck with the new magic shop. [[Sihrr]] goes to listen to the kid yelling stupid stories in the middle of town.
 - [[Sihrr]] fucks up the kids sandwich. The kid surprisingly, also hates snakes.
+- We walk back to the [[Skull & Sword]], [[Silas]] disguises himself as a human princess similar to one the town crier had described before entering.
 - 
 
 
