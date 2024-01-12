@@ -26,6 +26,8 @@ tags:
 - [[Keth Darklighter|Keth]] goes out and finds us a cat.
 - The rest of the gang goes to look for the [[Gentlemen Bastards]] to get some information about the Clock Tower.
 - We head to the [[Bark & Buzzard]] and chat with Karen.
+- We don't find the [[Gentlemen Bastards]], so we explore some other ideas about where we can go for information.
+- The tower rests in the middle of [[Market Square Plaza]].
 - 
 
 
