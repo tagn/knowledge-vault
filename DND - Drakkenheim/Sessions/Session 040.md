@@ -29,6 +29,14 @@ tags:
 - We don't find the [[Gentlemen Bastards]], so we explore some other ideas about where we can go for information.
 - The tower rests in the middle of [[Market Square Plaza]].
 - We finish up breakfast, chat for a bit about who to go talk to, then go out to find [[Keth Darklighter|Keth]].
+- We talk to [[Balthazar Adamos]] about the Clock Tower.
+	- It sits in the center of [[Market Square Plaza]]
+	- The area is quite open, used to be an open air market.
+	- Lot of the area now is destroyed.
+	- Primary source of time in the city before it broke down.
+	- It stopped working many years before the city was destroyed.
+	- The [[Amethyst Academy]] kept the tower running through non clockwork means
+- The item we're searching for is a necklace with a seal on it. It has an image of a dragon flying over the walls of what appears to be the city of [[Drakkenheim]].
 - 
 
 
