@@ -37,6 +37,8 @@ tags:
 	- It stopped working many years before the city was destroyed.
 	- The [[Amethyst Academy]] kept the tower running through non clockwork means
 - The item we're searching for is a necklace with a seal on it. It has an image of a dragon flying over the walls of what appears to be the city of [[Drakkenheim]].
+- [[Arken Highbloom|Arken]] and [[Sihrr]] stay for a sermon. [[Keth Darklighter|Keth]] finds a cat.
+- [[Silas]] drags [[Keth Darklighter|Keth]] reluctantly into the [[Skull & Sword]] after being insulted by the boy on a soapbox in the middle of town with a bunch of ignorant remarks.
 - 
 
 
