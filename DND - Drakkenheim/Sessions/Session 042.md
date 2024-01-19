@@ -22,5 +22,5 @@ tags:
 	- A few skeletons shambling about
 	- Undead looking beholder
 	- Bridge did not seem to be broken significantly
-	- 
+- We decide that it's best to not try to take the fight on the bridge
 
