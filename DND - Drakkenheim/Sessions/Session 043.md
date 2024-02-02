@@ -84,5 +84,6 @@ tags:
 - [[Silas]] begins to wander the caverns.
 	- Add a candle and a vial to my inventory
 	- He walks down a path, finds stairs towards the house presumably, then turns back as he does not have an invitation.
+	- [[Silas]] hears a voice from his grandmother and he's triggered some very nasty magic. The chamber starts filling with a deep haze, he hears an alarm set off, and immediately he is whisked away by his grandmother.
 - The Steward's seal of Drakkenheim, is one of a set of 6 items made by the Amythyst Academy and the Clergy of the Sacred Flame.
 
