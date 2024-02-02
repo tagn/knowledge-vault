@@ -81,4 +81,7 @@ tags:
 	- He wants to harness the power from the contamination and control it. 
 	- He offers if [[Sihrr]] can bring the queen to him, he may be able to cure her or something similar.
 	- He says that [[Sihrr]] is welcome back, but there are some rooms that he is not allowed to enter without the [[Pale Man]] escorting him.
+- [[Silas]] begins to wander the caverns.
+	- Add a candle and a vial to my inventory
+	- He walks down a path
 
