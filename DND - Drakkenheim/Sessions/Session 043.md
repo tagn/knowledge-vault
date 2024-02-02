@@ -33,6 +33,10 @@ tags:
 - [[Sihrr]] offers to assist, she puts a tray in-front of us.
 	- [[Silas]] thinks it's a lime flavored healing potion.
 	- [[Sihrr]] believes that [[Raven]] is in the process of making Aqua Delerium.
+	- As we attempt to make an Aqua Delerium potion, we gather an audience. The hooded figures appear to be haze dregs, but don't appear to be aggressive. 
+	- We fail to make the potion, using most of her reagents. She pours it out saying that "father" would not accept it.
+	- [[Keth Darklighter|Keth]] goes and checks out the inside of the cart discretely. It's quite bougie.
+	- [[Keth Darklighter|Keth]] notices a colossal haze creature in the back of the stable. He appears to be reading stories to some of the other haze creatures.
 - 
 
 
