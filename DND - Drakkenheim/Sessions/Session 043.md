@@ -51,4 +51,6 @@ tags:
 	- There is a lot of horse-related artwork within the house.
 - [[Arken Highbloom|Arken]] goes and checks out with [[Raven]] is doing. Her brain hurts from potion making, obviously.
 - [[Keth]] goes to peak inside of the house. It appears to be "drawing rooms" that people would historically wait in. It seems in disrepair.
+- [[Arken Highbloom|Arken]] jumps up on the roof, I guess.
+- What is our play? No clue!
 
