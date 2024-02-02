@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.51103591918945,
-    "collapsed": true
+    "width": 325.51103591918945
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -177,13 +176,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2ed483abcf08cad",
+  "active": "1c435310d72d161d",
   "lastOpenFiles": [
+    "DND - Drakkenheim/NPCS/Grunt.md",
+    "DND - Drakkenheim/Sessions/Session 043.md",
     "DND - Drakkenheim/Sessions/Session 029.md",
     "DND - Drakkenheim/Locations/Klineburg Estate.md",
     "DND - Drakkenheim/Sessions/Session 042.md",
     "DND - Drakkenheim/Locations/Hendricks Farm.md",
-    "DND - Drakkenheim/Sessions/Session 043.md",
     "DND - Drakkenheim/Sessions/Session 041.md",
     "Templates/Session.md",
     "DND - Drakkenheim/Sessions/Session 040.md",
@@ -204,7 +204,6 @@
     "DND - Drakkenheim/Quests/The Pale Man with a Pale Plan.md",
     "DND - Drakkenheim/Quests/The Queen's Lillies.md",
     "DND - Drakkenheim/Quests/This Helm Is My Ironhelm.md",
-    "DND - Drakkenheim/Sessions/Session 038.md",
     "Personal Misc/Characters/Silas Nightshade/Untitled",
     "Personal Misc/Characters/New Unnamed/Untitled",
     "Personal Misc/Characters/Silas Nightshade",

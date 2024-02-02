@@ -37,6 +37,18 @@ tags:
 	- We fail to make the potion, using most of her reagents. She pours it out saying that "father" would not accept it.
 	- [[Keth Darklighter|Keth]] goes and checks out the inside of the cart discretely. It's quite bougie.
 	- [[Keth Darklighter|Keth]] notices a colossal haze creature in the back of the stable. He appears to be reading stories to some of the other haze creatures.
-- 
-
+	- [[Silas]] convinces the group to give over the Aqua Delerium. He hands it over to [[Raven]] in an attempt to gain her as an ally.
+	- She says father is busy, if one of us wants to go she can have grunt take us.
+	- [[Keth Darklighter|Keth]] insists we'll be discrete, as [[Raven]] leans in [[Keth Darklighter|Keth]] vomits on her, which then [[Raven]] eats it.
+	- [[Raven]] calls [[Grunt]] over.
+	- [[Grunt]] looks over, [[Silas]] has a book, there are no words. He goes back to where the dregs are and starts reading them a story, while using Disguise Self to turn himself into "mini grunt".
+	- [[Raven]] goes back inside and sits patiently back at the table.
+	- [[Sihrr]] goes with [[Grunt]] towards the house.
+- The group does what the group does best. Completely split the party.
+- [[Sihrr]] approaches the house in the company of [[Grunt]]
+	- Staircase leading upwards.
+	- To the left and right, doors lead to the different wings.
+	- There is a lot of horse-related artwork within the house.
+- [[Arken Highbloom|Arken]] goes and checks out with [[Raven]] is doing. Her brain hurts from potion making, obviously.
+- [[Keth]] goes to peak inside of the house. It appears to be "drawing rooms" that people would historically wait in. It seems in disrepair.
 
