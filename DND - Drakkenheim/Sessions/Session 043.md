@@ -83,5 +83,6 @@ tags:
 	- He says that [[Sihrr]] is welcome back, but there are some rooms that he is not allowed to enter without the [[Pale Man]] escorting him.
 - [[Silas]] begins to wander the caverns.
 	- Add a candle and a vial to my inventory
-	- He walks down a path
+	- He walks down a path, finds stairs towards the house presumably, then turns back as he does not have an invitation.
+- The Steward's seal of Drakkenheim, is one of a set of 6 items made by the Amythyst Academy and the Clergy of the Sacred Flame.
 
