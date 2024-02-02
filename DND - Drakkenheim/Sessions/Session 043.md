@@ -53,4 +53,6 @@ tags:
 - [[Keth]] goes to peak inside of the house. It appears to be "drawing rooms" that people would historically wait in. It seems in disrepair.
 - [[Arken Highbloom|Arken]] jumps up on the roof, I guess.
 - What is our play? No clue!
+- [[Arken Highbloom|Arken]] is spotted when [[Grunt]] returns, [[Grunt]] attempts to grab him, but [[Arken Highbloom|Arken]] bails out quickly. [[Grunt]] closes and locks the door with [[Arken Highbloom|Arken]] back outside.
+- [[Sihrr]] follows [[Grunt]] around inside of the house while [[Keth Darklighter|Keth]] attempts to sneak through.
 
