@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 029.md",
+                "file": "DND - Drakkenheim/Sessions/Session 043.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.51103591918945
+    "width": 325.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 029.md",
+                "file": "DND - Drakkenheim/Sessions/Session 043.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 029.md"
+                "file": "DND - Drakkenheim/Sessions/Session 043.md"
               }
             }
           },
@@ -178,6 +179,7 @@
   },
   "active": "1c435310d72d161d",
   "lastOpenFiles": [
+    "DND - Drakkenheim/Sessions/Session 029.md",
     "DND - Drakkenheim/Locations/Klineburg Estate.md",
     "DND - Drakkenheim/Sessions/Session 042.md",
     "DND - Drakkenheim/Locations/Hendricks Farm.md",
@@ -203,7 +205,6 @@
     "DND - Drakkenheim/Quests/The Queen's Lillies.md",
     "DND - Drakkenheim/Quests/This Helm Is My Ironhelm.md",
     "DND - Drakkenheim/Sessions/Session 038.md",
-    "DND - Drakkenheim/Sessions/Session 001.md",
     "Personal Misc/Characters/Silas Nightshade/Untitled",
     "Personal Misc/Characters/New Unnamed/Untitled",
     "Personal Misc/Characters/Silas Nightshade",
