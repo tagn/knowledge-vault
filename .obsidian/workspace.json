@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 043.md",
+                "file": "Kiddo One Shots/The Lost Fairy Crown/Main.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 043.md",
+                "file": "Kiddo One Shots/The Lost Fairy Crown/Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 043.md"
+                "file": "Kiddo One Shots/The Lost Fairy Crown/Main.md"
               }
             }
           },
@@ -176,10 +176,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "28b05a8a13f69dbc",
+  "active": "f2ed483abcf08cad",
   "lastOpenFiles": [
-    "DND - Drakkenheim/Characters/Silas.md",
     "DND - Drakkenheim/Sessions/Session 043.md",
+    "Kiddo One Shots/The Lost Fairy Crown/Main.md",
+    "Kiddo One Shots/The Lost Fairy Crown",
+    "Kiddo One Shots",
+    "DND - Drakkenheim/Characters/Silas.md",
     "DND - Drakkenheim/Reference/Contamination.md",
     "DND - Drakkenheim/Reference/Delerium.md",
     "DND - Drakkenheim/Reference/Travel.md",
@@ -203,7 +206,6 @@
     "DND - Drakkenheim/NPCS/Grunt.md",
     "DND - Drakkenheim/NPCS/Keith.md",
     "DND - Drakkenheim/NPCS/Lily.md",
-    "DND - Drakkenheim/NPCS/Lucritia.md",
     "Personal Misc/Characters/Silas Nightshade/Untitled",
     "Personal Misc/Characters/New Unnamed/Untitled",
     "Personal Misc/Characters/Silas Nightshade",
@@ -221,8 +223,6 @@
     "Images/npc_buppido.png",
     "Images/Drakkenheim_City_Map.png",
     "Personal Misc/Characters/Ponzi Deeproot",
-    "Personal Misc/Characters/Wyldenten Proudsky",
-    "Personal Misc/Characters/Turdis",
-    "Personal Misc/Characters"
+    "Personal Misc/Characters/Wyldenten Proudsky"
   ]
 }
