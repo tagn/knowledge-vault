@@ -17,8 +17,7 @@ Upon entering the Castle, you find the Fairy Queen in tears. As she looks up and
 ### Fairy Queen
 
 > When I woke up this morning and was getting myself ready, I wasn't able to find my crown. I'm worried it was stolen! I know that I'm great and all being the Fairy Queen, but without my crown my magic is fading in the forest. I'm sure you noticed the flowers on your way here. I think even my magic is starting to fade on the animals that live here.  I've sent my royal knight to search for it, but it's been hours and he hasn't come back! He does have a tendency of getting himself lost. Will you be able to help me find my crown?
-> ---
-> When inquiring about the crown:
+> > When inquiring about the crown:
 > I'm not sure who could have took it, although something strange happened last night. After I went to bed I woke up to the sound of some giggling from the room that I normally put the crown in at night. I wonder if whatever was the source of that giggling is the one that took it!
 > When directing the players to proceed:
 > A friend of mine lives in a forest clearing not far from the Castle. His name is Mr. Hoots. Years ago after helping me I gave him a give of a magical pair of glasses that could find magic. Maybe you could go ask him to borrow them for your search for the crown.
