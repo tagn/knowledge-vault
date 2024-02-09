@@ -23,5 +23,6 @@ tags:
 	- It seems to be a large battle happening at the gate of a city.
 	- He also gets a flickering icon of the Hooded Lanterns and Amethyst Academy logos that flicker and go out.
 - [[Sihrr]] talks to the gang (minus [[Silas]]) about the interaction with his grandfather, the [[Pale Man]].
-- 
+- The group reunites as [[Silas]] is on his way out of [[Emberwood Village]].
+- We head to the new magic shop to check it out. 
 
