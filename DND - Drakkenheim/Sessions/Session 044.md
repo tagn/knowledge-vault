@@ -22,5 +22,6 @@ tags:
 	- A vision of an incredibly large Garmyr shooting an arrow through [[Arken Highbloom|Arken]]'s side.
 	- It seems to be a large battle happening at the gate of a city.
 	- He also gets a flickering icon of the Hooded Lanterns and Amethyst Academy logos that flicker and go out.
+- [[Sihrr]] talks to the gang (minus [[Silas]]) about the interaction with his grandfather, the [[Pale Man]].
 - 
 
