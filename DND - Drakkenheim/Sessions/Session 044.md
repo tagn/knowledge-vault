@@ -14,5 +14,13 @@ tags:
 
 - While [[Silas]] is hanging out with Grannie, the gang gets themselves into a bit of a pickle in a cemetery against a little tiny undead dragon.
 - The group manages to not die.
+- The group hears laughter pop above them.
+- [[Silas]] has a little chat with his Grandmother, requests some of his items to bring with him.
+- [[Silas]] checks on his bed, which will 
+- [[Silas]] sees:
+	- A large army of knights wearing plate on horseback riding into Emberwood.
+	- A vision of an incredibly large Garmyr shooting an arrow through [[Arken Highbloom|Arken]]'s side.
+	- It seems to be a large battle happening at the gate of a city.
+	- He also gets a flickering icon of the Hooded Lanterns and Amethyst Academy logos that flicker and go out.
 - 
 
