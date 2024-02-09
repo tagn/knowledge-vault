@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "246fe525596906f9",
+        "id": "d8000099717aaf57",
         "type": "tabs",
         "children": [
           {
-            "id": "28b05a8a13f69dbc",
+            "id": "844f8c836809c539",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 044.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 044.md",
+                "file": "DND - Drakkenheim/Reference/Apothecary Spell List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 044.md"
+                "file": "DND - Drakkenheim/Reference/Apothecary Spell List.md"
               }
             }
           },
@@ -176,24 +171,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "28b05a8a13f69dbc",
+  "active": "f2ed483abcf08cad",
   "lastOpenFiles": [
-    "DND - Drakkenheim/Sessions/Session 041.md",
-    "DND - Drakkenheim/Sessions/Session 040.md",
-    "DND - Drakkenheim/Sessions/Session 042.md",
-    "DND - Drakkenheim/Sessions/Session 039.md",
-    "DND - Drakkenheim/Sessions/Session 038.md",
-    "DND - Drakkenheim/Sessions/Session 044.md",
-    "DND - Drakkenheim/Sessions/Session 043.md",
-    "Kiddo One Shots/The Lost Fairy Crown/Main.md",
-    "Kiddo One Shots/The Lost Fairy Crown",
-    "Kiddo One Shots",
-    "DND - Drakkenheim/Characters/Silas.md",
     "DND - Drakkenheim/Reference/Contamination.md",
     "DND - Drakkenheim/Reference/Delerium.md",
     "DND - Drakkenheim/Reference/Travel.md",
     "DND - Drakkenheim/Reference/Haze.md",
     "DND - Drakkenheim/Reference/Apothecary Spell List.md",
+    "DND - Drakkenheim/Will/Journal.md",
+    "DND - Drakkenheim/Will/Skywrite Message Ideas.md",
+    "DND - Drakkenheim/Quests.md",
+    "DND - Drakkenheim/Rumors.md",
+    "DND - Drakkenheim/World.md",
+    "DND - Drakkenheim/Sessions/Session 044.md",
+    "DND - Drakkenheim/Sessions/Session 041.md",
+    "DND - Drakkenheim/Sessions/Session 040.md",
+    "DND - Drakkenheim/Sessions/Session 042.md",
+    "DND - Drakkenheim/Sessions/Session 039.md",
+    "DND - Drakkenheim/Sessions/Session 038.md",
+    "DND - Drakkenheim/Sessions/Session 043.md",
+    "Kiddo One Shots/The Lost Fairy Crown/Main.md",
+    "Kiddo One Shots/The Lost Fairy Crown",
+    "Kiddo One Shots",
+    "DND - Drakkenheim/Characters/Silas.md",
     "DND - Drakkenheim/NPCS/Pale Man.md",
     "DND - Drakkenheim/NPCS/Aldor the Immense.md",
     "DND - Drakkenheim/NPCS/Ansom Lang.md",
@@ -201,11 +201,6 @@
     "DND - Drakkenheim/NPCS/Armin Gainsbury.md",
     "DND - Drakkenheim/NPCS/Baskerville.md",
     "DND - Drakkenheim/NPCS/Blackjack Mel.md",
-    "DND - Drakkenheim/NPCS/Bogdon.md",
-    "DND - Drakkenheim/NPCS/Elias Drexxel.md",
-    "DND - Drakkenheim/NPCS/Eloise Ironhelm.md",
-    "DND - Drakkenheim/NPCS/Emma.md",
-    "DND - Drakkenheim/NPCS/Eren Marlow.md",
     "Personal Misc/Characters/Silas Nightshade/Untitled",
     "Personal Misc/Characters/New Unnamed/Untitled",
     "Personal Misc/Characters/Silas Nightshade",
