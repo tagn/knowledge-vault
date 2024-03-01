@@ -18,6 +18,8 @@ tags:
 - We also buy the **Blood Pearl**, some armor for [[Arken Highbloom|Arken]].
 - We're going to go to [[Buckle Down Row]].
 - [[Rose Carver]] is dead, replaced by a Bugbear named [[Bohemia]]. We receive our payment for opening the smuggler's tunnel.
-- We intend on going over towards the [[Black Ivory Inn]] to meet up with [[Queen of Blades]] 
+- We intend on going over towards the [[Black Ivory Inn]] to meet up with [[Queen of Blades]]
+- [[Silas]] polymorphs himself into a Giant Swam to ferry everyone over the river to get to the [[Black Ivory Inn]].
+- 
 
 
