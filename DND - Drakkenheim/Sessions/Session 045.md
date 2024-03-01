@@ -14,5 +14,8 @@ tags:
 
 - We return to a foundry update, still on our shopping trip in the new cool magic shop.
 - We discuss the magic items available.
+- [[Silas]] buys himself the **Gliding Cloak** from the store
+- We also buy the **Blood Pearl**, some armor for [[Arken Highbloom|Arken]].
+- 
 
 
