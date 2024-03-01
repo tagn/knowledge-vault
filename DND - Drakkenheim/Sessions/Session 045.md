@@ -21,6 +21,8 @@ tags:
 - We intend on going over towards the [[Black Ivory Inn]] to meet up with [[Queen of Blades]]
 - [[Silas]] polymorphs himself into a Giant Swam to ferry everyone over the river to get to the [[Black Ivory Inn]].
 - The Queen suggests us take a second look at [[Eventide Manor]]
-- 
+- The Queen wants us to give her or be available when all of the seals of drakkenheim are assembled to assist her with crowning a new ruler.
+	- Sihrr decides to be indecisive on if we'll do it or not. We may or may not have 72 hours before it's stolen from us.
+- We make our way back across the river on Swan [[Silas]] and back to [[Buckle Down Row]]. We take a short rest to replenish ourselves before heading towards the [[Champion's Gate]].
 
 
