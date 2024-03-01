@@ -16,6 +16,8 @@ tags:
 - We discuss the magic items available.
 - [[Silas]] buys himself the **Gliding Cloak** from the store
 - We also buy the **Blood Pearl**, some armor for [[Arken Highbloom|Arken]].
-- We're going to go to Buckle Down Row
+- We're going to go to [[Buckle Down Row]].
+- [[Rose Carver]] is dead, replaced by a Bugbear named [[Bohemia]]. We receive our payment for opening the smuggler's tunnel.
+- We intend on going over towards the [[Black Ivory Inn]] to meet up with [[Queen of Blades]] 
 
 
