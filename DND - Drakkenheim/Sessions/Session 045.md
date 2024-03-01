@@ -20,6 +20,7 @@ tags:
 - [[Rose Carver]] is dead, replaced by a Bugbear named [[Bohemia]]. We receive our payment for opening the smuggler's tunnel.
 - We intend on going over towards the [[Black Ivory Inn]] to meet up with [[Queen of Blades]]
 - [[Silas]] polymorphs himself into a Giant Swam to ferry everyone over the river to get to the [[Black Ivory Inn]].
+- The Queen suggests us take a second look at [[Eventide Manor]]
 - 
 
 
