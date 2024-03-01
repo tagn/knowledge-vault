@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d8000099717aaf57",
+        "id": "ca55f5dbd36d5b37",
         "type": "tabs",
         "children": [
           {
-            "id": "844f8c836809c539",
+            "id": "32ff6f0b5d04068d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DND - Drakkenheim/Sessions/Session 045.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/Reference/Apothecary Spell List.md",
+                "file": "DND - Drakkenheim/Sessions/Session 045.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/Reference/Apothecary Spell List.md"
+                "file": "DND - Drakkenheim/Sessions/Session 045.md"
               }
             }
           },
@@ -171,36 +176,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2ed483abcf08cad",
+  "active": "32ff6f0b5d04068d",
   "lastOpenFiles": [
-    "DND - Drakkenheim/Reference/Contamination.md",
-    "DND - Drakkenheim/Reference/Delerium.md",
-    "DND - Drakkenheim/Reference/Travel.md",
-    "DND - Drakkenheim/Reference/Haze.md",
-    "DND - Drakkenheim/Reference/Apothecary Spell List.md",
-    "DND - Drakkenheim/Will/Journal.md",
-    "DND - Drakkenheim/Will/Skywrite Message Ideas.md",
-    "DND - Drakkenheim/Quests.md",
-    "DND - Drakkenheim/Rumors.md",
-    "DND - Drakkenheim/World.md",
-    "DND - Drakkenheim/Sessions/Session 044.md",
-    "DND - Drakkenheim/Sessions/Session 041.md",
-    "DND - Drakkenheim/Sessions/Session 040.md",
-    "DND - Drakkenheim/Sessions/Session 042.md",
-    "DND - Drakkenheim/Sessions/Session 039.md",
-    "DND - Drakkenheim/Sessions/Session 038.md",
     "DND - Drakkenheim/Sessions/Session 043.md",
-    "Kiddo One Shots/The Lost Fairy Crown/Main.md",
+    "DND - Drakkenheim/Sessions/Session 045.md",
+    "DND - Drakkenheim/Sessions/Session 040.md",
+    "DND - Drakkenheim/Sessions/Session 041.md",
+    "DND - Drakkenheim/Sessions/Session 042.md",
+    "DND - Drakkenheim/Dataview for Matt.md",
+    "DND - Drakkenheim/Sessions/Session 016.md",
+    "DND - Drakkenheim/Sessions/Session 020.md",
+    "DND - Drakkenheim/Sessions/Session 024.md",
+    "DND - Drakkenheim/Sessions/Session 023.md",
+    "DND - Drakkenheim/Sessions/Session 027.md",
+    "DND - Drakkenheim/Sessions/Session 022.md",
+    "DND - Drakkenheim/Sessions/Session 011.md",
+    "DND - Drakkenheim/Sessions/Session 001.md",
+    "DND - Drakkenheim/Sessions/Session 003.md",
+    "DND - Drakkenheim/Sessions/Session 006.md",
+    "DND - Drakkenheim/Sessions/Session 008.md",
+    "DND - Drakkenheim/Sessions/Session 015.md",
+    "DND - Drakkenheim/World.md",
+    "DND - Drakkenheim/Rumors.md",
+    "DND - Drakkenheim/Quests.md",
+    "DND - Drakkenheim/Sessions/Session 026.md",
+    "DND - Drakkenheim/Sessions/Session 035.md",
+    "DND - Drakkenheim/Sessions/Session 036.md",
+    "DND - Drakkenheim/Sessions/Session 014.md",
+    "DND - Drakkenheim/Sessions/Session 017.md",
     "Kiddo One Shots/The Lost Fairy Crown",
     "Kiddo One Shots",
-    "DND - Drakkenheim/Characters/Silas.md",
-    "DND - Drakkenheim/NPCS/Pale Man.md",
-    "DND - Drakkenheim/NPCS/Aldor the Immense.md",
-    "DND - Drakkenheim/NPCS/Ansom Lang.md",
-    "DND - Drakkenheim/NPCS/Archmage Adriana Modiera.md",
-    "DND - Drakkenheim/NPCS/Armin Gainsbury.md",
-    "DND - Drakkenheim/NPCS/Baskerville.md",
-    "DND - Drakkenheim/NPCS/Blackjack Mel.md",
     "Personal Misc/Characters/Silas Nightshade/Untitled",
     "Personal Misc/Characters/New Unnamed/Untitled",
     "Personal Misc/Characters/Silas Nightshade",
