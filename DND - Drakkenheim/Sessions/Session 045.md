@@ -16,6 +16,6 @@ tags:
 - We discuss the magic items available.
 - [[Silas]] buys himself the **Gliding Cloak** from the store
 - We also buy the **Blood Pearl**, some armor for [[Arken Highbloom|Arken]].
-- 
+- We're going to go to Buckle Down Row
 
 
