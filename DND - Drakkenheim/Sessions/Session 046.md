@@ -22,4 +22,4 @@ tags:
 	- The ring: If the user is not in the Cyst, they teleport to the Cyst, if they are in the Cyst they teleport to another place of their choosing
 - We make it back to our tower, the Silver Order has chained the door shut. We pick the lock an enter, barring the door behind us.
 - [[Silas]] dismembers the corpse and keeps the heart to return to Lord racist
-- 
+- We scout out the Chapel of Saint Vitruvio, it looks like the Garmyr are forming a sort of army. They appear to be led by the Lord of the Feast.
