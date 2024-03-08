@@ -16,4 +16,4 @@ tags:
 - We end up in a fight with the shitty racist adventuring group.
 - They escape by touching their rings, but we manage to down the last one before he can escape.
 - We torture the guy a bit then murder him.
-- 
+- We recover ourselves a bit, then proceed towards the nearest bridge to scout it out. 
