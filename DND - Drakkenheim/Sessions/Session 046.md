@@ -28,4 +28,22 @@ tags:
 	- Round building
 	- Bookshelves are still mostly intact. Some have been knocked over.
 	- Spiral shape on the inside.
+- [[Silas]] finds a book: Crowning a Ruler, the history, lore and usability of the Seals of Drakkenheim.
+	- There are 6 seals.
+	- One of each was entrusted to the
+	- Each seal would identify its person as an important person.
+	- There is a ritual that attunes a new monarch to the crown.
+		- Chancellor's Crest
+			- For whomever was the Chancellor at the time
+		- Inscrutable Staff
+			- Held by the Archmage of Drakkenheim
+		- Lord Commander's Badge
+			- Head of the Hooded Lanterns - May be with [[Elias Drexxel]]
+		- Phylactery of Saint Vitruvio
+			- Likely in the Chapel. Held by the highest ranking Cleric of the Sacred Flame.
+			- It is a caged item, inside of the cage is a double helix of what appears to be crystal.
+		- Spy Masters Signet
+			- Held by whomever was the Spymaster.
+		- Steward's Seal
+			- Johanne Isener. Now in the possession of [[Sihrr]].
 - 
