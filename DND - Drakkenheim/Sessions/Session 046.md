@@ -20,4 +20,6 @@ tags:
 - The loots from the dead holy man:
 	- Star of Iron, heavy staff used for melee attacks. 2d6+5 bludgeoning,
 	- The ring: If the user is not in the Cyst, they teleport to the Cyst, if they are in the Cyst they teleport to another place of their choosing
+- We make it back to our tower, the Silver Order has chained the door shut. We pick the lock an enter, barring the door behind us.
+- [[Silas]] dismembers the corpse and keeps the heart to return to Lord racist
 - 
