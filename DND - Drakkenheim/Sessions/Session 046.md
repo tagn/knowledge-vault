@@ -13,6 +13,5 @@ tags:
 ## Event Log
 
 - Leaving the falling fire's output at the [[Champion's Gate]], we come up onto a familiar face that we noticed back in the [[Skull & Sword]].
+- We end up in a fight with the shitty racist adventuring group.
 - 
-
-
