@@ -17,3 +17,7 @@ tags:
 - They escape by touching their rings, but we manage to down the last one before he can escape.
 - We torture the guy a bit then murder him.
 - We recover ourselves a bit, then proceed towards the nearest bridge to scout it out. 
+- The loots from the dead holy man:
+	- Star of Iron, heavy staff used for melee attacks. 2d6+5 bludgeoning,
+	- The ring: If the user is not in the Cyst, they teleport to the Cyst, if they are in the Cyst they teleport to another place of their choosing
+- 
