@@ -46,4 +46,6 @@ tags:
 			- Held by whomever was the Spymaster.
 		- Steward's Seal
 			- Johanne Isener. Now in the possession of [[Sihrr]].
+- [[Arken Highbloom|Arken]] finds his book about the relics of Saint Vitruvio.
+- We get the feeling that the "Cyst" is some sort of private demiplane operated by the [[Black Iron Pact]].
 - 
