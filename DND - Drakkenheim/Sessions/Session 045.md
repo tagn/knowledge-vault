@@ -28,6 +28,7 @@ tags:
 - [[Lucritia]] mentions going into the city to visit the [[Cathedral of Saint Vitruvio]]. She mentions an item that is a phalactery of saint vitruvio.
 	- When asking about the purpose of the seals, [[Lucritia]] tells [[Arken]] that they may be able to use them to summon a power to right some of the wrongs in the city.
 - Floating there is a ~12 foot tall, green humanoid, with 8 foot across angel wings guarding a symbolic fire next to a church that has been erected near the [[Champion's Gate]].
-- 
+- [[Keth Darklighter|Keth]] fucks with it. It nearly blows us to oblivion.
+- We make our way into the city towards the bridge we scouted earlier.
 
 
