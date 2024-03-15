@@ -17,6 +17,10 @@ tags:
 - After being invited in, [[Silas]] hands [[Raven]] a set of children's books to give to [[Grunt]] to read to the children.
 - Upon approaching a vat of soup, [[Pale Man]] forcibly makes some dregs drop their cleavers, severing eight toes in the process. One of the dregs reaches down and plops some of the toes into the soup.
 - [[Silas]] asked how the "restored" dregs interact with the ones that are still wild, there does not appear to be a bond, it causes fights.
-- The [[Pale Man]] has encountered some of the
+- The [[Pale Man]] has encountered some of the Garmyr before, but did not offer up much information about them. 
+- We probe about "information" on [[River]] to entice her to come to us.
+	- He comes back with a piece of paper with some writing in Abyssal on it, he offers that we tell her that she will receive the other half of the paper if she comes to meet.
+	- [[Silas]] intends on using Comprehend Languages to read it tomorrow
+- 
 
 
