@@ -21,6 +21,7 @@ tags:
 - We probe about "information" on [[River]] to entice her to come to us.
 	- He comes back with a piece of paper with some writing in Abyssal on it, he offers that we tell her that she will receive the other half of the paper if she comes to meet.
 	- [[Silas]] intends on using Comprehend Languages to read it tomorrow
-- 
+- [[Pale Man]] grinds a fragment of Delirium to dust in his hand into a fine powder. He throws the powder in-front of him and makes a sphere of deep haze.
+- [[Pale Man]] tells us that he thinks its possible to completely cure the mutagenic transformations. He mentions the [[Amethyst Academy]] closely guards the secrets of the "wish" spell
 
 
