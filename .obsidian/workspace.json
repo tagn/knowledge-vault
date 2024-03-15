@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ca55f5dbd36d5b37",
+        "id": "1612e1a43246bbfc",
         "type": "tabs",
         "children": [
           {
-            "id": "32ff6f0b5d04068d",
+            "id": "44ee0a91b9decab5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 046.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -176,7 +171,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "32ff6f0b5d04068d",
+  "active": "f2ed483abcf08cad",
   "lastOpenFiles": [
     "Personal Misc/Characters/Silas Nightshade/Personal Quest.md",
     "Personal Misc/Characters/Silas Nightshade/Faction Relationships.md",
