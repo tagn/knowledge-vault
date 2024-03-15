@@ -25,6 +25,6 @@ tags:
 - [[Pale Man]] tells us that he thinks its possible to completely cure the mutagenic transformations. He mentions the [[Amethyst Academy]] closely guards the secrets of the "wish" spell
 - Upon returning to the tower, the locks are gone. We find [[Milando]] up the tower. He asks for [[Keth Darklighter|Keth]] to return the favor, he wants her to get a set of "Haze Walker Plate"
 - He brings up the [[Rose Theatre]] in the city. It has been "transformed" and there is an Archmage in control of the area. "Armored head to toe, behind an impenetrable magic barrier"
-- 
+- We discuss some things, then head to clear out the nearby bridge from the [[Clock Tower]]
 
 
