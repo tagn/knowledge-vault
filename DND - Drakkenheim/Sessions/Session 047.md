@@ -23,6 +23,8 @@ tags:
 	- [[Silas]] intends on using Comprehend Languages to read it tomorrow
 - [[Pale Man]] grinds a fragment of Delirium to dust in his hand into a fine powder. He throws the powder in-front of him and makes a sphere of deep haze.
 - [[Pale Man]] tells us that he thinks its possible to completely cure the mutagenic transformations. He mentions the [[Amethyst Academy]] closely guards the secrets of the "wish" spell
+- Upon returning to the tower, the locks are gone. We find [[Milando]] up the tower. He asks for [[Keth Darklighter|Keth]] to return the favor, he wants her to get a set of "Haze Walker Plate"
+- He brings up the [[Rose Theatre]] in the city. It has been "transformed" and there is an Archmage in control of the area. "Armored head to toe, behind an impenetrable magic barrier"
 - 
 
 
