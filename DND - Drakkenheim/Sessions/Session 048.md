@@ -25,5 +25,6 @@ tags:
 	- He seems a discussion happening between the leader of the [[Hooded Lanterns]]
 	- The doors of the [[Red Lion Inn]] open up, an old man we haven't seen before walks out, trailed by [[River]] and her automaton bodyguard.
 	- He waits with the formation of soldiers to try to gather some information.
+- The Queen beckons her Champion's into the circle.
 - 
 
