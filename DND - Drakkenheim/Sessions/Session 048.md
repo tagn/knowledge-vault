@@ -14,12 +14,16 @@ tags:
 
 - We pick up after the bridge gauntlet. There is nothing of particular interest on the corpses.
 - We head back to the clocktower before heading back out.
-- We speculate on the idea of sneaking through the Garmyr, but don't really decide on anything
+- We speculate on the idea of sneaking through the [[Garmyr]], but don't really decide on anything
 - After a long rest, we head down towards the Champion's Gate to get back towards Emberwood.
 	- In the South Ward, very few structures are standing. There is a thick fog of the deep haze blanketing the area.
 	- There is some stone, brick, and timber that is facing the crater and appears melted.
 	- There is a acrid/pungent smell in the air, as if a weird material was burning nearby.
 	- Every so often we hear crumbling rock or some remnants of structures that are collapsing.
-- We arrive over at the [[Champion's Gate]]
+- We arrive over at the [[Champion's Gate]].
+- [[Silas]] disguises himself as a Hooded Lantern soldier and slips into their ranks.
+	- He seems a discussion happening between the leader of the [[Hooded Lanterns]]
+	- The doors of the [[Red Lion Inn]] open up, an old man we haven't seen before walks out, trailed by [[River]] and her automaton bodyguard.
+	- He waits with the formation of soldiers to try to gather some information.
 - 
 
