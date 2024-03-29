@@ -26,5 +26,8 @@ tags:
 	- The doors of the [[Red Lion Inn]] open up, an old man we haven't seen before walks out, trailed by [[River]] and her automaton bodyguard.
 	- He waits with the formation of soldiers to try to gather some information.
 - The Queen beckons her Champion's into the circle.
-- 
+- The Lord of the Feast is a Garmyr
+	- Incredibly large
+	- Albino
+	- Well armed, has been known to shoot a longbow taller than a soldier. It has enough force to put down a knight in plate armor in one shot.
 
