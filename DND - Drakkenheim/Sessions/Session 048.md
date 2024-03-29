@@ -30,4 +30,6 @@ tags:
 	- Incredibly large
 	- Albino
 	- Well armed, has been known to shoot a longbow taller than a soldier. It has enough force to put down a knight in plate armor in one shot.
+- We meet up with Eilas Drexel at the watchtower.
+- 
 
