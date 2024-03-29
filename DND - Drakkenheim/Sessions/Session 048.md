@@ -13,5 +13,6 @@ tags:
 ## Event Log
 
 - We pick up after the bridge gauntlet. There is nothing of particular interest on the corpses.
-- 
+- We head back to the clocktower before heading back out.
+- What if we "blended in"
 
