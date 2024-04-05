@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "17429d9632b97fb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DND - Drakkenheim/Sessions/Session 048.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,8 +190,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "44ee0a91b9decab5",
+  "active": "17429d9632b97fb6",
   "lastOpenFiles": [
+    "DND - Drakkenheim/Sessions/Session 049.md",
     "DND - Drakkenheim/Sessions/Session 047.md",
     "DND - Drakkenheim/Sessions/Session 048.md",
     "DND - Drakkenheim/Sessions/Session 046.md",
@@ -203,7 +218,6 @@
     "DND - Drakkenheim/Rumors.md",
     "DND - Drakkenheim/Quests.md",
     "DND - Drakkenheim/Characters/Silas.md",
-    "DND - Drakkenheim/Sessions/Session 016.md",
     "Kiddo One Shots/The Lost Fairy Crown",
     "Kiddo One Shots",
     "Personal Misc/Characters/Silas Nightshade/Untitled",
