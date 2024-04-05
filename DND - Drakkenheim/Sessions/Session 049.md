@@ -10,8 +10,16 @@ tags:
 
 ## Summary
 
+### Between Sessions Downtime
+
+- [[Silas]]
+	- Bought Rations x10 - `10sp x 10`
+	- Created `10` flyers to advertise Exorcism/Spiritual Cleansing/Etc services around town - `4sp x 10`
+	- Extracted poison from the "Drippy Chuul Poison Sac". Rolled a `22` nature check.
+- 
+
 ## Event Log
 
-- 
+
 
 
