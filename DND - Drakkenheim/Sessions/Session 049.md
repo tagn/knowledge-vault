@@ -23,7 +23,7 @@ tags:
 - [[Theodore Marshall]] wants us to disregard any offers that we get to do things to prevent them from being able to take the gate.
 - The plan for us has now shifted for us to not approach from the rear/inside of the city to get to the Cathedral. They'd want us to ride with their Griffon riders and assault the gate towers/etc.. to help them get in.
 - The Black Iron Pact is now going to be inside of the city already, finding a way to sneak in.
-- 
+- After asking the [[Queen of Blades]] about our role in the assault, 
 
 
 
