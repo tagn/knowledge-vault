@@ -23,4 +23,7 @@ tags:
 	- A line of spikes guards the path to the cathedrals doors.
 	- On some spikes, some really fucking mutilated Black Iron pact members are there.
 	- We see coming around, Elias Drexel and a small contingent of lanterns retreating from a large pack of Garmyr and hell hounds. Retreating towards us.
+	- We successfully save Elias Drexel and most of his group.
+	- 
+- 
 
