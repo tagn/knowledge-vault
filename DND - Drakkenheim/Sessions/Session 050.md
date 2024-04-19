@@ -26,4 +26,4 @@ tags:
 	- We successfully save Elias Drexel and most of his group.
 - We're told that beneath the Cathedral, the royal family had a vault where they stored documents/etc..
 - We enter the Cathedral, it's fucking filled with Garmyr berserkers and Hell Hounds, but at least we have some of the Hooded Lanterns with us.
-- 97 - 4 = 93 - 6 = 87 - 5 = 82
+- 97 - 4 = 93 - 6 = 87 - 5 = 82 - 29 = 53 - 8 = 45 - 5 = 40
