@@ -12,5 +12,6 @@ tags:
 
 ## Event Log
 
+- We get up in the morning, and perform our preparations for the battle.
 - 
 
