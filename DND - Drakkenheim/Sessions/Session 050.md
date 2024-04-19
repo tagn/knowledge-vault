@@ -25,5 +25,5 @@ tags:
 	- We see coming around, Elias Drexel and a small contingent of lanterns retreating from a large pack of Garmyr and hell hounds. Retreating towards us.
 	- We successfully save Elias Drexel and most of his group.
 - We're told that beneath the Cathedral, the royal family had a vault where they stored documents/etc..
-- 
+- We enter the Cathedral, it's fucking filled with Garmyr berserkers and Hell Hounds, but at least we have some of the Hooded Lanterns with us.
 
