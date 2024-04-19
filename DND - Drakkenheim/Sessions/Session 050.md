@@ -16,5 +16,11 @@ tags:
 - The hooded lanterns successfully start the day by initiating a pincer attack.
 - As we approach the gate, we see a few ballistas on top of the towers, as well as many Garmyr. In the air we see a few Chimeras
 - We're on the ramparts, the towers peak about 10 feet above us.
-- We succeed in opening the gate. We exit to a pile of dead Garmyr, and variou soldiers.
+- We succeed in opening the gate. We exit to a pile of dead Garmyr, and various soldiers.
+- We regroup with the commander of the Silver Order as they are in the process of setting up fortifications to repel a counter attack.
+- Following the soldiers, we stick to alleys and approach the Saint Vitruvio cathedral.
+	- Encircling the temples steps the fallen bodies of 50-60 Garmyr soldiers.
+	- A line of spikes guards the path to the cathedrals doors.
+	- On some spikes, some really fucking mutilated Black Iron pact members are there.
+	- We see coming around, Elias Drexel and a small contingent of lanterns retreating from a large pack of Garmyr and hell hounds. Retreating towards us.
 
