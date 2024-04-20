@@ -13,5 +13,6 @@ tags:
 ## Event Log
 
 - We pick up in the middle of our combat against the Lord of the Feast.
-- 
+- Blood elemental 
+	- 40 + 7 = 47
 
