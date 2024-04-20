@@ -14,5 +14,5 @@ tags:
 
 - We pick up in the middle of our combat against the Lord of the Feast.
 - Blood elemental 
-	- 40 + 7 = 47 - 8 = 39 + 9 = 48
+	- 40 + 7 = 47 - 8 = 39 + 9 = 48 - 15 = 33 + 12 = 45
 
