@@ -31,5 +31,9 @@ tags:
 	- Above the fountain are four evenly spaced iron handles.
 - To the south, we find what appears to be another tomb. All of the candles have gone out. On one of the tombs is a shining shield.
 	- All of the mummies in the room arise as we enter.
-- 
+- Blood Elemental HP =>
+	- 64 - 6 - 6 = 52
+	- 52 - 22 = 30
+	- 30 - 7 = 23 - 12 = 11 - 4 - 5 = 2
+	- 
 
