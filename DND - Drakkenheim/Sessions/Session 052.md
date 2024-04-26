@@ -28,6 +28,8 @@ tags:
 - Arken angles the statue towards the path, revealing another burial chamber. We angle another beam above an empty grave site and it opens another room.
 	- Keth loots a few spell scrolls, we also find another shield.
 - To the north, is a room with a large marble fountain, with a tragic looking statue. The statue depicts an angelic man looking up towards the heavens. Hands rest an inch above the fountain
-- Above the fountain are four evenly spaced iron handles.
+	- Above the fountain are four evenly spaced iron handles.
+- To the south, we find what appears to be another tomb. All of the candles have gone out. On one of the tombs is a shining shield.
+	- All of the mummies in the room arise as we enter.
 - 
 
