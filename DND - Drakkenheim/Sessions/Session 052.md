@@ -44,5 +44,6 @@ tags:
 	- We betray ourselves and the hooded lanterns by doing exactly what they asked us not to do, by stealing everything from the room, then Sihrr sealed the room shut with Stone Shape to hide it.
 - In the room to the north, there is a blade surrounded by flame floating.
 - Arken touches the sword, gets more or less told that he is unworthy, gets kicked back, and a "Deva" appears in place.
-- 
+- Silas pulls Arken out, while Sihrr gets downed, then revived by the sword.
+- We return to the surface, and find a gathering of the leaders of the various factions having a meeting.
 
