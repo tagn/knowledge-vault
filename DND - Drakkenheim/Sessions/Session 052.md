@@ -46,4 +46,6 @@ tags:
 - Arken touches the sword, gets more or less told that he is unworthy, gets kicked back, and a "Deva" appears in place.
 - Silas pulls Arken out, while Sihrr gets downed, then revived by the sword.
 - We return to the surface, and find a gathering of the leaders of the various factions having a meeting.
+- Lucretia declares that the Cathedral would be safe refuge for the Sacred Flame, which causes a disagreement with the leader of the Silver Order.
+- 
 
