@@ -23,4 +23,11 @@ tags:
 	- A mirror shield is affixed on the wall to the south.
 	 ![[Pasted image 20240425201415.png]]
 	- The shield on the south wall was easily removed, revealing another aperture. Keth attempts to light it by reflecting the beam but nothing happens.
+- We take three of the shields up with us, leaving the remaining shield inside of the sealed crypt.
+- We go down the left stairway into the catacombs.
+- Arken angles the statue towards the path, revealing another burial chamber. We angle another beam above an empty grave site and it opens another room.
+	- Keth loots a few spell scrolls, we also find another shield.
+- To the north, is a room with a large marble fountain, with a tragic looking statue. The statue depicts an angelic man looking up towards the heavens. Hands rest an inch above the fountain
+- Above the fountain are four evenly spaced iron handles.
+- 
 
