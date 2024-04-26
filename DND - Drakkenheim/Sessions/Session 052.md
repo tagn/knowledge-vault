@@ -37,5 +37,9 @@ tags:
 	- 30 - 7 = 23 - 12 = 11 - 4 - 5 = 2
 	- Ded
 - In the north-east alcove there are two statues, facing each other, holding non-mirrored kite shields. There is a large stone plaque polished to a mirrored sheen between them.
-- 
+	- Lighting up an aperture above them reveals a ~60 foot tall tunnel
+	- Keth and Sihrr head upwards into what appears to be the vault
+	- Keth finds and stashes something that seems to be the lineage for the Royal family.
+	- Sihrr takes some "shit marked with Celestial ruins from a chest in a room that we were explicitly asked to not look through". He takes vials of blood, after taking the fourth vial it glows and other runes appear.
+	- 
 
