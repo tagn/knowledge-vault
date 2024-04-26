@@ -36,5 +36,6 @@ tags:
 	- 52 - 22 = 30
 	- 30 - 7 = 23 - 12 = 11 - 4 - 5 = 2
 	- Ded
+- In the north-east alcove there are two statues, facing each other, holding non-mirrored kite shields. There is a large stone plaque polished to a mirrored sheen between them.
 - 
 
