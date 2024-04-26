@@ -49,5 +49,5 @@ tags:
 - Lucretia declares that the Cathedral would be safe refuge for the Sacred Flame, which causes a disagreement with the leader of the Silver Order.
 - We somehow successfully lie to Elias Drexel about not finding the chamber containing the royal family artifacts.
 - We hand over the phylactery to Lucretia. She uses detect magic on it, then casts legend lore on it.
-- She reveals something isn't right with the item. 
+- She reveals something isn't right with the item. Pulls Arken aside, asks if companions are trustworthy, then says she will 
 
