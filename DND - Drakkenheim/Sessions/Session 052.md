@@ -43,5 +43,6 @@ tags:
 	- Sihrr takes some "shit marked with Celestial ruins from a chest in a room that we were explicitly asked to not look through". He takes vials of blood, after taking the fourth vial it glows and other runes appear.
 	- We betray ourselves and the hooded lanterns by doing exactly what they asked us not to do, by stealing everything from the room, then Sihrr sealed the room shut with Stone Shape to hide it.
 - In the room to the north, there is a blade surrounded by flame floating.
+- Arken touches the sword, gets more or less told that he is unworthy, gets kicked back, and a "Deva" appears in place.
 - 
 
