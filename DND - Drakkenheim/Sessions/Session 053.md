@@ -23,5 +23,7 @@ tags:
 	- Five vials have the names of the current King, and five kings before him.
 	- The vial that Sihrr touches has the name *Ulrich the Fourth*, glows, a faint illusory script says Grandson.
 	- Silas would know when the Meteor struck Drakkenheim, Ulrich was elderly.
-	- 
+- We get investigated by Lucretia regarding the phylactery.
+	- She suspects that our group may have done something with it.
+- 
 
