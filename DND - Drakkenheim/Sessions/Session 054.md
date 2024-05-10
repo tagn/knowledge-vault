@@ -32,4 +32,5 @@ tags:
 - [[Silas]] calls attention to the paper that his Grandfather had taken and placed in his robe. He makes a vibe check, and the [[Pale Man]] seems to grow a bit hostile about the question.
 - The situation gets quite tense quickly, with doors shutting behind us.
 - [[Sihrr]] follows us out and tries to convince [[Keth Darklighter|Keth]] to give him back the documents she scooped up on her way out.
+- [[Arken Highbloom|Arken]] shows back up while [[Silas]] and [[Keth Darklighter|Keth]] are waiting for [[Sihrr]] to wrap up with the [[Pale Man]].
 - 
