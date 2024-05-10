@@ -12,6 +12,6 @@ tags:
 
 ## Event Log
 
-
+- Leaving Arken to his demise, we continue towards Grandpas house.
 - 
 
