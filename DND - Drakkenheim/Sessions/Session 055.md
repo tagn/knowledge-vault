@@ -13,4 +13,8 @@ tags:
 ## Event Log
 
 - Start the session talking about Sketchy grandpa hiding a piece of paper in his robe.
+- Arken?
+- We killed Seven
+- We tryin' to go to Emberwood
+- 
 
