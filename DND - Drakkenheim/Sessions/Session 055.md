@@ -25,5 +25,6 @@ tags:
 - The Lord Commander presents us with a viewing of an old ass sacred text.
 	- Silas takes possession of it to read over the course of the next X days
 - We head back to Emberwood and head into the Red Lion Hotel and request to speak with River.
+- The Pale Man *was* a mage in good standing with the Amythyst Academy, until it was discovered he was using his own apprentices as test subjects, testing the effects of eldritch contamination on them.
 -  
 
