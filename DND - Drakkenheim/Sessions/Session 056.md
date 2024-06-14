@@ -12,4 +12,4 @@ tags:
 
 ## Event Log
 
-- 
+- We discuss some plans winging
