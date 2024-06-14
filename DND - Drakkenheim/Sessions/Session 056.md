@@ -22,4 +22,5 @@ tags:
 - Keth introduces us to the Iron Bitch by attempting to dig under it with a shovel. She's super stoked about it.
 - Keth admits that we're sent by Milando to try to get the armor from her.
 - She made the armor herself. She believes it is the only set of it.
+- Silas suggests it might be easier if we just let Milando kill Keth and then maybe we can revive her.
 - 
