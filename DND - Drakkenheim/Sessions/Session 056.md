@@ -23,4 +23,5 @@ tags:
 - Keth admits that we're sent by Milando to try to get the armor from her.
 - She made the armor herself. She believes it is the only set of it.
 - Silas suggests it might be easier if we just let Milando kill Keth and then maybe we can revive her.
+- Silas suggests maybe having Grandmother talk Milando into killing himself.
 - 
