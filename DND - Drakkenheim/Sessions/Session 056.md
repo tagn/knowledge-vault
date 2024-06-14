@@ -19,4 +19,7 @@ tags:
 - We're allowed passage through the gate.
 - The rose theater is the "magic dome place". 
 - We talk to a super useful guard who had "bumped into" the dome, but knocked and nobody was home.
+- Keth introduces us to the Iron Bitch by attempting to dig under it with a shovel. She's super stoked about it.
+- Keth admits that we're sent by Milando to try to get the armor from her.
+- She made the armor herself. She believes it is the only set of it.
 - 
