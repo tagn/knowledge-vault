@@ -18,3 +18,5 @@ tags:
 - The temple gate seems more fortified since the last time we had been there.
 - We're allowed passage through the gate.
 - The rose theater is the "magic dome place". 
+- We talk to a super useful guard who had "bumped into" the dome, but knocked and nobody was home.
+- 
