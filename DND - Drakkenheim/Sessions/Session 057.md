@@ -28,5 +28,6 @@ tags:
 - We find there to be a reasonable mass of people hanging around the Cathedral. There are about 25 members of the Falling Fire, working on cleaning up/performing repairs. About 15 members of the Silver Order. Standing on a small pulpit in the center of the Cathedral we see Lucretia reading out passages. 
 - In a few days there will be a meeting of some of the factions.
 - Arken asks Lucretia about the Phylactery. She insists it's not the original after study with the Academy mages.
-- 
+- Sihrr catches something odd from a comment Silas made about the Phylactery not being found.
+- We head back out the Temple Gate towards Emberwood.
 
