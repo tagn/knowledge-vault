@@ -24,5 +24,9 @@ tags:
 	- Silas finds a tale of someone who came to Drakkenheim when the city was young, 600-700 years ago. This was a passing tale that the entire city was centered around the inscrutable tower, when nothing else in the city was more than a story or two tall.
 		- Digging further he finds a book on ruins. This book details that this is a building, as far as anyone knows, has always been here. This building predates Drakkenheim, predating the Amethyst Academy. The initial founding of the city was around this tower. No real record has ever been found of its construction.
 		- It's one of three widely known strongholds of the Amethyst Academy.
+- We get back over to the Cathedral after coming up with nothing major at the Library.
+- We find there to be a reasonable mass of people hanging around the Cathedral. There are about 25 members of the Falling Fire, working on cleaning up/performing repairs. About 15 members of the Silver Order. Standing on a small pulpit in the center of the Cathedral we see Lucretia reading out passages. 
+- In a few days there will be a meeting of some of the factions.
+- Arken asks Lucretia about the Phylactery. She insists it's not the original after study with the academy mages.
 - 
 
