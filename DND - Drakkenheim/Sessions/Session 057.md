@@ -19,5 +19,10 @@ tags:
 - Arken sends in his echo for scouting out the area. He sees 3 [[Protean Abomination]] and about 5 [[Gibbering Mouthers]] in the area
 - The tower is about 150 feet wide and has been smashed apart roughly 2/3 of the way up. The top of the tower hovers above, defying gravity. Between the sections there are pieces of floating debree. Eldritch lightning fills the area.
 - Arken did not successfully scout out any sort of entrance to get into the tower. 
-
+- We head to the Library
+	- Keth finds paper and ink
+	- Silas finds a tale of someone who came to Drakkenheim when the city was young, 600-700 years ago. This was a passing tale that the entire city was centered around the inscrutable tower, when nothing else in the city was more than a story or two tall.
+		- Digging further he finds a book on ruins. This book details that this is a building, as far as anyone knows, has always been here. This building predates Drakkenheim, predating the Amethyst Academy. The initial founding of the city was around this tower. No real record has ever been found of its construction.
+		- It's one of three widely known strongholds of the Amethyst Academy.
+- 
 
