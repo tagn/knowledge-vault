@@ -25,3 +25,4 @@ tags:
 - Silas suggests it might be easier if we just let Milando kill Keth and then maybe we can revive her.
 - Silas suggests maybe having Grandmother talk Milando into killing himself.
 - We head over and talk to Gramps about the situation. He seemed equally as apprehensive about a meeting with Ryan Greymere.
+- Sihrr mentioned the Frederick Von Lichten name to grandfather and he freaked out and ran inside.
