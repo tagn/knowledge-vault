@@ -35,4 +35,6 @@ tags:
 - "In the sewers, great evil lurks."
 - We bury the head of [[Seven]] in the graveyard near Will.
 - Grandma does recognize who [[Milando]] is.
+- Keth pawns the bow.
+- 
 
