@@ -27,6 +27,6 @@ tags:
 - We get back over to the Cathedral after coming up with nothing major at the Library.
 - We find there to be a reasonable mass of people hanging around the Cathedral. There are about 25 members of the Falling Fire, working on cleaning up/performing repairs. About 15 members of the Silver Order. Standing on a small pulpit in the center of the Cathedral we see Lucretia reading out passages. 
 - In a few days there will be a meeting of some of the factions.
-- Arken asks Lucretia about the Phylactery. She insists it's not the original after study with the academy mages.
+- Arken asks Lucretia about the Phylactery. She insists it's not the original after study with the Academy mages.
 - 
 
