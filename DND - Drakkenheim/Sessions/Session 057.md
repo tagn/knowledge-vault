@@ -36,5 +36,7 @@ tags:
 - We bury the head of [[Seven]] in the graveyard near Will.
 - Grandma does recognize who [[Milando]] is.
 - Keth pawns the bow.
+- Keth goes and buys a new bow. Silas pawns the Star of Iron.
+- Queen tells us about the tower: "Tower is keyed to Amethyst Academy members. Entry difficult otherwise. I've never personally been there."
 - 
 
