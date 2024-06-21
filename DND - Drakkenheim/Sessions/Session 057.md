@@ -12,6 +12,6 @@ tags:
 
 ## Event Log
 
-- 
+- Why did amazons computer systems repeatably order 9 books about lichens?
 
 
