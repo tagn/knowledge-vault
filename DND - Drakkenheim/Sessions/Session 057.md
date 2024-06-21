@@ -31,5 +31,6 @@ tags:
 - Sihrr catches something odd from a comment Silas made about the Phylactery not being found.
 - We head back out the Temple Gate towards Emberwood.
 - We come home to Milando sitting in our house, smoking a pipe, eating some cheese.
+- [[Milando]] starts to intimidate [[Keth]]
 - 
 
