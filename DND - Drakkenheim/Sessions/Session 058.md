@@ -36,5 +36,6 @@ tags:
 	- Above that were dormitories for apprentices, research floors, the great library, and the apartments of the Amethyst academy wizards. At the very top is the directors office and nexus.
 		- The Nexus at the top of the tower seems to be some sort of powerful magical artifact/item/etc..
 - We encounter some Delerium lookin' shits on the way to see Grandpa about his thoughts on the haze.
+	- We encounter a Delerium Sludge monster and a creature seemingly made of Deep Haze.
 
 
