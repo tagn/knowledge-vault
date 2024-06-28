@@ -12,6 +12,7 @@ tags:
 
 ## Event Log
 
+- We decide to go speak with Ryan Greymere about access to the [[Inscruitable Tower]] to see if she can help us get in, and what information she has about it.
 - 
 
 
