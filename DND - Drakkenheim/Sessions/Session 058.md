@@ -35,6 +35,6 @@ tags:
 	- There should be elevators, which may or may not still be functional. Those lead up to the Great Hall, which was a meeting area used for large gatherings, etc..
 	- Above that were dormitories for apprentices, research floors, the great library, and the apartments of the Amethyst academy wizards. At the very top is the directors office and nexus.
 		- The Nexus at the top of the tower seems to be some sort of powerful magical artifact/item/etc..
-- 
+- We encounter some Delerium lookin' shits on the way to see Grandpa about his thoughts on the haze.
 
 
