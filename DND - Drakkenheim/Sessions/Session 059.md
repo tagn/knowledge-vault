@@ -12,6 +12,6 @@ tags:
 
 ## Event Log
 
-- 
+- We almost get murdered on the first round.
 
 
