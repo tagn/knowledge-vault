@@ -22,5 +22,6 @@ tags:
 - We go back into the Pale mans bed chambers after Sihrr pops a detect magic
 	- We take some amount of Alchemical supplies TBD
 	- We still need to investigate the book
-- We head into the basement via the 
+- We head into the basement via the barn.
+- 
 
