@@ -17,4 +17,8 @@ tags:
 	- There is a pentagram in the second floor of the house, 
 - Vital Signs Used - Arken
 - We fuck up the demons
+- Magic glowing jar of ink
+- Sihrr opens up the letter and it catches fire immediately
+- We go back into the Pale mans bed chambers after Sihrr pops a detect magic
+- 
 
