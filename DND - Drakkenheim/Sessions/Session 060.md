@@ -23,5 +23,6 @@ tags:
 	- We take some amount of Alchemical supplies TBD
 	- We still need to investigate the book
 - We head into the basement via the barn.
+- Hanging from the ceiling is a large cocoon-like sac pulsing with a heart beat.
 - 
 
