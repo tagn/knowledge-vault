@@ -20,5 +20,6 @@ tags:
 - Magic glowing jar of ink
 - Sihrr opens up the letter and it catches fire immediately
 - We go back into the Pale mans bed chambers after Sihrr pops a detect magic
-- 
+	- We take some amount of Alchemical supplies TBD
+	- 
 
