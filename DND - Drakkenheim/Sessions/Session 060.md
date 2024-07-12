@@ -15,5 +15,5 @@ tags:
 - We walk back towards the Klineburg Estate
 	- Pentagram - Blackjack Mel
 	- There is a pentagram in the second floor of the house, 
-- 
+- Vital Signs Used - Arken
 
