@@ -21,6 +21,7 @@ tags:
 - Upon leaving the magic shop, Keth felt like some magical compulsion almost came over her.
 - We do a few more errands, Sihrr spikes Silas's drink. Silas falls unconscious after speaking about the Phylactery. Arken falls unconscious afterwards. Keth gets hit with a blast of necrotic energy.
 - We get a visit from grannie. She touches Silas's horns and they dissolve with her touch.
-- 
+- Sihrr continues to poke the bear.
+- Silas has little nubs
 
 
