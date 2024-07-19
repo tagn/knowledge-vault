@@ -12,6 +12,7 @@ tags:
 
 ## Event Log
 
+- Silas has a private chat with Keth about the Phylactery.
 - 
 
 
