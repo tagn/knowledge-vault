@@ -13,6 +13,8 @@ tags:
 ## Event Log
 
 - Silas has a private chat with Keth about the Phylactery.
+- We make our way back to Emberwood Village.
+- We go to the magic shop
 - 
 
 
