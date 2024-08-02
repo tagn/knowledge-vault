@@ -27,6 +27,6 @@ tags:
 	- Theodore Marshall
 	- Arken's Mistress (Lucretia)
 - The factions want to draw lines on if they are allies or enemies.
-- 
+- Most of them are kind of cunts about this. 
 
 
