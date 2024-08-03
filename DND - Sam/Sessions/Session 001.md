@@ -16,5 +16,7 @@ Milestone XP- Level each heist- 2-11
 In DnD-
 Uncommon Magic Item- 
 Additional Feat- 
+Tues @8-10 Start 20th
+
 
 
