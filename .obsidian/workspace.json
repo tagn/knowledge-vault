@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 062.md",
+                "file": "DND - Sam/Sessions/Session 001.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.51103591918945,
-    "collapsed": true
+    "width": 325.51103591918945
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 062.md",
+                "file": "DND - Sam/Sessions/Session 001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 062.md"
+                "file": "DND - Sam/Sessions/Session 001.md"
               }
             }
           },
@@ -179,32 +178,34 @@
   },
   "active": "e65a40b64af17db5",
   "lastOpenFiles": [
-    "Personal Misc/Characters/Silas Nightshade/Background.md",
+    "DND - Drakkenheim/Sessions/Session 060.md",
+    "DND - Drakkenheim/Sessions/Session 056.md",
+    "DND - Drakkenheim/Sessions/Session 044.md",
+    "DND - Drakkenheim/Sessions/Session 047.md",
+    "DND - Drakkenheim/Sessions/Session 051.md",
+    "DND - Drakkenheim/Sessions/Session 054.md",
+    "DND - Drakkenheim/Sessions/Session 057.md",
     "DND - Drakkenheim/Sessions/Session 062.md",
     "DND - Drakkenheim/Sessions/Session 061.md",
-    "DND - Drakkenheim/Sessions/Session 060.md",
+    "DND - Sam/Sessions/Session 001.md",
+    "DND - Sam/Sessions",
+    "DND - Sam",
+    "Personal Misc/Characters/Silas Nightshade/Background.md",
     "DND - Drakkenheim/Sessions/Session 059.md",
     "DND - Drakkenheim/Sessions/Session 053.md",
-    "DND - Drakkenheim/Sessions/Session 054.md",
     "DND - Drakkenheim/Sessions/Session 050.md",
-    "DND - Drakkenheim/Sessions/Session 051.md",
     "DND - Drakkenheim/Sessions/Session 052.md",
     "DND - Drakkenheim/Sessions/Session 042.md",
     "DND - Drakkenheim/Sessions/Session 048.md",
     "DND - Drakkenheim/Sessions/Session 055.md",
     "DND - Drakkenheim/Sessions/Session 058.md",
-    "DND - Drakkenheim/Sessions/Session 057.md",
     "Personal Misc/Characters/Silas Nightshade/Grandma Notes.md",
     "DND - Drakkenheim/Rumors.md",
-    "DND - Drakkenheim/Sessions/Session 056.md",
     "DND - Drakkenheim/Sessions/Session 049.md",
-    "DND - Drakkenheim/Sessions/Session 047.md",
     "DND - Drakkenheim/Sessions/Session 046.md",
     "DND - Drakkenheim/Sessions/Session 040.md",
     "DND - Drakkenheim/Sessions/Session 041.md",
     "DND - Drakkenheim/NPCS/Milando.md",
-    "DND - Drakkenheim/NPCS/Milando.md",
-    "DND - Drakkenheim/NPCS/Pale Man.md",
     "Pasted image 20240425201415.png",
     "Kiddo One Shots/The Lost Fairy Crown",
     "Kiddo One Shots",
@@ -222,8 +223,6 @@
     "Images/npc_jimjar.png",
     "Images/npc_eldeth.png",
     "Images/npc_derendil.png",
-    "Images/npc_buppido.png",
-    "Personal Misc/Characters/Ponzi Deeproot",
-    "Personal Misc/Characters/Wyldenten Proudsky"
+    "Images/npc_buppido.png"
   ]
 }

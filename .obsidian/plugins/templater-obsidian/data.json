@@ -56,9 +56,14 @@
     {
       "folder": "DND - Drakkenheim/Factions",
       "template": "Templates/Faction.md"
+    },
+    {
+      "folder": "DND - Sam/Sessions",
+      "template": "Templates/Session.md"
     }
   ],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "Templates/UpdateField.md"
   ],
