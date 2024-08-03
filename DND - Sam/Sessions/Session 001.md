@@ -12,6 +12,9 @@ tags:
 
 ## Event Log
 
-
+Milestone XP- Level each heist- 2-11
+In DnD-
+Uncommon Magic Item- 
+Additional Feat- 
 
 
