@@ -29,6 +29,8 @@ tags:
 	- Walls are lined with racks of winter clothing.
 	- The shop keep is a human.
 - "Glacialius Mystica" - Magic Item Shop
+	- Silas buys a Frostbite Fang dagger
 - "Icy Pop Potions" - Alchemist Shop
+	- 
 
 
