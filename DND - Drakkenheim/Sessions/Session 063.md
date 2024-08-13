@@ -17,6 +17,7 @@ tags:
 - We likely need to talk to the Amethyst Academy directly
 - The Queen could help us in exchange for the head of Elias Drexel.
 - We return to Emberwood and Arken somehow charms a guard on our way back into town.
+- We convince Eldritch Runeweaver to transport us to the fey wilds.
 - 
 
 
