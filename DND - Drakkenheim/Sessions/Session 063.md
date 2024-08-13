@@ -23,6 +23,12 @@ tags:
 - We're instructed by the frost elemental to make our way to the lodge prior to going anywhere else since we're mostly from the material plane and they aren't super fond of them.
 - We're given a room, a map, some clothes to wear in the city.
 - We need to make it over to the market to procure some things for assistance on our travel out to Grandmother.
-- 
+- "The Winter's Ward" - General Store
+	- Above the entrance is a sign that depicts a shield covered in frost.
+	- Walking inside it is surprisingly warm.
+	- Walls are lined with racks of winter clothing.
+	- The shop keep is a human.
+- "Glacialius Mystica" - Magic Item Shop
+- "Icy Pop Potions" - Alchemist Shop
 
 
