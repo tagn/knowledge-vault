@@ -31,6 +31,6 @@ tags:
 - "Glacialius Mystica" - Magic Item Shop
 	- Silas buys a Frostbite Fang dagger
 - "Icy Pop Potions" - Alchemist Shop
-	- 
+- Silas needs to come up with his five questions to ask his new momma.
 
 
