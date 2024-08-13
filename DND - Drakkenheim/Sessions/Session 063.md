@@ -21,6 +21,8 @@ tags:
 - Silas strips naked and the gate to the city lets him in. Sihrr and Keth both give the gate a nice compliment. Arken runs into the gate and it hits him, then he lays on the ground and is allowed in.
 - An ice elemental slides out in front of us and turns itself into a shape of a wall. 
 - We're instructed by the frost elemental to make our way to the lodge prior to going anywhere else since we're mostly from the material plane and they aren't super fond of them.
+- We're given a room, a map, some clothes to wear in the city.
+- We need to make it over to the market to procure some things for assistance on our travel out to Grandmother.
 - 
 
 
