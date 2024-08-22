@@ -33,3 +33,12 @@ Open box- Kai gambling partner stole- afterlife casino-large sum of money-statue
 
 "Greetings, operatives. An ally of the Golden Vault named Verity Kye had her life's savings stolen from her by a devious gambling partner. We've found an opportunity to right this wrong. This quest, should you choose to undertake it, requires you to infiltrate the Afterlife Casino and steal a statuette and a sum of money. Meet with Verity at the Brine Widow tavern to learn more details. Good luck, operatives."
 
+Go sleep and meet at the Widow Tavern- Leave through the firehouse gate- tiefling- red skin- in the back waving us in. Closes us in the tavern. Backroom- swear to keep secret
+
+Casino- Togglepocket- steal statue prize- 5k gold. Back to Verity. Paid a dwarf to get a map of the casino. Both gamblers became friends- opened casino with the money. 
+Pass card- boat shuttle, river goes into cave into the casino. Only employs tiefling magically locked but card will unlock
+Gold and statue in the vault. 100g pieces each payment
+How long- in 48 hours. 
+Dice game tournament
+Statue-will fit in the bag of holding, devil creature. 
+Dress code- Money up front to play first- 
