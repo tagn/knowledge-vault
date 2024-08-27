@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Sam/Sessions/Session 001.md",
+                "file": "DND - Sam/Sessions/Session 002.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Sam/Sessions/Session 001.md",
+                "file": "DND - Sam/Sessions/Session 002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Sam/Sessions/Session 001.md"
+                "file": "DND - Sam/Sessions/Session 002.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "e65a40b64af17db5",
   "lastOpenFiles": [
-    "DND - Sam/Prep/Session 000.md",
     "DND - Sam/Sessions/Session 001.md",
+    "DND - Sam/Sessions/Session 002.md",
+    "DND - Sam/Prep/Session 000.md",
     "DND - Sam/Prep",
     "DND - Sam/Sessions/Session 003.md",
     "DND - Drakkenheim/Sessions/Session 063.md",
