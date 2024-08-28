@@ -26,3 +26,4 @@ Games- Sam
 
 Gawdy signs- Red Robed Tiefling- towards the river with dock- boatkeeper to the river stix- 2 coins
 Opened 2 weeks ago
+3 silver
