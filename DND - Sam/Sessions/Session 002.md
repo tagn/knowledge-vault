@@ -30,3 +30,6 @@ Opened 2 weeks ago
 slide coins-takes coins- magic through sigil
 
 Employee lounge- any path to where money could be going?
+
+8 final players - abjuration - drunk tank?
+rats are rigged
