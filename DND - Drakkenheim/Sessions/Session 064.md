@@ -34,5 +34,16 @@ tags:
 - We defeat the giant and put it to rest.
 - We encounter a 200 foot long fucking bird. Silas banishes it and we run the fuck away.
 - At some point in the past Silas talking to his grandmother, there was a conversation regarding the "gateway staircase" which acts somehow as a shortcut. 
+- We continue across the bridge.
 - [[Sihrr]] purges the contamination from [[Silas]] gaining him 3 levels of exhaustion.
 - [[Silas]] drops a level of sanity after a bad dream, now down to 4.
+- We give trolls some magical food on the bridge.
+- We find a cone-shaped gap cut in the bridge and have to figure out how to cross it.
+- We end up heading down the stairs, and are no longer over the frozen ocean, but now in a clear boreal forest, with small crystals coming out of the ground.
+- We start to see some nice and weird wildlife.
+- A bird makes a C flat sound another one responds in a B sharp? Idk what that shit even means.
+- We feel unusually safe taking a rest in this forest.
+- We awaken to an elven woman, preparing a stew who tells us to be calm.
+- Lady Frostgleam, the caretaker of the forest. Wake and eat, build our strength.
+- She is unable to offer us any assistance, but will guide us in the correct direction.
+- We should come up with some questions to ask Lady Frostgleam during our travel to grannies house.
