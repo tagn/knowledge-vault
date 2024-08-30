@@ -32,4 +32,7 @@ tags:
 - Silas gains a contamination level during his sleep..again.
 - We are at a large expanse called the Frostveil Sea. We encounter a Giant that Silas attempts to sweet talk unsuccessfully because he can't speak Giant.
 - We defeat the giant and put it to rest.
-- 
+- We encounter a 200 foot long fucking bird. Silas banishes it and we run the fuck away.
+- At some point in the past Silas talking to his grandmother, there was a conversation regarding the "gateway staircase" which acts somehow as a shortcut. 
+- [[Sihrr]] purges the contamination from [[Silas]] gaining him 3 levels of exhaustion.
+- [[Silas]] drops a level of sanity after a bad dream, now down to 4.
