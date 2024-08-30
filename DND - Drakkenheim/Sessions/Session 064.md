@@ -30,4 +30,4 @@ tags:
 - We leave town, going towards grannies house. We arrive at a cliff with a steep drop of about 800 feet and find our way down.
 - We take camp for the evening at the base. Everyone has shitty dreams. Sihrr and Keth lose some "Sanity". Silas does not. Arken dreams of a fucking demon entering the Cathedral, killing Lucretia, the demon looks like Milando.
 - Silas gains a contamination level during his sleep..again.
-- We are at a large expanse called the Frostveil Sea. 
+- We are at a large expanse called the Frostveil Sea. We encounter a Giant that Silas attempts to sweet talk.
