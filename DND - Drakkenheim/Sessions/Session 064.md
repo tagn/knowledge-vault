@@ -23,4 +23,7 @@ tags:
 	- There are a bunch of circles drawn around the Cathedral.
 	- Grannie rings her bell, and someone that could pass as a younger brother of Silas enters the room. She slaps him because he was too slow.
 	- She writes something on paper, then looks up at the scrying orb and pulls it in.
+- We awaken and proceed to have breakfast at the inn.
+- We approach the front desk and inquire about how to return to the Fey Wilds.
+- The innkeeper hands us a business card that she can reach us through on if she has found a way for us to return home.
 - 
