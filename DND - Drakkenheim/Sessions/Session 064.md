@@ -31,4 +31,5 @@ tags:
 - We take camp for the evening at the base. Everyone has shitty dreams. Sihrr and Keth lose some "Sanity". Silas does not. Arken dreams of a fucking demon entering the Cathedral, killing Lucretia, the demon looks like Milando.
 - Silas gains a contamination level during his sleep..again.
 - We are at a large expanse called the Frostveil Sea. We encounter a Giant that Silas attempts to sweet talk unsuccessfully because he can't speak Giant.
+- We defeat the giant and put it to rest.
 - 
