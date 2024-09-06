@@ -12,6 +12,7 @@ tags:
 
 ## Event Log
 
+- We discuss things over with Lady Frostgleam as we travel across her lands to see Grannie.
 - 
 
 
