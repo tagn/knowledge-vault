@@ -26,5 +26,5 @@ tags:
 - Walking towards grannies house, about 30 feet ahead of us the ground explodes and a large salamander looking thing comes out flanked by a bunch of wolves.
 - Used vital signs on Arken.
 - Walking the rest of the way to Grannies house. We encounter a stench of decay. A path is carved through the snow leading to a small clearing.
-- Big ole Grannie. Sitting inside of the binding circle on a gilded throne is Milando.
+- Big ole Grannie. Sitting inside of the binding circle on a gilded throne is Milando. She offers us a deal for Keth, but then uhh, we don't take it so we have to fight her.
 - 
