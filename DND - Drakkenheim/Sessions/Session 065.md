@@ -22,5 +22,6 @@ tags:
 - Grannies magic is a bit widespread, control people, divine things about whats going on, lots of charm type stuff.
 - We take a little resty westy and then.... EMOTIONAL DAMAGE
 - Silas has a "dream", but it's Grannie directly talking to him telling him she's going to send for him. 
-
-
+- [[Edahi Ghastliness]] appears at our camp, offering to escort us to Grannie, but [[Silas]] casts banishment on him and sends him off to "safety".
+- Walking towards grannies house, about 30 feet ahead of us the ground explodes.
+- 
