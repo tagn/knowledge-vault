@@ -19,5 +19,6 @@ Tux pants- Red jackets-
 
 cage with rollers
 3 monkeys
+Lady bag of holding- can't take things out of the bag
 
 
