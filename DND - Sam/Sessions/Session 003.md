@@ -14,7 +14,8 @@ tags:
 
 Disguise Self
 Expeditious Retreat
-Magical Tinkering
+Magical Tinkering - keep things away from the waterfall
+Tux pants- Red jackets- 
 
 
 
