@@ -12,6 +12,9 @@ tags:
 
 ## Event Log
 
+Disguise Self
+Expeditious Retreat
+Magical Tinkering
 
 
 
