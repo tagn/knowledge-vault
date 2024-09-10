@@ -21,7 +21,7 @@ cage with rollers
 3 monkeys
 Lady bag of holding- can't take things out of the bag
 
-Casino plans-  
-
+Casino plans-  on boat in disguise - 
+Go up to tournament room- wait for Lindsey- magical tinkering smoke - steal statue
 
 
