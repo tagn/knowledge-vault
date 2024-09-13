@@ -21,17 +21,18 @@ tags:
 - Silas casts identify on the Pestle. It's a Natural weapon. Does bludgeoning damage and can cause the target have to make a save or get disadvantage on concentration checks.
 - Inside grannies house we find:
 	- The phylactery of saint vitruvio. It's under a pile of discarded items in the corner of the room.
-	- An amulet with a mirror in it.
-	- Two hobgoblin feet that are stuck together at the soles.
-	- A magical ring. Plain silver.
-	- A severed arm of a troll.
-	- A severed head of a water elemental, a marid.
-	- A long iron needle.
+	- An amulet with a mirror in it: Gives you advantage on charisma checks at night.
+	- Two hobgoblin feet that are stuck together at the soles: The orphan feet. If you bite a toe off and throw the other foot up to 30 feet. It can be used 5 times. 
+	- A magical ring. Plain silver: Identify does not work on this ring. 
+	- A severed arm of a troll: Acts as an alchemy jug. You have to slit the wrist.
+	- A severed head of a water elemental, a marid: A decanter of endless water. You have to pry the eyelids off and it cries out the water.
+	- A long iron needle: An iron needle you have to slam into your eye. It proof against detection and location.
 	- A pointed bone tube: A water breathing tube. A themed version of the "cap of water breathing". While wearing it, it makes a bubble of air around your head. To get it to function, you have to stab it into your throat. 
-	- An eye that constantly looks around. The lid never closes.
-	- A glass spider.
-	- A deck of 20 of 22 playing cards: The lights in the room dim. Silas is hit with an overwhelming sense of power. This is a deck of many things. Two cards were removed. Once a card is drawn it fades from existence, unless it's the fool or jester.
-	- A large black box, about three feet deep, a foot wide.
+	- An eye that constantly looks around. The lid never closes: Flavored driftglobe. A small sphere, within 60 feet you can speak a command word and cause it to eminate light or the daylight spell. Once a day.
+	- A glass spider: Opens any lock. 8 legs. Each use consumes a leg
+	- A deck of 20 of 22 playing cards: The lights in the room dim. Silas is hit with an overwhelming sense of power. This is a deck of many things. Two cards were removed. Once a card is drawn it fades from existence, unless it's the fool or jester. We drew 3 of the cards so far.
+	- A large black box, about three feet deep, a foot wide: Inside are three featureless dolls. Dolls of Parody. If attuned to them, they'll take the shape of each member of the party and start acting like dumb versions of each of the other party members.
+	- The flesh bag of horrors: Identity works, but doesn't give me any information.
 - Arken finds a small rock with a hole in it, he can always hear wind from it.
 - Silas finds a small pocket mirror that is perfect, whenever he picks it up it fogs over.
 - Sihrr finds a small skull of a rabbit that whispers insults when nobody is looking at it.
@@ -46,7 +47,9 @@ tags:
 - Silas hands over the envelope and key to Lady Frostgleam.
 - We're offered rooms for the night, and Lady Frostgleam will help us get back to the material plane the following day.
 - The servant led us to our rooms, the Lady left some token of appreciation for us in the dresser drawer.
-- Keth looks through all the drawers. She finds a crystal with a glyph carved into it.
+- Keth looks through all the drawers. She finds a crystal with a glyph carved into it. This is our first "legendary" item. It is a legendary ion stone of mastery. Your proficiency bonus increases by 1 while it orbits your head. It has AC 24, 10 HP, and resistant to all damage. It doesn't have a saving throw.
 - Silas
 	- Silas is 4 years older and takes 4 psychic damage.
 	- Advantage on all skill checks he is proficient in. Disadvantage on all other skill checks.
+- Sihrr gained some attribute points, then lost attribute points.
+- Sihrr then lost a foot.
