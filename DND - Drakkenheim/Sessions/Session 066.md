@@ -27,10 +27,10 @@ tags:
 	- A severed arm of a troll.
 	- A severed head of a water elemental, a marid.
 	- A long iron needle.
-	- A pointed bone tube.
+	- A pointed bone tube: A water breathing tube. A themed version of the "cap of water breathing". While wearing it, it makes a bubble of air around your head. To get it to function, you have to stab it into your throat. 
 	- An eye that constantly looks around. The lid never closes.
 	- A glass spider.
-	- A deck of 22 playing cards.
+	- A deck of 20 of 22 playing cards: The lights in the room dim. Silas is hit with an overwhelming sense of power. This is a deck of many things. Two cards were removed. Once a card is drawn it fades from existence, unless it's the fool or jester.
 	- A large black box, about three feet deep, a foot wide.
 - Arken finds a small rock with a hole in it, he can always hear wind from it.
 - Silas finds a small pocket mirror that is perfect, whenever he picks it up it fogs over.
@@ -45,4 +45,8 @@ tags:
 - "Nivra Chillheart" was the true name of Grannie.
 - Silas hands over the envelope and key to Lady Frostgleam.
 - We're offered rooms for the night, and Lady Frostgleam will help us get back to the material plane the following day.
-- 
+- The servant led us to our rooms, the Lady left some token of appreciation for us in the dresser drawer.
+- Keth looks through all the drawers. She finds a crystal with a glyph carved into it.
+- Silas
+	- Silas is 4 years older and takes 4 psychic damage.
+	- Advantage on all skill checks he is proficient in. Disadvantage on all other skill checks.
