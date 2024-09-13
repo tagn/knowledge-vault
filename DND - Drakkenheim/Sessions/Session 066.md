@@ -38,6 +38,8 @@ tags:
 - Keth finds a spinning top with an image of one of the four elements on each side.
 - There is evidence that someone else has been sleeping in the area.
 - Silas grabs some mystery hair from where he used to sleep. He finds a small envelope. Inside is a letter scrawled, "To my dearest grandson. If you are reading this. I have passed into the shadows. The cauldron is yours, guard it well. Be wary of those who come seeking it. It will bring sweet lies. In the hollow tree of the riverbank, there is a key to her hidden chest. The one eyed witch still owes her a favor. The forest remembers and will answer your call."
--  
+- We torch Casa del Grannie.
+- We use legend lore on the Phylactery of Saint Vitruvio. It was originally created at the behest of Saint Vitruvio, who wanted to be bound to service for if aid was required in the future.
+- 
 
 
