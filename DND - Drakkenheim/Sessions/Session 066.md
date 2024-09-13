@@ -44,4 +44,5 @@ tags:
 - Silas recalls that the dragon form of Lady Frostgleam is a crystal dragon. They are also known to be the friendliest of all dragonkind. We hop on her back and she flies us towards an ice covered mountain. We fly straight into the side of the mountain, which turns out to be illusionary. We're now in the inside of Lady Frostgleams home.
 - "Nivra Chillheart" was the true name of Grannie.
 - Silas hands over the envelope and key to Lady Frostgleam.
+- We're offered rooms for the night, and Lady Frostgleam will help us get back to the material plane the following day.
 - 
