@@ -48,8 +48,19 @@ tags:
 - We're offered rooms for the night, and Lady Frostgleam will help us get back to the material plane the following day.
 - The servant led us to our rooms, the Lady left some token of appreciation for us in the dresser drawer.
 - Keth looks through all the drawers. She finds a crystal with a glyph carved into it. This is our first "legendary" item. It is a legendary ion stone of mastery. Your proficiency bonus increases by 1 while it orbits your head. It has AC 24, 10 HP, and resistant to all damage. It doesn't have a saving throw.
-- Silas
+- Silas draws
+	- Vizier
 	- Silas is 4 years older and takes 4 psychic damage.
 	- Advantage on all skill checks he is proficient in. Disadvantage on all other skill checks.
 - Sihrr gained some attribute points, then lost attribute points.
 - Sihrr then lost a foot.
+- Arken draws
+	- Talons: All items are disintegrated. He gets a legendary item of his choosing.
+	- Key: A rare or better magic weapon with proficiency. The GM chooses the weapon.
+- Keth draws
+	- Rogue: Loses his left foot.
+	- Vizier
+	- Star: Increase one ability score by 2. Score can exceed 20, but can't exceed 24.
+	- Fool: Adds two more cards to your declared.
+	- Talons: All items are disintegrated. He gets a legendary item of his choosing.
+	- Moon: Somewhere in the world, an exact duplicate of you appears. It has the same appearance, equipment, and knowledge as you. Its alignment is opposite yours, and its singular mission is to replace you. 
