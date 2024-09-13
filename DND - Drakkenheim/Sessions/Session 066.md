@@ -28,7 +28,7 @@ tags:
 	- A severed head of a water elemental, a marid: A decanter of endless water. You have to pry the eyelids off and it cries out the water.
 	- A long iron needle: An iron needle you have to slam into your eye. It proof against detection and location.
 	- A pointed bone tube: A water breathing tube. A themed version of the "cap of water breathing". While wearing it, it makes a bubble of air around your head. To get it to function, you have to stab it into your throat. 
-	- An eye that constantly looks around. The lid never closes: Flavored driftglobe. A small sphere, within 60 feet you can speak a command word and cause it to eminate light or the daylight spell. Once a day.
+	- An eye that constantly looks around. The lid never closes: Flavored Driftglobe. A small sphere, within 60 feet you can speak a command word and cause it to emanate light or the daylight spell. Once a day.
 	- A glass spider: Opens any lock. 8 legs. Each use consumes a leg
 	- A deck of 20 of 22 playing cards: The lights in the room dim. Silas is hit with an overwhelming sense of power. This is a deck of many things. Two cards were removed. Once a card is drawn it fades from existence, unless it's the fool or jester. We drew 3 of the cards so far.
 	- A large black box, about three feet deep, a foot wide: Inside are three featureless dolls. Dolls of Parody. If attuned to them, they'll take the shape of each member of the party and start acting like dumb versions of each of the other party members.
