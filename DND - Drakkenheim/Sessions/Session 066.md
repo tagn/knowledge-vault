@@ -40,6 +40,8 @@ tags:
 - Silas grabs some mystery hair from where he used to sleep. He finds a small envelope. Inside is a letter scrawled, "To my dearest grandson. If you are reading this. I have passed into the shadows. The cauldron is yours, guard it well. Be wary of those who come seeking it. It will bring sweet lies. In the hollow tree of the riverbank, there is a key to her hidden chest. The one eyed witch still owes her a favor. The forest remembers and will answer your call."
 - We torch Casa del Grannie.
 - We use legend lore on the Phylactery of Saint Vitruvio. It was originally created at the behest of Saint Vitruvio, who wanted to be bound to service for if aid was required in the future.
+- We travel out of Grannies territory. Waiting for us at the edge of the territory is a very long line of fey deer. As we approach they bow towards us. They part in the middle and allow us to enter lady Frostgleams territory.
+- Silas recalls that the dragon form of Lady Frostgleam is a crystal dragon. They are also known to be the friendliest of all dragonkind. We hop on her back and she flies us towards an ice covered mountain. We fly straight into the side of the mountain, which turns out to be illusionary. We're now in the inside of Lady Frostgleams home.
+- "Nivra Chillheart" was the true name of Grannie.
+- Silas hands over the envelope and key to Lady Frostgleam.
 - 
-
-
