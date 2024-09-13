@@ -37,7 +37,7 @@ tags:
 - Sihrr finds a small skull of a rabbit that whispers insults when nobody is looking at it.
 - Keth finds a spinning top with an image of one of the four elements on each side.
 - There is evidence that someone else has been sleeping in the area.
-- Silas grabs some mystery hair from where he used to sleep. He finds a small envelope. Inside is a letter scrawled, "To my dearest grandson. If you are reading this. I have passed into the shadows. The cauldron is yours, guard it well. Be wary of those who come seeking it. It will bring sweet lies. In the hollow key of the riverbank, the one eyed witch still owes her a favor. The forest remembers and will answer your call."
+- Silas grabs some mystery hair from where he used to sleep. He finds a small envelope. Inside is a letter scrawled, "To my dearest grandson. If you are reading this. I have passed into the shadows. The cauldron is yours, guard it well. Be wary of those who come seeking it. It will bring sweet lies. In the hollow tree of the riverbank, there is a key to her hidden chest. The one eyed witch still owes her a favor. The forest remembers and will answer your call."
 -  
 
 
