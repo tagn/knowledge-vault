@@ -6,7 +6,7 @@ location: []
 tags:
  - session
 ---
-
+f
 
 ## Summary
 
@@ -63,4 +63,5 @@ tags:
 	- Star: Increase one ability score by 2. Score can exceed 20, but can't exceed 24.
 	- Fool: Adds two more cards to your declared.
 	- Talons: All items are disintegrated. He gets a legendary item of his choosing.
-	- Moon: Somewhere in the world, an exact duplicate of you appears. It has the same appearance, equipment, and knowledge as you. Its alignment is opposite yours, and its singular mission is to replace you. 
+	- Moon: Somewhere in the world, an exact duplicate of you appears. It has the same appearance, equipment, and knowledge as you. Its alignment is opposite yours, and its singular mission is to replace you.
+- 
