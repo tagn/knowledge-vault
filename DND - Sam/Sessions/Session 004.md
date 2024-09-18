@@ -15,6 +15,8 @@ tags:
 Before entering casino- 
 Go to shop to buy ball bearings
 Cook Treats
+
+
 Disguise with tattoo
 
 Take boat with Andria
