@@ -20,6 +20,7 @@ Cook Treats
 Disguise with tattoo
 
 Take boat with Andria
+
 Make my way up to the tournament room
 Wait for Lindsey to give the ok
 Activate magical tinkering
