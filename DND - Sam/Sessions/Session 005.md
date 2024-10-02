@@ -27,4 +27,7 @@ Mansion- 70 years old- high in the mountains- academic sanctuary 3 stories
 
 Sword Mountains- Steep, craggy, orcs, trolls, 1 ancient dragon Shamagar, goblins 
 
-Shopping- way to travel 
+Shopping- 
+way to travel - mule - 8 gold - 420 lbs -  
+
+Rations- Cold weather gear- climbing gear - 
