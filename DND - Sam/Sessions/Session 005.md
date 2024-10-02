@@ -31,3 +31,7 @@ Shopping-
 way to travel - mule - 8 gold - 420 lbs -  
 
 Rations- Cold weather gear- climbing gear - 
+14 times 5 SP
+
+
+Cold weather clothes- 10 gold 
