@@ -28,10 +28,17 @@ Mansion- 70 years old- high in the mountains- academic sanctuary 3 stories
 Sword Mountains- Steep, craggy, orcs, trolls, 1 ancient dragon Shamagar, goblins 
 
 Shopping- 
-way to travel - mule - 8 gold - 420 lbs -  
+way to travel - mule - 8 gold - 420 lbs -  Chester
 
 Rations- Cold weather gear- climbing gear - 
 14 times 5 SP
 
 
 Cold weather clothes- 10 gold 
+
+Lindsey- 
+Andria-Mule
+Rae-Sam
+
+1 Inn in Helm's Hold
+
