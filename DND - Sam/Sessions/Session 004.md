@@ -30,3 +30,8 @@ Leave
 
 Go up to tournament room- wait for Lindsey- magical tinkering smoke - steal statue
 
+Partial success- 100 gold- 90 remaining- no magic item
+
+How to be a librarian- 10pm at the inn
+
+Level Up
