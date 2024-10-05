@@ -18,5 +18,6 @@ tags:
 - We make our way to the Cathedral, 2-3 miles out we run into a barricade set up by the Falling Fire members.
 - We are allowed through to go see Lucretia.
 - The area around the Cathedral has been leveled to make the area more defensible.
+- Inside are some more professional looking falling fire soldiers. There are some members that appear to be from the Queen's Men.
 - 
 
