@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 011.md",
+                "file": "DND - Sam/Sessions/Session 006.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 011.md",
+                "file": "DND - Sam/Sessions/Session 006.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 011.md"
+                "file": "DND - Sam/Sessions/Session 006.md"
               }
             }
           },
@@ -176,8 +176,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2ed483abcf08cad",
+  "active": "e65a40b64af17db5",
   "lastOpenFiles": [
+    "DND - Drakkenheim/Sessions/Session 011.md",
+    "DND - Sam/Sessions/Session 006.md",
     "DND - Drakkenheim/Sessions/Session 067.md",
     "DND - Drakkenheim/Sessions/Session 060.md",
     "DND - Drakkenheim/Sessions/Session 063.md",
@@ -203,8 +205,6 @@
     "DND - Drakkenheim/Will/Journal.md",
     "DND - Sam/Prep/Session 000.md",
     "DND - Sam/Prep",
-    "DND - Drakkenheim/Sessions/Session 014.md",
-    "DND - Drakkenheim/Sessions/Session 001.md",
     "DND - Sam/Sessions",
     "DND - Sam",
     "Pasted image 20240425201415.png",
