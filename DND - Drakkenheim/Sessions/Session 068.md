@@ -12,6 +12,5 @@ tags:
 
 ## Event Log
 
-- 
-
+- We instruct the band of brigands to 
 
