@@ -12,5 +12,7 @@ tags:
 
 ## Event Log
 
-- We instruct the band of brigands to 
+- We instruct the band of brigands
+- We go back towards emberwood, silas sneaks in and buys a focus and chain mail
+- We go back to the tower
 
