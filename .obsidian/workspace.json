@@ -17,10 +17,25 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Session 068"
+            }
+          },
+          {
+            "id": "4f93ca79f92766cf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -94,7 +115,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Session 068"
             }
           },
           {
@@ -104,7 +127,9 @@
               "type": "outline",
               "state": {
                 "file": "DND - Drakkenheim/Sessions/Session 068.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session 068"
             }
           },
           {
@@ -115,7 +140,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -123,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -131,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
-              "state": {}
+              "state": {},
+              "icon": "FANTASY_CALENDAR",
+              "title": "Fantasy Calendar"
             }
           },
           {
@@ -143,7 +174,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -151,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "dice-roller-icon",
+              "title": "Dice Tray"
             }
           }
         ],
@@ -176,7 +211,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e65a40b64af17db5",
+  "active": "4f93ca79f92766cf",
   "lastOpenFiles": [
     "DND - Sam/Sessions/Session 006.md",
     "DND - Drakkenheim/Sessions/Session 068.md",
