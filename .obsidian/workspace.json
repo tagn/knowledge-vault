@@ -13,29 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 068.md",
+                "file": "DND - Sam/Sessions/Session 007.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 068"
-            }
-          },
-          {
-            "id": "4f93ca79f92766cf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Session 007"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.51103591918945
+    "width": 223.50484466552734
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 068.md",
+                "file": "DND - Sam/Sessions/Session 007.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 068"
+              "title": "Backlinks for Session 007"
             }
           },
           {
@@ -126,10 +113,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 068.md"
+                "file": "DND - Sam/Sessions/Session 007.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 068"
+              "title": "Outline of Session 007"
             }
           },
           {
@@ -211,10 +198,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4f93ca79f92766cf",
+  "active": "f2ed483abcf08cad",
   "lastOpenFiles": [
-    "DND - Sam/Sessions/Session 006.md",
     "DND - Drakkenheim/Sessions/Session 068.md",
+    "DND - Sam/Sessions/Session 007.md",
+    "DND - Sam/Sessions/Session 006.md",
     "DND - Sam/Sessions/Session 005.md",
     "DND - Drakkenheim/Sessions/Session 011.md",
     "DND - Drakkenheim/Sessions/Session 067.md",
@@ -238,7 +226,6 @@
     "Personal Misc/Characters/Silas Nightshade/Stats and Choices.md",
     "Personal Misc/Characters/Turdis/Backstory.md",
     "DND - Drakkenheim/Characters/Silas.md",
-    "DND - Drakkenheim/Will/Journal.md",
     "DND - Sam/Prep",
     "DND - Sam/Sessions",
     "DND - Sam",
