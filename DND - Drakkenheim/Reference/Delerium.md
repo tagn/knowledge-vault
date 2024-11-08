@@ -2,10 +2,10 @@ Corrupted rocks that came from when the meteor fell on Drakkenheim. Touching the
 
 ## Pricing
 
-| Type     | Cost     |
-| -------- | -------- |
-| Chip     |          |
-| Fragment | 100 gold |
-| Shard    | 500 gold |
-| Crystal  |          |
-| Geode    |          |
+| Type     | Cost      |
+| -------- | --------- |
+| Chip     | 10 gold   |
+| Fragment | 100 gold  |
+| Shard    | 500 gold  |
+| Crystal  | 1000 gold |
+| Geode    | 5000 gold |
