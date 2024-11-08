@@ -12,6 +12,7 @@ tags:
 
 ## Event Log
 
-
+ - We pick up in the aftermath of the Cathedral fight.
+ - 
 
 
