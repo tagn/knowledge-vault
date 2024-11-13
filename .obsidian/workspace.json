@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "72b50b9480fe30ad",
+        "id": "0823150859a89dbb",
         "type": "tabs",
         "children": [
           {
-            "id": "e65a40b64af17db5",
+            "id": "cb02ed5c25fb41f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Reference/Apothecary Spell List.md",
+                "file": "DND - Sam/Sessions/Session 008.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apothecary Spell List"
+              "title": "Session 008"
             }
           }
         ]
@@ -198,15 +198,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e65a40b64af17db5",
+  "active": "cb02ed5c25fb41f3",
   "lastOpenFiles": [
+    "DND - Sam/Sessions/Session 007.md",
+    "DND - Sam/Sessions/Session 006.md",
+    "DND - Sam/Sessions/Session 004.md",
+    "DND - Sam/Sessions/Session 005.md",
+    "DND - Sam/Sessions/Session 008.md",
     "DND - Drakkenheim/Reference/Contamination.md",
     "DND - Drakkenheim/Reference/Delerium.md",
     "DND - Drakkenheim/Sessions/Session 069.md",
-    "DND - Sam/Sessions/Session 007.md",
     "DND - Drakkenheim/Sessions/Session 068.md",
-    "DND - Sam/Sessions/Session 006.md",
-    "DND - Sam/Sessions/Session 005.md",
     "DND - Drakkenheim/Sessions/Session 011.md",
     "DND - Drakkenheim/Sessions/Session 067.md",
     "DND - Drakkenheim/Sessions/Session 060.md",
@@ -215,7 +217,6 @@
     "DND - Drakkenheim/Sessions/Session 065.md",
     "DND - Drakkenheim/Sessions/Session 062.md",
     "DND - Drakkenheim/Sessions/Session 066.md",
-    "DND - Sam/Sessions/Session 004.md",
     "DND - Sam/Sessions/Session 001.md",
     "DND - Sam/Sessions/Session 003.md",
     "DND - Sam/Sessions/Session 002.md",
@@ -225,7 +226,6 @@
     "Personal Misc/Characters/Silas Nightshade/Background.md",
     "Personal Misc/Characters/Silas Nightshade/Faction Relationships.md",
     "Personal Misc/Characters/Silas Nightshade/Grandma Notes.md",
-    "Personal Misc/Characters/Silas Nightshade/Personal Quest.md",
     "DND - Sam/Prep",
     "DND - Sam/Sessions",
     "DND - Sam",
