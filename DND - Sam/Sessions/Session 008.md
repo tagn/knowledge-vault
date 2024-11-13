@@ -34,3 +34,15 @@ mithril armor
 potion of lighting resistance
 slippers of spider climbing
 
+guards 75 guards- 8 hours shifts- 2/3 off duty 
+all prisoners are numbers- hoodless robe - manacles \
+different continent - not an island- 350 sea miles
+cold weather 
+Bethra- Provide uniforms- guards or cooks- Jolly Pelican ship- regular ship. On the ship will be normal workers
+High alert-from warden- warning horn 1 minute- bright lights turn red. All guards off duty arm themselves and ready. Once that alarm goes off then invisible things will be seen. 
+20 ft higher wall- 20 ft ceiling - arcane lock spell- 
+
+Cooks
+Heavy armor? Leather armor from Raechel?
+
+Uncommon magic item?
