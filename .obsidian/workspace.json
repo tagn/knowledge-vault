@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 070.md",
+                "file": "DND - Drakkenheim/Quests/In the Tower.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 070"
+              "title": "In the Tower"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.50484466552734
+    "width": 219.50484466552734
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -200,6 +200,8 @@
   },
   "active": "cb02ed5c25fb41f3",
   "lastOpenFiles": [
+    "DND - Drakkenheim/Sessions/Session 070.md",
+    "DND - Drakkenheim/Quests/In the Tower.md",
     "DND - Drakkenheim/Sessions/Session 066.md",
     "DND - Drakkenheim/Sessions/Session 065.md",
     "DND - Drakkenheim/Sessions/Session 064.md",
@@ -211,7 +213,6 @@
     "DND - Drakkenheim/Sessions/Session 046.md",
     "DND - Drakkenheim/Reference/Delerium.md",
     "DND - Drakkenheim/Reference/Contamination.md",
-    "DND - Drakkenheim/Sessions/Session 070.md",
     "DND - Sam/Sessions/Session 008.md",
     "DND - Sam/Sessions/Session 007.md",
     "DND - Sam/Sessions/Session 006.md",
@@ -225,7 +226,6 @@
     "DND - Sam/Sessions/Session 001.md",
     "DND - Sam/Sessions/Session 003.md",
     "DND - Sam/Sessions/Session 002.md",
-    "DND - Drakkenheim/Sessions/Session 016.md",
     "DND - Sam/Prep",
     "DND - Sam/Sessions",
     "DND - Sam",
