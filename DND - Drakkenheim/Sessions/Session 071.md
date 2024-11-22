@@ -10,6 +10,13 @@ tags:
 
 ## Summary
 
+#### Looking out for this...
+
+- Some sort of book/tome that would hold a ritual on permanent transmutations.
+- Some sort of powerful concentrated essence of faerie magic.
+- Some sort of notes or information on severing pacts or rituals.
+- Pieces to craft an Elven Soul Sigil (You will know them when you see them)
+
 ####  Vital Signs Usage
 
 | Silas | Nox | Sihrr | Keth |
@@ -26,4 +33,6 @@ tags:
 	- There are three sets of double doors, and spiral staircases in the corners.
 	- Dividers in the area provide small semi-private meeting areas.
 - We are ambushed by some shield guardians as soon as we enter the tower.
+- We go up the upper right stairs and enter into a mess room.
+- 
 
