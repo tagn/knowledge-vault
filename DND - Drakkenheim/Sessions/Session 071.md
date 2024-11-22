@@ -52,4 +52,5 @@ tags:
 	- We find what we're pretty certain are golem amulets/golem hearts.
 		- Three amulets, one of which lights up, significantly more charged.
 		- Silas touches some shit he shouldn't, activates a golem, uses dispel magic on the glowing amulet and deactivates the golem.
-	- 
+- We stop at the spell forge, that looks cool. Sihrr hits a button to take us to the Alchemy Lab.
+- We smell the reek of various chemicals.
