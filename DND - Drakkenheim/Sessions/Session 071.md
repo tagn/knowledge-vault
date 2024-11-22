@@ -25,5 +25,5 @@ tags:
 	- The front door leads into a massive lobby, supported by Obsidian pillars. The floor is reflective marble decorated with arcane patterns. Long thin vents allow a view of Drakkenheim outside. 
 	- There are three sets of double doors, and spiral staircases in the corners.
 	- Dividers in the area provide small semi-private meeting areas.
-- 
+- We are ambushed by some shield guardians as soon as we enter the tower.
 
