@@ -34,10 +34,22 @@ tags:
 	- Dividers in the area provide small semi-private meeting areas.
 - We are ambushed by some shield guardians as soon as we enter the tower.
 - We go up the upper right stairs and enter into a mess room.
-- Lobby, Great Hall, Residences, Research Floors
+- Lobby, Great Hall, Residences, Research Floors.
+	- Alchemy Labs
+	- Golem Workshop
+	- Elemental Forge
+	- Scriptorium
+	- Surgeon's Office
+	- Spellforge
+	- Copy room
+	- Morgue
+	- Medical Ward
+	- Seminar Hall
+	- Summoning Circle
 - Various tools, weapons, workbenches. We open a door into the room to the north and there is a pedestal
 - We find four ingots of metal we haven't seen before.
 	- 2 bars of each type of metal. One cold
 	- We find what we're pretty certain are golem amulets/golem hearts.
 		- Three amulets, one of which lights up, significantly more charged.
-		- Silas touches some shit he shouldn't
+		- Silas touches some shit he shouldn't, activates a golem, uses dispel magic on the glowing amulet and deactivates the golem.
+	- 
