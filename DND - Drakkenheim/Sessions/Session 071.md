@@ -20,6 +20,7 @@ tags:
 
 - We rest in the Cathedral, then return to see Ryan Greymere at the Rose Theatre.
 - As we're arriving, we watch an incredibly large mansion blink out of space inside of the dome.
+- We venture over to the Inscruitable tower, taking note that there should be a teleportation circle inscribed in front of the tower.
 - 
 
 
