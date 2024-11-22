@@ -40,3 +40,4 @@ tags:
 	- 2 bars of each type of metal. One cold
 	- We find what we're pretty certain are golem amulets/golem hearts.
 		- Three amulets, one of which lights up, significantly more charged.
+		- Silas touches some shit he shouldn't
