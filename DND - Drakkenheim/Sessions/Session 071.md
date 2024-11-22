@@ -54,3 +54,18 @@ tags:
 		- Silas touches some shit he shouldn't, activates a golem, uses dispel magic on the glowing amulet and deactivates the golem.
 - We stop at the spell forge, that looks cool. Sihrr hits a button to take us to the Alchemy Lab.
 - We smell the reek of various chemicals.
+- We spend over an hour searching the Alchemy room.
+	- Any spell component that is needed for a level 6 or below spell can be found here.
+	- A phoenix feather, seems valuable.
+	- A jar of some sort of magical sand in an hourglass. The sand seems to be magical.
+	- A salve in a jar, looks like its made of some black wood, mixed with oil and blood. Hard to tell what it does.
+	- 5 Potions/Elixirs
+		- Blood clots in it (red)
+		- Foul-smelling purple/gray, little bit of gray matter left in it
+		- Cerulean blue
+		- Smells like Sandalwood and Jasmine
+		- Clear
+	- A scroll for a spell that we've never seen before. Temperamental Conjuring
+	- Some sort of gray, viscous polish.
+	- A grey fluid that looks more like an oil.
+	
