@@ -35,9 +35,9 @@ tags:
 - We are ambushed by some shield guardians as soon as we enter the tower.
 - We go up the upper right stairs and enter into a mess room.
 - Lobby, Great Hall, Residences, Research Floors.
-	- Alchemy Labs
-	- Golem Workshop
-	- Elemental Forge
+	- Alchemy Labs (x)
+	- Golem Workshop (x)
+	- Elemental Forge (x)
 	- Scriptorium
 	- Surgeon's Office
 	- Spellforge
