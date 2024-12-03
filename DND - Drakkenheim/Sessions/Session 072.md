@@ -11,7 +11,7 @@ tags:
 
 | Silas | Nox | Sihrr | Keth |
 | ----- | --- | ----- | ---- |
-| x     |     |       | x    |
+| x     | x   |       | x    |
 
 ## Summary
 
