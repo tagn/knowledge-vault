@@ -28,7 +28,7 @@ tags:
 	- Scroll of Motivational Speech
 	- Scroll of Fabricate
 - We head up to the Library. We can see the breach looking upwards. There is a crackling storm of eldritch lightning erupting beneath the debris.
-- 
+- We enter the directors office and kill the Lich.
 
 
 
