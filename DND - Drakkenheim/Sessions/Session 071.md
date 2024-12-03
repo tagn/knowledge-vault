@@ -43,9 +43,10 @@ tags:
 	- Spellforge
 	- Copy room
 	- Morgue
-	- Medical Ward
+	- Medical Ward (x)
 	- Seminar Hall
 	- Summoning Circle
+	- Library
 - Various tools, weapons, workbenches. We open a door into the room to the north and there is a pedestal
 - We find four ingots of metal we haven't seen before.
 	- 2 bars of each type of metal. One cold

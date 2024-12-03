@@ -18,7 +18,9 @@ tags:
 ## Event Log
 
 - We pick up right where we left off in the alchemy lab.
-- We head up to the Medical Ward
+- We head up to the Medical Ward, there are mummies in one room, and the next room over. 
+- We find some sort of sleeping draught in the room.
+- 
 
 
 
