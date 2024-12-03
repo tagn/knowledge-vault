@@ -22,7 +22,13 @@ tags:
 - We find some sort of sleeping draught in the room.
 - We head up to the Scriptorium to continue our search.
 - We temporarily see a ghostly figure, then it disappears. We search around the room and Keth seems to stumble into it first and gets stunned.
-- 
+- We spend an hour searching the Scriptorium.
+	- Scroll of Barkskin
+	- Scroll of Find Steed
+	- Scroll of Motivational Speech
+	- Scroll of Fabricate
+- We head up to the Library. We can see the breach looking upwards. There is a crackling storm of eldritch lightning erupting beneath the debris.
+-  
 
 
 
