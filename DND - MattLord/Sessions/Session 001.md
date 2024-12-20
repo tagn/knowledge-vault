@@ -12,6 +12,7 @@ tags:
 
 ## Event Log
 
-
+- Ruck and Booty are at the table with us.
+- 
 
 
