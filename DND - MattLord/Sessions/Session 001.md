@@ -13,6 +13,8 @@ tags:
 ## Event Log
 
 - Ruck and Booty are at the table with us.
+- We meet Puck and Art, who fall out of the ceiling into our table.
+- A young girl comes up to sketch something near us. Someone quillright
 - 
 
 
