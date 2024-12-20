@@ -17,5 +17,6 @@ tags:
 - A young girl comes up to sketch something near us. Someone quillright
 - There is a big ole well in the middle of the place. Probably where they keep the good stuff.
 - Some wood ghosts come out of the well. Little one seems scared shitless.
-
+- We meet Seraphine in the bar after fighting the shit from the well.
+- 
 
