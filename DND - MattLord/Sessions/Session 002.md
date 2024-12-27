@@ -15,4 +15,4 @@
 - The townspeople are wary about the goblins
 - Kobolds are fucking with the goblins. We gotta kick their asses.
 - Durn is being a prick. We gotta kick his ass.
-- 
+- We go into the Outcast wizard guys room in the tavern
