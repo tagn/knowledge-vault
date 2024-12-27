@@ -7,3 +7,4 @@
 	- Kargs cousin Durn was recently sent to help the goblins.
 - The twig things be stealing their fruits. They must live somewhere nearby, or maybe underground. Probably just outside.
 - Mayor Vernor Lang
+- We're going to
