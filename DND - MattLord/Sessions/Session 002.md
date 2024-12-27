@@ -12,4 +12,4 @@
 	- The general store
 	- The mayors house, which is also the village hall
 - In the tavern, the mayor is playing dragonchess with "grenel", who seems to be a female goblin.
-- 
+- The townspeople are wary about the goblins
