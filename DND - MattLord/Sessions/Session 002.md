@@ -13,3 +13,6 @@
 	- The mayors house, which is also the village hall
 - In the tavern, the mayor is playing dragonchess with "grenel", who seems to be a female goblin.
 - The townspeople are wary about the goblins
+- Kobolds are fucking with the goblins. We gotta kick their asses.
+- Durn is being a prick. We gotta kick his ass.
+- 
