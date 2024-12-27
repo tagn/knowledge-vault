@@ -5,4 +5,5 @@
 - We take a horse drawn caravan over to Occursed.
 - There is a tribe of goblins nearby, every year that bring us a fruit.
 	- Kargs cousin Durn was recently sent to help the goblins.
-	- 
+- The twig things be stealing their fruits. They must live somewhere nearby, or maybe underground. Probably just outside.
+- Mayor Vernor Lang
