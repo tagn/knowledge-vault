@@ -16,3 +16,5 @@
 - Kobolds are fucking with the goblins. We gotta kick their asses.
 - Durn is being a prick. We gotta kick his ass.
 - We go into the Outcast wizard guys room in the tavern
+	- He seems to be a druid of some sort, and hes trying to purge the corruption on these trees, and maybe grow more.
+- 
