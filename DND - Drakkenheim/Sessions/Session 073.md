@@ -12,6 +12,6 @@ tags:
 
 ## Event Log
 
-
+- Without Ryan Greymere at the Rose Theatre, the barrier will fail. She has requested we retrieve the Delerium Geode
 
 
