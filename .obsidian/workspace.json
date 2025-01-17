@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0823150859a89dbb",
+        "id": "664f8ca926810786",
         "type": "tabs",
         "children": [
           {
-            "id": "f3a4e87a2f224410",
+            "id": "0d092df057441f25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 073.md",
+                "file": "DND - Drakkenheim/Sessions/Session 074.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 073"
+              "title": "Session 074"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hag",
+                "query": "sleeping draught",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,17 +198,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f3a4e87a2f224410",
+  "active": "0d092df057441f25",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "DND - Drakkenheim/Sessions/Session 074.md",
     "DND - Drakkenheim/Sessions/Session 072.md",
-    "DND - Drakkenheim/Sessions/Session 071.md",
     "DND - Drakkenheim/Sessions/Session 073.md",
+    "DND - Drakkenheim/Sessions/Session 071.md",
+    "DND - Drakkenheim/Sessions/Session 069.md",
+    "DND - Drakkenheim/Sessions/Session 070.md",
+    "Images/Pasted image 20240425201415.png",
     "DND - Drakkenheim/Sessions/Session 066.md",
     "DND - Drakkenheim/Sessions/Session 065.md",
     "DND - Drakkenheim/Sessions/Session 064.md",
     "DND - Drakkenheim/Sessions/Session 067.md",
-    "DND - Drakkenheim/Sessions/Session 069.md",
-    "DND - Drakkenheim/Sessions/Session 070.md",
     "DND - Drakkenheim/Sessions/Session 057.md",
     "Personal Misc/Characters/Silas Nightshade/Grandma Notes.md",
     "DND - MattLord/Sessions/Session 002.md",
@@ -226,8 +229,6 @@
     "DND - Drakkenheim/Sessions/Session 048.md",
     "DND - Drakkenheim/Sessions/Session 040.md",
     "DND - Drakkenheim/Sessions/Session 046.md",
-    "DND - Drakkenheim/Reference/Delerium.md",
-    "DND - Drakkenheim/Reference/Contamination.md",
     "DND - Sam/Prep",
     "DND - Sam/Sessions",
     "DND - Sam",
@@ -244,7 +245,6 @@
     "Images/npc_ront.png",
     "Images/npc_jimjar.png",
     "Images/npc_eldeth.png",
-    "Images/npc_derendil.png",
-    "Images/npc_buppido.png"
+    "Images/npc_derendil.png"
   ]
 }
