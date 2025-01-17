@@ -15,6 +15,9 @@ tags:
 - We distribute the items found while we were in the Ca
 - Sihrr was to be rounded up and taken into safety, he is an illegitimate bastard son.
 - Nox had a vision that his chest was an hourglass, running out of sand. Tentacles came up out of the water and started to squeeze him, and he woke up out of breath.
+- During our downtime, the Krew made ~500g and have paid the tithe to the Queen already.
+- We make our way and grab a the geode from Rose Theatre, then take it over to the Tower and use the key to get in.
+- Ryan Greymere greets us, we give her the geode, she gives us the package that was intended for the clocktower.
 - 
 
 
