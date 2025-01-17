@@ -22,6 +22,6 @@ tags:
 	- The package was some inert, faceted, delerium.
 - We're told its another few days before we can do our spell crafting.
 - We fail our encounter check on the way back to the clocktower.
-- 
+- Keth falls to the mighty dragon, becoming Pan-Keth.
 
 
