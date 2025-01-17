@@ -19,6 +19,9 @@ tags:
 - We make our way and grab a the geode from Rose Theatre, then take it over to the Tower and use the key to get in.
 - Ryan Greymere greets us, we give her the geode, she gives us the package that was intended for the clocktower.
 - The clocktower existed before the City. It's antique technology. The machinery inside of the tower has been similar to some old Elven archeological sites.
+	- The package was some inert, faceted, delerium.
+- We're told its another few days before we can do our spell crafting.
+- We fail our encounter check on the way back to the clocktower.
 - 
 
 
