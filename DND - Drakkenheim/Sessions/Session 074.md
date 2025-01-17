@@ -18,6 +18,7 @@ tags:
 - During our downtime, the Krew made ~500g and have paid the tithe to the Queen already.
 - We make our way and grab a the geode from Rose Theatre, then take it over to the Tower and use the key to get in.
 - Ryan Greymere greets us, we give her the geode, she gives us the package that was intended for the clocktower.
+- The clocktower existed before the City. It's antique technology. The machinery inside of the tower has been similar to some old Elven archeological sites.
 - 
 
 
