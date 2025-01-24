@@ -14,5 +14,7 @@ tags:
 
 - Keth is rolled up dead in a bag. Woot!
 - We arrive at the cathedral, there is a sermon being given by Lucretia.
+- Lucretia lies to us for some reason about using resurrection.
+- We give her some shit about not helping us.
 - 
 
