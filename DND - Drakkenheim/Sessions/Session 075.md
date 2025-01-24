@@ -18,5 +18,8 @@ tags:
 - We give her some shit about not helping us.
 - We ask the Queen, she refers us to Lucretia or the druid to the north.
 - Ryan Greymere is unable to assist us, we continue north and hop the wall towards the north.
+- We find five stones, surrounding a stone altar, which appears to be permanently stained with blood. There is a barrow mound, which somewhat looks like a hobbit home.
+- This appears to be a druid whom residing at a shrine of the "Phantom Queen". The shrine of morrigan. It is a shadowy old god, whos domains are of war and trickery, whom holds power over life and death.
+- We approach the home, and the door opens and out comes a very old looking elf.
 - 
 
