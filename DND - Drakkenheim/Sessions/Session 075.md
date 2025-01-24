@@ -22,5 +22,6 @@ tags:
 - This appears to be a druid whom residing at a shrine of the "Phantom Queen". The shrine of morrigan. It is a shadowy old god, whos domains are of war and trickery, whom holds power over life and death.
 - We approach the home, and the door opens and out comes a very old looking elf.
 - In exchange for Keth's life, we have need to provide the druid with a humanoid of equal standing to Keth, along with a diamond worth about 1000g, and an offering to the druid.
+- We purchase a scroll of resurrection to use on Keth from Vil in exchange for the legendary stone thing that Keth has.
 - 
 
