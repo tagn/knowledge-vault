@@ -17,5 +17,6 @@ tags:
 - Lucretia lies to us for some reason about using resurrection.
 - We give her some shit about not helping us.
 - We ask the Queen, she refers us to Lucretia or the druid to the north.
+- Ryan Greymere is unable to assist us, we continue north and hop the wall towards the north.
 - 
 
