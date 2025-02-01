@@ -16,4 +16,7 @@
 - Meepo starts leading us to where the Goblins are, but he doesn't know the way, we convince him to get tied up.
 - Meepo speakks "Let there be fire" at this dragon head basin, and some brownish liquid comes out.
 - Buck fills his tankard with the brown liquid.
-- Buck tries to open a door, Meepo dies as a result. 
+- Buck tries to open a door, Meepo dies as a result.
+- We find a room of rats,
+- We find 3 gems, each worth 25g, 3xx silver, some amount of gold. Studded leather armor, a longbow, 5 daggers, and his backpack.
+- 
