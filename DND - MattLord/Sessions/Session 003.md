@@ -12,4 +12,4 @@
 - We find a little bitch kobold who keeps shouting out ticklecorn, named "Meepo".
 - There was some kinda dragon tooken from them.
 - Yusdryal is the big kobold that we are brought to. Meepo tells him that we might be able to help get "Kalatrix" back from the mean goblins.
-- 
+- This kobold leader doesn't seem to like goblins.
