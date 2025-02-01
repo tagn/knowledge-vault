@@ -22,5 +22,7 @@
 - We short rest, then find the goblins.
 - We tell them we know Durn, they let us through.
 - We find the weird taxodermy sex dungeon. A rusted iron spike is in the center of the room, with a broken chain. Thin patches of frost coat the walls.
+- Buck pretty much dies to the dragon
+- Rudy finds a jade figurine worth about 20g, a crystal goblet worth about 5g, 24 pieces of fine silverware worth 1g each and a sealed scroll case carved out of bone, with an inscription on it.
 - 
 - 
