@@ -14,3 +14,5 @@
 - Yusdryal is the big kobold that we are brought to. Meepo tells him that we might be able to help get "Kalatrix" back from the mean goblins.
 - This kobold leader doesn't seem to like goblins.
 - Meepo starts leading us to where the Goblins are, but he doesn't know the way, we convince him to get tied up.
+- Meepo speakks "Let there be fire" at this dragon head basin, and some brownish liquid comes out.
+- 
