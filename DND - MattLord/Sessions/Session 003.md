@@ -8,3 +8,5 @@
 - To the west after we descend further is the sunless citadel. There is a tower on the west side of the courtyard.
 - We enter the citadel, there are some dead goblins.
 - We find a keg with some liquid in it.
+- Near the wooden bench is a bedroll, there are some wimpering sounds coming from inside the bedroll.
+- 
