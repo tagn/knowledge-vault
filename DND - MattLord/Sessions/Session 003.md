@@ -19,4 +19,8 @@
 - Buck tries to open a door, Meepo dies as a result.
 - We find a room of rats,
 - We find 3 gems, each worth 25g, 3xx silver, some amount of gold. Studded leather armor, a longbow, 5 daggers, and his backpack.
+- We short rest, then find the goblins.
+- We tell them we know Durn, they let us through.
+- We find the weird taxodermy sex dungeon. A rusted iron spike is in the center of the room, with a broken chain. Thin patches of frost coat the walls.
+- 
 - 

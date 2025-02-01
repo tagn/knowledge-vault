@@ -18,3 +18,4 @@
 - We go into the Outcast wizard guys room in the tavern
 	- He seems to be a druid of some sort, and hes trying to purge the corruption on these trees, and maybe grow more.
 - A noble woman, Karowyn, comes to talk to us to talk about going to the Citadel.
+-
