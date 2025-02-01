@@ -8,6 +8,8 @@
 - To the west after we descend further is the sunless citadel. There is a tower on the west side of the courtyard.
 - We enter the citadel, there are some dead goblins.
 - We find a keg with some liquid in it.
-- Near the wooden bench is a bedroll, there are some wimpering sounds coming from inside the bedroll.
-- We find a little bitch.
+- Near the wooden bench is a bedroll, there are some whimpering sounds coming from inside the bedroll.
+- We find a little bitch kobold who keeps shouting out ticklecorn, named "Meepo".
+- There was some kinda dragon tooken from them.
+- Yusdryal is the big kobold that we are brought to. Meepo tells him that we might be able to help get "Kalatrix" back from the mean goblins.
 - 
