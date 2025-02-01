@@ -6,4 +6,4 @@
 - There are bits and scraps of goblin weaponry, such as spears, along the stairs going down.
 - As we descend, we come across a sort of fortress at the bottom of the ravine.
 - To the west after we descend further is the sunless citadel. There is a tower on the west side of the courtyard.
-- 
+- We enter the citadel, there are some dead goblins.
