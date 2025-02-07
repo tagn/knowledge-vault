@@ -29,6 +29,6 @@ tags:
 - We short rest in the clocktower, then activate the tower.
 - Keth pushes a button. We're all chrono-anchored? We have a save point now that one of us can reset.
 - Keth peers outside a window slit. The building does not appear to be destroyed anymore.
-- 
+- We see a bunch of haze hulks, we see 
 
 
