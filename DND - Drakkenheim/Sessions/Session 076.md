@@ -19,6 +19,11 @@ tags:
 - Keth gets flagged down by presumably the Queen of Thieves, who instructs us to follow.
 - The Queen has information about Milando, but she requests us to provide her something in exchange for the information.
 - Sihrr offers her our letter about the Spymaster? in exchange for the information on Milando.
-- 
+- The Queen wants the sword from the Lord Commander
+- Milando is a Rakshasa, a fiend/devil. Masters of Manipulation, known to infiltrate communities, claim positions of power, and disguise themselves.
+	- They have a uniqueness that would tell us, magic is not as useful to kill them.
+	- The queen states that he is of great power.
+	- Impossible to fully kill outside of the nine hells. They have an aura they can emanate from around themselves that can do considerable harm/disable people that get close.
+- Sihrr gives the Queen a 
 
 
