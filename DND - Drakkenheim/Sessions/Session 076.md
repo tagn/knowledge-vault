@@ -24,6 +24,7 @@ tags:
 	- They have a uniqueness that would tell us, magic is not as useful to kill them.
 	- The queen states that he is of great power.
 	- Impossible to fully kill outside of the nine hells. They have an aura they can emanate from around themselves that can do considerable harm/disable people that get close.
-- Sihrr gives the Queen a 
+- Sihrr gives the Pale Mans book to the Queen.
+- 
 
 
