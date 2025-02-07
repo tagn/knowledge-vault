@@ -15,6 +15,8 @@ tags:
 - We long rest, then leave the Hendrick's farm on our way towards Buckledown.
 - Sihrr contacts the queen, who instructs him to be careful and not to trust our senses.
 - Keth appears to be attacked by some unseen assailant, who ceases attack after we make Keth invisible.
+- We get to Buckledown, Keth fails to hit a drunk guy.
+- Keth gets flagged down by presumably the Queen of Thieves, who instructs us to follow.
 - 
 
 
