@@ -17,6 +17,8 @@ tags:
 - Keth appears to be attacked by some unseen assailant, who ceases attack after we make Keth invisible.
 - We get to Buckledown, Keth fails to hit a drunk guy.
 - Keth gets flagged down by presumably the Queen of Thieves, who instructs us to follow.
+- The Queen has information about Milando, but she requests us to provide her something in exchange for the information.
+- Sihrr offers her our letter about the Spymaster? in exchange for the information on Milando.
 - 
 
 
