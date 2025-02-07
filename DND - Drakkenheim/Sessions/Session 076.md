@@ -29,6 +29,8 @@ tags:
 - We short rest in the clocktower, then activate the tower.
 - Keth pushes a button. We're all chrono-anchored? We have a save point now that one of us can reset.
 - Keth peers outside a window slit. The building does not appear to be destroyed anymore.
-- We see a bunch of haze hulks, we see 
+- We see a bunch of haze hulks, we see the butcher guy kill them, then leave.
+- Sihrr insists on going back to his family home, and leaves the tower.
+- We leave off on Sihrr attempting to ditch us, and we come up upon a big fucking demonic temple.
 
 
