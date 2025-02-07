@@ -25,6 +25,8 @@ tags:
 	- The queen states that he is of great power.
 	- Impossible to fully kill outside of the nine hells. They have an aura they can emanate from around themselves that can do considerable harm/disable people that get close.
 - Sihrr gives the Pale Mans book to the Queen.
-- 
+- We leave buckle down, and are attacked again outside and defeat a wisp thing.
+- We short rest in the clocktower, then activate the tower.
+- Keth pushes a button. We're all chrono-anchoring?
 
 
