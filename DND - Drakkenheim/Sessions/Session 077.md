@@ -18,5 +18,6 @@ tags:
 - Everything outside seems to be actually restored, and intact.
 - The facade of the demonic temple appears to be adorned with infernal sigils, the surface etched with torment and torture, twisted pictures of writhing and agony. Above the door is a bust of some creature.
 	- The visage seen above the door is very recognizable, the lord of hell, azmodeus.
+- We chase Sihrr towards his family home, the city
 - 
 
