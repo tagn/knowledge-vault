@@ -19,6 +19,6 @@ tags:
 - After walking closer to the Cathedral, we suddenly step out of the "illusion" and its back to rubble.
 - We stop a patrol near the Cathedral, they have seen the "restored" area, but are unsure about what's going on.
 - In the Cathedral there is a meeting of Lucretia, Eldrich Runeweaver, and representatives of the Queen's Men.
-- 
+- We fucked up our relationship with the Amethyst Academy.
 
 
