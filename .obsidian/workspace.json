@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Session 077"
             }
+          },
+          {
+            "id": "8b2fbd01a5c90887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DND - Drakkenheim/Sessions/Session 078.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 078"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,10 +234,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "22b7f982337b7878",
+  "active": "8b2fbd01a5c90887",
   "lastOpenFiles": [
-    "DND - Drakkenheim/Sessions/Session 076.md",
     "DND - Drakkenheim/Sessions/Session 077.md",
+    "DND - Drakkenheim/Sessions/Session 078.md",
+    "DND - Drakkenheim/Sessions/Session 076.md",
     "DND - Drakkenheim/Sessions/Session 002.md",
     "README.md",
     "DND - MattLord/Sessions/Session 003.md",
@@ -236,7 +262,6 @@
     "DND - Drakkenheim/Sessions/Session 062.md",
     "DND - Drakkenheim/Sessions/Session 061.md",
     "DND - Drakkenheim/Sessions/Session 060.md",
-    "DND - Drakkenheim/Sessions/Session 059.md",
     "Images/Pasted image 20240425201415.png",
     "DND - MattLord/Sessions",
     "DND - MattLord",
