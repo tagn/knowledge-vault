@@ -13,6 +13,7 @@ tags:
 ## Event Log
 
 - We discuss things about our current situation.
+- We head into the marketplace to scavenge around for if anything was restored.
 - 
 
 
