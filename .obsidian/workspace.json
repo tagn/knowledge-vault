@@ -11,10 +11,24 @@
             "id": "22b7f982337b7878",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DND - Drakkenheim/Sessions/Session 077.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Session 077"
             }
           }
         ]
@@ -197,18 +211,15 @@
   },
   "active": "22b7f982337b7878",
   "lastOpenFiles": [
-    "README.md",
-    "DND - Drakkenheim/Quests/Bomb the Gate.md",
-    "DND - Drakkenheim/Quests/In the Tower.md",
-    "DND - Drakkenheim/Quests/I'm Cleaning Out My Clock Tower.md",
-    "DND - Drakkenheim/Sessions/Session 001.md",
-    "DND - Drakkenheim/Sessions/Session 002.md",
-    "DND - Drakkenheim/World.md",
-    "DND - Drakkenheim/Dataview for Matt.md",
-    "DND - Drakkenheim/Will/Skywrite Message Ideas.md",
-    "DND - Drakkenheim/Will/Journal.md",
-    "DND - Drakkenheim/Sessions/Session 077.md",
     "DND - Drakkenheim/Sessions/Session 076.md",
+    "DND - Drakkenheim/Sessions/Session 077.md",
+    "DND - Drakkenheim/Sessions/Session 002.md",
+    "README.md",
+    "DND - MattLord/Sessions/Session 003.md",
+    "DND - MattLord/Sessions/Session 002.md",
+    "DND - Drakkenheim/World.md",
+    "DND - Drakkenheim/Rumors.md",
+    "DND - Drakkenheim/Quests.md",
     "DND - Drakkenheim/Sessions/Session 075.md",
     "DND - Drakkenheim/Sessions/Session 074.md",
     "DND - Drakkenheim/Sessions/Session 073.md",
@@ -223,6 +234,9 @@
     "DND - Drakkenheim/Sessions/Session 064.md",
     "DND - Drakkenheim/Sessions/Session 063.md",
     "DND - Drakkenheim/Sessions/Session 062.md",
+    "DND - Drakkenheim/Sessions/Session 061.md",
+    "DND - Drakkenheim/Sessions/Session 060.md",
+    "DND - Drakkenheim/Sessions/Session 059.md",
     "Images/Pasted image 20240425201415.png",
     "DND - MattLord/Sessions",
     "DND - MattLord",
