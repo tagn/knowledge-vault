@@ -15,7 +15,7 @@ f
 - We pick back up with Grannie about to go down, Milando just made a deal with Keth to spare Grannie.
 - Keth gets sucked into the bag. Silas also gets sucked into the bag. The ghostly hand seems to be on the end of a tongue. 
 - Sihrr opens the bag with telekinesis and flips the bag over to get us out. Arken has to help Silas get out the rest of the way as the creatures tongue grabs him.
-- Arken and Sihrr go look for the head of Grannie as it floated down the river.
+- Arken and Sihrr go look for the head of Grannie as it floated down the [[river]].
 - Milando came in/out via a summoning circle thingy at Grannies house.
 - We slowly make our way into Grannies house. The house smells of decay and rotting wood.
 - Silas casts identify on the Pestle. It's a Natural weapon. Does bludgeoning damage and can cause the target have to make a save or get disadvantage on concentration checks.

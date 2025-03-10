@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a3755aa43e2d95f2",
+        "id": "055c036df253c4f8",
         "type": "tabs",
         "children": [
           {
-            "id": "22b7f982337b7878",
+            "id": "f338ec8bc8771d15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 077.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Session 077"
-            }
-          },
-          {
-            "id": "8b2fbd01a5c90887",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DND - MattLord/Sessions/Session 004.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Session 004"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sleeping draught",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.50484466552734
+    "width": 323.51103591918945
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -234,34 +195,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8b2fbd01a5c90887",
+  "active": "f2ed483abcf08cad",
   "lastOpenFiles": [
-    "DND - MattLord/Sessions/Session 003.md",
-    "DND - MattLord/Sessions/Session 004.md",
-    "DND - MattLord/Sessions/Session 002.md",
     "DND - Drakkenheim/Sessions/Session 078.md",
-    "DND - Drakkenheim/Sessions/Session 072.md",
-    "DND - Drakkenheim/Sessions/Session 071.md",
-    "DND - Drakkenheim/Sessions/Session 070.md",
-    "DND - Drakkenheim/Sessions/Session 069.md",
-    "DND - Drakkenheim/Sessions/Session 064.md",
-    "DND - Drakkenheim/Sessions/Session 065.md",
-    "DND - Drakkenheim/Sessions/Session 066.md",
-    "DND - Drakkenheim/Sessions/Session 067.md",
-    "DND - Drakkenheim/Sessions/Session 068.md",
-    "DND - Drakkenheim/Sessions/Session 077.md",
-    "DND - Drakkenheim/Sessions/Session 076.md",
-    "DND - Drakkenheim/Sessions/Session 002.md",
-    "README.md",
-    "DND - Drakkenheim/World.md",
+    "DND - Drakkenheim/Sessions/Session 014.md",
+    "DND - Drakkenheim/Dataview for Matt.md",
     "DND - Drakkenheim/Rumors.md",
     "DND - Drakkenheim/Quests.md",
-    "DND - Drakkenheim/Sessions/Session 075.md",
-    "DND - Drakkenheim/Sessions/Session 074.md",
-    "DND - Drakkenheim/Sessions/Session 073.md",
+    "DND - Drakkenheim/World.md",
+    "DND - Drakkenheim/NPCS/Reginald Ironhelm.md",
+    "DND - Drakkenheim/NPCS/Rita.md",
+    "DND - Drakkenheim/NPCS/River.md",
+    "DND - Drakkenheim/NPCS/Pale Man.md",
+    "DND - Drakkenheim/NPCS/Oscar Yorn.md",
+    "DND - Drakkenheim/NPCS/Keith.md",
+    "DND - Drakkenheim/Sessions/Session 065.md",
     "DND - Drakkenheim/Sessions/Session 063.md",
-    "DND - Drakkenheim/Sessions/Session 062.md",
-    "DND - Drakkenheim/Sessions/Session 061.md",
+    "DND - Drakkenheim/Sessions/Session 060.md",
+    "DND - Drakkenheim/Sessions/Session 055.md",
+    "DND - Drakkenheim/Sessions/Session 073.md",
+    "DND - Drakkenheim/Sessions/Session 076.md",
+    "DND - Drakkenheim/Sessions/Session 077.md",
+    "DND - Drakkenheim/NPCS/Buttlord.md",
+    "DND - Drakkenheim/Sessions/Session 004.md",
+    "DND - Drakkenheim/Quests/I'm Cleaning Out My Clock Tower.md",
+    "Templates/Session.md",
+    "DND - Drakkenheim/Sessions/Session 079.md",
+    "Templates/DynamicTemplate.md",
+    "Templates/Quest.md",
     "Images/Pasted image 20240425201415.png",
     "DND - MattLord/Sessions",
     "DND - MattLord",
