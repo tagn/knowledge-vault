@@ -14,6 +14,6 @@ tags:
 
 - We head over towards the Inscruitable Tower to speak with Ryan to inform her of Eldrichs knowledge as well as to follow up on the spell forge.
 - Sihrr gains a mighty hungry tummy.
-- 
+- Silas asks Ryan Greymere about the spell to change him back into his form.
 
 
