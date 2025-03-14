@@ -22,6 +22,9 @@ tags:
 		- No proficiency changes
 		- Add swim speed, water breathing, cold resistance
 		- Trance
-	- 
+			- Choose proficiencies that I don't have when I rest
+- We sleep overnight in the [[Inscruitable Tower]], then make our way down to the Great Hall for breakfast and are greeted with a note on the Elevator from [[Ryan Greymere]].
+- The bearer of this note is under the protection of the Archmage of Drakkenheim, any who would do them harm are gonna get tossed, anyone who would aid them are good friends.
+- 
 
 
