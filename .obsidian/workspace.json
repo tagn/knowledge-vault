@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "055c036df253c4f8",
+        "id": "94c7b37b911e283b",
         "type": "tabs",
         "children": [
           {
-            "id": "f338ec8bc8771d15",
+            "id": "20f748f58127c5fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DND - Drakkenheim/Sessions/Session 078.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Session 078"
             }
           }
         ]
@@ -195,8 +209,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f2ed483abcf08cad",
+  "active": "20f748f58127c5fd",
   "lastOpenFiles": [
+    "DND - Drakkenheim/Sessions/Session 077.md",
     "DND - Drakkenheim/Sessions/Session 078.md",
     "DND - Drakkenheim/Sessions/Session 014.md",
     "DND - Drakkenheim/Dataview for Matt.md",
@@ -215,7 +230,6 @@
     "DND - Drakkenheim/Sessions/Session 055.md",
     "DND - Drakkenheim/Sessions/Session 073.md",
     "DND - Drakkenheim/Sessions/Session 076.md",
-    "DND - Drakkenheim/Sessions/Session 077.md",
     "DND - Drakkenheim/NPCS/Buttlord.md",
     "DND - Drakkenheim/Sessions/Session 004.md",
     "DND - Drakkenheim/Quests/I'm Cleaning Out My Clock Tower.md",
