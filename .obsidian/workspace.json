@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 078.md",
+                "file": "DND - Drakkenheim/Sessions/Session 079.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 078"
+              "title": "Session 079"
             }
           }
         ]
@@ -211,8 +211,9 @@
   },
   "active": "20f748f58127c5fd",
   "lastOpenFiles": [
-    "DND - Drakkenheim/Sessions/Session 077.md",
     "DND - Drakkenheim/Sessions/Session 078.md",
+    "DND - Drakkenheim/Sessions/Session 079.md",
+    "DND - Drakkenheim/Sessions/Session 077.md",
     "DND - Drakkenheim/Sessions/Session 014.md",
     "DND - Drakkenheim/Dataview for Matt.md",
     "DND - Drakkenheim/Rumors.md",
@@ -236,7 +237,6 @@
     "Templates/Session.md",
     "DND - Drakkenheim/Sessions/Session 079.md",
     "Templates/DynamicTemplate.md",
-    "Templates/Quest.md",
     "Images/Pasted image 20240425201415.png",
     "DND - MattLord/Sessions",
     "DND - MattLord",
