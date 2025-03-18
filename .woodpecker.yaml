@@ -5,6 +5,8 @@ workspace:
 when:
   - branch: main
     event: push
+  - branch: main
+    event: manual
 
 steps:
   - name: build
