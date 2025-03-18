@@ -1,3 +1,11 @@
+workspace:
+  base: "/woodpecker"
+  path: "/"
+
+when:
+  - branch: main
+    event: push
+
 steps:
   - name: build
     image: debian
