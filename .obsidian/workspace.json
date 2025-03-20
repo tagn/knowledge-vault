@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 079.md",
+                "file": "DND - Drakkenheim/Factions/Untitled.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 079"
+              "title": "Untitled"
             }
           }
         ]
@@ -148,8 +148,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -158,8 +158,8 @@
             "state": {
               "type": "FANTASY_CALENDAR",
               "state": {},
-              "icon": "FANTASY_CALENDAR",
-              "title": "Fantasy Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -178,6 +178,16 @@
           },
           {
             "id": "727f49ad35cb482a",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "744ed77b0c8772a3",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -202,15 +212,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "20f748f58127c5fd",
   "lastOpenFiles": [
+    "Templates/Faction.md",
+    "DND - Drakkenheim/Factions/Untitled.md",
+    "DND - Drakkenheim/Sessions/Session 079.md",
     "Personal Misc/Characters/Silas Nightshade/Background.md",
     "Personal Misc/Characters/Silas Nightshade/Faction Relationships.md",
     "Personal Misc/Characters/Silas Nightshade/Grandma Notes.md",
@@ -221,7 +234,6 @@
     "DND - Drakkenheim/Reference/Delerium.md",
     "DND - Drakkenheim/Reference/Contamination.md",
     "DND - Drakkenheim/Reference/Apothecary Spell List.md",
-    "DND - Drakkenheim/Sessions/Session 079.md",
     "DND - Drakkenheim/Sessions/Session 078.md",
     "DND - Drakkenheim/Sessions/Session 077.md",
     "DND - Drakkenheim/Sessions/Session 014.md",
@@ -235,8 +247,6 @@
     "DND - Drakkenheim/NPCS/Pale Man.md",
     "DND - Drakkenheim/NPCS/Oscar Yorn.md",
     "DND - Drakkenheim/NPCS/Keith.md",
-    "DND - Drakkenheim/Sessions/Session 065.md",
-    "DND - Drakkenheim/Sessions/Session 063.md",
     "Images/Pasted image 20240425201415.png",
     "DND - MattLord/Sessions",
     "DND - MattLord",
