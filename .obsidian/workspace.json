@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Factions/Untitled.md",
+                "file": "Templates/UpdateField.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "UpdateField"
             }
           }
         ]
@@ -221,8 +221,22 @@
   },
   "active": "20f748f58127c5fd",
   "lastOpenFiles": [
+    "Templates/Session.md",
     "Templates/Faction.md",
-    "DND - Drakkenheim/Factions/Untitled.md",
+    "Templates/Character.md",
+    "Templates/DynamicTemplate.md",
+    "Templates/Location.md",
+    "Templates/NPC.md",
+    "Templates/Quest.md",
+    "DND - Drakkenheim/Locations/The Scar.md",
+    "DND - Drakkenheim/Locations/Rats Nest Tavern.md",
+    "DND - Drakkenheim/Locations/Drakkenheim Wilds.md",
+    "DND - Drakkenheim/Locations/Bark & Buzzard.md",
+    "DND - Drakkenheim/NPCS/Mike Hunt.md",
+    "DND - Drakkenheim/NPCS/Untitled.md",
+    "DND - Drakkenheim/NPCS/Petra Lang.md",
+    "DND - Drakkenheim/Factions/Hooded Lanterns.md",
+    "DND - Drakkenheim/Factions/ButtLords.md",
     "DND - Drakkenheim/Sessions/Session 079.md",
     "Personal Misc/Characters/Silas Nightshade/Background.md",
     "Personal Misc/Characters/Silas Nightshade/Faction Relationships.md",
@@ -233,20 +247,6 @@
     "DND - Drakkenheim/Reference/Haze.md",
     "DND - Drakkenheim/Reference/Delerium.md",
     "DND - Drakkenheim/Reference/Contamination.md",
-    "DND - Drakkenheim/Reference/Apothecary Spell List.md",
-    "DND - Drakkenheim/Sessions/Session 078.md",
-    "DND - Drakkenheim/Sessions/Session 077.md",
-    "DND - Drakkenheim/Sessions/Session 014.md",
-    "DND - Drakkenheim/Dataview for Matt.md",
-    "DND - Drakkenheim/Rumors.md",
-    "DND - Drakkenheim/Quests.md",
-    "DND - Drakkenheim/World.md",
-    "DND - Drakkenheim/NPCS/Reginald Ironhelm.md",
-    "DND - Drakkenheim/NPCS/Rita.md",
-    "DND - Drakkenheim/NPCS/River.md",
-    "DND - Drakkenheim/NPCS/Pale Man.md",
-    "DND - Drakkenheim/NPCS/Oscar Yorn.md",
-    "DND - Drakkenheim/NPCS/Keith.md",
     "Images/Pasted image 20240425201415.png",
     "DND - MattLord/Sessions",
     "DND - MattLord",
