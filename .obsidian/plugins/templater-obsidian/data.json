@@ -60,6 +60,10 @@
     {
       "folder": "DND - Sam/Sessions",
       "template": "Templates/Session.md"
+    },
+    {
+      "folder": "Sessions",
+      "template": "Templates/TestSessionChatGPT.md"
     }
   ],
   "syntax_highlighting": true,

@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20f748f58127c5fd",
+            "id": "c2b3a27587810680",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Faction.md",
+                "file": "DND - Drakkenheim/Sessions/Session 079.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Faction"
+              "title": "Session 079"
+            }
+          },
+          {
+            "id": "ff618af71cc83c23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DND - Drakkenheim/Sessions/Session 001.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 001"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,34 +234,35 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "20f748f58127c5fd",
+  "active": "ff618af71cc83c23",
   "lastOpenFiles": [
-    "Templates/NPC.md",
-    "Templates/Quest.md",
-    "Templates/Session.md",
-    "Templates/Character.md",
+    "DND - Drakkenheim/Sessions/Session 002.md",
+    "DND - Drakkenheim/Sessions/Session 001.md",
+    "DND - Drakkenheim/Sessions/Session 061.md",
     "DND - Drakkenheim/Sessions/Session 079.md",
-    "Personal Misc/Characters/Silas Nightshade/Background.md",
-    "Personal Misc/Characters/Silas Nightshade/Faction Relationships.md",
-    "Personal Misc/Characters/Silas Nightshade/Grandma Notes.md",
-    "Personal Misc/Characters/Silas Nightshade/Personal Quest.md",
-    "Personal Misc/Characters/Silas Nightshade/Stats and Choices.md",
-    "DND - Drakkenheim/Reference/Travel.md",
-    "DND - Drakkenheim/Reference/Haze.md",
-    "DND - Drakkenheim/Reference/Delerium.md",
-    "DND - Drakkenheim/Reference/Contamination.md",
-    "DND - Drakkenheim/Reference/Apothecary Spell List.md",
     "DND - Drakkenheim/Sessions/Session 078.md",
-    "DND - Drakkenheim/Sessions/Session 077.md",
-    "DND - Drakkenheim/Sessions/Session 014.md",
-    "DND - Drakkenheim/Dataview for Matt.md",
-    "DND - Drakkenheim/Rumors.md",
+    "DND - Drakkenheim/Sessions/Session 017.md",
+    "DND - Drakkenheim/Sessions/Session 007.md",
+    "DND - Drakkenheim/Sessions/Session 003.md",
     "DND - Drakkenheim/Quests.md",
+    "DND - Drakkenheim/Rumors.md",
     "DND - Drakkenheim/World.md",
-    "DND - Drakkenheim/NPCS/Reginald Ironhelm.md",
-    "DND - Drakkenheim/NPCS/Rita.md",
-    "DND - Drakkenheim/NPCS/River.md",
-    "DND - Drakkenheim/NPCS/Pale Man.md",
+    "Templates/TestSessionChatGPT.md",
+    "DND - Drakkenheim/Dataview for Matt.md",
+    "Sessions/Session 7.md",
+    "Sessions/Session 11.md",
+    "Sessions/Session 10.md",
+    "Sessions/Session 9.md",
+    "Sessions/Session 8.md",
+    "Sessions/Session 2.md",
+    "Sessions/Session 5.md",
+    "Sessions/Session 6.md",
+    "Sessions/Session 1.md",
+    "Sessions/Session 4.md",
+    "Sessions",
+    "Templates/Location.md",
+    "Templates/NPC.md",
+    "Templates/Faction.md",
     "Images/Pasted image 20240425201415.png",
     "DND - MattLord/Sessions",
     "DND - MattLord",
@@ -248,7 +274,6 @@
     "Kiddo One Shots",
     "Personal Misc/Characters/Silas Nightshade/Untitled",
     "Personal Misc/Characters/New Unnamed/Untitled",
-    "Personal Misc/Characters/Silas Nightshade",
     "Images/quaggoth.png",
     "Images/npc_ilvara.png",
     "Images/npc_shuushar.png",
