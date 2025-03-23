@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 079.md",
+                "file": "Templates/Faction.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 079"
+              "title": "Faction"
             }
           }
         ]
@@ -211,6 +211,11 @@
   },
   "active": "20f748f58127c5fd",
   "lastOpenFiles": [
+    "Templates/NPC.md",
+    "Templates/Quest.md",
+    "Templates/Session.md",
+    "Templates/Character.md",
+    "DND - Drakkenheim/Sessions/Session 079.md",
     "Personal Misc/Characters/Silas Nightshade/Background.md",
     "Personal Misc/Characters/Silas Nightshade/Faction Relationships.md",
     "Personal Misc/Characters/Silas Nightshade/Grandma Notes.md",
@@ -221,7 +226,6 @@
     "DND - Drakkenheim/Reference/Delerium.md",
     "DND - Drakkenheim/Reference/Contamination.md",
     "DND - Drakkenheim/Reference/Apothecary Spell List.md",
-    "DND - Drakkenheim/Sessions/Session 079.md",
     "DND - Drakkenheim/Sessions/Session 078.md",
     "DND - Drakkenheim/Sessions/Session 077.md",
     "DND - Drakkenheim/Sessions/Session 014.md",
@@ -233,10 +237,6 @@
     "DND - Drakkenheim/NPCS/Rita.md",
     "DND - Drakkenheim/NPCS/River.md",
     "DND - Drakkenheim/NPCS/Pale Man.md",
-    "DND - Drakkenheim/NPCS/Oscar Yorn.md",
-    "DND - Drakkenheim/NPCS/Keith.md",
-    "DND - Drakkenheim/Sessions/Session 065.md",
-    "DND - Drakkenheim/Sessions/Session 063.md",
     "Images/Pasted image 20240425201415.png",
     "DND - MattLord/Sessions",
     "DND - MattLord",
