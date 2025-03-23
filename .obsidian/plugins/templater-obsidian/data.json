@@ -64,6 +64,10 @@
     {
       "folder": "Sessions",
       "template": "Templates/TestSessionChatGPT.md"
+    },
+    {
+      "folder": "Factions",
+      "template": "Templates/TestFactionThing.md"
     }
   ],
   "syntax_highlighting": true,
