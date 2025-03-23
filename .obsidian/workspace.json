@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/NPC.md",
+                "file": "Templates/TestFactionThing.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NPC"
+              "title": "TestFactionThing"
             }
           }
         ],
@@ -236,16 +236,18 @@
   },
   "active": "ff618af71cc83c23",
   "lastOpenFiles": [
-    "Templates/Faction.md",
-    "Templates/Session.md",
     "Templates/TestSessionChatGPT.md",
     "Templates/TestFactionThing.md",
+    "DND - Drakkenheim/Sessions/Session 079.md",
+    "Kiddo One Shots/The Lost Fairy Crown/Main.md",
+    "Templates/Location.md",
+    "Templates/NPC.md",
+    "Templates/Faction.md",
+    "Templates/Session.md",
     "Factions/Untitled.md",
     "Factions",
     "Scripts/testScript.js",
     "Templates/DynamicTemplate.md",
-    "Templates/Location.md",
-    "Templates/NPC.md",
     "Templates/Quest.md",
     "DND - Drakkenheim/Sessions/Session 077.md",
     "DND - Drakkenheim/Sessions/Session 067.md",
@@ -262,8 +264,6 @@
     "DND - Drakkenheim/Sessions/Session 018.md",
     "DND - Drakkenheim/Sessions/Session 017.md",
     "DND - Drakkenheim/Sessions/Session 016.md",
-    "DND - Drakkenheim/Sessions/Session 021.md",
-    "DND - Drakkenheim/Sessions/Session 020.md",
     "Sessions",
     "Images/Pasted image 20240425201415.png",
     "DND - MattLord/Sessions",
