@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/UpdateField.md",
+                "file": "DND - Drakkenheim/Factions/ButtLords.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "UpdateField"
+              "title": "ButtLords"
             }
           }
         ]
@@ -221,13 +221,15 @@
   },
   "active": "20f748f58127c5fd",
   "lastOpenFiles": [
-    "Templates/Session.md",
-    "Templates/Faction.md",
+    "DND - Drakkenheim/Factions/Amethyst Academy.md",
     "Templates/Character.md",
     "Templates/DynamicTemplate.md",
-    "Templates/Location.md",
-    "Templates/NPC.md",
+    "Templates/UpdateField.md",
+    "Templates/Session.md",
     "Templates/Quest.md",
+    "Templates/NPC.md",
+    "Templates/Location.md",
+    "Templates/Faction.md",
     "DND - Drakkenheim/Locations/The Scar.md",
     "DND - Drakkenheim/Locations/Rats Nest Tavern.md",
     "DND - Drakkenheim/Locations/Drakkenheim Wilds.md",
@@ -245,8 +247,6 @@
     "Personal Misc/Characters/Silas Nightshade/Stats and Choices.md",
     "DND - Drakkenheim/Reference/Travel.md",
     "DND - Drakkenheim/Reference/Haze.md",
-    "DND - Drakkenheim/Reference/Delerium.md",
-    "DND - Drakkenheim/Reference/Contamination.md",
     "Images/Pasted image 20240425201415.png",
     "DND - MattLord/Sessions",
     "DND - MattLord",
