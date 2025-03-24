@@ -18,13 +18,13 @@
      const allNPCNames = allNPCs.map(file => file.basename);
      const selectedLeaderNPC = await tp.system.suggester(allNPCNames, allNPCNames, false, "Select the leader NPC of this faction");
 
-     // Move and Rename the file appropriately
+     // Move and Rename the file
      const factionName = await tp.system.prompt("Enter the new faction name");
      await tp.file.move(`Factions/${selectedFactionType}/${selectedFactionSubtype}/${factionName}`);
 -%>
 ---
 title: <%* tR += factionName %>
 faction_type: <%* tR += selectedFactionType %>
-city: <%* tR += "[[" + selectedFactionSubtype + "]]" %>
-leader: <%* tR += "[[" + selectedLeaderNPC + "]]" %>
+city: <% "\"[[" + selectedFactionSubtype + "]]\"" %>
+leader: <% "\"[[" + selectedLeaderNPC + "]]\"" %>
 ---
