@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Sessions/Session 079.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 079"
-            }
-          },
-          {
-            "id": "ff618af71cc83c23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/TestFactionThing.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TestFactionThing"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,11 +209,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ff618af71cc83c23",
+  "active": "f2ed483abcf08cad",
   "lastOpenFiles": [
+    "index.md",
+    "DND - Drakkenheim/Sessions/Session 079.md",
+    "Stats for new character.md",
     "Templates/TestSessionChatGPT.md",
     "Templates/TestFactionThing.md",
-    "DND - Drakkenheim/Sessions/Session 079.md",
     "Kiddo One Shots/The Lost Fairy Crown/Main.md",
     "Templates/Location.md",
     "Templates/NPC.md",
@@ -262,8 +239,6 @@
     "DND - Drakkenheim/Rumors.md",
     "DND - Drakkenheim/World.md",
     "DND - Drakkenheim/Sessions/Session 018.md",
-    "DND - Drakkenheim/Sessions/Session 017.md",
-    "DND - Drakkenheim/Sessions/Session 016.md",
     "Sessions",
     "Images/Pasted image 20240425201415.png",
     "DND - MattLord/Sessions",
