@@ -1,6 +1,6 @@
 when:
   - branch: main
-    event: [manual]
+    event: [push, manual]
 
 steps:
   - name: build
