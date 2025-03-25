@@ -8,3 +8,4 @@ steps:
     commands:
       - echo "Working directory -> $(pwd)"
       - ls -lah
+      - sh .woodpecker/bin/build.sh
