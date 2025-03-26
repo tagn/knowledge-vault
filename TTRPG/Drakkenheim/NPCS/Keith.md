@@ -12,7 +12,7 @@ tags:
 ---
 ## Description
 
-We killed his lover in session 1. He ran away. Likely the big bad of the campaign. 
+We killed his lover in [[Session 1]]. He ran away. Likely the big bad of the campaign. 
 
 ## Quests
 <!-- QueryToSerialize: TASK FROM "TTRPG/Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Keith]]) -->
@@ -21,6 +21,7 @@ We killed his lover in session 1. He ran away. Likely the big bad of the campaig
 <!-- QueryToSerialize: LIST FROM [[Keith]] WHERE file.folder = "TTRPG/Drakkenheim/Sessions" -->
 <!-- SerializedQuery: LIST FROM [[Keith]] WHERE file.folder = "TTRPG/Drakkenheim/Sessions" -->
 - [[TTRPG/Drakkenheim/Sessions/Session 001.md|Session 001]]
+- [[Session 038]]
 <!-- SerializedQuery END -->
 
 

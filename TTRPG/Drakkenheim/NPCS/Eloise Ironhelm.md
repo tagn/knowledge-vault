@@ -2,9 +2,9 @@
 aliases: []
 type: npc
 created: 2023-07-20
-campaign: Drakkenheim
-name: Eloise Ironhelm
-faction: Ironhelm
+campaign: [[Drakkenheim]]
+name: Eloise [[Ironhelm]]
+faction: [[Ironhelm]]
 group:
 locations: []
 race: Dwarf
@@ -16,7 +16,7 @@ tags:
 
 ## Description
 
-First member of the Ironhelm's that we met. She appears to possess healing magicks.
+First member of the [[Ironhelm]]'s that we met. She appears to possess healing magicks.
 
 
 

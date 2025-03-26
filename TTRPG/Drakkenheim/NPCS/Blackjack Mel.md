@@ -2,7 +2,7 @@
 created: 2023-07-11
 name: "Blackjack Mel"
 type: "npc"
-faction: "Queen's Men"
+faction: "[[Queen's Men]]"
 group: ""
 race: ""
 gender: ""

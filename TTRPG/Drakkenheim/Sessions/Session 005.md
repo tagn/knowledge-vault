@@ -18,12 +18,12 @@ tags:
 - We went over to [[Armin Gainsbury]] to try to buy some paper
 	- Directs us to [[Amethyst Academy]] or [[Aldor the Immense]]
 - [[Orson Fairweather]] - Might have a supply of gems, located in the [[Caravan Park]]
-- We wander over to [[Aldor the Immense]] and Keth greets him
-- [[Amethyst Academy]] grinds delerium up into a powder and substitutes it for other components
+- We wander over to [[Aldor the Immense]] and [[Keth Darklighter]] greets him
+- [[Amethyst Academy]] grinds [[Delerium]] up into a powder and substitutes it for other components
 - [[Sihrr]] buys some paper and ink to make spell scrolls
 - [[Sihrr]] goes by himself to the chapel to detect evil and good
 - We go to the [[Bark & Buzzard]] to ask [[Grummish]] for some information
-- He tells us the general area in [[The Sprawl]]  - South of [[Shepard's Way]] in the north end of the sprawl
+- He tells us the general area in [[The Sprawl]]  - South of [[Shepard's Way]] in the north end of [[The Sprawl]]
 - He mentioned wanting some Wine if we find some
 - Guy with Captain Insignia walks into [[Bark & Buzzard]] while we are in there
 - 10am we leave town to go towards [[Drakkenheim]] to find the [[Rats Nest Tavern]]

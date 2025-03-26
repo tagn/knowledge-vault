@@ -1,6 +1,5 @@
 ---
 aliases:
-  - Will
   - Wyl
   - Wyll
 ---

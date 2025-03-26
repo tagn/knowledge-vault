@@ -19,7 +19,7 @@ tags:
 	- They had 67 gold
 	- A swirly green liquid in what resembles a mason jar, it appears as if there are fireflies in it.
 	- A handful of arrows
-	- 2 delerium shards
+	- 2 [[Delerium]] shards
 - [[Arken Highbloom|Arken]] inquires with the dwarves about if they've been attacked by other factions/etc.. They mostly get attacked by monsters.
 - They say they may be interested in the deal with the [[Hooded Lanterns]] as long as they will be ensured that they get help.
 - They tell us that they don't get attacked much during the day.
@@ -30,7 +30,7 @@ tags:
 - [[Keth Darklighter|Keth]] speaks with the dwarves and they seem forthright about the situation with the falling fire.
 - We walk over to the [[Watchtower]] to and start bringing [[Ansom Lang]] over to discuss the finer details with them about the arrangement.
 - [[Ansom Lang]] makes the deal with the dwarves that they'll be supplied weapons, and send some men to help protect them, also let them stay at the garrison so they don't need to make the full trek back.
-- [[Wyldenten Proudsky|Wyl]] goes over and makes a sale to Aldor of the two delerium shards for 500 gold plus 500 gold store credit.
+- [[Wyldenten Proudsky|Wyl]] goes over and makes a sale to Aldor of the two [[Delerium]] shards for 500 gold plus 500 gold store credit.
 - [[Keth Darklighter|Keth]] and [[Arken Highbloom|Arken]] accept 250 gold, with [[Wyldenten Proudsky|Wyl]] and [[Sihrr]] taking some store credit.
 - [[Arken Highbloom|Arken]] goes to talk to the falling fire about what we saw and seems to be working out setting up our group to force us to believe what they are saying.
 - We talk out what we want to do about the box that the [[Queen's Men]] want us to deliver to the [[Hooded Lanterns]].

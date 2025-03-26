@@ -8,7 +8,7 @@ name: Ironhelm
 
 ## Description
 
-A group of dwarves that run a smithy in [[The Scar]] within Drakkenheim. They run a strip mining operation on [[Delerium]]. A lot of factions want a piece of their action.
+A group of dwarves that run a smithy in [[The Scar]] within [[Drakkenheim]]. They run a strip mining operation on [[Delerium]]. A lot of factions want a piece of their action.
 
 ## Associated NPCS
 

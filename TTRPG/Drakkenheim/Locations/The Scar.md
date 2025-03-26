@@ -2,10 +2,10 @@
 aliases: []
 type: location
 created: 2023-07-20
-campaign: Drakkenheim
+campaign: [[Drakkenheim]]
 name: The Scar
 container: true
-within: Drakkenheim
+within: [[Drakkenheim]]
 ---
 
 ## Description

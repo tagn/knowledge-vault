@@ -23,13 +23,13 @@ tags:
 - They pour the jar of mayonnaise onto [[Seven]]. He comes back to normal and tries to figure out what's going on.
 - We discuss how to handle the watch over the [[Hooded Lanterns]] and [[Ironhelm]] dwarves.
 - [[Keth Darklighter|Keth]] gets a sending one day from [[Milando]] and he asks if everyone is okay.
-- [[Arken Highbloom|Arken]] heads by himself over to the watchtower to inquire about work.
-- [[Ansom Lang]] tells him they've recently had a problem with another group of adventurers ambushing patrols in the city.  They call themselves the "Iconics" now, but we believe them to be the "Favored Few".
+- [[Arken Highbloom|Arken]] heads by himself over to the [[Watchtower]] to inquire about work.
+- [[Ansom Lang]] tells him they've recently had a problem with another group of adventurers ambushing patrols in the city.  They call themselves the "Iconics" now, but we believe them to be the "[[Favored Few]]".
 - We go looking for them, they don't seem home. We wait outside for a bit.
 - [[Arken Highbloom|Arken]] gets a message from what we assume to be the female dwarf that it's not nice to wait on someone's porch unannounced.
 - We break in, nobody is home. Leave them a note that we might be allies.
 - We get home, on our door there is a note from the Iconics saying "We know where you live too, don't get any ideas."
-- Scouting for the dwarves, it looks like around three times a day a group of dwarves/hooded lanterns move in or out of the city
-	- Around 6AM a group of hooded lanterns and dwarves are outbound. Roughly 15 people. 
-	- Around 3PM a group comes back from the scar.
+- Scouting for the dwarves, it looks like around three times a day a group of dwarves/[[Hooded Lanterns]] move in or out of the city
+	- Around 6AM a group of [[Hooded Lanterns]] and dwarves are outbound. Roughly 15 people. 
+	- Around 3PM a group comes back from [[The Scar]].
 	- Once in two days, a group came back around 10PM.

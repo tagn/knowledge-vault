@@ -12,10 +12,10 @@ tags:
 
 ## Event Log
 
-- We leave [[Buckle Down Row]] on our way to to [[Emberwood Village]] after the conversation with the Queen's Men and get lost along the way about 40-45 minutes from [[Buckle Down Row]].
+- We leave [[Buckle Down Row]] on our way to to [[Emberwood Village]] after the conversation with the [[Queen's Men]] and get lost along the way about 40-45 minutes from [[Buckle Down Row]].
 - Down the road we spot two minotaurs...that are dressed as pirates?... [[Minotaur Pirates]] They are brandishing great axes and look like they don't want company.
 - [[Arken Highbloom]] starts the encounter by slashing one of them up.
-- A "pirate" rhino charges from the south alleyway up towards our group and gores Arken.
+- A "pirate" rhino charges from the south alleyway up towards our group and gores [[Arken Highbloom]].
 - [[Arken Highbloom]] is going on a god damn murdering spree taking down a minotaur and rhinocerus.
 - The Pirate Wizard calls in a lightning storm on the group.
 - The Minotaur in front of [[Wyldenten Proudsky]] rips off his shirt and rages, hitting him with a critical hit.
@@ -26,7 +26,7 @@ tags:
 	- 47 gold
 	- Badge sewn into his leather in the shape of a black horn, similar to a minotaur horn.
 - The pirate wizard, named [[Freddrick]] tries to convince the group that he is a wandering merchant. [[Sihrr]] convinces him to drop down off the building. He is unarmed, a parrot on his arm, and wearing boat shoes.. He also has a badge with the black horn, but his is on a chain around his neck and it's made of what appears to be a real minotaur horn.
-- He tells us that he was sailing the [[Drann River]] bringing supplies to Emberwood and was waylaid by minotaurs and forced to work for them for a year.
+- He tells us that he was sailing the [[Drann River]] bringing supplies to [[Emberwood Village]] and was waylaid by minotaurs and forced to work for them for a year.
 - He tells us to stay off the river
 - In his pocket [[Keth Darklighter]] finds a decree signed at the bottom by [[Korgoth Blackhorn]] put in charge of putting down a raiding party for [[Buckle Down Row]]. They were instructed to find the best path down the river to find reinforcements. He tells us that for a time he was enslaved but kind of became part of their family.
 - We search his pockets
@@ -47,7 +47,7 @@ tags:
 	- Vial of spiders - 888 tiny spiders. They will magically obey your verbal commands, they can't harm any creatures, but they can be used as sentries. About 100g
 	- Amulet - A liar stone, any magical effects/etc.. to detect thoughts will convince whomever that the lie is true for 24 hours.
 - The dog seems to be able to speak. Introduces himself as [[Jaziel]]
-- [[Wyldenten Proudsky]] barters to buy the ring and vial of spiders in exchange for the Rat Prince crown plus 500 gold.
+- [[Wyldenten Proudsky]] barters to buy the ring and vial of spiders in exchange for the [[Rat Prince]] crown plus 500 gold.
 - The day wraps up, [[Azan]] opens up a portal and he and his cart move through it.
 - [[Armin Gainsbury]] describes to [[Keth Darklighter]] that [[Azan]] is a legend around here. He showed up one day and started selling magical items and such.
 - [[Wyldenten Proudsky]] gives [[Armin Gainsbury]] a stack of custom made "customer loyalty cards" to punch out to benefit his repeat customers.

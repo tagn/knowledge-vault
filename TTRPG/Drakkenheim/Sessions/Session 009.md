@@ -31,7 +31,7 @@ tags:
 	- Arcane Lock placed on the box
 	- Warding Spell that makes the object impossible to locate
 - [[Rose Carver]] is the one we're doing the job for
-- We stop by to see if [[River]] had any work
+- We stop by to see if [[River (AA)]] had any work
 - The bell boy person names us "Bert" and "Ernie"
 - We make our way to the city, towards [[Buckle Down Row]], with a pit stop after to [[The Spokes]] if we have time
 - Matt rolls a nat 1 on our encounter check, we run into a group of 9 [[Haze Husk]]s and some creature leading them

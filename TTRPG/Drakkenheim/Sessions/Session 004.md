@@ -20,7 +20,7 @@ tags:
 - We get [[Delerium]], see a dead [[Haze Hulk]]
 - Walk back, run into the other group
 - Make amends for luring the hulks at them
-- [[Amethyst Academy]] - Someone named [[River]] we can meet
+- [[Amethyst Academy]] - Someone named [[River (AA)]] we can meet
 - We get back to the town
 - Go buy some water, take some baths
 - [[Wyldenten Proudsky]] discloses that hes missing an arm
@@ -35,7 +35,7 @@ tags:
 	- Four dwarfs over at a table
 - Maybe don't let the [[Amethyst Academy]] people know that I can perform magic
 - Imp tested the [[Delerium]], touched it with his claw and it burned it down a bit
-- We make a deal with [[River]] that we'll try to bring her back some [[Delerium]] within 72 hours
+- We make a deal with [[River (AA)]] that we'll try to bring her back some [[Delerium]] within 72 hours
 - Proposal for us to find more [[Delerium]]
 	- [[The Sprawl]] - There was a tavern there and a large chunk of the meteor broke off and crashed into it before there was an impact
 	- Go there and see what we can retrieve from it

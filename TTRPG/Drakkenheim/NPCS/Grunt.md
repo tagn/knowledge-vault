@@ -16,7 +16,7 @@ tags:
 
 ## Description
 
-A large, colossal haze hulk looking fella. He seems sentient and is capable of speech. Highly intelligent, loves reading picture books to haze dregs because they are dumb.
+A large, colossal [[Haze]] hulk looking fella. He seems sentient and is capable of speech. Highly intelligent, loves reading picture books to [[Haze]] dregs because they are dumb.
 
 ## Quests
 <!-- QueryToSerialize: TASK FROM "TTRPG/Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Grunt]]) -->

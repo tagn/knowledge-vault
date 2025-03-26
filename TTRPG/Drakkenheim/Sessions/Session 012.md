@@ -12,9 +12,9 @@ tags:
 ## Session Event Log
 
 - We travel to the city on the way towards the city to [[The Spokes]] 
-- [[Wyldenten Proudsky]] asks [[Sihrr]] about his background and hes says he was a hooker or some sort and did things for people for money
+- [[Wyldenten Proudsky]] asks [[Sihrr]] about his [[Background]] and hes says he was a hooker or some sort and did things for people for money
 - We pass our first encounter check going into the city
-- We walk down the main path for [[Champion's Way]] and enter into a shopping looking district
+- We walk down the [[Main]] path for [[Champion's Way]] and enter into a shopping looking district
 - Dazzling dreamsickle
 - We get to the cross roads of where the home once was - family home is pretty much destroyed
 - [[Arken Highbloom]] offers to help dig things up to get inside
@@ -34,8 +34,8 @@ tags:
 - We take the contents of the safe into the  bag of holding
 - We hear loud footsteps above, then some speaking in a language we don't understand.
 - It's two trolls setting up a camp, starting a fire, chatting
-- We wait a hour, then try to sneak out. Keth walks into the road to try to distract them
-- Succeeds, we head to buckle down row to figure out a boat to cross the river
+- We wait a hour, then try to sneak out. [[Keth Darklighter]] walks into the road to try to distract them
+- Succeeds, we head to [[Buckle Down Row]] to figure out a boat to cross the river
 - [[Keth Darklighter]] tries to get some leads on a boat
 - We hear about a ferryman to the southwest
 - We run into [[Blackjack Mel]] and he talks us up about the pits

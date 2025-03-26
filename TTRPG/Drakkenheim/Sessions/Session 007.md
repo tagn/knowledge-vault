@@ -12,17 +12,17 @@ tags:
 ## Session Event Log
 
 - [[Petra Lang]] asks if we can take her to the [[Shepard's Gate]]
-- Her leg is too fucked up to travel into the city, so we're taking her out to emberwood
+- Her leg is too fucked up to travel into the city, so we're taking her out to [[Emberwood Village]]
 - We probe for some information on the other factions while we bring her out of the city
 - We make it back to the city, [[Petra Lang]] goes to the [[Watchtower]]
 - We make our way to the [[Red Lion Hotel]]
-- A servant goes to fetch [[River]] while we get a table
+- A servant goes to fetch [[River (AA)]] while we get a table
 - The imp touches the [[Delerium]] crystal to check if its legit
 - She pulls out the gold and an extra bonus, 2000g total
 - She gives us a corked potion bottle, purple in color, rainbow kind of glow to it
 	- Potion of "[[Aqua Delerium]]" - drink it to regain spell slots, for one hour after drinking the potion you have to roll a d20 whenever you cast a spell to trigger an "arcane anomoly"
-- [[Flamekeeper Hannah]] might be able to help cure the "contamination"
-- [[Boseefus]] - the name of the imp from [[River]]
+- [[Flamekeeper Hannah]] might be able to help cure the "[[Contamination]]"
+- [[Boseefus]] - the name of the imp from [[River (AA)]]
 - Michael greets us at the [[Watchtower]], [[Ansom Lang]] is at the gate in town
 - We head back to our houses to clean up
 - [[Arken Highbloom]] and [[Sihrr]] have a conversation about [[Flamekeeper Hannah]] having [[Delerium]] or something inside of her

@@ -20,6 +20,6 @@ name: Church of the Falling Fire
 
 ## Notes
 
-- "To stave off some impending evil, thousands of people need to take the sacrament and she (Lucritia) can stop that impending evil."
+- "To stave off some impending evil, thousands of people need to take the sacrament and she ([[Lucritia]]) can stop that impending evil."
 
-Leader of the group is "Lucritia"
+Leader of the group is "[[Lucritia]]"

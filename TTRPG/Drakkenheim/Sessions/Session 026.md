@@ -23,16 +23,16 @@ tags:
 - [[Arken Highbloom|Arken]] approaches the body and attempts to inspect it, but it apparently was some sort of apparition. He is rushed from behind by one of the balls of light, which shocks him.
 - We prune a few of the glowing flowers off, but continue on.
 - We leave the grove, into steps leading up to a raised platform. We walk up some steps towards some sort of statue.
-- [[Arken Highbloom|Arken]] recalls the prior queen of Drakkenheim was very much about vanity, was very good to servants/etc..
+- [[Arken Highbloom|Arken]] recalls the prior queen of [[Drakkenheim]] was very much about vanity, was very good to servants/etc..
 - [[Arken Highbloom|Arken]] checks out the statue of the Queen for anything interesting, no luck.
 - We encounter some trolls that want us to give up a limb in exchange for the flowers.
 - We kill one of them, the other one offers to parlay.
-- He leads us to the "Eldritch Lily Pond" after we spare him.
+- He leads us to the "Eldritch [[Lily]] Pond" after we spare him.
 - We see five more of the handmaidens standing in the water. We see two large flowers with the petals.
 - The troll departs, and gives us directions to the other garden place.
 - [[Arken Highbloom|Arken]] swaps with his echo to get close to the flowers, clicks the immovable rod in place to hang in the air, then grabs a flower. 
 - These don't appear to be the flowers we were looking for.
-- [[Arken Highbloom|Arken]] and [[Keth Darklighter|Keth]] gained some more contamination levels.
+- [[Arken Highbloom|Arken]] and [[Keth Darklighter|Keth]] gained some more [[Contamination]] levels.
 - We arrive at the Queen's Grotto.
 - Every statue around here appear to be statues of the Queen, each statue's face is chiseled off. We see the presumably fake flowers. As we approach forwards, [[Sihrr]] hears some noise above.
 - There appear to be large plantlike creatures up above, we decide not to fuck with them.

@@ -13,7 +13,7 @@ tags:
 ## Event Log
 
 - We get up in the morning, and perform our preparations for the battle.
-- The hooded lanterns successfully start the day by initiating a pincer attack.
+- The [[Hooded Lanterns]] successfully start the day by initiating a pincer attack.
 - As we approach the gate, we see a few ballistas on top of the towers, as well as many Garmyr. In the air we see a few Chimeras
 - We're on the ramparts, the towers peak about 10 feet above us.
 - We succeed in opening the gate. We exit to a pile of dead Garmyr, and various soldiers.
@@ -25,5 +25,5 @@ tags:
 	- We see coming around, Elias Drexel and a small contingent of lanterns retreating from a large pack of Garmyr and hell hounds. Retreating towards us.
 	- We successfully save Elias Drexel and most of his group.
 - We're told that beneath the Cathedral, the royal family had a vault where they stored documents/etc..
-- We enter the Cathedral, it's fucking filled with Garmyr berserkers and Hell Hounds, but at least we have some of the Hooded Lanterns with us.
+- We enter the Cathedral, it's fucking filled with Garmyr berserkers and Hell Hounds, but at least we have some of the [[Hooded Lanterns]] with us.
 - 97 - 4 = 93 - 6 = 87 - 5 = 82 - 29 = 53 - 8 = 45 - 5 = 40

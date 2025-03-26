@@ -2,9 +2,9 @@
 aliases: []
 type: npc
 created: 2023-07-20
-campaign: Drakkenheim
-name: Mordecai Ironhelm
-faction: Ironhelm
+campaign: [[Drakkenheim]]
+name: Mordecai [[Ironhelm]]
+faction: [[Ironhelm]]
 group:
 locations: []
 race: Dwarf
@@ -22,7 +22,7 @@ tags:
 #### Session Appearances
 <!-- QueryToSerialize: LIST FROM [[Mordecai Ironhelm]] WHERE file.folder = "TTRPG/Drakkenheim/Sessions" -->
 <!-- SerializedQuery: LIST FROM [[Mordecai Ironhelm]] WHERE file.folder = "TTRPG/Drakkenheim/Sessions" -->
-- [[Session 019]]
+- [[[[Session 019]]]]
 <!-- SerializedQuery END -->
 
 

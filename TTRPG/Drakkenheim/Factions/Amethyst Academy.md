@@ -14,7 +14,7 @@ name: Amethyst Academy
 <!-- QueryToSerialize: LIST FROM "TTRPG/Drakkenheim/NPCS" WHERE faction = "Amethyst Academy" -->
 <!-- SerializedQuery: LIST FROM "TTRPG/Drakkenheim/NPCS" WHERE faction = "Amethyst Academy" -->
 - [[Archmage Adriana Modiera]]
-- [[River]]
+- [[River (AA)]]
 <!-- SerializedQuery END -->
 
 ## Notes

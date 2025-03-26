@@ -35,7 +35,7 @@ tags:
 - Locked door/closed door to our right
 - We're led into a "sitting room" to the left, which appears to be a makeshift alchemical workshop
 - [[Keth Darklighter]] scopes out the room to see if there are any notes
-- She swipes a note about growing fauna in the haze
+- She swipes a note about growing fauna in the [[Haze]]
 - [[Gemma]] goes to get [[Oscar Yorn]] after we mention the latest shipment
 - [[Oscar Yorn]] says that the shipments are messed up because he is missing the reagents
 - He needs [[Eldritch Lilies]] to make more of the [[Aqua Delerium]]

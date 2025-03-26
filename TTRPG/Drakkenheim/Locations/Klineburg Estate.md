@@ -2,10 +2,10 @@
 aliases: 
 type: location
 created: 2024-02-01
-campaign: Drakkenheim
+campaign: [[Drakkenheim]]
 name: Klineburg Estate
 container: false
-within: Drakkenheim
+within: [[Drakkenheim]]
 ---
 
 ## Description

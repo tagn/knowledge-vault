@@ -57,7 +57,7 @@ tags:
 - Knight guy seems to try to stab backwards at will, but will does a tk shove and the knight gets pushed into [[Arken Highbloom]], bounces off, then falls and stabs a guy at the table next to us and instantly kills him
 - Bartender breaks a glass to get ready to defend himself
 - Old man in a white robe stands up
-- [[Sihrr]] and [[Keth Darklighter]] are hiding behind the bar, Sihrr drops his disguise
+- [[Sihrr]] and [[Keth Darklighter]] are hiding behind the bar, [[Sihrr]] drops his disguise
 - Wizard summons a fire elemental, throws another fireball at the group
 - Combat ends, commoners and the girl playing piano go back to their business
 - We search around, find the cellar entrance behind the building

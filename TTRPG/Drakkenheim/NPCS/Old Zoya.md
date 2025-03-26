@@ -20,7 +20,7 @@ tags:
 <!-- QueryToSerialize: LIST FROM [[Old Zoya]] WHERE file.folder = "TTRPG/Drakkenheim/Sessions" -->
 <!-- SerializedQuery: LIST FROM [[Old Zoya]] WHERE file.folder = "TTRPG/Drakkenheim/Sessions" -->
 - [[Session 010]]
-- [[Session 030]]
+- [[[[Session 030]]]]
 <!-- SerializedQuery END -->
 
 

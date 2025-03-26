@@ -1,10 +1,10 @@
 ---
 type: location
 created: 2023-07-11
-campaign: Drakkenheim
+campaign: [[Drakkenheim]]
 name: Scrag Lane
 container: false
-within: The Spokes
+within: [[The Spokes]]
 ---
 
 ## Description

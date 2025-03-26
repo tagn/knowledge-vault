@@ -12,14 +12,14 @@ tags:
 
 ## Event Log
 
-- We seem to be able to see about a mile from the clocktower now. The haze seems gone.
+- We seem to be able to see about a mile from the clocktower now. The [[Haze]] seems gone.
 - Walking down the clocktower, everything seems to be as it was before.
 - The courtyard to the clocktower is restored upon going outside.
 - Everything outside seems to be actually restored, and intact.
 - The facade of the demonic temple appears to be adorned with infernal sigils, the surface etched with torment and torture, twisted pictures of writhing and agony. Above the door is a bust of some creature.
 	- The visage seen above the door is very recognizable, the lord of hell, azmodeus.
-- We chase Sihrr towards his family home, the city
-- We step inside the temple, with silas using daylight with his necklace.
+- We chase [[Sihrr]] towards his family home, the city
+- We step inside the temple, with [[Silas]] using daylight with his necklace.
 - The walls inside are all stone, covered with Grotesque murals, depicting cycles of suffering and damnation.
 - The only thing that breaks the silence is a dripping sound in the distance.
 - Murmurs of spell incantations or curses seem to come from the floor.

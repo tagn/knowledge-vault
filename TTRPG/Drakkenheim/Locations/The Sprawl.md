@@ -1,10 +1,10 @@
 ---
 type: location
 created: 2023-07-11
-campaign: Drakkenheim
+campaign: [[Drakkenheim]]
 name: The Sprawl
 container: true
-within: Drakkenheim
+within: [[Drakkenheim]]
 ---
 
 ## Description

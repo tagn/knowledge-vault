@@ -1,10 +1,10 @@
 ---
 type: location
 created: 2023-07-11
-campaign: Drakkenheim
-name: Gilded Lily
+campaign: [[Drakkenheim]]
+name: Gilded [[Lily]]
 container: false
-within: Emberwood Village
+within: [[Emberwood Village]] Village
 ---
 
 ## Description

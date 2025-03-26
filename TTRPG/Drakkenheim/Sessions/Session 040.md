@@ -12,14 +12,14 @@ tags:
 
 ## Event Log
 
-- Keth kills a bird.
+- [[Keth Darklighter]] kills a bird.
 - We have a letter nailed to our board about some "Black Iron" people that are new in town.
 - We start discussing the Clock Tower.
-- Allegedly, Sihrr knows about some dragon potentially buried beneath the city, named [[Argonath]].
+- Allegedly, [[Sihrr]] knows about some dragon potentially buried beneath the city, named [[Argonath]].
 	- He knows this dragon is great friend of a paladin.
 	- This dragon has been dead about 500 years.
 	- He's well know by the [[Knights of the Silver Order]]
-	- During his life, he was a loyal defender of the city of Drakkenheim.
+	- During his life, he was a loyal defender of the city of [[Drakkenheim]].
 	- It is rumored his body is buried beneath some building within the city.
 	- Resurrecting him may have some great outcome.
 	- This was the gold dragon who fought beside [[Saint Vitruvio]].
@@ -44,7 +44,7 @@ tags:
 - The group gets back together. [[Keth Darklighter|Keth]] tries to fuck with the new magic shop. [[Sihrr]] goes to listen to the kid yelling stupid stories in the middle of town.
 - [[Sihrr]] fucks up the kids sandwich. The kid surprisingly, also hates snakes.
 - We walk back to the [[Skull & Sword]], [[Silas]] disguises himself as a human princess similar to one the town crier had described before entering.
-- After getting into a confrontation with the Black Iron group, we notice the severed head of Oscar Yorn.
+- After getting into a confrontation with the Black Iron group, we notice the severed head of [[Oscar Yorn]].
 - Before a fight starts, [[Sihrr]] warps both [[Silas]] and [[Keth Darklighter|Keth]] out of the bar.
 - 
 

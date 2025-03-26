@@ -23,9 +23,9 @@ tags:
 - We pass through [[Emberwood Village]] and go to [[Hendricks Farm]] to try to get some sort of healing for [[Keth Darklighter|Keth]].
 - We go back to [[Emberwood Village]] to find [[Flamekeeper Hannah]] to see about curing [[Keth Darklighter|Keth]].
 - [[Flamekeeper Hannah]] is deep in prayer next to the flame in the [[Chapel of Saint Ardenna]].
-- We pay for the services to get our contamination removed. [[Seven]] does not have to pay material costs, but pays 150 gold for the labor.
+- We pay for the services to get our [[Contamination]] removed. [[Seven]] does not have to pay material costs, but pays 150 gold for the labor.
 - Everyone gets healed up, [[Seven]] seems pretty much perfect.
-- [[Keth Darklighter|Keth]] opens up the envelope that was waiting in front of her house. It's a letter written in Elvish, a dialect popular in the Underdark. It's a letter from her horrible dude, turns out he knows where she is.
+- [[Keth Darklighter|Keth]] opens up the envelope that was waiting in front of her house. It's a letter written in Elvish, a dialect popular in the [[Underdark]]. It's a letter from her horrible dude, turns out he knows where she is.
 - We go check on our house, get the keys from [[Emma]]. [[Seven]] buys a set of Scale Mail from the Crowe and Sons.
 - We head over to [[Aldor the Immense]], there is a Drow next to him named [[Milando]], seems to be some other magic merchant. He beckons us to join him for a meal.
 - [[Aldor the Immense]] shows us his inventory of what he's got for sale.

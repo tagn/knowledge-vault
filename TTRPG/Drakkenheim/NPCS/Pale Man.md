@@ -3,7 +3,7 @@ aliases:
   - Justin Tousant
 type: npc
 created: 2024-02-01
-campaign: Drakkenheim
+campaign: [[Drakkenheim]]
 name: Pale Man
 faction: Unaffiliated
 group: 
@@ -17,7 +17,7 @@ tags:
 
 ## Description
 
-Turns out this is the grandfather of [[Sihrr]], whom used to be known as [[Pale Man|Justin Tousant]].
+Turns out this is the grandfather of [[[[Sihrr]]]], whom used to be known as [[Pale Man|Justin Tousant]].
 
 ## Quests
 <!-- QueryToSerialize: TASK FROM "TTRPG/Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Pale Man]]) -->

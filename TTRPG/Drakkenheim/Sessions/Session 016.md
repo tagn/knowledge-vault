@@ -50,17 +50,17 @@ tags:
 	- [[Aaron Grint]] lowers his hood - they tell him that he has been gone for weeks
 	- They escort us back into town
 - [[Keth Darklighter]] takes "Goldie", aka "[[Fate Hope]]" to the [[Skull & Sword]] to see if she gets recognized
-- The rest of the gang takes the dead wizard to the [[Red Lion Hotel]] to see [[River]], maybe she knows the guy?
+- The rest of the gang takes the dead wizard to the [[Red Lion Hotel]] to see [[River (AA)]], maybe she knows the guy?
 - Goldie says something to the Bartender, seemingly in thieves' cant
 - Some guy is told about her or something, turns white, immediately leaves
 - [[Keth Darklighter]] is told that we did a service returning her, someone might be reaching her out. She receives a coin purse from the bartender as a thank you. She receives 136 gold
 - We carry the corpse of the wizard into the Red Lion Inn
-	- [[River]] and dead wizard man are wearing the same number of rings
+	- [[River (AA)]] and dead wizard man are wearing the same number of rings
 	- [[Osiris]] - she thought he'd left or they would never see him again
 	- She inquires about what happened to him
 	- He's been missing for a few months
 	- She takes all of the rings off of his hands
-	- She reaches into the inside of his robe, pulls out a small -red- green gem, hands it over to us. It's an elemental gem. Will gives it over to Sihrr
+	- She reaches into the inside of his robe, pulls out a small -red- green gem, hands it over to us. It's an elemental gem. Will gives it over to [[Sihrr]]
 	- [[Sihrr]] offers river an old bottle of wine from our crate of basement wine
 - We leave to get [[Balthazar Adamos]] over to his stupid fucking farm
 - [[Wyldenten Proudsky]] and [[Sihrr]] ditch [[Arken Highbloom]] at the farm
@@ -71,12 +71,12 @@ tags:
 	- [[Arken Highbloom]] is stronger with his sword than his tongue
 	- [[Arken Highbloom]] sucks up to these people
 	- They have a bit of a quest for him, something in [[The Scar]]
-	- In the spokes, some Dwarves set up shop there, they are mining up all the [[Delerium]] in the area and selling it for outrageous costs
-	- They want us to drive out the dwarves to get them some delerium flow
+	- In [[The Spokes]], some Dwarves set up shop there, they are mining up all the [[Delerium]] in the area and selling it for outrageous costs
+	- They want us to drive out the dwarves to get them some [[Delerium]] flow
 	- We may be able to take some [[Delerium]] for ourselves
 	- The dwarves, there are 4 of them, some kind of family/siblings, known as the [[Ironhelms]]
 	- They come from a mountain to the south. They are incredible good at mining [[Delerium]]. They have some sort of mechanical weaponry that they used to claim the area
-	- They've reopened the smithy in [[The Spokes]]
+	- They've reopened [[The Smithy]] in [[The Spokes]]
 	- These bitches crazy - [[Delerium]] is a gift
 - A dagger is stuck in our door, "[[Keth Darklighter]] and [[Wyldenten Proudsky]]", Queen of Diamonds playing card
 - [[Keth Darklighter]] goes to the [[Skull & Sword]] to inquire about the card
@@ -90,9 +90,9 @@ tags:
 	- Dagger
 	- Crossbow, light
 	- Crossbow Bolts
-	- Delerium Fragments (5)
+	- [[Delerium]] Fragments (5)
 - Acquire Ammunition
-	- Need to talk to the Elven Woman from the Gentlemen Bastards
+	- Need to talk to the Elven Woman from the [[Gentlemen Bastards]]
 - Organized my inventory a bit
 - Changed up some prepared spells
-- Disassemble lily for now to get the infusion slot back, then enhanced defense my own armor for +1 AC.
+- Disassemble [[Lily]] for now to get the infusion slot back, then enhanced defense my own armor for +1 AC.

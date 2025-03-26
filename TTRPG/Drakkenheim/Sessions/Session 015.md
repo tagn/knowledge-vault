@@ -11,7 +11,7 @@ tags:
 
 ## Session Event Log
 
-- We walk into a "smugglers den" under the Black Ivory Inn, and we're confronted by a group of allegedly smugglers
+- We walk into a "smugglers den" under the [[Black Ivory Inn]], and we're confronted by a group of allegedly smugglers
 - We bounce out of that situation and head back upstairs
 - [[Anika Patel]] - Knight of the [[Silver Order]] that was protecting [[Ms. Charlotte]]
 - Mage in purple robe - No name known
@@ -30,7 +30,7 @@ tags:
 - [[Wyldenten Proudsky]] goes back to the same old couple and makes up some shit to get them to let him know what the date is.
 - We head back downstairs and try to get into the smugglers den the peaceful way
 - Leader of the smugglers - [[Captain Wickett]]
-- He offers us a job to steal from a shop a few miles south in the spokes, and maybe murder the family because they sometimes sleep in the basement - It's [[Wyldenten Proudsky]]'s families shop
+- He offers us a job to steal from a shop a few miles south in [[The Spokes]], and maybe murder the family because they sometimes sleep in the basement - It's [[Wyldenten Proudsky]]'s families shop
 - We lie and say Fifer told us about the den
 - Fifer says Reginald
 - [[Keth Darklighter]] murders Fifer

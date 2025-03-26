@@ -2,7 +2,7 @@
 created: 2023-07-11
 name: "Lucritia"
 type: "npc"
-faction: "Church of the Falling Fire"
+faction: "[[Church of the Falling Fire]]"
 group: ""
 race: ""
 gender: ""

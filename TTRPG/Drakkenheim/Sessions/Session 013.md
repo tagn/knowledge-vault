@@ -22,15 +22,15 @@ tags:
 - A rope is still in place, attached to the rope is 
 - [[Arken Highbloom]] replaces the rope and tests it out, seems like it might hold some people to cross
 - We discuss maybe reinforcing the "raft" to use it to cross
-- We walk further up the riverwalk, keth finds a box on a table, looks to be filled with business cards
+- We walk further up the riverwalk, [[Keth Darklighter]] finds a box on a table, looks to be filled with business cards
 	- Amandas Outdoor something - "Your Adventure Our Pleasure"
-	- Rogan Blum - Black Ivory Inn
-	- Specialties in the Spokes - Competitor for Will's families shop
+	- Rogan Blum - [[Black Ivory Inn]]
+	- Specialties in [[The Spokes]] - Competitor for Will's families shop
 - We continue to walk, but [[Sihrr]] looks through the cards for things he knows about
 - We fail our encounter check on the way out, following the river up out of [[Drakkenheim]]
 - We reach a park nearly out of the city, [[Keth Darklighter]] is nearly grabbed by a dive bombing manticore
 - Water looks a little better up river, but not great, we likely can't just dodge it by going far around it
-- [[Wyldenten Proudsky]] tries to buy some ammo for the weapon, [[Armin Gainsbury]] doesnt have any leads, [[Lyrian]] from the gentlemen bastards comes by and notices and tries to help but he scares her off. He'll need to find her later to sort out some ammo
+- [[Wyldenten Proudsky]] tries to buy some ammo for the weapon, [[Armin Gainsbury]] doesnt have any leads, [[Lyrian]] from the [[Gentlemen Bastards]] comes by and notices and tries to help but he scares her off. He'll need to find her later to sort out some ammo
 - [[Sihrr]] goes to [[Aldor the Immense]] to look at buying some magic items
 - We try to buy some empty barrels from [[Karen]]
 - We make our way to the city to get back to the river

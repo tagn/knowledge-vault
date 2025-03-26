@@ -18,22 +18,22 @@ tags:
 - We request a corking service because we brought our own wine. The server obliges and brings us some food to go with the wine.
 - One dwarf is in a black cloak with a trench coat, I see a few daggers, he has a long scar across his face and a long goatee that goes to his belt buckle.
 - Another dwarf is wearing common grey robes, thick leather straps and a breastplate on top. Some sort of mechanical trinket. Long brown hair. Lots of tools and instruments.
-- [[Gertrude Ironhelm]] is on the night shift at the smithy. They come and go to and from the smithy.
+- [[Gertrude Ironhelm]] is on the night shift at [[The Smithy]]. They come and go to and from [[The Smithy]].
 - The female dwarf is not Gertrude, but she offered and cast a healing spell on [[Keth Darklighter|Keth]] to heal and cleanse her. Her name is [[Eloise]].
-- We ask to accompany them into town when they head back to the smithy.
+- We ask to accompany them into town when they head back to [[The Smithy]].
 - They say we can go with them after a shift change around noon the following day. They have a shift change at the [[Red Lion Hotel]] at noon.
 - [[Eloise]] has a brother named [[Mordecai]]. 
 - [[Sihrr]] pays our tab of 10 gold and we head back home.
 - We find a box waiting in front of our house. [[Keth Darklighter|Keth]] tries to pop it open and it won't open. [[Wyldenten Proudsky|Wyl]] detects magic on it and gets some abjuration, with some kind of necromancy inside.
 - [[Wyldenten Proudsky|Wyl]] decides that if we're going to go through with delivery of this package of the [[Queen's Men]], he's going to do his best to ensure that it doesn't hurt anyone. 
 - We take a long rest.
-- [[Keth Darklighter|Keth]] heard a few rumors, such as a dragon being located deep below the city, the gargoyles on the walls will come to life and attack you if you try to scale the walls. The prison cells in the city may be shielded enough from the [[Haze]] to rest.
+- [[Keth Darklighter|Keth]] heard a few rumors, such as a dragon being located deep below the city, the gargoyles on the walls will come to life and attack you if you try to scale the walls. The [[Velkynvelve]] cells in the city may be shielded enough from the [[Haze]] to rest.
 - [[Wyldenten Proudsky|Wyl]] procures reagents to cast Magic Mouth.
 - [[Arken Highbloom|Arken]] and [[Sihrr]] make their way down to the [[Hendricks Farm]] to talk to the [[Church of the Falling Fire]] about the situation with the [[Ironhelms]].
-	- They are informed that they ([[Church of the Falling Fire]]) want them to stop mining the delerium so recklessly. They are strip mining the delerium.
-	- They are told that some of the pilgrims have been attacked by the dwarves by getting close to the smithy. Some may have been killed.
+	- They are informed that they ([[Church of the Falling Fire]]) want them to stop mining the [[Delerium]] so recklessly. They are strip mining the [[Delerium]].
+	- They are told that some of the pilgrims have been attacked by the dwarves by getting close to [[The Smithy]]. Some may have been killed.
 - [[Wyldenten Proudsky|Wyl]] goes back to the house early, casts detect magic to try to find the box that [[Keth Darklighter|Keth]] stashed away. [[Wyldenten Proudsky|Wyl]] casts Magic Mouth on the box.
-	- "Hi Wyl here, don't open this box. We were forced to deliver this box. Our lives are in danger. Queen's men. Be careful with the box."
+	- "Hi [[Wyldenten Proudsky]] here, don't open this box. We were forced to deliver this box. Our lives are in danger. [[Queen's Men]]. Be careful with the box."
 - [[Sihrr]] informs the group somewhere between 4-8 people have been killed by the dwarves. He even tells us that they weren't even given a warning.
 - Our party has an heated internal debate about what to do with the dwarves. [[Arken Highbloom|Arken]] is insisting the dwarves need to be dealt with. [[Keth Darklighter|Keth]] doesn't really buy it. [[Sihrr]] seems to slightly agree with [[Arken Highbloom|Arken]], [[Wyldenten Proudsky|Wyl]] just wants to know the truth about whats going on with the dwarves before we take any drastic action.
 - We go to meet the dwarves at the [[Red Lion Hotel]] and see a lot of dwarves. It seems a bit heated.
@@ -55,12 +55,12 @@ tags:
 - [[Keth Darklighter|Keth]] attempts to persuade them to deal with the [[Hooded Lanterns]]
 - She tells us that they can't deal with the [[Hooded Lanterns]] unless they can get guaranteed protection.
 	- She would deal with the [[Hooded Lanterns]] if they can garrison soldiers.
-- We are offered to come spend a night shift at the smithy in [[The Scar]] to prove our mettle. This is to give us information to pass back to the [[Hooded Lanterns]] so they understand the deal they are getting into if they provide protection for the [[Ironhelm]] dwarves.
+- We are offered to come spend a night shift at [[The Smithy]] in [[The Scar]] to prove our mettle. This is to give us information to pass back to the [[Hooded Lanterns]] so they understand the deal they are getting into if they provide protection for the [[Ironhelm]] dwarves.
 - We're told
 	- No fires, no lights. The only light source is a bonfire in the middle of camp.
-	- At night, the haze recedes away, it appears to go up into the atmosphere and creates a corona in the sky.
+	- At night, the [[Haze]] recedes away, it appears to go up into the atmosphere and creates a corona in the sky.
 	- We might have some dim light but might not be able to see more than 90 feet or so away from the walls.
-- We arrive that evening at the smithy in [[The Scar]] without any encounters. It's quite dark here. There is a light coming from the bonfire in the middle.
+- We arrive that evening at [[The Smithy]] in [[The Scar]] without any encounters. It's quite dark here. There is a light coming from the bonfire in the middle.
 - Along with us at [[The Smithy]], there is [[Gertrude Ironhelm]], [[Mordecai Ironhelm]], and about 10 other dwarves, some of whom are going to head back as our team is giving them the night off to rest.
 - [[Keth Darklighter|Keth]] asks about the best area to defend from the biggest baddies.
 - It's quite dark. [[Wyldenten Proudsky|Wyl]] is super excited to get to help man the guns.
@@ -73,7 +73,7 @@ tags:
 - First round is over. Moaning gets worse. Six more [[Haze Husk]]s appear, bringing the total to 18.
 - [[Wyldenten Proudsky|Wyl]] and [[Keth Darklighter|Keth]] pick off two more. They seem to have a localized explosion when they die. Not sure what the effect of it will be.
 - Six more [[Haze Husk]]s appear at the end of the second round.
-- One of the thugs gains a level of contamination after failing a con save due to an explosion.
+- One of the thugs gains a level of [[Contamination]] after failing a con save due to an explosion.
 - Six more [[Haze Husk]]s appear at the beginning of round four.
 - [[Wyldenten Proudsky|Wyl]] leaves off with wanting to order the spider to fall back and web things to get them slowed
 - A large creature appears to the southeast. It appears to be a [[Haze Hulk]], but its a bit different than what we've seen in the past. 

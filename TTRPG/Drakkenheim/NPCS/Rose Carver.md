@@ -2,7 +2,7 @@
 created: 2023-07-11
 name: "Rose Carver"
 type: "npc"
-faction: "Queen's Men"
+faction: "[[Queen's Men]]"
 group: ""
 race: ""
 gender: ""
@@ -12,7 +12,7 @@ tags:
 ---
 ## Description
 
-Keth's boss. 
+[[Keth Darklighter]]'s boss. 
 
 ## Quests
 <!-- QueryToSerialize: TASK FROM "TTRPG/Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Rose Carver]]) -->

@@ -11,59 +11,35 @@
   "folder_templates": [
     {
       "folder": "TTRPG/Drakkenheim/Sessions",
-      "template": "templates/Session.md"
+      "template": "templates/SessionTemplate.md"
     },
     {
       "folder": "TTRPG/Drakkenheim/Characters",
-      "template": "templates/Character.md"
+      "template": "templates/CharacterTemplate.md"
     },
     {
       "folder": "TTRPG/Drakkenheim/Locations",
-      "template": "templates/Location.md"
+      "template": "templates/LocationTemplate.md"
     },
     {
       "folder": "TTRPG/Drakkenheim/NPCS",
-      "template": "templates/NPC.md"
+      "template": "templates/NPCTemplate.md"
     },
     {
       "folder": "TTRPG/Drakkenheim/Quests",
-      "template": "templates/Quest.md"
+      "template": "templates/QuestTemplate.md"
     },
     {
       "folder": "TTRPG/Drakkenheim/Factions",
-      "template": "templates/Faction.md"
-    },
-    {
-      "folder": "DND - Out of the Abyss/Sessions",
-      "template": "templates/Session.md"
-    },
-    {
-      "folder": "DND - Out of the Abyss/Characters",
-      "template": "templates/Character.md"
-    },
-    {
-      "folder": "DND - Out of the Abyss/Locations",
-      "template": "templates/Location.md"
-    },
-    {
-      "folder": "DND - Out of the Abyss/Quests",
-      "template": "templates/Quest.md"
-    },
-    {
-      "folder": "DND - Out of the Abyss/NPCS",
-      "template": "templates/NPC.md"
-    },
-    {
-      "folder": "DND - Out of the Abyss/Factions",
-      "template": "templates/Faction.md"
+      "template": "templates/FactionTemplate.md"
     },
     {
       "folder": "TTRPG/Keys from the Golden Vault/Sessions",
-      "template": "templates/Session.md"
+      "template": "templates/SessionTemplate.md"
     },
     {
       "folder": "TTRPG/Tales from the Yawning Portal/Sessions",
-      "template": "templates/Session.md"
+      "template": "templates/SessionTemplate.md"
     }
   ],
   "enable_file_templates": false,

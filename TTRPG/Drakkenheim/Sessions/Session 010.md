@@ -35,9 +35,9 @@ tags:
 	- We possibly make a deal with [[Ansom Lang]] to do the job
 - Go back to [[Arken Highbloom]], hes still waiting for the doctor
 - [[Old Zoya]] resides up at the Shrine north of town, might be able to heal [[Arken Highbloom]]
-- We sell the [[Delerium]] to [[River]], 500 gold earned
-- [[River]] quest -
-	- An associate stole some research from them. Oscar Yorn, expelled students working as his apprentices. She wants his books of research. We must bring back something tangible, spellbook, journal, samples of his work, or you know, his brain. Job pays 250 gold and a magic item, a Pearl of Power.
+- We sell the [[Delerium]] to [[River (AA)]], 500 gold earned
+- [[River (AA)]] quest -
+	- An associate stole some research from them. [[Oscar Yorn]], expelled students working as his apprentices. She wants his books of research. We must bring back something tangible, spellbook, journal, samples of his work, or you know, his brain. Job pays 250 gold and a magic item, a Pearl of Power.
 - [[Oscar Yorn]] practiced Alchemy/Necromancy. When he was confronted with it by the [[Amethyst Academy]], he fled into the city. 
 - We try to convince [[Arken Highbloom]] to go with us to [[Old Zoya]], at the [[Shrine of the Old Gods]], but he refuses
 - We leave and go to the [[Shrine of the Old Gods]]Shrine ourselves to check it out

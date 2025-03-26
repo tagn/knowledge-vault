@@ -43,8 +43,8 @@ tags:
 - Some streets are blocked off, some makeshift bridges cross the roofs
 - There is a lot of security but nobody seems to be bothering eachother
 - She comes up to a small ramshackle bar, the front has a blasted out entrance. There is a cook, a large bugbear, smoking food on a grill. He's dripping with sweat onto the grill. There is a gnome in a top hat strapped to a target and knives are being thrown. The bar is called the [[Sweaty Bugbear]]
-- Almost everyone in the bar has an insignia, a two howling dogs at the moon looking brooch
-- [[Blackjack Mel]] says this is the hangout of the [[Howling Dogs]], one of the more known groups. They are run by a guy named [[Baskerville]]. [[Baskerville]] is a large, overweight, but strong looking dwarf. Long red flowing beard. Keth comes up on his chain drinking ales. Hes collecting bets for people throwing knives.
+- Almost everyone in the bar has an insignia, a two [[Howling Dogs]] at the moon looking brooch
+- [[Blackjack Mel]] says this is the hangout of the [[Howling Dogs]], one of the more known groups. They are run by a guy named [[Baskerville]]. [[Baskerville]] is a large, overweight, but strong looking dwarf. Long red flowing beard. [[Keth Darklighter]] comes up on his chain drinking ales. Hes collecting bets for people throwing knives.
 - [[Keth Darklighter]] is offered a turn throwing knives at the gnome. There is a gnome strapped to a table, leaned up against a wall.
 - [[Keth Darklighter]] can get points for throwing knives at the gnome
 	- [[Keth Darklighter]] throws and nicks the ear of the gnome, but gets 30 points
@@ -54,11 +54,11 @@ tags:
 	- [[Keth Darklighter]] throws and misses, killing the gnome
 	- [[Baskerville]] is upset that they won't get money back from the gnome because hes uhh, dead.
 - The other people in the bar are dressed kinda like spartans
-- "[[Rita]]" is at the back of the bar, Keth is told to mind her manners with her
+- "[[Rita]]" is at the back of the bar, [[Keth Darklighter]] is told to mind her manners with her
 - [[Rita]] seems nice but is a "ruthless killer", she was one of the most notorious assassins before she retired
 - Younger girl comes over to [[Keth Darklighter]], says "Veronica" would like to talk to [[Keth Darklighter]]
 - [[Veronica Venom]], she runs this bar [[Keth Darklighter]] went to. [[Blackjack Mel]] mentioned [[Keth Darklighter]] to Veronica
-- She tells Keth if she were to pass the exam to enter she might be able to join. She'll have to pay a fee to the [[Queen of Blades]] if she joins the crew
+- She tells [[Keth Darklighter]] if she were to pass the exam to enter she might be able to join. She'll have to pay a fee to the [[Queen of Blades]] if she joins the crew
 - This group controls a decent territory in the city
 - They do smuggling/odd jobs/whatever pays
 - They did a little digging on [[Keth Darklighter]], found that she might have a bounty out on her
@@ -78,17 +78,17 @@ tags:
 - They want us to go back to get their supplies
 - Ebony box with a carved rose on the lid of it
 - There is also a bag of coins
-- [[Keth Darklighter]] comes and starts to talk to Arken and Sihrr about what she was doing last night
+- [[Keth Darklighter]] comes and starts to talk to [[Arken Highbloom]] and [[Sihrr]] about what she was doing last night
 - [[Wyldenten Proudsky]] introduces his bird
 - Mushed up apples with a glass of milk is served to Will from the lovely [[Karen]]
 
 - [[Keth Darklighter]] met a woman named [[Rose Carver]]
-- Bar was waiting on a delivery of supplies and it went missing. A group called the Favored Few may have made off with their stash. We talk about maybe going to talk to the [[Gentlemen Bastards]]
+- Bar was waiting on a delivery of supplies and it went missing. A group called the [[Favored Few]] may have made off with their stash. We talk about maybe going to talk to the [[Gentlemen Bastards]]
 
 - We inquire with [[Karen]] about the [[Favored Few]], no luck
 - We ask her where the [[Gentlemen Bastards]] normally hang around, [[Karen]] points it out
 - We make our way over to the [[Crow and Sons Smithy]]. It's very "functional" in quality. We see a large bearded man, salt and pepper hair, he has his son near him, maybe in his mid teens. [[Emma]] is sitting at a table doing some schoolwork with her mother
-- [[Tobias]] - owner of the smithy
+- [[Tobias]] - owner of [[The Smithy]]
 - [[Peter]] - his son
-- [[Sheldon]] - member of the Favored Few
+- [[Sheldon]] - member of the [[Favored Few]]
 - They are halfway between [[Emberwood Village]] and the [[Hendricks Farm]], staying in an old barn

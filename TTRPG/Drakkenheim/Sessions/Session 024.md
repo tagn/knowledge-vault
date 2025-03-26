@@ -24,7 +24,7 @@ tags:
 - We get a long rest, which makes it... 3? more days until my spider comes back.
 - We awaken to a guard of like 70 people just waiting for us at the bottom of the barn.
 - We're given some instruction by Nathaniel of where we need to go to get to [[Champion's Gate]]
-- He explains the area we're going into is "thicker, more malicious, and dangerous" than what we've experienced thus far. The people near the monastery are protected from the Haze, but we should not linger long.
+- He explains the area we're going into is "thicker, more malicious, and dangerous" than what we've experienced thus far. The people near the monastery are protected from the [[Haze]], but we should not linger long.
 - [[Arken Highbloom|Arken]] requests to [[Nathaniel]] for him to inform [[Flamekeeper Hannah]] that we retrieved the staff.
 - [[Arken Highbloom|Arken]] hands [[Wyldenten Proudsky|Will]] a pouch of 300 gold to buy supplies while he's in town.
 - [[Wyldenten Proudsky|Will]] makes it to the caravan court when a group of [[Hooded Lanterns]] ride up with [[Ansom Lang]] and detain [[Wyldenten Proudsky|Will]], take his belongings, and dump his ass inside of a cell.
@@ -32,7 +32,7 @@ tags:
 - [[Armin Gainsbury]] waves down [[Keth Darklighter|Keth]] and [[Sihrr]] and informs them that [[Wyldenten Proudsky|Will]] was arrested at spear point by the [[Hooded Lanterns]].
 - [[Keth Darklighter|Keth]] and [[Sihrr]] don't seem to be getting any extra attention from the [[Hooded Lanterns]]. They head to the [[Chapel of Saint Ardenna]] to see if they can get a message sent out to the [[Hendricks Farm]] to go inform [[Arken Highbloom|Arken]] about [[Wyldenten Proudsky|Will]]'s situation.
 - We jump back to [[Wyldenten Proudsky|Will]] who has been locked in a cell for 15-20 minutes. There are a few other people in the cells. A few cells contain ruffian looking fellas, one contains a [[Hooded Lanterns]], 
-- [[Wyldenten Proudsky|Will]] asks for some advice from the other prisoners for advice on his prison stay.
+- [[Wyldenten Proudsky|Will]] asks for some advice from the other prisoners for advice on his [[Velkynvelve]] stay.
 - [[Sihrr]] attempts to figure out what happened with [[Wyldenten Proudsky|Will]] and the guards inform him by the order of [[Ansom Lang]] he is not permitted entrance to the [[Watchtower]]. 
 - [[Wyldenten Proudsky|Will]] apparently didn't protect the people from the box well enough, Frank and Vinnie perished in the fallout. Apparently they came back and had to be put down a second time.
 - [[Sihrr]] is told to kindly go fuck off, and is refused any sort of audience. He sits down on a rock outside of the [[Watchtower]] and tells the guards he'll wait until [[Ansom Lang]] comes to see him.

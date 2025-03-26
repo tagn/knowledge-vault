@@ -14,7 +14,7 @@ tags:
 
 - [[Arken]] arrives in town and gets caught up on the situation with [[Sihrr]]. 
 - [[Sihrr]] and [[Arken Highbloom|Arken]] try to talk themselves into the [[Watchtower]].
-- [[Ansom Lang]] comes outside, the two of them argue with him and inform them that [[Wyldenten Proudsky|Will]] is imprisoned for murdering three hooded lanterns.
+- [[Ansom Lang]] comes outside, the two of them argue with him and inform them that [[Wyldenten Proudsky|Will]] is imprisoned for murdering three [[Hooded Lanterns]].
 - [[Arken Highbloom|Arken]] gives up his weapon, [[Sihrr]] gives over his staff and necklace/amulet? Perhaps that was his Holy Symbol
 - They follow [[Ansom Lang]] inside the watch tower. They are led up to the third floor. They have seen 4-5 times the amount of soldiers here 
 - They proceed into an empty room, with a window. It's a trap! They have a small chat while waiting.
@@ -24,11 +24,11 @@ tags:
 - They plead to try to save [[Wyldenten Proudsky|Will]] from being executed, then they show [[Petra Lang]] to them, who is now disfigured due to the bomb.
 - There is more back and forth trying to plead and figure out how to save [[Wyldenten Proudsky|Will]].
 - They convince [[Ansom Lang]] to let them them see [[Wyldenten Proudsky|Will]] one at a time.
-- [[Sihrr]] goes to talk to [[Wyldenten Proudsky|Will]]. [[Arken Highbloom|Arken]] goes and gives [[Wyldenten Proudsky|Will]] the pamplet for handling delerium for something to mull over.
+- [[Sihrr]] goes to talk to [[Wyldenten Proudsky|Will]]. [[Arken Highbloom|Arken]] goes and gives [[Wyldenten Proudsky|Will]] the pamplet for handling [[Delerium]] for something to mull over.
 - The group leaves to find [[Keth Darklighter|Keth]] and reconvene at the [[Bark & Buzzard]].
 - They decide to try to recruit the [[Queen's Men]] to go to war with the [[Hooded Lanterns]] to try to save [[Wyldenten Proudsky|Will]].
 - [[Keth Darklighter|Keth]] finds [[Blackjack Mel]] and attempts to convince him to help. He tells them that the [[Queen's Men]] don't have much to gain from a war with the [[Hooded Lanterns]].
-- After failing to get the [[Queen's Men]] to help, they try to go recruit [[River]] for help.
+- After failing to get the [[Queen's Men]] to help, they try to go recruit [[River (AA)]] for help.
 - The group continues to talk to every single fucking person in the town before they actually do anything.
 - Austin falls asleep waiting two hours for a decision to be made.
 - [[Arken Highbloom|Arken]] and [[Sihrr]] get into a wagon with [[Wyldenten Proudsky|Will]] chained up. 

@@ -2,7 +2,7 @@
 created: 2023-07-11
 name: "Rita"
 type: "npc"
-faction: "Queen's Men"
+faction: "[[Queen's Men]]"
 group: ""
 race: ""
 gender: ""

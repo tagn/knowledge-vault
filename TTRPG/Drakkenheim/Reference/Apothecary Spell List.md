@@ -213,7 +213,7 @@ A *lesser restoration* spell cast on a target ends this spell early for that cre
 **Components:** V, S, M (100 gp of alchemical fluids or holy water, which the spell consumes)
 **Duration:** Instantaneous
 
-You apply alchemical fluids or holy water to a contaminated humanoid creature while reciting an exacting magical chant which expels eldritch contaminants from its body. When you finish casting the spell, all contamination levels and mutations are removed from the creature. It then gains 1 level of exhaustion for each contamination level removed with this spell.
+You apply alchemical fluids or holy water to a contaminated humanoid creature while reciting an exacting magical chant which expels eldritch contaminants from its body. When you finish casting the spell, all [[Contamination]] levels and mutations are removed from the creature. It then gains 1 level of exhaustion for each [[Contamination]] level removed with this spell.
 
 ### Tranquilizing Toxin
 *3rd-level evocation*

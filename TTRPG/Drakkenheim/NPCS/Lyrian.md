@@ -3,7 +3,7 @@ created: 2023-07-11
 name: "Lyrian"
 type: "npc"
 faction: "Unaffiliated"
-group: "Gentlemen Bastards"
+group: "[[Gentlemen Bastards]]"
 race: ""
 gender: ""
 class: ""

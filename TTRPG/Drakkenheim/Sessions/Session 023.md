@@ -29,7 +29,7 @@ tags:
 - After combat, [[Keth Darklighter|Keth]] throws the gems at one of the final skeletons. 
 - Engraved on the door "None are forever lost to shadow, candlelight glows brightly in the darkest night"
 - "May the sacred flame keep vigil over the souls of our revered dead". The circular room has various murals on the walls.
-- The murals appear to depict the process to lay a cleric or paladin to rest. They prepare the body, place a gemstone on each eyelid, holy symbol in their hand. Priest anoints the body with holy water/sacred oils. Priest places candles around the body. Priest reads some scroll out to them.
+- The murals appear to depict the process to lay a cleric or paladin to rest. They prepare the body, place a gemstone on each eyelid, holy symbol in their hand. Priest anoints the body with holy water/sacred oils. Priest [[Places]] candles around the body. Priest reads some scroll out to them.
 - We find another burial chamber, with what appears to be some paladins/clerics that had been laid to rest. There is a helmet and a greatsword that appears to be etched and glowing.
 - "No darkness is eternal while our faith fuels the flame"
 - [[Wyldenten Proudsky|Wyl]] and [[Keth Darklighter|Keth]] head upstairs leaving [[Arken Highbloom|Arken]] and [[Sihrr]] inside of the second burial chamber to move the rod from the second contraption back to the first.

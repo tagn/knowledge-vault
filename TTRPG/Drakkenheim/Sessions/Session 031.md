@@ -34,10 +34,10 @@ tags:
 	- She asks if he is alive, he receives what is likely a "yes"
 	- She asks if he is present in the city of [[Drakkenheim]], he receives a "yes"
 	- She asks "is he himself", it spins a half turn clockwise, then breaks and falls into the water.
-- We don't have much time left in the haze. [[Lucritia]] departs the tent and we start to get a sense back of reality of the situation we're in.
+- We don't have much time left in the [[Haze]]. [[Lucritia]] departs the tent and we start to get a sense back of reality of the situation we're in.
 - We encounter some weird fish folk that rush at us singing on our way back to [[Emberwood Village]] after failing an encounter check.
 - We wipe the floor with the creatures.
-- We continue back to [[Emberwood Village]] to the [[Chapel of Saint Ardenna]] to see [[Flamekeeper Hannah]] about getting some contamination cured.
+- We continue back to [[Emberwood Village]] to the [[Chapel of Saint Ardenna]] to see [[Flamekeeper Hannah]] about getting some [[Contamination]] cured.
 - We discuss strategies for handling the dwarves. Likely we're going to be going with a sabotage style plan where we. 
 - We talk about what's up with the [[Church of the Falling Fire]] for a bit, and how we don't typically see people returning from the pilgrimage.
 - [[Milando]] is in our house when we arrive, he made us pancakes and left us a housewarming plant.

@@ -1,10 +1,10 @@
 ---
 type: location
 created: 2023-07-11
-campaign: Drakkenheim
+campaign: [[Drakkenheim]]
 name: Shrine of the Old Gods
 container: false
-within: Drakkenheim Wilds
+within: [[Drakkenheim]] Wilds
 ---
 
 ## Description

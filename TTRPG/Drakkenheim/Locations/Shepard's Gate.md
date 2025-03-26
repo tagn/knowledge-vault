@@ -1,10 +1,10 @@
 ---
 type: location
 created: 2023-07-11
-campaign: Drakkenheim
+campaign: [[Drakkenheim]]
 name: Shepard's Gate
 container: false
-within: Drakkenheim
+within: [[Drakkenheim]]
 ---
 
 ## Description
