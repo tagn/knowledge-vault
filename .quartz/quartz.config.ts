@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "notes.mistveil.net",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["Personal Misc", "private", "templates", "Templates", "scripts", "Scripts", ".obsidian", ".woodpecker", ".quartz"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
