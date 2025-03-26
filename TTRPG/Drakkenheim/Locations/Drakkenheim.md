@@ -17,11 +17,4 @@ within: None
 - [[Black Ivory Inn]]
 - [[Buckle Down Row]]
 - [[Castle Drakken]]
-- [[Klineburg Estate]]
-- [[Market Square Plaza]]
-- [[Reed Manor]]
-- [[Shepard's Gate]]
-- [[The Scar]]
-- [[The Spokes]]
-- [[The Sprawl]]
 <!-- SerializedQuery END -->

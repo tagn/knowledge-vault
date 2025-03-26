@@ -6,7 +6,7 @@ created: 2023-02-16
 campaign: [[Drakkenheim]]
 name: Emberwood Village
 container: true
-within: [[Drakkenheim]] Wilds
+within: [[Drakkenheim Wilds]]
 ---
 
 ## Description
@@ -21,14 +21,6 @@ Most of the people here are trying to make ends meet, with some adventurers pass
 <!-- QueryToSerialize: LIST FROM "TTRPG/Drakkenheim/Locations" WHERE within = "Emberwood Village" -->
 <!-- SerializedQuery: LIST FROM "TTRPG/Drakkenheim/Locations" WHERE within = "Emberwood Village" -->
 - [[Bark & Buzzard]]
-- [[Caravan Park]]
-- [[Chapel of Saint Ardenna]]
-- [[Crow and Sons Smithy]]
-- [[Eventide Manor]]
-- [[Gilded Lily]]
-- [[Red Lion Hotel]]
-- [[Skull & Sword]]
-- [[Watchtower]]
 <!-- SerializedQuery END -->
 
 ## Notable Areas

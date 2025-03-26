@@ -4,7 +4,7 @@ created: 2023-07-11
 campaign: [[Drakkenheim]]
 name: Shrine of the Old Gods
 container: false
-within: [[Drakkenheim]] Wilds
+within: [[Drakkenheim]]
 ---
 
 ## Description

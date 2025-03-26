@@ -4,7 +4,7 @@ created: 2023-07-11
 campaign: [[Drakkenheim]]
 name: Skull & Sword
 container: false
-within: [[Emberwood Village]] Village
+within: [[Emberwood Village]]
 ---
 
 ## Description
