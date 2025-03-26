@@ -14,7 +14,7 @@ RUN apt update && apt install -y rsync && \
 COPY ./ ${BUILD_WORKDIR}/${QUARTZ_DIR_NAME}/content/
 
 RUN cd ${BUILD_WORKDIR}/${QUARTZ_DIR_NAME} && \
-    rsync -av ${BUILD_WORKDIR}/${QUARTZ_DIR_NAME}/content/ ${BUILD_WORKDIR}/${QUARTZ_DIR_NAME} && \
+    rsync -av ${BUILD_WORKDIR}/${QUARTZ_DIR_NAME}/content/.quartz/ ${BUILD_WORKDIR}/${QUARTZ_DIR_NAME} && \
     npx quartz build
 
 FROM nginx:latest AS production

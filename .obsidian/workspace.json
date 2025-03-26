@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Drakkenheim/Factions/Amethyst Academy.md",
+                "file": "TTRPG/Drakkenheim/NPCS/Milando.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Amethyst Academy"
+              "title": "Milando"
             }
           }
         ]
@@ -229,8 +229,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2ed483abcf08cad",
+  "active": "fcabcd48cba7e673",
   "lastOpenFiles": [
+    "TTRPG/Drakkenheim/NPCS/Armin Gainsbury.md",
+    "TTRPG/Drakkenheim/NPCS/Gertrude Ironhelm.md",
+    "TTRPG/Drakkenheim/NPCS/Grummish.md",
+    "TTRPG/Drakkenheim/NPCS/Grunt.md",
+    "TTRPG/Drakkenheim/NPCS/Keith.md",
+    "TTRPG/Drakkenheim/NPCS/Eren Marlow.md",
+    "TTRPG/Drakkenheim/NPCS/Flamekeeper Hannah.md",
+    "TTRPG/Drakkenheim/NPCS/Archmage Adriana Modiera.md",
+    "TTRPG/Drakkenheim/NPCS/Baskerville.md",
+    "TTRPG/Drakkenheim/NPCS/Ansom Lang.md",
+    "TTRPG/Drakkenheim/NPCS/Aldor the Immense.md",
+    "TTRPG/Drakkenheim/NPCS/Elias Drexxel.md",
+    "TTRPG/Drakkenheim/Factions/Amethyst Academy.md",
     "TTRPG/Drakkenheim/Factions/Queen's Men.md",
     "TTRPG/Drakkenheim/Factions/Knights of the Silver Order.md",
     "TTRPG/Drakkenheim/Factions/Hooded Lanterns.md",
@@ -246,25 +259,12 @@
     "TTRPG/Tales from the Yawning Portal/Sessions/Session 002.md",
     "templates/Character.md",
     "TTRPG",
-    "templates/DynamicTemplate.md",
-    "templates/UpdateField.md",
-    "templates/Session.md",
-    "templates/NPC.md",
-    "templates/Quest.md",
-    "templates/Faction.md",
     "Scripts/getThisSessionNum.js",
     "Scripts/getThisCampaignName.js",
     "Scripts/getThisCampaignLocations.js",
     "Scripts/getThisCampaignFactions.js",
     "Scripts/getThisCampaignDir.js",
     "Scripts",
-    "TTRPG/Drakkenheim/Sessions/Untitled.md",
-    "TTRPG/Drakkenheim/World.md",
-    "TTRPG/Drakkenheim/Rumors.md",
-    "TTRPG/Drakkenheim/Quests.md",
-    "TTRPG/Drakkenheim/Sessions/Session 002.md",
-    "TTRPG/Drakkenheim/Quests/This Helm Is My Ironhelm.md",
-    "TTRPG/Drakkenheim/Quests/The Queen's Lillies.md",
     "rewrite.py",
     "Dockerfile",
     "Images/Pasted image 20240425201415.png",
