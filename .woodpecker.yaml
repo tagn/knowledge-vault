@@ -5,9 +5,10 @@ when:
 steps:
   - name: build
     image: woodpeckerci/plugin-kaniko
-    registry: cr.mistveil.net
-    repo: cr.mistveil.net/vault-site
-    username:
-      from_secret: DOCKER_REGISTRY_USERNAME
-    password:
-      from_secret: DOCKER_REGISTRY_PASSWORD
+    settings:
+      registry: cr.mistveil.net
+      repo: cr.mistveil.net/vault-site
+      username:
+        from_secret: DOCKER_REGISTRY_USERNAME
+      password:
+        from_secret: DOCKER_REGISTRY_PASSWORD
