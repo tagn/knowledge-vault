@@ -12,3 +12,18 @@ steps:
         from_secret: DOCKER_REGISTRY_USERNAME
       password:
         from_secret: DOCKER_REGISTRY_PASSWORD
+  - name: deploy
+    image: euryecetelecom/woodpeckerci-kubernetes
+    settings:
+      kubernetes_server:
+        from_secret: KUBERNETES_SERVER
+      kubernetes_token:
+        from_secret: KUBERNETES_TOKEN
+      kubernetes_cert:
+        from_secret: KUBERNETES_CERT
+      namespace: vault-notes
+      deployment: vault-notes-deployment
+      repo: cr.mistveil.net/vault-site
+      container: vault-notes
+      tag: latest
+      force: true
