@@ -18,6 +18,15 @@ tags:
 
 #### Session Appearances
 <!-- QueryToSerialize: LIST FROM [[Blackjack Mel]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+<!-- SerializedQuery: LIST FROM [[Blackjack Mel]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+- [[DND - Drakkenheim/Sessions/Session 004.md|Session 004]]
+- [[DND - Drakkenheim/Sessions/Session 008.md|Session 008]]
+- [[Session 012]]
+- [[Session 017]]
+- [[Session 025]]
+- [[Session 028]]
+- [[Session 029]]
+<!-- SerializedQuery END -->
 
 
 

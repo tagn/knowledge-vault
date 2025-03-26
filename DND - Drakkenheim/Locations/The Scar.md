@@ -15,3 +15,6 @@ Area about 10 feet deep, rich in [[Delerium]].
 ## Sub Areas/Locations
 
 <!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "The Scar" -->
+<!-- SerializedQuery: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "The Scar" -->
+- [[The Smithy]]
+<!-- SerializedQuery END -->

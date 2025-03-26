@@ -21,6 +21,11 @@ tags:
 
 #### Session Appearances
 <!-- QueryToSerialize: LIST FROM [[Gertrude Ironhelm]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+<!-- SerializedQuery: LIST FROM [[Gertrude Ironhelm]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+- [[Session 017]]
+- [[Session 019]]
+- [[Session 020]]
+<!-- SerializedQuery END -->
 
 
 

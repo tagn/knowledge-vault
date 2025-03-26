@@ -18,6 +18,9 @@ tags:
 
 #### Session Appearances
 <!-- QueryToSerialize: LIST FROM [[Rain Highlash]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+<!-- SerializedQuery: LIST FROM [[Rain Highlash]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+- [[DND - Drakkenheim/Sessions/Session 002.md|Session 002]]
+<!-- SerializedQuery END -->
 
 
 

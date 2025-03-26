@@ -25,6 +25,9 @@ First member of the Ironhelm's that we met. She appears to possess healing magic
 
 #### Session Appearances
 <!-- QueryToSerialize: LIST FROM [[Eloise Ironhelm]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+<!-- SerializedQuery: LIST FROM [[Eloise Ironhelm]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+- [[Session 019]]
+<!-- SerializedQuery END -->
 
 
 

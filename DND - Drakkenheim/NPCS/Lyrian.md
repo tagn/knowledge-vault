@@ -18,6 +18,12 @@ tags:
 
 #### Session Appearances
 <!-- QueryToSerialize: LIST FROM [[Lyrian]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+<!-- SerializedQuery: LIST FROM [[Lyrian]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+- [[DND - Drakkenheim/Sessions/Session 001.md|Session 001]]
+- [[DND - Drakkenheim/Sessions/Session 004.md|Session 004]]
+- [[Session 013]]
+- [[Session 017]]
+<!-- SerializedQuery END -->
 
 
 

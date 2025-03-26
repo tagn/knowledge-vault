@@ -18,6 +18,9 @@ tags:
 
 #### Session Appearances
 <!-- QueryToSerialize: LIST FROM [[Baskerville]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+<!-- SerializedQuery: LIST FROM [[Baskerville]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+- [[DND - Drakkenheim/Sessions/Session 008.md|Session 008]]
+<!-- SerializedQuery END -->
 
 
 

@@ -19,6 +19,10 @@ Temporary songbird friend of [[Wyldenten Proudsky]]
 
 #### Session Appearances
 <!-- QueryToSerialize: LIST FROM [[Lily]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+<!-- SerializedQuery: LIST FROM [[Lily]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+- [[Session 009]]
+- [[Session 011]]
+<!-- SerializedQuery END -->
 
 
 

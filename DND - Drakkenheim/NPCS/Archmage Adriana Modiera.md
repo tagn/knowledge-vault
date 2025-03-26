@@ -23,6 +23,9 @@ This was the previous leader of the [[Amethyst Academy]], before the meteor fell
 
 #### Session Appearances
 <!-- QueryToSerialize: LIST FROM [[Archmage Adriana Modiera]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+<!-- SerializedQuery: LIST FROM [[Archmage Adriana Modiera]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+- [[Session 028]]
+<!-- SerializedQuery END -->
 
 
 

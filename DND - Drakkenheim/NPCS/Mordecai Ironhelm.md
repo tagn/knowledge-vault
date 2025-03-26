@@ -21,6 +21,9 @@ tags:
 
 #### Session Appearances
 <!-- QueryToSerialize: LIST FROM [[Mordecai Ironhelm]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+<!-- SerializedQuery: LIST FROM [[Mordecai Ironhelm]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+- [[Session 019]]
+<!-- SerializedQuery END -->
 
 
 

@@ -13,3 +13,15 @@ within: None
 ## Sub Areas/Locations
 
 <!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "Drakkenheim" -->
+<!-- SerializedQuery: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "Drakkenheim" -->
+- [[Black Ivory Inn]]
+- [[Buckle Down Row]]
+- [[Castle Drakken]]
+- [[Klineburg Estate]]
+- [[Market Square Plaza]]
+- [[Reed Manor]]
+- [[Shepard's Gate]]
+- [[The Scar]]
+- [[The Spokes]]
+- [[The Sprawl]]
+<!-- SerializedQuery END -->

@@ -19,6 +19,9 @@ We killed his lover in session 1. He ran away. Likely the big bad of the campaig
 
 #### Session Appearances
 <!-- QueryToSerialize: LIST FROM [[Keith]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+<!-- SerializedQuery: LIST FROM [[Keith]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+- [[DND - Drakkenheim/Sessions/Session 001.md|Session 001]]
+<!-- SerializedQuery END -->
 
 
 

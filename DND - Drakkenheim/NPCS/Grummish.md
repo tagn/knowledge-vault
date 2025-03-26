@@ -20,6 +20,10 @@ tags:
 
 #### Session Appearances
 <!-- QueryToSerialize: LIST FROM [[Grummish]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+<!-- SerializedQuery: LIST FROM [[Grummish]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+- [[DND - Drakkenheim/Sessions/Session 001.md|Session 001]]
+- [[DND - Drakkenheim/Sessions/Session 005.md|Session 005]]
+<!-- SerializedQuery END -->
 
 
 

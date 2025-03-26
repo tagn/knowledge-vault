@@ -18,6 +18,9 @@ tags:
 
 #### Session Appearances
 <!-- QueryToSerialize: LIST FROM [[Ophelia Reed]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+<!-- SerializedQuery: LIST FROM [[Ophelia Reed]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+- [[DND - Drakkenheim/Sessions/Session 007.md|Session 007]]
+<!-- SerializedQuery END -->
 
 
 

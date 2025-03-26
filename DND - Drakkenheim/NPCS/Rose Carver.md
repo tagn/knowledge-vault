@@ -19,6 +19,15 @@ Keth's boss.
 
 #### Session Appearances
 <!-- QueryToSerialize: LIST FROM [[Rose Carver]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+<!-- SerializedQuery: LIST FROM [[Rose Carver]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+- [[DND - Drakkenheim/Sessions/Session 008.md|Session 008]]
+- [[Session 009]]
+- [[Session 010]]
+- [[Session 017]]
+- [[Session 028]]
+- [[Session 029]]
+- [[Session 045]]
+<!-- SerializedQuery END -->
 
 
 

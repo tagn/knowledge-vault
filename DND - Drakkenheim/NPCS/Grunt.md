@@ -23,6 +23,10 @@ A large, colossal haze hulk looking fella. He seems sentient and is capable of s
 
 #### Session Appearances
 <!-- QueryToSerialize: LIST FROM [[Grunt]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+<!-- SerializedQuery: LIST FROM [[Grunt]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+- [[Session 043]]
+- [[Session 047]]
+<!-- SerializedQuery END -->
 
 
 

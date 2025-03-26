@@ -19,6 +19,17 @@ Most of the people here are trying to make ends meet, with some adventurers pass
 ## Sub Areas/Locations
 
 <!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "Emberwood Village" -->
+<!-- SerializedQuery: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "Emberwood Village" -->
+- [[Bark & Buzzard]]
+- [[Caravan Park]]
+- [[Chapel of Saint Ardenna]]
+- [[Crow and Sons Smithy]]
+- [[Eventide Manor]]
+- [[Gilded Lily]]
+- [[Red Lion Hotel]]
+- [[Skull & Sword]]
+- [[Watchtower]]
+<!-- SerializedQuery END -->
 
 ## Notable Areas
 

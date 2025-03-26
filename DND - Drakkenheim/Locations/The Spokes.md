@@ -13,4 +13,7 @@ within: Drakkenheim
 ## Sub Areas/Locations
 
 <!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "The Spokes" -->
+<!-- SerializedQuery: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "The Spokes" -->
+- [[Scrag Lane]]
+<!-- SerializedQuery END -->
 

@@ -18,6 +18,12 @@ tags:
 
 #### Session Appearances
 <!-- QueryToSerialize: LIST FROM [[Emma]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+<!-- SerializedQuery: LIST FROM [[Emma]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+- [[DND - Drakkenheim/Sessions/Session 001.md|Session 001]]
+- [[DND - Drakkenheim/Sessions/Session 002.md|Session 002]]
+- [[DND - Drakkenheim/Sessions/Session 008.md|Session 008]]
+- [[Session 027]]
+<!-- SerializedQuery END -->
 
 
 

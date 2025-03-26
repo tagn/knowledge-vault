@@ -18,6 +18,10 @@ tags:
 
 #### Session Appearances
 <!-- QueryToSerialize: LIST FROM [[Elias Drexxel]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+<!-- SerializedQuery: LIST FROM [[Elias Drexxel]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+- [[DND - Drakkenheim/Sessions/Session 002.md|Session 002]]
+- [[Session 046]]
+<!-- SerializedQuery END -->
 
 
 

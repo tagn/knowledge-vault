@@ -13,3 +13,8 @@ within: None
 ## Sub Areas/Locations
 
 <!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "Drakkenheim Wilds" -->
+<!-- SerializedQuery: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "Drakkenheim Wilds" -->
+- [[Emberwood Village]]
+- [[Hendricks Farm]]
+- [[Shrine of the Old Gods]]
+<!-- SerializedQuery END -->

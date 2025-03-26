@@ -18,6 +18,18 @@ tags:
 
 #### Session Appearances
 <!-- QueryToSerialize: LIST FROM [[Aldor the Immense]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+<!-- SerializedQuery: LIST FROM [[Aldor the Immense]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+- [[DND - Drakkenheim/Sessions/Session 001.md|Session 001]]
+- [[DND - Drakkenheim/Sessions/Session 002.md|Session 002]]
+- [[DND - Drakkenheim/Sessions/Session 005.md|Session 005]]
+- [[Session 009]]
+- [[Session 011]]
+- [[Session 013]]
+- [[Session 018]]
+- [[Session 022]]
+- [[Session 027]]
+- [[Session 030]]
+<!-- SerializedQuery END -->
 
 
 

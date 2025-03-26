@@ -21,6 +21,14 @@ tags:
 
 #### Session Appearances
 <!-- QueryToSerialize: LIST FROM [[Milando]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+<!-- SerializedQuery: LIST FROM [[Milando]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
+- [[Session 027]]
+- [[Session 031]]
+- [[Session 032]]
+- [[Session 047]]
+- [[Session 055]]
+- [[Session 057]]
+<!-- SerializedQuery END -->
 
 
 
