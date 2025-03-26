@@ -14,14 +14,10 @@ tags:
 
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Ansom Lang]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Ansom Lang]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Ansom Lang]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Ansom Lang]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

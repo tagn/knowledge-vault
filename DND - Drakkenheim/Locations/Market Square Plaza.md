@@ -13,8 +13,4 @@ within: Drakkenheim
 
 ## Sub Areas/Locations
 
-```dataview
-LIST
-FROM "DND - Drakkenheim/Locations"
-WHERE within = "Market Square Plaza"
-```
+<!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "Market Square Plaza" -->

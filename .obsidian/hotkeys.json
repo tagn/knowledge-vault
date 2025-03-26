@@ -3,9 +3,10 @@
   "dataview-serializer:serialize-all-dataview-queries": [
     {
       "modifiers": [
+        "Alt",
         "Mod"
       ],
-      "key": "U"
+      "key": "S"
     }
   ]
 }

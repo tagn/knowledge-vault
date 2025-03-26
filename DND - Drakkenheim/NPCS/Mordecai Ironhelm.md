@@ -17,14 +17,10 @@ tags:
 ## Description
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Mordecai Ironhelm]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Mordecai Ironhelm]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Mordecai Ironhelm]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Mordecai Ironhelm]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

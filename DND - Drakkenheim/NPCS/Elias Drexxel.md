@@ -14,14 +14,10 @@ tags:
 
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Elias Drexxel]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Elias Drexxel]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Elias Drexxel]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Elias Drexxel]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

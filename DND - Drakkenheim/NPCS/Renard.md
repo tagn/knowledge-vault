@@ -14,14 +14,10 @@ tags:
 
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Renard]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Renard]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Renard]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Renard]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

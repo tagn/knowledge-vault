@@ -12,8 +12,4 @@ within: Drakkenheim
 
 ## Sub Areas/Locations
 
-```dataview
-LIST
-FROM "DND - Drakkenheim/Locations"
-WHERE within = "Shepard's Gate"
-```
+<!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "Shepard's Gate" -->

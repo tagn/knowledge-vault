@@ -14,14 +14,10 @@ tags:
 
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Orson Fairweather]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Orson Fairweather]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Orson Fairweather]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Orson Fairweather]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

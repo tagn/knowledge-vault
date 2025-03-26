@@ -12,9 +12,4 @@ within: Drakkenheim
 
 ## Sub Areas/Locations
 
-```dataview
-LIST
-FROM "DND - Drakkenheim/Locations"
-WHERE within = "Castle Drakken"
-```
-
+<!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "Castle Drakken" -->

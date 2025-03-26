@@ -20,14 +20,10 @@ tags:
 Turns out this is the grandfather of [[Sihrr]], whom used to be known as [[Pale Man|Justin Tousant]].
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Pale Man]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Pale Man]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Pale Man]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Pale Man]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

@@ -15,14 +15,10 @@ tags:
 Leader of the [[Church of the Falling Fire]]
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Lucritia]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Lucritia]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Lucritia]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Lucritia]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

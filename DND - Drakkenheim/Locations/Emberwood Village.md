@@ -18,11 +18,7 @@ Most of the people here are trying to make ends meet, with some adventurers pass
 
 ## Sub Areas/Locations
 
-```dataview
-LIST
-FROM "DND - Drakkenheim/Locations"
-WHERE within = "Emberwood Village"
-```
+<!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "Emberwood Village" -->
 
 ## Notable Areas
 

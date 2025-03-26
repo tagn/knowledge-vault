@@ -12,9 +12,5 @@ within: The Sprawl
 
 ## Sub Areas/Locations
 
-```dataview
-LIST
-FROM "DND - Drakkenheim/Locations"
-WHERE within = "Shepard's Way"
-```
+<!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "Shepard's Way" -->
 

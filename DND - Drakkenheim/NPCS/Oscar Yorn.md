@@ -14,14 +14,10 @@ tags:
 
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Oscar Yorn]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Oscar Yorn]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Oscar Yorn]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Oscar Yorn]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

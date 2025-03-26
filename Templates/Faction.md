@@ -23,10 +23,6 @@ name: <%* tR += faction_name %>
 
 ## Associated NPCS
 
-```dataview
-LIST
-FROM "<%* tR += campaign_dir %>/NPCS"
-WHERE faction = "<%* tR += faction_name %>"
-```
+<!-- QueryToSerialize: LIST FROM "<%* tR += campaign_dir %>/NPCS" WHERE faction = "<%* tR += faction_name %>" -->
 
 ## Notes

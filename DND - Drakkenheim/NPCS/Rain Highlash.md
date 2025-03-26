@@ -14,14 +14,10 @@ tags:
 
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Rain Highlash]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Rain Highlash]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Rain Highlash]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Rain Highlash]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

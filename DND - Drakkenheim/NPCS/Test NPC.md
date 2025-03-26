@@ -17,14 +17,10 @@ tags:
 ## Description
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Test NPC]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Test NPC]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Test NPC]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Test NPC]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

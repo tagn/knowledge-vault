@@ -19,14 +19,10 @@ tags:
 This was the previous leader of the [[Amethyst Academy]], before the meteor fell on [[Drakkenheim]].
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Archmage Adriana Modiera]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Archmage Adriana Modiera]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Archmage Adriana Modiera]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Archmage Adriana Modiera]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

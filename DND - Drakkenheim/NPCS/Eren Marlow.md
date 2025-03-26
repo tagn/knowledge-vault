@@ -14,14 +14,10 @@ tags:
 
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Eren Marlow]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Eren Marlow]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Eren Marlow]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Eren Marlow]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

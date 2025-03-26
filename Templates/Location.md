@@ -27,8 +27,4 @@ within: <%* tR += location_within %>
 
 ## Sub Areas/Locations
 
-```dataview
-LIST
-FROM "<%* tR += campaign_dir %>/Locations"
-WHERE within = "<%* tR += location_name %>"
-```
+<!-- QueryToSerialize: LIST FROM "<%* tR += campaign_dir %>/Locations" WHERE within = "<%* tR += location_name %>" -->

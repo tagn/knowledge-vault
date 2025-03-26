@@ -14,14 +14,10 @@ tags:
 
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Old Zoya]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Old Zoya]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Old Zoya]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Old Zoya]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

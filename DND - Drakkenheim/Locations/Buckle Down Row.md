@@ -13,9 +13,4 @@ Area to the east of the crater, on the north side of the Spokes. It is home to t
 
 ## Sub Areas/Locations
 
-```dataview
-LIST
-FROM "DND - Drakkenheim/Locations"
-WHERE within = "Buckle Down Row"
-```
-
+<!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "Buckle Down Row" -->

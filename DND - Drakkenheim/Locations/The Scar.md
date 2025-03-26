@@ -14,8 +14,4 @@ Area about 10 feet deep, rich in [[Delerium]].
 
 ## Sub Areas/Locations
 
-```dataview
-LIST
-FROM "DND - Drakkenheim/Locations"
-WHERE within = "The Scar"
-```
+<!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "The Scar" -->

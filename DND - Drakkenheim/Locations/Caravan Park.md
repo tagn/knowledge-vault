@@ -12,9 +12,4 @@ within: Emberwood Village
 
 ## Sub Areas/Locations
 
-```dataview
-LIST
-FROM "DND - Drakkenheim/Locations"
-WHERE within = "Caravan Park"
-```
-
+<!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "Caravan Park" -->

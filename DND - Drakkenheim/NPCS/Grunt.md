@@ -19,14 +19,10 @@ tags:
 A large, colossal haze hulk looking fella. He seems sentient and is capable of speech. Highly intelligent, loves reading picture books to haze dregs because they are dumb.
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Grunt]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Grunt]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Grunt]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Grunt]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

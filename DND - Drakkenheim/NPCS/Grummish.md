@@ -16,14 +16,10 @@ tags:
 ## Description
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Grummish]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Grummish]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Grummish]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Grummish]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

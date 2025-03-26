@@ -14,14 +14,10 @@ tags:
 
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Aldor the Immense]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Aldor the Immense]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Aldor the Immense]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Aldor the Immense]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

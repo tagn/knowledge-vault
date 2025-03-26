@@ -17,14 +17,10 @@ tags:
 ## Description
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Milando]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Milando]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Milando]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Milando]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

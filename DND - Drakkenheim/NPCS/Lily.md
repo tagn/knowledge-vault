@@ -15,14 +15,10 @@ tags:
 Temporary songbird friend of [[Wyldenten Proudsky]]
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Lily]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Lily]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Lily]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Lily]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

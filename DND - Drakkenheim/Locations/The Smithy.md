@@ -28,8 +28,4 @@ There is a roof covering the office, the gap between the furnace and office, and
 
 ## Sub Areas/Locations
 
-```dataview
-LIST
-FROM "DND - Drakkenheim/Locations"
-WHERE within = "The Smithy"
-```
+<!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "The Smithy" -->

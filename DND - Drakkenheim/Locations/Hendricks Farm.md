@@ -12,9 +12,5 @@ within: Drakkenheim Wilds
 
 ## Sub Areas/Locations
 
-```dataview
-LIST
-FROM "DND - Drakkenheim/Locations"
-WHERE within = "Hendricks Farm"
-```
+<!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "Hendricks Farm" -->
 

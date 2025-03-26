@@ -15,11 +15,7 @@
 
 ## Major Locations
 
-```dataview
-LIST
-FROM "DND - Drakkenheim/Locations"
-WHERE within = "None"
-```
+<!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "None" -->
 
 ## Rumors
 
@@ -28,9 +24,5 @@ WHERE within = "None"
 - I heard there are delerium crystals the size of a horse within the crater. Imagine how much they'd be worth!
 
 ## Sessions
-```dataview
-LIST
-FROM "DND - Drakkenheim/Sessions"
-SORT file.name ASC
-```
+<!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/Sessions" SORT file.name ASC -->
 `button-add-session`

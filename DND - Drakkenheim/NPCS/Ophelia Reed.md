@@ -14,14 +14,10 @@ tags:
 
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Ophelia Reed]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Ophelia Reed]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Ophelia Reed]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Ophelia Reed]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

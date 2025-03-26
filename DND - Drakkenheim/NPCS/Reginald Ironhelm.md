@@ -17,14 +17,10 @@ tags:
 ## Description
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Reginald Ironhelm]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Reginald Ironhelm]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Reginald Ironhelm]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Reginald Ironhelm]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

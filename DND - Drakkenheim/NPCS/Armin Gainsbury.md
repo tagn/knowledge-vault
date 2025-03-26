@@ -14,14 +14,10 @@ tags:
 
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Armin Gainsbury]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Armin Gainsbury]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Armin Gainsbury]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Armin Gainsbury]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

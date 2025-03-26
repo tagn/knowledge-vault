@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "94c7b37b911e283b",
+        "id": "60f3aeff2aa98ff2",
         "type": "tabs",
         "children": [
           {
-            "id": "c2b3a27587810680",
+            "id": "fcabcd48cba7e673",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/Factions/Ironhelm.md",
+                "file": "DND - Drakkenheim/Locations/Bark & Buzzard.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ironhelm"
+              "title": "Bark & Buzzard"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/Factions/Ironhelm.md",
+                "file": "DND - Drakkenheim/Locations/Bark & Buzzard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ironhelm"
+              "title": "Backlinks for Bark & Buzzard"
             }
           },
           {
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Drakkenheim/Factions/Ironhelm.md",
+                "file": "DND - Drakkenheim/Locations/Bark & Buzzard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ironhelm"
+              "title": "Outline of Bark & Buzzard"
             }
           },
           {
@@ -229,33 +229,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2ed483abcf08cad",
+  "active": "fcabcd48cba7e673",
   "lastOpenFiles": [
+    "DND - Drakkenheim/Locations/Black Ivory Inn.md",
+    "DND - Drakkenheim/Locations/Bark & Buzzard.md",
+    "DND - Drakkenheim/Locations/Buckle Down Row.md",
     "DND - Drakkenheim/Factions/Queen's Men.md",
     "DND - Drakkenheim/Factions/Knights of the Silver Order.md",
+    "DND - Drakkenheim/Factions/Ironhelm.md",
     "DND - Drakkenheim/Factions/Hooded Lanterns.md",
     "DND - Drakkenheim/Factions/Church of the Falling Fire.md",
     "DND - Drakkenheim/Factions/Amethyst Academy.md",
-    "DND - Drakkenheim/Factions/Groups/Keth's Krew.md",
-    "DND - Drakkenheim/Factions/Groups/Howling Dogs.md",
-    "DND - Drakkenheim/Factions/Groups/Gentlemen Bastards.md",
-    "DND - Drakkenheim/Factions/Groups/Fourth Provisional Expeditionary Force.md",
-    "DND - Drakkenheim/Factions/Groups/Favored Few.md",
-    "DND - Drakkenheim/Factions/Ironhelm.md",
-    "DND - Drakkenheim/NPCS/Test NPC.md",
-    "DND - Drakkenheim/NPCS/Mordecai Ironhelm.md",
-    "DND - Drakkenheim/NPCS/Ophelia Reed.md",
-    "DND - Drakkenheim/NPCS/Archmage Adriana Modiera.md",
-    "DND - Drakkenheim/NPCS/Armin Gainsbury.md",
-    "DND - Drakkenheim/NPCS/Ansom Lang.md",
-    "DND - Drakkenheim/NPCS/Aldor the Immense.md",
-    "DND - Drakkenheim/NPCS/Rose Carver.md",
-    "DND - Drakkenheim/NPCS/Rita.md",
-    "DND - Drakkenheim/NPCS/River.md",
-    "DND - Drakkenheim/NPCS/Renard.md",
-    "DND - Drakkenheim/NPCS/Grunt.md",
-    "DND - Drakkenheim/NPCS/Flamekeeper Hannah.md",
-    "DND - Drakkenheim/NPCS/Baskerville.md",
+    "Templates/Location.md",
+    "Templates/Quest.md",
+    "Templates/UpdateField.md",
+    "Templates/Session.md",
+    "Templates/NPC.md",
+    "Templates/Faction.md",
+    "Templates/DynamicTemplate.md",
+    "Templates/Character.md",
+    "DND - Drakkenheim/Locations/Castle Drakken.md",
+    "DND - Drakkenheim/Locations/Caravan Park.md",
+    "rewrite.py",
+    "DND - Drakkenheim/Creatures/Giant Clockwork Spider.md",
+    "DND - Drakkenheim/Creatures/Haze Hulk.md",
+    "DND - Drakkenheim/Characters/Silas.md",
+    "DND - Drakkenheim/Characters/Sihrr.md",
+    "DND - Drakkenheim/Characters/Seven.md",
+    "DND - Drakkenheim/Characters/Keth Darklighter.md",
     "DND - Drakkenheim/Characters/Arken Highbloom.md",
     "Dockerfile",
     "Factions",
@@ -268,7 +269,6 @@
     "DND - Sam/Sessions",
     "DND - Sam",
     "Pasted image 20240425201415.png",
-    "Kiddo One Shots/The Lost Fairy Crown",
     "Images/quaggoth.png",
     "Images/npc_ilvara.png",
     "Images/npc_shuushar.png",

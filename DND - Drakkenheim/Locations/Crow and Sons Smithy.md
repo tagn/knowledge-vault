@@ -12,9 +12,5 @@ within: Emberwood Village
 
 ## Sub Areas/Locations
 
-```dataview
-LIST
-FROM "DND - Drakkenheim/Locations"
-WHERE within = "Crow and Sons Smithy"
-```
+<!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/Locations" WHERE within = "Crow and Sons Smithy" -->
 

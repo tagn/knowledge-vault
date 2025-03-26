@@ -30,14 +30,10 @@ tags:
 ## Description
 
 ## Quests
-```dataview
-TASK FROM "<%* tR += campaign_dir %>/Quests" WHERE !completed AND contains(outlinks, [[<%* tR += npc_name %>]]) 
-```
+<!-- QueryToSerialize: TASK FROM "<%* tR += campaign_dir %>/Quests" WHERE !completed AND contains(outlinks, [[<%* tR += npc_name %>]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[<%* tR += npc_name %>]] WHERE file.folder = "<%* tR += campaign_dir %>/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[<%* tR += npc_name %>]] WHERE file.folder = "<%* tR += campaign_dir %>/Sessions" -->
 
 
 

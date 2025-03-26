@@ -14,14 +14,10 @@ tags:
 
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Baskerville]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Baskerville]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Baskerville]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Baskerville]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

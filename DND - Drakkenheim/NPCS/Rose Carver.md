@@ -15,14 +15,10 @@ tags:
 Keth's boss. 
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Rose Carver]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Rose Carver]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Rose Carver]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Rose Carver]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 

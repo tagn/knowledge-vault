@@ -21,14 +21,10 @@ First member of the Ironhelm's that we met. She appears to possess healing magic
 
 
 ## Quests
-```dataview
-TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Eloise Ironhelm]]) 
-```
+<!-- QueryToSerialize: TASK FROM "DND - Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Eloise Ironhelm]]) -->
 
 #### Session Appearances
-```dataview
-LIST FROM [[Eloise Ironhelm]] WHERE file.folder = "DND - Drakkenheim/Sessions"
-```
+<!-- QueryToSerialize: LIST FROM [[Eloise Ironhelm]] WHERE file.folder = "DND - Drakkenheim/Sessions" -->
 
 
 
