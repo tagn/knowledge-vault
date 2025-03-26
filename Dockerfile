@@ -1,7 +1,6 @@
-FROM node:20 as build
+FROM node:20 AS build
 
 ARG QUARTZ_REPOSITORY_URL="https://github.com/jackyzha0/quartz.git"
-ARG QUARTZ_TAG="v4.5.0"
 ARG QUARTZ_DIR_NAME="quartz"
 ARG BUILD_WORKDIR="/workdir"
 
@@ -9,12 +8,13 @@ WORKDIR ${BUILD_WORKDIR}
 
 RUN apt update && apt install -y rsync && \
     git clone ${QUARTZ_REPOSITORY_URL} ${QUARTZ_DIR_NAME} && \
-    git checkout tags/${QUARTZ_TAG} && \
+    cd ${QUARTZ_DIR_NAME} && \
     npm ci
 
 COPY ./ ${BUILD_WORKDIR}/${QUARTZ_DIR_NAME}/content/
 
-RUN npx quartz build
+RUN cd ${BUILD_WORKDIR}/${QUARTZ_DIR_NAME} && \
+    npx quartz build
 
 FROM nginx:latest AS production
 ARG BUILD_WORKDIR="/workdir"
