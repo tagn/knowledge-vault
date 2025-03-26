@@ -1,3 +1,6 @@
+labels:
+  platform: linux/arm64
+
 when:
   - branch: main
     event: [push, manual]
