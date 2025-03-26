@@ -11,10 +11,10 @@ name: Amethyst Academy
 
 ## Associated NPCS
 
-```dataview
-LIST
-FROM "DND - Drakkenheim/NPCS"
-WHERE faction = "Amethyst Academy"
-```
+<!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/NPCS" WHERE faction = "Amethyst Academy" -->
+<!-- SerializedQuery: LIST FROM "DND - Drakkenheim/NPCS" WHERE faction = "Amethyst Academy" -->
+- [[Archmage Adriana Modiera]]
+- [[River]]
+<!-- SerializedQuery END -->
 
 ## Notes

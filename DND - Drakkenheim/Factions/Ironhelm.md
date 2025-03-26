@@ -12,10 +12,12 @@ A group of dwarves that run a smithy in [[The Scar]] within Drakkenheim. They ru
 
 ## Associated NPCS
 
-```dataview
-LIST
-FROM "DND - Drakkenheim/NPCS"
-WHERE faction = "Ironhelm"
-```
+<!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/NPCS" WHERE faction = "Ironhelm" -->
+<!-- SerializedQuery: LIST FROM "DND - Drakkenheim/NPCS" WHERE faction = "Ironhelm" -->
+- [[Eloise Ironhelm]]
+- [[Gertrude Ironhelm]]
+- [[Mordecai Ironhelm]]
+- [[Reginald Ironhelm]]
+<!-- SerializedQuery END -->
 
 ## Notes

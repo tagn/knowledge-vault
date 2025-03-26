@@ -11,10 +11,9 @@ name: Knights of the Silver Order
 
 ## Associated NPCS
 
-```dataview
-LIST
-FROM "DND - Drakkenheim/NPCS"
-WHERE faction = "Knights of the Silver Order"
-```
+<!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/NPCS" WHERE faction = "Knights of the Silver Order" -->
+<!-- SerializedQuery: LIST FROM "DND - Drakkenheim/NPCS" WHERE faction = "Knights of the Silver Order" -->
+- [[Test NPC]]
+<!-- SerializedQuery END -->
 
 ## Notes

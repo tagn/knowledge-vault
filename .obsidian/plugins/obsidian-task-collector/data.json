@@ -24,6 +24,7 @@
     }
   },
   "markCycle": "",
+  "markCycleRemoveTask": false,
   "collectionEnabled": true,
   "previewClickModal": false,
   "contextMenu": {
@@ -34,9 +35,11 @@
   },
   "debug": false,
   "convertEmptyLines": false,
+  "hideNotifications": false,
+  "skipSectionMatch": "",
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 12
+    "minor": 1,
+    "patch": 7
   }
 }

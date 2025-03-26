@@ -11,11 +11,12 @@ name: Church of the Falling Fire
 
 ## Associated NPCS
 
-```dataview
-LIST
-FROM "DND - Drakkenheim/NPCS"
-WHERE faction = "Church of the Falling Fire"
-```
+<!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/NPCS" WHERE faction = "Church of the Falling Fire" -->
+<!-- SerializedQuery: LIST FROM "DND - Drakkenheim/NPCS" WHERE faction = "Church of the Falling Fire" -->
+- [[Flamekeeper Hannah]]
+- [[Lucritia]]
+- [[Ophelia Reed]]
+<!-- SerializedQuery END -->
 
 ## Notes
 

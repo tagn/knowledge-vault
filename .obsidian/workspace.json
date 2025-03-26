@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - Drakkenheim/World.md",
+                "file": "DND - Drakkenheim/Factions/Ironhelm.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "World"
+              "title": "Ironhelm"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Sam/Sessions/Session 007.md",
+                "file": "DND - Drakkenheim/Factions/Ironhelm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 007"
+              "title": "Backlinks for Ironhelm"
             }
           },
           {
@@ -123,10 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DND - Sam/Sessions/Session 007.md"
+                "file": "DND - Drakkenheim/Factions/Ironhelm.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 007"
+              "title": "Outline of Ironhelm"
             }
           },
           {
@@ -186,8 +189,23 @@
               "title": "Dice Tray"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "d0a713f5386b98d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02af39f586bd6550",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,40 +224,42 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2b3a27587810680",
+  "active": "f2ed483abcf08cad",
   "lastOpenFiles": [
-    "DND - Drakkenheim/Rumors.md",
-    "DND - Drakkenheim/Quests.md",
-    "DND - Drakkenheim/Sessions/Session 010.md",
-    "DND - Drakkenheim/Sessions/Session 001.md",
-    "DND - Drakkenheim/Sessions/Session 002.md",
+    "DND - Drakkenheim/Factions/Queen's Men.md",
+    "DND - Drakkenheim/Factions/Knights of the Silver Order.md",
+    "DND - Drakkenheim/Factions/Hooded Lanterns.md",
+    "DND - Drakkenheim/Factions/Church of the Falling Fire.md",
+    "DND - Drakkenheim/Factions/Amethyst Academy.md",
+    "DND - Drakkenheim/Factions/Groups/Keth's Krew.md",
+    "DND - Drakkenheim/Factions/Groups/Howling Dogs.md",
+    "DND - Drakkenheim/Factions/Groups/Gentlemen Bastards.md",
+    "DND - Drakkenheim/Factions/Groups/Fourth Provisional Expeditionary Force.md",
+    "DND - Drakkenheim/Factions/Groups/Favored Few.md",
+    "DND - Drakkenheim/Factions/Ironhelm.md",
+    "DND - Drakkenheim/NPCS/Test NPC.md",
+    "DND - Drakkenheim/NPCS/Mordecai Ironhelm.md",
+    "DND - Drakkenheim/NPCS/Ophelia Reed.md",
+    "DND - Drakkenheim/NPCS/Archmage Adriana Modiera.md",
+    "DND - Drakkenheim/NPCS/Armin Gainsbury.md",
+    "DND - Drakkenheim/NPCS/Ansom Lang.md",
+    "DND - Drakkenheim/NPCS/Aldor the Immense.md",
+    "DND - Drakkenheim/NPCS/Rose Carver.md",
+    "DND - Drakkenheim/NPCS/Rita.md",
+    "DND - Drakkenheim/NPCS/River.md",
+    "DND - Drakkenheim/NPCS/Renard.md",
+    "DND - Drakkenheim/NPCS/Grunt.md",
+    "DND - Drakkenheim/NPCS/Flamekeeper Hannah.md",
+    "DND - Drakkenheim/NPCS/Baskerville.md",
     "DND - Drakkenheim/Characters/Arken Highbloom.md",
-    "DND - MattLord/Sessions/Session 001.md",
-    "README.md",
     "Dockerfile",
-    "index.md",
-    "DND - Drakkenheim/Sessions/Session 079.md",
-    "Stats for new character.md",
-    "Templates/TestSessionChatGPT.md",
-    "Templates/TestFactionThing.md",
-    "Kiddo One Shots/The Lost Fairy Crown/Main.md",
-    "Templates/Location.md",
-    "Templates/NPC.md",
-    "Templates/Faction.md",
-    "Templates/Session.md",
-    "Factions/Untitled.md",
     "Factions",
     "Scripts/testScript.js",
-    "Templates/DynamicTemplate.md",
-    "Templates/Quest.md",
-    "DND - Drakkenheim/Sessions/Session 077.md",
-    "DND - Drakkenheim/Sessions/Session 067.md",
-    "DND - Drakkenheim/Sessions/Session 069.md",
-    "DND - Drakkenheim/Sessions/Session 071.md",
-    "DND - Drakkenheim/Sessions/Session 073.md",
     "Sessions",
     "Images/Pasted image 20240425201415.png",
     "DND - MattLord/Sessions",

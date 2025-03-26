@@ -11,10 +11,15 @@ name: Queen's Men
 
 ## Associated NPCS
 
-```dataview
-LIST
-FROM "DND - Drakkenheim/NPCS"
-WHERE faction = "Queen's Men"
-```
+<!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/NPCS" WHERE faction = "Queen's Men" -->
+<!-- SerializedQuery: LIST FROM "DND - Drakkenheim/NPCS" WHERE faction = "Queen's Men" -->
+- [[Baskerville]]
+- [[Blackjack Mel]]
+- [[Bogdon]]
+- [[Keith]]
+- [[Rita]]
+- [[Queen of Blades]]
+- [[Rose Carver]]
+<!-- SerializedQuery END -->
 
 ## Notes

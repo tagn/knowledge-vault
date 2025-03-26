@@ -11,10 +11,12 @@ name: Hooded Lanterns
 
 ## Associated NPCS
 
-```dataview
-LIST
-FROM "DND - Drakkenheim/NPCS"
-WHERE faction = "Hooded Lanterns"
-```
+<!-- QueryToSerialize: LIST FROM "DND - Drakkenheim/NPCS" WHERE faction = "Hooded Lanterns" -->
+<!-- SerializedQuery: LIST FROM "DND - Drakkenheim/NPCS" WHERE faction = "Hooded Lanterns" -->
+- [[Ansom Lang]]
+- [[Elias Drexxel]]
+- [[Petra Lang]]
+- [[Rain Highlash]]
+<!-- SerializedQuery END -->
 
 ## Notes
