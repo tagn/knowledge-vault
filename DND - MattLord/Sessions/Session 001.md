@@ -19,5 +19,4 @@ tags:
 - Some wood ghosts come out of the well. Little one seems scared shitless.
 - We meet Seraphine in the bar after fighting the shit from the well.
 - The tree mother fuckas are raiding some cursed village and them people want us to be helpful like. They have a tree with some fruit and we can stay inside.
-- 
 

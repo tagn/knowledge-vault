@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "DND - Drakkenheim/World.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "World"
             }
           }
         ]
@@ -177,12 +177,12 @@
             }
           },
           {
-            "id": "727f49ad35cb482a",
+            "id": "de74ac6ed6ba1dca",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dice-roller-icon",
+              "icon": "dices",
               "title": "Dice Tray"
             }
           }
@@ -209,8 +209,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f2ed483abcf08cad",
+  "active": "c2b3a27587810680",
   "lastOpenFiles": [
+    "DND - Drakkenheim/Rumors.md",
+    "DND - Drakkenheim/Quests.md",
+    "DND - Drakkenheim/Sessions/Session 010.md",
+    "DND - Drakkenheim/Sessions/Session 001.md",
+    "DND - Drakkenheim/Sessions/Session 002.md",
+    "DND - Drakkenheim/Characters/Arken Highbloom.md",
+    "DND - MattLord/Sessions/Session 001.md",
+    "README.md",
     "Dockerfile",
     "index.md",
     "DND - Drakkenheim/Sessions/Session 079.md",
@@ -232,13 +240,6 @@
     "DND - Drakkenheim/Sessions/Session 069.md",
     "DND - Drakkenheim/Sessions/Session 071.md",
     "DND - Drakkenheim/Sessions/Session 073.md",
-    "DND - Drakkenheim/Sessions/Session 074.md",
-    "DND - Drakkenheim/Sessions/Session 076.md",
-    "DND - Drakkenheim/Sessions/Session 045.md",
-    "DND - Drakkenheim/Sessions/Session 007.md",
-    "DND - Drakkenheim/Quests.md",
-    "DND - Drakkenheim/Rumors.md",
-    "DND - Drakkenheim/World.md",
     "Sessions",
     "Images/Pasted image 20240425201415.png",
     "DND - MattLord/Sessions",
@@ -248,7 +249,6 @@
     "DND - Sam",
     "Pasted image 20240425201415.png",
     "Kiddo One Shots/The Lost Fairy Crown",
-    "Kiddo One Shots",
     "Images/quaggoth.png",
     "Images/npc_ilvara.png",
     "Images/npc_shuushar.png",
