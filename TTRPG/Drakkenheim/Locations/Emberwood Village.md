@@ -3,7 +3,7 @@ aliases:
  - Emberwood
 type: location
 created: 2023-02-16
-campaign: [[Drakkenheim]]
+campaign: Drakkenheim
 name: Emberwood Village
 container: true
 within: [[Drakkenheim Wilds]]

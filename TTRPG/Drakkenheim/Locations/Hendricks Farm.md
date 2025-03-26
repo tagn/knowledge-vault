@@ -1,7 +1,7 @@
 ---
 type: location
 created: 2023-07-11
-campaign: [[Drakkenheim]]
+campaign: Drakkenheim
 name: Hendricks Farm
 container: false
 within: [[Drakkenheim Wilds]]

@@ -2,7 +2,7 @@
 aliases: []
 type: location
 created: 2023-07-20
-campaign: [[Drakkenheim]]
+campaign: Drakkenheim
 name: The Smithy
 container: false
 within: [[The Scar]]

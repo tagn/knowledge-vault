@@ -1,7 +1,7 @@
 ---
 type: location
 created: 2023-07-11
-campaign: [[Drakkenheim]]
+campaign: Drakkenheim
 name: Red Lion Hotel
 container: false
 within: [[Emberwood Village]]
