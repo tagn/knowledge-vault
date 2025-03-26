@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Templates",
+  "templates_folder": "templates",
   "templates_pairs": [],
   "trigger_on_file_creation": true,
   "auto_jump_to_cursor": true,
@@ -11,59 +11,59 @@
   "folder_templates": [
     {
       "folder": "TTRPG/Drakkenheim/Sessions",
-      "template": "Templates/Session.md"
+      "template": "templates/Session.md"
     },
     {
       "folder": "TTRPG/Drakkenheim/Characters",
-      "template": "Templates/Character.md"
+      "template": "templates/Character.md"
     },
     {
       "folder": "TTRPG/Drakkenheim/Locations",
-      "template": "Templates/Location.md"
+      "template": "templates/Location.md"
     },
     {
       "folder": "TTRPG/Drakkenheim/NPCS",
-      "template": "Templates/NPC.md"
+      "template": "templates/NPC.md"
     },
     {
       "folder": "TTRPG/Drakkenheim/Quests",
-      "template": "Templates/Quest.md"
+      "template": "templates/Quest.md"
     },
     {
       "folder": "TTRPG/Drakkenheim/Factions",
-      "template": "Templates/Faction.md"
+      "template": "templates/Faction.md"
     },
     {
       "folder": "DND - Out of the Abyss/Sessions",
-      "template": "Templates/Session.md"
+      "template": "templates/Session.md"
     },
     {
       "folder": "DND - Out of the Abyss/Characters",
-      "template": "Templates/Character.md"
+      "template": "templates/Character.md"
     },
     {
       "folder": "DND - Out of the Abyss/Locations",
-      "template": "Templates/Location.md"
+      "template": "templates/Location.md"
     },
     {
       "folder": "DND - Out of the Abyss/Quests",
-      "template": "Templates/Quest.md"
+      "template": "templates/Quest.md"
     },
     {
       "folder": "DND - Out of the Abyss/NPCS",
-      "template": "Templates/NPC.md"
+      "template": "templates/NPC.md"
     },
     {
       "folder": "DND - Out of the Abyss/Factions",
-      "template": "Templates/Faction.md"
+      "template": "templates/Faction.md"
     },
     {
       "folder": "TTRPG/Keys from the Golden Vault/Sessions",
-      "template": "Templates/Session.md"
+      "template": "templates/Session.md"
     },
     {
       "folder": "TTRPG/Tales from the Yawning Portal/Sessions",
-      "template": "Templates/Session.md"
+      "template": "templates/Session.md"
     }
   ],
   "enable_file_templates": false,
@@ -76,7 +76,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "Templates/UpdateField.md"
+    "templates/UpdateField.md"
   ],
   "startup_templates": [
     ""

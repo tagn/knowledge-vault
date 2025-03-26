@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "TTRPG/Drakkenheim/Factions/Amethyst Academy.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Amethyst Academy"
             }
           }
         ]
@@ -231,21 +231,27 @@
   },
   "active": "f2ed483abcf08cad",
   "lastOpenFiles": [
-    "README.md",
+    "TTRPG/Drakkenheim/Factions/Queen's Men.md",
+    "TTRPG/Drakkenheim/Factions/Knights of the Silver Order.md",
+    "TTRPG/Drakkenheim/Factions/Hooded Lanterns.md",
+    "TTRPG/Drakkenheim/Factions/Church of the Falling Fire.md",
+    "TTRPG/Drakkenheim/Sessions/Session 007.md",
+    "TTRPG/Drakkenheim/Sessions/Session 001.md",
     "index.md",
+    "README.md",
     "TTRPG/Tales from the Yawning Portal/Sessions/Session 001.md",
     "update-names.py",
     "TTRPG/Tales from the Yawning Portal/Sessions/Session 003.md",
     "TTRPG/Tales from the Yawning Portal/Sessions/Session 004.md",
     "TTRPG/Tales from the Yawning Portal/Sessions/Session 002.md",
-    "Templates/Character.md",
+    "templates/Character.md",
     "TTRPG",
-    "Templates/DynamicTemplate.md",
-    "Templates/UpdateField.md",
-    "Templates/Session.md",
-    "Templates/NPC.md",
-    "Templates/Quest.md",
-    "Templates/Faction.md",
+    "templates/DynamicTemplate.md",
+    "templates/UpdateField.md",
+    "templates/Session.md",
+    "templates/NPC.md",
+    "templates/Quest.md",
+    "templates/Faction.md",
     "Scripts/getThisSessionNum.js",
     "Scripts/getThisCampaignName.js",
     "Scripts/getThisCampaignLocations.js",
@@ -257,14 +263,8 @@
     "TTRPG/Drakkenheim/Rumors.md",
     "TTRPG/Drakkenheim/Quests.md",
     "TTRPG/Drakkenheim/Sessions/Session 002.md",
-    "TTRPG/Drakkenheim/Sessions/Session 001.md",
     "TTRPG/Drakkenheim/Quests/This Helm Is My Ironhelm.md",
     "TTRPG/Drakkenheim/Quests/The Queen's Lillies.md",
-    "TTRPG/Drakkenheim/Quests/The Pale Man with a Pale Plan.md",
-    "TTRPG/Drakkenheim/Quests/Smuggler's Bar.md",
-    "TTRPG/Drakkenheim/Quests/Rescue From The Rat Captors.md",
-    "TTRPG/Drakkenheim/Quests/Prayers for Ironhelm Delerium.md",
-    "TTRPG/Drakkenheim/Quests/Oscar Yorn's Research.md",
     "rewrite.py",
     "Dockerfile",
     "Images/Pasted image 20240425201415.png",

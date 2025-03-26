@@ -14,11 +14,11 @@ name: Queen's Men
 <!-- QueryToSerialize: LIST FROM "TTRPG/Drakkenheim/NPCS" WHERE faction = "Queen's Men" -->
 <!-- SerializedQuery: LIST FROM "TTRPG/Drakkenheim/NPCS" WHERE faction = "Queen's Men" -->
 - [[Baskerville]]
-- [[Blackjack Mel]]
 - [[Bogdon]]
+- [[Blackjack Mel]]
 - [[Keith]]
-- [[Rita]]
 - [[Queen of Blades]]
+- [[Rita]]
 - [[Rose Carver]]
 <!-- SerializedQuery END -->
 

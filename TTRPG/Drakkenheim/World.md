@@ -110,4 +110,3 @@
 - [[Session 078]]
 - [[Session 079]]
 <!-- SerializedQuery END -->
-`button-add-session`
