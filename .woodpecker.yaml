@@ -13,7 +13,7 @@ steps:
       password:
         from_secret: DOCKER_REGISTRY_PASSWORD
   - name: deploy
-    image: euryecetelecom/woodpeckerci-kubernetes
+    image: cr.mistveil.net/woodpeckerci-kubernetes
     settings:
       kubernetes_server:
         from_secret: KUBERNETES_SERVER
