@@ -1,9 +1,9 @@
 ---
 received: 2023-07-13
 type: quest
-initiator: "Oscar Yorn"
+initiator: Oscar Yorn
 complete_by: ""
-completed: false
+completed: true
 reward: ""
 ---
 

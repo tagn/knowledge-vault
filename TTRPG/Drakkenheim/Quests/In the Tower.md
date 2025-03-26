@@ -3,10 +3,11 @@ type: quest
 created: 2024-11-17
 campaign: Drakkenheim
 initiator: ""
-location: ""
+location:
+  - ""
 faction: ""
 complete_by: ""
-completed: false
+completed: true
 reward: ""
 ---
 

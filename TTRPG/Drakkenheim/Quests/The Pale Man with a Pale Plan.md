@@ -3,10 +3,11 @@ type: quest
 created: 2024-01-05
 campaign: Drakkenheim
 initiator: Queen of Blades
-location: ""
+location:
+  - ""
 faction: ""
 complete_by: ""
-completed: false
+completed: true
 reward: ""
 ---
 
