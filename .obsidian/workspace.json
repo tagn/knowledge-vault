@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Drakkenheim/NPCS/Milando.md",
+                "file": "templates/Character.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Milando"
+              "title": "Character"
             }
           }
         ]
@@ -229,8 +229,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcabcd48cba7e673",
+  "active": "f2ed483abcf08cad",
   "lastOpenFiles": [
+    "TTRPG/Drakkenheim/Locations/Test Location.md",
+    "TTRPG/Drakkenheim/NPCS/Test NPC.md",
+    "templates/Character.md",
+    "TTRPG/Drakkenheim/Factions/Test Faction.md",
+    "TTRPG/Drakkenheim/Sessions/Session 080.md",
+    "templates/Session.md",
+    "templates/Quest.md",
+    "templates/NPC.md",
+    "templates/Location.md",
+    "templates/Faction.md",
+    "TTRPG/Drakkenheim/NPCS/Milando.md",
     "TTRPG/Drakkenheim/NPCS/Armin Gainsbury.md",
     "TTRPG/Drakkenheim/NPCS/Gertrude Ironhelm.md",
     "TTRPG/Drakkenheim/NPCS/Grummish.md",
@@ -245,19 +256,7 @@
     "TTRPG/Drakkenheim/NPCS/Elias Drexxel.md",
     "TTRPG/Drakkenheim/Factions/Amethyst Academy.md",
     "TTRPG/Drakkenheim/Factions/Queen's Men.md",
-    "TTRPG/Drakkenheim/Factions/Knights of the Silver Order.md",
-    "TTRPG/Drakkenheim/Factions/Hooded Lanterns.md",
-    "TTRPG/Drakkenheim/Factions/Church of the Falling Fire.md",
-    "TTRPG/Drakkenheim/Sessions/Session 007.md",
-    "TTRPG/Drakkenheim/Sessions/Session 001.md",
-    "index.md",
-    "README.md",
-    "TTRPG/Tales from the Yawning Portal/Sessions/Session 001.md",
     "update-names.py",
-    "TTRPG/Tales from the Yawning Portal/Sessions/Session 003.md",
-    "TTRPG/Tales from the Yawning Portal/Sessions/Session 004.md",
-    "TTRPG/Tales from the Yawning Portal/Sessions/Session 002.md",
-    "templates/Character.md",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
     "Scripts/getThisCampaignName.js",

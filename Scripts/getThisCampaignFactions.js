@@ -2,7 +2,7 @@ function getThisCampaignFactions (tp) {
     let thisDirectory = tp.file.folder(true);
     let thisCampaignDir = thisDirectory.split("/")[1]
     let factions = app.plugins.plugins.dataview.api
-        .pages(`"${thisCampaignDir}/Factions"`)
+        .pages(`"TTRPG/${thisCampaignDir}/Factions"`)
         .where(page => {
             if (page.type === 'faction') {
                 return true;

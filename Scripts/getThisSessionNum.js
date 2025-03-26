@@ -3,7 +3,7 @@ function getThisSessionNum(tp) {
     let thisCampaignDir = thisDirectory.split("/")[1]
     let thisCampaignName = thisCampaignDir.replace("DND - ", "")
     let numOfSessions = app.plugins.plugins.dataview.api
-        .pages(`"${thisCampaignDir}/Sessions"`)
+        .pages(`"TTRPG/${thisCampaignDir}/Sessions"`)
         .where(page => {
             if (page.type === 'session') {
                 if (page.campaign === thisCampaignName) {

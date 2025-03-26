@@ -2,7 +2,7 @@ function getThisCampaignLocations (tp) {
     let thisDirectory = tp.file.folder(true);
     let thisCampaignDir = thisDirectory.split("/")[1]
     let locations = app.plugins.plugins.dataview.api
-        .pages(`"${thisCampaignDir}/Locations"`)
+        .pages(`"TTRPG/${thisCampaignDir}/Locations"`)
         .where(page => {
             if (page.type === 'location' && page.container) {
                 return true;
