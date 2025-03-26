@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Drakkenheim/Sessions/Session 069.md",
-                "mode": "source",
+                "file": "TTRPG/Drakkenheim/Sessions/Session 078.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 069"
+              "title": "Session 078"
             }
           }
         ],
@@ -257,6 +257,8 @@
   },
   "active": "aa9d5270cb130498",
   "lastOpenFiles": [
+    "TTRPG/Drakkenheim/Sessions/Session 079.md",
+    "TTRPG/Drakkenheim/Sessions/Session 069.md",
     "TTRPG/Drakkenheim/Sessions/Session 055.md",
     "TTRPG/Drakkenheim/Sessions/Session 047.md",
     "TTRPG/Drakkenheim/Sessions/Session 011.md",
@@ -281,8 +283,6 @@
     "TTRPG/Drakkenheim/Locations/Red Lion Hotel.md",
     "TTRPG/Drakkenheim/Locations/Reed Manor.md",
     "TTRPG/Drakkenheim/Locations/Scrag Lane.md",
-    "TTRPG/Drakkenheim/Locations/Shepard's Gate.md",
-    "TTRPG/Drakkenheim/Locations/Shepard's Way.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
