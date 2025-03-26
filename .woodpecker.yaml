@@ -7,7 +7,7 @@ steps:
     image: woodpeckerci/plugin-kaniko
     settings:
       registry: cr.mistveil.net
-      repo: cr.mistveil.net/vault-site
+      repo: vault-site
       username:
         from_secret: DOCKER_REGISTRY_USERNAME
       password:
