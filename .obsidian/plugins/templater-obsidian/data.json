@@ -10,24 +10,28 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "DND - Drakkenheim/Sessions",
+      "folder": "TTRPG/Drakkenheim/Sessions",
       "template": "Templates/Session.md"
     },
     {
-      "folder": "DND - Drakkenheim/Characters",
+      "folder": "TTRPG/Drakkenheim/Characters",
       "template": "Templates/Character.md"
     },
     {
-      "folder": "DND - Drakkenheim/Locations",
+      "folder": "TTRPG/Drakkenheim/Locations",
       "template": "Templates/Location.md"
     },
     {
-      "folder": "DND - Drakkenheim/NPCS",
+      "folder": "TTRPG/Drakkenheim/NPCS",
       "template": "Templates/NPC.md"
     },
     {
-      "folder": "DND - Drakkenheim/Quests",
+      "folder": "TTRPG/Drakkenheim/Quests",
       "template": "Templates/Quest.md"
+    },
+    {
+      "folder": "TTRPG/Drakkenheim/Factions",
+      "template": "Templates/Faction.md"
     },
     {
       "folder": "DND - Out of the Abyss/Sessions",
@@ -54,20 +58,12 @@
       "template": "Templates/Faction.md"
     },
     {
-      "folder": "DND - Drakkenheim/Factions",
-      "template": "Templates/Faction.md"
-    },
-    {
-      "folder": "DND - Sam/Sessions",
+      "folder": "TTRPG/Keys from the Golden Vault/Sessions",
       "template": "Templates/Session.md"
     },
     {
-      "folder": "Sessions",
-      "template": "Templates/TestSessionChatGPT.md"
-    },
-    {
-      "folder": "Factions",
-      "template": "Templates/TestFactionThing.md"
+      "folder": "TTRPG/Tales from the Yawning Portal/Sessions",
+      "template": "Templates/Session.md"
     }
   ],
   "enable_file_templates": false,

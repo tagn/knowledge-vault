@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND - MattLord/Sessions/Session 001.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 001"
+              "title": "index"
             }
           }
         ]
@@ -229,12 +229,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcabcd48cba7e673",
+  "active": "f2ed483abcf08cad",
   "lastOpenFiles": [
-    "DND - MattLord/Sessions/Session 003.md",
-    "DND - MattLord/Sessions/Session 004.md",
-    "DND - MattLord/Sessions/Session 002.md",
-    "DND - MattLord/Sessions/Session 001.md",
+    "README.md",
+    "index.md",
+    "TTRPG/Tales from the Yawning Portal/Sessions/Session 001.md",
+    "update-names.py",
+    "TTRPG/Tales from the Yawning Portal/Sessions/Session 003.md",
+    "TTRPG/Tales from the Yawning Portal/Sessions/Session 004.md",
+    "TTRPG/Tales from the Yawning Portal/Sessions/Session 002.md",
     "Templates/Character.md",
     "TTRPG",
     "Templates/DynamicTemplate.md",
@@ -249,24 +252,21 @@
     "Scripts/getThisCampaignFactions.js",
     "Scripts/getThisCampaignDir.js",
     "Scripts",
-    "DND - Drakkenheim/Sessions/Untitled.md",
-    "DND - Drakkenheim/World.md",
-    "DND - Drakkenheim/Rumors.md",
-    "DND - Drakkenheim/Quests.md",
-    "DND - Drakkenheim/Sessions/Session 002.md",
-    "DND - Drakkenheim/Sessions/Session 001.md",
-    "DND - Drakkenheim/Quests/This Helm Is My Ironhelm.md",
-    "DND - Drakkenheim/Quests/The Queen's Lillies.md",
-    "DND - Drakkenheim/Quests/The Pale Man with a Pale Plan.md",
-    "DND - Drakkenheim/Quests/Smuggler's Bar.md",
-    "DND - Drakkenheim/Quests/Rescue From The Rat Captors.md",
-    "DND - Drakkenheim/Quests/Prayers for Ironhelm Delerium.md",
-    "DND - Drakkenheim/Quests/Oscar Yorn's Research.md",
-    "DND - Drakkenheim/Quests/It Always Starts With Rats In A Cellar.md",
-    "DND - Drakkenheim/Quests/Ironhelm Delerium Exclusivity.md",
+    "TTRPG/Drakkenheim/Sessions/Untitled.md",
+    "TTRPG/Drakkenheim/World.md",
+    "TTRPG/Drakkenheim/Rumors.md",
+    "TTRPG/Drakkenheim/Quests.md",
+    "TTRPG/Drakkenheim/Sessions/Session 002.md",
+    "TTRPG/Drakkenheim/Sessions/Session 001.md",
+    "TTRPG/Drakkenheim/Quests/This Helm Is My Ironhelm.md",
+    "TTRPG/Drakkenheim/Quests/The Queen's Lillies.md",
+    "TTRPG/Drakkenheim/Quests/The Pale Man with a Pale Plan.md",
+    "TTRPG/Drakkenheim/Quests/Smuggler's Bar.md",
+    "TTRPG/Drakkenheim/Quests/Rescue From The Rat Captors.md",
+    "TTRPG/Drakkenheim/Quests/Prayers for Ironhelm Delerium.md",
+    "TTRPG/Drakkenheim/Quests/Oscar Yorn's Research.md",
     "rewrite.py",
     "Dockerfile",
-    "Factions",
     "Images/Pasted image 20240425201415.png",
     "Pasted image 20240425201415.png",
     "Images/quaggoth.png",
