@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Drakkenheim/Sessions/Session 078.md",
+                "file": "TTRPG/Drakkenheim/NPCS/Baskerville.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 078"
+              "title": "Baskerville"
             }
           }
         ],
@@ -257,6 +257,14 @@
   },
   "active": "aa9d5270cb130498",
   "lastOpenFiles": [
+    "TTRPG/Drakkenheim/NPCS/Armin Gainsbury.md",
+    "TTRPG/Drakkenheim/NPCS/Aldor the Immense.md",
+    "TTRPG/Drakkenheim/NPCS/Ansom Lang.md",
+    "TTRPG/Drakkenheim/NPCS/Archmage Adriana Modiera.md",
+    "TTRPG/Drakkenheim/NPCS/Baskerville.md",
+    "TTRPG/Drakkenheim/NPCS/Blackjack Mel.md",
+    "templates/NPCTemplate.md",
+    "TTRPG/Drakkenheim/Sessions/Session 078.md",
     "TTRPG/Drakkenheim/Sessions/Session 079.md",
     "TTRPG/Drakkenheim/Sessions/Session 069.md",
     "TTRPG/Drakkenheim/Sessions/Session 055.md",
@@ -275,14 +283,6 @@
     "TTRPG/Drakkenheim/Locations/Drakkenheim Wilds.md",
     "TTRPG/Drakkenheim/Locations/Emberwood Village.md",
     "TTRPG/Drakkenheim/Locations/Eventide Manor.md",
-    "TTRPG/Drakkenheim/Locations/Gilded Lily.md",
-    "TTRPG/Drakkenheim/Locations/Hendricks Farm.md",
-    "TTRPG/Drakkenheim/Locations/Klineburg Estate.md",
-    "TTRPG/Drakkenheim/Locations/Market Square Plaza.md",
-    "TTRPG/Drakkenheim/Locations/Rats Nest Tavern.md",
-    "TTRPG/Drakkenheim/Locations/Red Lion Hotel.md",
-    "TTRPG/Drakkenheim/Locations/Reed Manor.md",
-    "TTRPG/Drakkenheim/Locations/Scrag Lane.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",

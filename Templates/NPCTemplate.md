@@ -27,10 +27,11 @@ tags:
  - npc
 ---
 
-## Description
+## Summary
 
-## Quests
-<!-- QueryToSerialize: TASK FROM "<%* tR += campaign_dir %>/Quests" WHERE !completed AND contains(outlinks, [[<%* tR += npc_name %>]]) -->
+## Significant Events
+
+## Faction Associations
 
 #### Session Appearances
 <!-- QueryToSerialize: LIST FROM [[<%* tR += npc_name %>]] WHERE file.folder = "<%* tR += campaign_dir %>/Sessions" -->
