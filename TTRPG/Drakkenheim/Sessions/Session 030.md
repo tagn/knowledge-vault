@@ -27,7 +27,7 @@ tags:
 	- [[Seven]] pays 150 gold to cleanse his [[Contamination]].
 	- [[Sihrr]] asks about the druid north of [[Castle Drakken]], [[Old Zoya]] warns about him not being as friendly as her. She tells us to not hurt the trees there. [[Eoghan]] is the druid's name.
 - We make our way down to the [[Hendricks Farm]].
-- [[Arken Highbloom|Arken]] asks about seeing [[Lucritia]], we're told we have an invitation to meet her if we made our way down to the [[Champion's Gate]].
+- [[Arken Highbloom|Arken]] asks about seeing [[Lucretia]], we're told we have an invitation to meet her if we made our way down to the [[Champion's Gate]].
 	- We're asked to escort some of their pilgrims down.
 - We head up to the [[Skull & Sword]]
 	- [[Keth Darklighter|Keth]] and [[Seven]] play a round of darts.

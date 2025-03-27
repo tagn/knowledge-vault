@@ -18,7 +18,7 @@ tags:
 - We consider the possibility that her previous employer may have thought that she told the gold, so she really wants to be able to repay the employer and is scrounging up her gold.
 - [[Keth Darklighter|Keth]] believes our job to deliver the package went off without a hitch.
 - We head to the [[Hendricks Farm]] to try to give over the [[Sceptre of Saint Vitruvio]]. The guard here sucks and won't go get Nathaniel because he needs his beauty rest.
-- [[Nathaniel]] confirms the identity of the staff. He wants us to bring this staff straight to [[Lucritia]] herself at the [[Saint Selina's Monastery]]
+- [[Nathaniel]] confirms the identity of the staff. He wants us to bring this staff straight to [[Lucretia]] herself at the [[Saint Selina's Monastery]]
 - We go into a barn to sleep for the night at the [[Hendricks Farm]].
 - All of the people sleeping in the barn give us a knee and part way for us to head to the loft to sleep.
 - We get a long rest, which makes it... 3? more days until my spider comes back.

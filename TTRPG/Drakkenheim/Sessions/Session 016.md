@@ -39,7 +39,7 @@ tags:
 		- Doesn't remember who she is or how long shes been here
 	- Wizard - Dead guy - Was here when most of the people got here. Before [[Anika Patel]], but after [[Aaron Grint]]
 - They inquire about if we removed the loop that everyone was stuck in
-- Priest guy wants to go to [[Saint Selina's Monastery]]? [[Lucritia]] is there at the monastery
+- Priest guy wants to go to [[Saint Selina's Monastery]]? [[Lucretia]] is there at the monastery
 	- Priest guy definitely tries to cast a helpful spell on [[Sihrr]] after he made a snarky remark about shoving [[Delerium]] into his chest
 - We take a short rest - [[Wyldenten Proudsky]] uses feature to heal [[Arken Highbloom]] and [[Sihrr]]
 - [[Wyldenten Proudsky]] investigates the destroyed bar area

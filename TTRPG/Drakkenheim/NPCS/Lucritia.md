@@ -1,6 +1,6 @@
 ---
 created: 2023-07-11
-name: "Lucritia"
+name: "Lucretia"
 type: "npc"
 faction: "[[Church of the Falling Fire]]"
 group: ""
@@ -12,13 +12,13 @@ tags:
 ---
 ## Summary:
 
-Lucritia appears to be associated with religious or spiritual elements in the campaign. She leads the [[Church of the Falling Fire]] faction in [[Drakkenheim]]. She is mentioned briefly but consistently in connection with [[Saint Selina's Monastery]] and the [[Chapel of Saint Ardenna]]. Lucritia seems to be a figure of religious or spiritual importance, likely involved in matters concerning contamination, corruption, and possibly healing or purification rituals related to [[Delerium]].
+Lucretia appears to be associated with religious or spiritual elements in the campaign. She leads the [[Church of the Falling Fire]] faction in [[Drakkenheim]]. She is mentioned briefly but consistently in connection with [[Saint Selina's Monastery]] and the [[Chapel of Saint Ardenna]]. Lucretia seems to be a figure of religious or spiritual importance, likely involved in matters concerning contamination, corruption, and possibly healing or purification rituals related to [[Delerium]].
 
 ---
 
 ## Significant Events:
 
-- Lucritia is mentioned as being located at [[Saint Selina's Monastery]], indicating her involvement with religious activities or groups focused on spirituality or purification rituals​.
+- Lucretia is mentioned as being located at [[Saint Selina's Monastery]], indicating her involvement with religious activities or groups focused on spirituality or purification rituals​.
     
 - She is associated with significant locations that the party considers important for dealing with corruption, contamination, and [[Delerium]]-related problems​.
     

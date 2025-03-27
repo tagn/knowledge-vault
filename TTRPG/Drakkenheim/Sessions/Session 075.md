@@ -13,10 +13,10 @@ tags:
 ## Event Log
 
 - [[Keth Darklighter]] is rolled up dead in a bag. Woot!
-- We arrive at the cathedral, there is a sermon being given by [[Lucritia]].
-- [[Lucritia]] lies to us for some reason about using resurrection.
+- We arrive at the cathedral, there is a sermon being given by [[Lucretia]].
+- [[Lucretia]] lies to us for some reason about using resurrection.
 - We give her some shit about not helping us.
-- We ask the Queen, she refers us to [[Lucritia]] or the druid to the north.
+- We ask the Queen, she refers us to [[Lucretia]] or the druid to the north.
 - Ryan Greymere is unable to assist us, we continue north and hop the wall towards the north.
 - We find five stones, surrounding a stone altar, which appears to be permanently stained with blood. There is a barrow mound, which somewhat looks like a hobbit home.
 - This appears to be a druid whom residing at a shrine of the "Phantom Queen". The shrine of morrigan. It is a shadowy old god, whos domains are of war and trickery, whom holds power over life and death.

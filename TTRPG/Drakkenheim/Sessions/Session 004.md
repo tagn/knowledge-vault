@@ -53,6 +53,6 @@ tags:
 	- They have "connections" in [[Buckle Down Row]]
 - We head over to the [[Chapel of Saint Ardenna]]
 - This place is definitely a cult
-- [[Lucritia]] - Will be at the crater
+- [[Lucretia]] - Will be at the crater
 
 
