@@ -63,7 +63,7 @@ At this point in the session, [[Wyldenten Proudsky]], one of the party members, 
 - [[Eventide Manor]] - burned down before [[Emma]] was born, she sometimes sees things moving inside at night
 - [[Gilded Lily]] - Tavern - no beer, fuck this place. They have a talent show.
 - [[Skull & Sword]] - There was a three card monte guy Marco the Shark, turned into a mutant, got his head cut off
-- Brek Ironjaw got thrown out of the next place - Ripped in half by a [[Haze Hulk]]
+- Brek Ironjaw got thrown out of the next place - Ripped in half by a Haze Hulk
 - [[Caravan Park]] in the middle of the park - Merchant grinning greg went into the town and met the Queen, never saw him again. Marketplace strung up around a boarded up water well. 
 - The [[Watchtower]], north of town, run by the [[Hooded Lanterns]]
 - [[Chapel of Saint Ardenna]], where the sacred flame people are. Some lady is there that can bring us back from the death.

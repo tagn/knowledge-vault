@@ -68,13 +68,13 @@ tags:
 - The fortification walls are about 4 feet tall. The buildings have about 10 foot walls. 
 - We take up positions to defend [[The Smithy]]
 - About two hours pass. Looking out over [[The Scar]] we see glows peppering the area. We start to hear sounds shuffling and moaning. The sounds are distant at first, but start to seem to come closer and closer. 
-- We're assaulted by a group of 12 [[Haze Husk]] creatures.
+- We're assaulted by a group of 12 Haze Husk creatures.
 - [[Arken Highbloom|Arken]] is the first to get a kill. The creature had some amount of health less than 16+9 (25)
-- First round is over. Moaning gets worse. Six more [[Haze Husk]]s appear, bringing the total to 18.
+- First round is over. Moaning gets worse. Six more Haze Husks appear, bringing the total to 18.
 - [[Wyldenten Proudsky|Wyl]] and [[Keth Darklighter|Keth]] pick off two more. They seem to have a localized explosion when they die. Not sure what the effect of it will be.
-- Six more [[Haze Husk]]s appear at the end of the second round.
+- Six more Haze Husks appear at the end of the second round.
 - One of the thugs gains a level of [[Contamination]] after failing a con save due to an explosion.
-- Six more [[Haze Husk]]s appear at the beginning of round four.
+- Six more Haze Husks appear at the beginning of round four.
 - [[Wyldenten Proudsky|Wyl]] leaves off with wanting to order the spider to fall back and web things to get them slowed
-- A large creature appears to the southeast. It appears to be a [[Haze Hulk]], but its a bit different than what we've seen in the past. 
+- A large creature appears to the southeast. It appears to be a Haze Hulk, but its a bit different than what we've seen in the past. 
 - [[Wyldenten Proudsky|Wyl]] wants to fire the cannon at that sucker. 

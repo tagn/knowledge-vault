@@ -11,13 +11,13 @@ class: ""
 tags:
  - pc
 ---
-#### **Summary**
+## **Summary**
 
 Sihrr is a deceptively mild-mannered sorcerer with a mysterious past and even murkier lineage. Originally introducing himself as a cleric, Sihrr slowly revealed his true magical prowess and complex motivations. Wielding powerful sorcery and a strangely European accent from nowhere anyone can place, he has served as a calming counterbalance to the party’s more chaotic tendencies. Beneath his charm and control, however, lies a tangled web of family secrets—his journey to Drakkenheim driven by the hope of finding his grandfather, Justin Tousant. As more truths have surfaced, it’s become increasingly clear that Sihrr may be far more entwined with the fate of the city than he lets on.
 
 ---
 
-#### **Motivations**
+## **Motivations**
 
 Sihrr walks the line between self-discovery and self-preservation. His motivations are layered and often internalized:
 
@@ -30,7 +30,7 @@ Sihrr walks the line between self-discovery and self-preservation. His motivatio
 
 ---
 
-#### **Major Events**
+## **Major Events**
 
 - **Revelation as a Sorcerer**: Sihrr originally concealed his identity and power behind the mask of a healer. As the group came under heavier fire and magical threats mounted, his arcane might eventually made secrecy unsustainable. This shift caused some friction, but also solidified his value in the party.
     

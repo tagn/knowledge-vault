@@ -1,1 +1,0 @@
-![[pirate_minotaur.png]]

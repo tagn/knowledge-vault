@@ -34,7 +34,7 @@ tags:
 - We stop by to see if [[River (AA)]] had any work
 - The bell boy person names us "Bert" and "Ernie"
 - We make our way to the city, towards [[Buckle Down Row]], with a pit stop after to [[The Spokes]] if we have time
-- Matt rolls a nat 1 on our encounter check, we run into a group of 9 [[Haze Husk]]s and some creature leading them
+- Matt rolls a nat 1 on our encounter check, we run into a group of 9 Haze Husks and some creature leading them
 - We win, but [[Arken Highbloom]] got pretty fucked up and looks ghastly now.
 - We looted 5 [[Delerium]] fragments
 

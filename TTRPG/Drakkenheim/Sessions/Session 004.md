@@ -17,7 +17,7 @@ tags:
 - [[Lyrian]]'s eagle leads us to [[Keth Darklighter]] body
 - We get her up
 - Don't see the other group anywhere
-- We get [[Delerium]], see a dead [[Haze Hulk]]
+- We get [[Delerium]], see a dead Haze Hulk
 - Walk back, run into the other group
 - Make amends for luring the hulks at them
 - [[Amethyst Academy]] - Someone named [[River (AA)]] we can meet
@@ -40,7 +40,7 @@ tags:
 	- [[The Sprawl]] - There was a tavern there and a large chunk of the meteor broke off and crashed into it before there was an impact
 	- Go there and see what we can retrieve from it
 	- She tells us there is an "infestation" of ratlings
-	- The [[Rat Prince]] - Eliminate them, but doesn't sound like we get paid for it
+	- The Rat Prince - Eliminate them, but doesn't sound like we get paid for it
 	- The [[Amethyst Academy]] has an experiment in mind that requires a large piece of [[Delerium]]
 	- Specimens of [[Delerium]] of a large size are rare
 	- We're looking for a "crystal", we'll get 1250 gold for it
