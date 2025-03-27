@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Drakkenheim/Locations/Champion's Gate.md",
-                "mode": "source",
+                "file": "TTRPG/Drakkenheim/Sessions/Session 068.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Champion's Gate"
+              "title": "Session 068"
             }
           }
         ]
@@ -230,16 +230,27 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f2ed483abcf08cad",
+  "active": "fefdedef8003d4b4",
   "lastOpenFiles": [
-    "TTRPG/Drakkenheim/Locations/Shepard's Gate.md",
-    "TTRPG/Drakkenheim/Locations/Champion's Gate.md",
-    "TTRPG/Drakkenheim/Locations/Academy Gate.md",
-    "TTRPG/Drakkenheim/Sessions/Session 067.md",
-    "TTRPG/Drakkenheim/Sessions/Session 066.md",
-    "TTRPG/Drakkenheim/Sessions/Session 068.md",
     "TTRPG/Drakkenheim/Sessions/Session 069.md",
+    "TTRPG/Drakkenheim/Sessions/Session 068.md",
+    "TTRPG/Drakkenheim/Sessions/Session 067.md",
     "TTRPG/Drakkenheim/Sessions/Session 070.md",
+    "TTRPG/Drakkenheim/Sessions/Session 046.md",
+    "TTRPG/Drakkenheim/Characters/Wyldenten Proudsky.md",
+    "TTRPG/Drakkenheim/Sessions/Session 025.md",
+    "TTRPG/Drakkenheim/Sessions/Session 026.md",
+    "TTRPG/Drakkenheim/Sessions/Session 027.md",
+    "TTRPG/Drakkenheim/Sessions/Session 024.md",
+    "TTRPG/Drakkenheim/Sessions/Session 023.md",
+    "TTRPG/Drakkenheim/Sessions/Session 022.md",
+    "TTRPG/Drakkenheim/Sessions/Session 021.md",
+    "TTRPG/Drakkenheim/Sessions/Session 020.md",
+    "TTRPG/Drakkenheim/Sessions/Session 019.md",
+    "TTRPG/Drakkenheim/Locations/Champion's Gate.md",
+    "TTRPG/Drakkenheim/Locations/Shepard's Gate.md",
+    "TTRPG/Drakkenheim/Locations/Academy Gate.md",
+    "TTRPG/Drakkenheim/Sessions/Session 066.md",
     "TTRPG/Drakkenheim/Sessions/Session 071.md",
     "TTRPG/Drakkenheim/Sessions/Session 073.md",
     "TTRPG/Drakkenheim/Sessions/Session 072.md",
@@ -247,17 +258,6 @@
     "TTRPG/Drakkenheim/Sessions/Session 075.md",
     "TTRPG/Drakkenheim/Sessions/Session 076.md",
     "TTRPG/Drakkenheim/Sessions/Session 077.md",
-    "TTRPG/Drakkenheim/Sessions/Session 078.md",
-    "TTRPG/Drakkenheim/Sessions/Session 079.md",
-    "TTRPG/Drakkenheim/Sessions/Session 063.md",
-    "TTRPG/Drakkenheim/Sessions/Session 064.md",
-    "TTRPG/Drakkenheim/Sessions/Session 065.md",
-    "TTRPG/Drakkenheim/Locations/Cathedral of Saint Vitruvio.md",
-    "TTRPG/Drakkenheim/Locations/The Library.md",
-    "TTRPG/Drakkenheim/Locations/Chapel of Saint Brenna.md",
-    "TTRPG/Drakkenheim/Sessions/Session 058.md",
-    "TTRPG/Drakkenheim/Sessions/Session 043.md",
-    "TTRPG/Drakkenheim/Locations/Inscrutable Tower.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
