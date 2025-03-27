@@ -41,3 +41,25 @@ Keth is driven by equal parts survival instinct, ambition, and a desperate desir
 - **Rise of Keth’s Krew**: After surviving and then seizing power during a factional power struggle, Keth rebranded a gang in Buckle Down Row under her own name. “Keth’s Krew” now operates under her rule, handling smuggling, sabotage, and other criminal endeavors throughout the city. Her leadership is unconventional, often chaotic, but surprisingly effective.
     
 - **Reputation as a Deal-Maker (and Breaker)**: Keth’s most defining trait may be her unchecked impulse to make deals with anyone offering a shortcut. From tavern crooks to demonic patrons, she's quick to agree and slow to consider. This has repeatedly plunged the party into dangerous situations—but it's also opened doors no one else could.
+
+---
+
+## Backstory
+
+Keth Morikalina (Common translation "Darklighter") was a member of an aristocratic family of nobles in the Underdark. Her mother was a Professor of Alchemy at the College of Witchcraft in Menzoberranzan, the City of Spiders. Her father was a well-respected doctor, and the personal physician of two of the eight Matron Mothers of the ruling council. They owned many slaves.
+
+No one familiar with House Morikalina would ever have expected their eldest daughter, Keth, the jewel of her mother's eye, the one deemed most capable of assassinating her way onto the council, would ever forsake her many birthrights for a life of crime spent fraternizing among the lesser races.
+
+Nevertheless, Keth had made her choices, and inevitably ran afoul of Vaddix El-Vuss, an infamous Illithid crime boss who ruled the vile underworld of Menzoberranzan.
+
+Keth had made a name for herself as a talented thief and smuggler, and so was often employed by the El-Vuss organization to transport illegal artifacts out of the city and up to the surfacelands of men and mer.
+
+During one such run, Keth made a mistake, and trusted the wrong fence. While traveling a treacherous mountain road high atop a dormant volcano, a cadre of Aarakocra sky wardens descended on her convoy to screen for contraband moving through their territory. Keth was forced to send an entire wagonload of highly-illegal iocane root over the ledge into a caldera to keep from being discovered.
+
+She has not returned to the Underdark since. Vaddix El-Vuss is furious, and has spent a fortune trying to find her. He will have his money or he will have her life.
+
+
+### Personal Quest
+
+**Overwhelming Debt**
+I owe a tremendous debt of 10,000 gp to Vaddix El-Vuss, an Illithid mobster operating out of the City of Spiders, Drow capitol of the Underdark. My personal quest is to pay it back by making a fortune in Drakkenheim collecting delerium, plunder, and completing work-for-hire. Meanwhile, I must hide from bounty hunters my creditor sent to kill me.
