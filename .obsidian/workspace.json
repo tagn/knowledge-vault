@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Drakkenheim/NPCS/Baskerville.md",
+                "file": "TTRPG/Drakkenheim/NPCS/Bogdon.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Baskerville"
+              "title": "Bogdon"
             }
           }
         ],
@@ -257,11 +257,11 @@
   },
   "active": "aa9d5270cb130498",
   "lastOpenFiles": [
+    "TTRPG/Drakkenheim/NPCS/Baskerville.md",
     "TTRPG/Drakkenheim/NPCS/Armin Gainsbury.md",
     "TTRPG/Drakkenheim/NPCS/Aldor the Immense.md",
     "TTRPG/Drakkenheim/NPCS/Ansom Lang.md",
     "TTRPG/Drakkenheim/NPCS/Archmage Adriana Modiera.md",
-    "TTRPG/Drakkenheim/NPCS/Baskerville.md",
     "TTRPG/Drakkenheim/NPCS/Blackjack Mel.md",
     "templates/NPCTemplate.md",
     "TTRPG/Drakkenheim/Sessions/Session 078.md",
