@@ -29,8 +29,8 @@ tags:
 	- He says nobody has earned the Queen's favor. She might be in attendance this evening.
 - We walk out of the bar and notice three Drow standing out in the street. [[Keth Darklighter|Keth]] is invited in to join them in the [[Sweaty Bugbear]].
 - [[Seven]] casts comprehend languages and sits down at another table in the bar to eavesdrop.
-- This group was sent from [[Vattix]] bearing "peace". They recently learned there is quite a tournament going on in [[Buckle Down Row]]. Her debt may be lessened with some creative wagering.
-	- [[Keth Darklighter|Keth]] tells them that she would never "run out" on [[Vattix]]. She tries to lie to them that she never left him, she is still part of the group.
+- This group was sent from [[Vaddix]] bearing "peace". They recently learned there is quite a tournament going on in [[Buckle Down Row]]. Her debt may be lessened with some creative wagering.
+	- [[Keth Darklighter|Keth]] tells them that she would never "run out" on [[Vaddix]]. She tries to lie to them that she never left him, she is still part of the group.
 	- They want us to win the first two fights and they would bet on us.
 	- There will be a fight with "Mamba" and they want [[Keth Darklighter|Keth]] to go down. They would wipe half of her debt out after this.
 	- If they lose money on the wager, it will be considered part of [[Keth Darklighter|Keth]]'s debt.

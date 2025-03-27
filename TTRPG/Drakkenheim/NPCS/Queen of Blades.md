@@ -26,7 +26,7 @@ The **Queen of Blades** is the enigmatic and manipulative leader of the **Queen'
     
 - **Manipulates the Garrison Bombing**: She orchestrates the delivery of a dangerous package (originally framed as innocuous), setting up a chain of events that leads to **Petra Lang’s disfigurement** and **Wyldenten Proudsky’s execution**—though she positions herself cleanly outside the blast radius​.
     
-- **Demands and Threats**: She uses veiled threats to ensure compliance, making it clear to Keth that debts can be called in violently, and even implies she’d allow a dangerous outsider (Vattix) to come for Keth if they fail her​.
+- **Demands and Threats**: She uses veiled threats to ensure compliance, making it clear to Keth that debts can be called in violently, and even implies she’d allow a dangerous outsider (Vaddix) to come for Keth if they fail her​.
     
 - **Criminal Strategy**: She requests the party break into the **Hooded Lanterns’** garrison to **free captured Queen’s Men**, demonstrating her long game to destabilize rival factions from within​.
     

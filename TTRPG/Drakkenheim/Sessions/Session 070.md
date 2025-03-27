@@ -31,4 +31,4 @@ tags:
 	- Creatures can't teleport into or out of the tower rooms.
 	- The topmost layer of the tower is the Nexus. It is a gigantic arcane aparatus, whirs clicks and hums on an Obsidian plinth. Lot of swirling magic stuff around it. Pulsing sphere of energy, which emits pulses of arcane plasma. This was not made by the Academy.
 	- The deep cells below are almost impossibly deep, 1000 feet deep possibly. At the bottom of the pit is a permanent Sphere of Annihilation.
-	- We take a small barge, courteous of Nox's patron to get into [[Drakkenheim]]. We occassionally see some creatures pulling our boat up the Drann.
+	- We take a small barge, courteous of [[Nox]]'s patron to get into [[Drakkenheim]]. We occassionally see some creatures pulling our boat up the Drann.

@@ -21,7 +21,7 @@ Keth Darklighter is a cunning rogue from the Underdark, known for her sharp tong
 
 Keth is driven by equal parts survival instinct, ambition, and a desperate desire to cut herself free from the bonds of her past. Her actions are frequently self-serving, but not without a weird kind of loyalty to those she’s deemed worthy of trust. Key motivators include:
 
-- **Freedom from Vattix**: Her original goal was singular—secure enough wealth or leverage to pay off a life-debt owed to the mind flayer Vattix. That sword over her head shaped much of her early behavior.
+- **Freedom from Vaddix**: Her original goal was singular—secure enough wealth or leverage to pay off a life-debt owed to the mind flayer Vaddix. That sword over her head shaped much of her early behavior.
     
 - **Power and Autonomy**: Keth doesn’t take orders easily and hates being owned—by a mind flayer, a fiend, or fate. Her ascension to leadership over a faction in Buckle Down Row reflects her refusal to remain a pawn.
     
@@ -32,7 +32,7 @@ Keth is driven by equal parts survival instinct, ambition, and a desperate desir
 
 ## **Major Events**
 
-- **Underdark Origins & Debt to Vattix**: Keth emerged from the Underdark with a mind flayer's leash around her neck. That dark connection lingered, haunting her interactions and compelling her toward dangerous coin and influence. Victory in the Pits—slaying the Queen’s Champion—secured her freedom, repaying the debt in full.
+- **Underdark Origins & Debt to Vaddix**: Keth emerged from the Underdark with a mind flayer's leash around her neck. That dark connection lingered, haunting her interactions and compelling her toward dangerous coin and influence. Victory in the Pits—slaying the Queen’s Champion—secured her freedom, repaying the debt in full.
     
 - **Milando’s Deal**: In a classic Keth move, she entered into a bargain with a charming stranger later revealed to be the fiend Milando. The cost? Her soul, or something close to it. This deal still casts a long shadow, and its implications may not be done unraveling.
     

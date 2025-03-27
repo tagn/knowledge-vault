@@ -62,7 +62,7 @@ Beneath Buckle Down Row lies **The Pits**, a brutal gladiatorial arena.
         
     - Interacts regularly with **Rose Carver** and others.
         
-    - Informed Keth that **"Vattix can’t reach you here"**, suggesting Buckle Down has **protection against outside enemies**.
+    - Informed Keth that **"Vaddix can’t reach you here"**, suggesting Buckle Down has **protection against outside enemies**.
         
 
 ## Location Events

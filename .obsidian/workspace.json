@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Drakkenheim/Characters/Keth Darklighter.md",
+                "file": "TTRPG/Drakkenheim/Characters/Sihrr.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Keth Darklighter"
+              "title": "Sihrr"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gate",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,20 +230,27 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f2ed483abcf08cad",
+  "active": "fefdedef8003d4b4",
   "lastOpenFiles": [
-    "TTRPG/Drakkenheim/Characters/Sihrr.md",
     "TTRPG/Drakkenheim/Characters/Silas.md",
-    "TTRPG/Drakkenheim/Characters/Wyldenten Proudsky.md",
-    "TTRPG/Drakkenheim/Characters/Seven.md",
-    "TTRPG/Drakkenheim/Characters/Nox.md",
-    "TTRPG/Drakkenheim/Characters/Keth Darklighter.md",
-    "TTRPG/Drakkenheim/Characters/Arken Highbloom.md",
+    "TTRPG/Drakkenheim/Reference/Apothecary Spell List.md",
     "TTRPG/Drakkenheim/Reference/Contamination.md",
     "TTRPG/Drakkenheim/Reference/Travel Rules.md",
-    "TTRPG/Drakkenheim/Reference/Apothecary Spell List.md",
-    "TTRPG/Drakkenheim/Reference/Delerium.md",
     "TTRPG/Drakkenheim/Reference/Haze.md",
+    "TTRPG/Drakkenheim/Reference/Delerium.md",
+    "TTRPG/Drakkenheim/Sessions/Session 076.md",
+    "TTRPG/Drakkenheim/Sessions/Session 077.md",
+    "TTRPG/Drakkenheim/Sessions/Session 079.md",
+    "TTRPG/Drakkenheim/Sessions/Session 078.md",
+    "TTRPG/Drakkenheim/Characters/Nox.md",
+    "TTRPG/Drakkenheim/Sessions/Session 069.md",
+    "TTRPG/Drakkenheim/Sessions/Session 070.md",
+    "TTRPG/Drakkenheim/Sessions/Session 074.md",
+    "TTRPG/Drakkenheim/Characters/Keth Darklighter.md",
+    "TTRPG/Drakkenheim/Characters/Sihrr.md",
+    "TTRPG/Drakkenheim/Characters/Wyldenten Proudsky.md",
+    "TTRPG/Drakkenheim/Characters/Seven.md",
+    "TTRPG/Drakkenheim/Characters/Arken Highbloom.md",
     "TTRPG/Drakkenheim/Sessions/Session 018.md",
     "TTRPG/Drakkenheim/Creatures/Rat Prince.md",
     "TTRPG/Drakkenheim/Sessions/Session 004.md",
@@ -251,13 +258,6 @@
     "TTRPG/Drakkenheim/Sessions/Session 019.md",
     "TTRPG/Drakkenheim/Creatures/Giant Clockwork Spider.md",
     "TTRPG/Drakkenheim/Creatures/Haze Husk.md",
-    "TTRPG/Drakkenheim/Sessions/Session 009.md",
-    "TTRPG/Drakkenheim/Sessions/Session 020.md",
-    "TTRPG/Drakkenheim/Creatures/Haze Hulk Juggernaut.md",
-    "TTRPG/Drakkenheim/Creatures/Haze Hulk.md",
-    "TTRPG/Drakkenheim/Sessions/Session 001.md",
-    "TTRPG/Drakkenheim/Locations/Clocktower.md",
-    "TTRPG/Drakkenheim/Sessions/Session 077.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",

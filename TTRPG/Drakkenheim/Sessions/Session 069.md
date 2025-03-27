@@ -17,5 +17,5 @@ tags:
  - We rest in the temple overnight. Arkens body is petrified as like a saint.
  - 4 of the krew we sent to the camp returned. They successfully set fires to the camp, let
  - Keths krew brought us back some random bits of armor.
- - Arken2 walks in. Purple skinned tiefling, with a small beholder floating near him. Slender build.
+ - Arken2 "[[Nox]]"walks in. Purple skinned tiefling, with a small beholder floating near him. Slender build.
  - We make our way to the Rose Theatre to go start working towards the [[Inscrutable Tower]]. 
