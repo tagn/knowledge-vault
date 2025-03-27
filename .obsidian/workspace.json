@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Drakkenheim/Sessions/Session 068.md",
-                "mode": "preview",
+                "file": "TTRPG/Drakkenheim/Characters/Keth Darklighter.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 068"
+              "title": "Keth Darklighter"
             }
           }
         ]
@@ -232,8 +232,10 @@
   },
   "active": "fefdedef8003d4b4",
   "lastOpenFiles": [
-    "TTRPG/Drakkenheim/Sessions/Session 069.md",
+    "TTRPG/Drakkenheim/Characters/Arken Highbloom.md",
+    "TTRPG/Drakkenheim/Characters/Keth Darklighter.md",
     "TTRPG/Drakkenheim/Sessions/Session 068.md",
+    "TTRPG/Drakkenheim/Sessions/Session 069.md",
     "TTRPG/Drakkenheim/Sessions/Session 067.md",
     "TTRPG/Drakkenheim/Sessions/Session 070.md",
     "TTRPG/Drakkenheim/Sessions/Session 046.md",
@@ -256,8 +258,6 @@
     "TTRPG/Drakkenheim/Sessions/Session 072.md",
     "TTRPG/Drakkenheim/Sessions/Session 074.md",
     "TTRPG/Drakkenheim/Sessions/Session 075.md",
-    "TTRPG/Drakkenheim/Sessions/Session 076.md",
-    "TTRPG/Drakkenheim/Sessions/Session 077.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
