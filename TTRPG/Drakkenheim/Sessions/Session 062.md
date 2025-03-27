@@ -21,7 +21,7 @@ tags:
 - We make it to the Cathedral.
 	- [[Silas]] pre-casts Telepathic Bond and Enhance Ability (Owl's Wisdom) on the party.
 - Each of the faction's leaders are here.
-	- Eldrich Runeweaver ([[Amethyst Academy]]) + River + Simulacrum (that looks like Eldrich) + a Homunculus.
+	- [[Eldrich Runeweaver]] ([[Amethyst Academy]]) + River + Simulacrum (that looks like Eldrich) + a Homunculus.
 	- The Queen of Thieves
 	- Elias Drexel
 	- Theodore Marshall
