@@ -30,5 +30,3 @@ tags:
 - Floating there is a ~12 foot tall, green humanoid, with 8 foot across angel wings guarding a symbolic fire next to a church that has been erected near the [[Champion's Gate]].
 - [[Keth Darklighter|Keth]] fucks with it. It nearly blows us to oblivion.
 - We make our way into the city towards the bridge we scouted earlier.
-
-

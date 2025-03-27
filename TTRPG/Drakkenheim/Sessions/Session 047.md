@@ -28,6 +28,3 @@ tags:
 - We discuss some things, then head to clear out the nearby bridge from the [[Clock Tower]]
 - As we walk onto the bridge, a wall raises behind us, slowly creeping forward, shaking the entire bridge as we walk.
 - [[Silas]] gets fucked with real nice and hard as usual, but we survive in the end.
-- 
-
-

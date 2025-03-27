@@ -37,6 +37,3 @@ tags:
 		- The Nexus at the top of the tower seems to be some sort of powerful magical artifact/item/etc..
 - We encounter some [[Delerium]] lookin' shits on the way to see Grandpa about his thoughts on the [[Haze]].
 	- We encounter a [[Delerium]] Sludge monster and a creature seemingly made of Deep [[Haze]].
-- 
-
-

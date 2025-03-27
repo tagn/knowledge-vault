@@ -38,5 +38,3 @@ tags:
 - [[Keth Darklighter]] pawns the bow.
 - [[Keth Darklighter]] goes and buys a new bow. [[Silas]] pawns the Star of Iron.
 - Queen tells us about the tower: "Tower is keyed to [[Amethyst Academy]] members. Entry difficult otherwise. I've never personally been there."
-- 
-

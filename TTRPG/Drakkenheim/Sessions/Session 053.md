@@ -25,5 +25,3 @@ tags:
 	- [[Silas]] would know when the Meteor struck [[Drakkenheim]], Ulrich was elderly.
 - We get investigated by [[[Lucritia]] regarding the phylactery.
 	- She suspects that our group may have done something with it.
-- 
-

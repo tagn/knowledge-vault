@@ -32,5 +32,3 @@ tags:
 - We see a bunch of [[Haze]] hulks, we see the butcher guy kill them, then leave.
 - [[Sihrr]] insists on going back to his family home, and leaves the tower.
 - We leave off on [[Sihrr]] attempting to ditch us, and we come up upon a big fucking demonic temple.
-
-

@@ -34,4 +34,3 @@ tags:
 - [[Sihrr]] follows us out and tries to convince [[Keth Darklighter|Keth]] to give him back the documents she scooped up on her way out.
 - [[Arken Highbloom|Arken]] shows back up while [[Silas]] and [[Keth Darklighter|Keth]] are waiting for [[Sihrr]] to wrap up with the [[Pale Man]].
 - We head out back towards [[Emberwood]] and run into the monstrosity that [[Seven]] has become
-- 

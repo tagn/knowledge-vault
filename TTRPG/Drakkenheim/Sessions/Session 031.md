@@ -44,5 +44,3 @@ tags:
 - [[Keth Darklighter|Keth]] learns that eating the berries could maybe do something, but we shouldn't mix them.
 - [[Seven]] eats a gritty Grey berry.
 - [[Seven]] awakens? as a statue on the front doorstep. Whoopsie oopsie.
-
-

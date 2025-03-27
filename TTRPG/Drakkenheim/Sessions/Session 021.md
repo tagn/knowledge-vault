@@ -38,4 +38,3 @@ tags:
 - We plan on: Having [[Sihrr]] distract the a transport cart sent by the [[Hooded Lanterns]] to the [[Shepard's Gate]]. [[Keth Darklighter|Keth]] will sneak the package into the cart while [[Wyldenten Proudsky|Wyl]] and [[Arken Highbloom|Arken]] hide in a rope trick above the road.
 - [[Sihrr]] disguises himself to distract the guards for the cart. [[Keth Darklighter|Keth]] successfully plants the box. [[Wyldenten Proudsky|Wyl]] confesses to [[Arken Highbloom|Arken]] that he put a message on the box.
 - We start to look into flipping a house in town to use as a proper base of operations.
-

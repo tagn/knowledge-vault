@@ -66,4 +66,3 @@ tags:
 - [[Wyldenten Proudsky|Wyl]] give the Bless scroll to [[Sihrr]]
 - [[Keth Darklighter|Keth]] goes down the stairs and hears some things beyond it. Cackling, etc.. in a language she doesn't understand.
 - [[Arken Highbloom|Arken]] blocked the door behind us with the immovable rod.
-

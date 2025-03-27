@@ -61,4 +61,3 @@ tags:
 - [[Sihrr]] tells us about his old mentor guy, "Sir Justin", that he is trying to find.
 - We return to the house, nailed to the door is an envelope.
 	- Whispers echo, tales grow tall, But heed this warning, lest you fall. The stories told, the tales you've heard, Might not reflect the truth, word for word. Veiled in mist, I lurk unseen, But not all is as it's always been. Challenge your thoughts, don’t be so sure, For in the unknown, the truth is obscure
-

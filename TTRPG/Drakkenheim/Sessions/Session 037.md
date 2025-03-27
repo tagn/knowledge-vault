@@ -28,4 +28,3 @@ tags:
 - [[Keth Darklighter]] finds some markings depicting some information about the Garymr camp.
 - We find ourselves in another precarious situation underground in the sewers. Some strange creatures break themselves off of the wall.
 - Used Vital signs on [[Arken Highbloom]], [[Keth Darklighter]]
-- 

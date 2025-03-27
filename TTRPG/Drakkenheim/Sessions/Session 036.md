@@ -20,5 +20,3 @@ tags:
 - After a night of rest, the group heads into the city to investigate a sewer.
 - We fought a bunch of minotaurs and a Cthul? in the sewer.
 - [[Silas]] got a minotaur horn.
-
-

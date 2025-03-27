@@ -83,7 +83,6 @@ tags:
 - It's a summons from [[Keth Darklighter]]'s bosses boss
 - [[Sihrr]] goes to the [[Red Lion Hotel]] to inquire about some wine
 
-
 ## Housekeeping
 
 - Sell Items

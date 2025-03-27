@@ -25,7 +25,3 @@ tags:
 - The Black Iron Pact is now going to be inside of the city already, finding a way to sneak in.
 - After asking the [[Queen of Blades]] about our role in the assault, she doesn't seem to care much either way.
 - We're shown some books, the three original holy books of the Sacred Flame.
-- 
-
-
-

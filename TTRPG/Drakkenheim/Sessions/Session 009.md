@@ -46,6 +46,3 @@ tags:
 - Bronze Mask, looks a bit like a masquerade ball mask, he lightly taps the bronze mask with a mallet and it lets out a deep ring like a bell. [[Dead Ringer's Mask]], 800g - we bought it and will has it
 - Ceramic bat shaped ear cuff, when you try to listen to things, it will bite down and greatly enhance your ability to hear, 500g
 - Scholars hat, 500g
-
-
-

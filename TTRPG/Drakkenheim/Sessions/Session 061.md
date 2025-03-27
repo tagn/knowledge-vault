@@ -23,5 +23,3 @@ tags:
 - We get a visit from grannie. She touches [[Silas]]'s horns and they dissolve with her touch.
 - [[Sihrr]] continues to poke the bear.
 - [[Silas]] has little nubs
-
-

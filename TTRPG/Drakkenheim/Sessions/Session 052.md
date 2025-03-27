@@ -50,4 +50,3 @@ tags:
 - We somehow successfully lie to Elias Drexel about not finding the chamber containing the royal family artifacts.
 - We hand over the phylactery to [[Lucritia]]. She uses detect magic on it, then casts legend lore on it.
 - She reveals something isn't right with the item. Pulls [[Arken Highbloom]] aside, asks if companions are trustworthy, then says she will 
-

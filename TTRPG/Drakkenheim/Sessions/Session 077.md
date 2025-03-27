@@ -28,5 +28,3 @@ tags:
 - Lounging on the throne, is a creature with the head of a panther, resting on top of an 8 foot tall humanoid body.
 	- The hand raised towards us is backwards.
 	- A Rakshasa, typically has a defect in its natural form. The reversed palms are distinctive.
-- 
-

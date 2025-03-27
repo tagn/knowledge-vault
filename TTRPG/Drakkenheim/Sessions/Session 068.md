@@ -20,5 +20,3 @@ tags:
 	- Silver Order
 	- Strike on the temple and the falling fire gate
 	- Plan on using the griffon riders, calvary, and foot troops.
-	- 
-

@@ -23,5 +23,3 @@ tags:
 - We're told its another few days before we can do our spell crafting.
 - We fail our encounter check on the way back to the clocktower.
 - [[Keth Darklighter]] falls to the mighty dragon, becoming Pan-[[Keth Darklighter]].
-
-

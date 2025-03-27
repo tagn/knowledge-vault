@@ -88,4 +88,3 @@ tags:
 	- He reappears in a study within his home. Grandmother immediately reaches over and jars a vial of the lingering deep [[Haze]].
 - The Steward's seal of [[Drakkenheim]], is one of a set of 6 items made by the [[Amethyst Academy]] and the Clergy of the Sacred Flame.
 - Rolled a 7+3 for level up HP. 
-

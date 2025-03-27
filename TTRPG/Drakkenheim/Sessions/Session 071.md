@@ -69,4 +69,3 @@ tags:
 	- A scroll for a spell that we've never seen before. Temperamental Conjuring
 	- Some sort of gray, viscous polish.
 	- A grey fluid that looks more like an oil.
-	

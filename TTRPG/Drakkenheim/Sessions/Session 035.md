@@ -24,6 +24,3 @@ tags:
 - Next, a naked appearing human with taloned hands and bird wings comes flying at the group and charms us.
 - RIP [[Seven]]. Used a heavy blow to force myself into a monstrous transformation to give the party an opportunity to run.
 - The group makes it back to the garrison. They spend the night distraught in the underground bunker.
-
-
-

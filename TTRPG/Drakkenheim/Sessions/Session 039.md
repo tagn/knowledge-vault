@@ -42,4 +42,3 @@ tags:
 - We test by firing an arrow through one of the [[Haze]] Hulks, it passes straight through. Seemingly it's an illusion.
 - We fail another encounter check on our way back to [[Emberwood Village]]. We're attacked by Gargoyles and a Warp Witch.
 - We win. [[Sihrr]] eats another berry and disintegrates his pearl of power.
-

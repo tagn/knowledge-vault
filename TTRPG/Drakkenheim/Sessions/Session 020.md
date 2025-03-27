@@ -31,4 +31,3 @@ tags:
 	- Signet ring on one of its lion claws
 	- Medallion around its neck
 - [[Gertrude Ironhelm]] suggests that they can make some false teeth for [[Wyldenten Proudsky|Wyl]] once we survive the night.
-

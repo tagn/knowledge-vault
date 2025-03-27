@@ -21,5 +21,3 @@ tags:
 - Inside are some more professional looking falling fire soldiers. There are some members that appear to be from the [[Queen's Men]].
 - We give the phylactery back to [[Lucritia]].
 - The queen may help us isolate the lord commander in exchange for retrieving another seal that she knows about. Chancellors Crest - in posession by the dutchess, located in the cistern underneath slaughterstone square. 
-- 
-

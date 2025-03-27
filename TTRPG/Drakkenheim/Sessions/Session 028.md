@@ -73,5 +73,3 @@ tags:
 - Two groups are trying to win the Queen's favor.
 - [[Arken Highbloom|Arken]] is going to enter us to fight for the Queen's favor, and something hits [[Keth Darklighter|Keth]]. The drow seemingly did something to [[Keth]], but we don't know what.
 - [[Rose Carver]] slides us a very heavy purse because we've won the fights so far. +2500 gold.
-
-

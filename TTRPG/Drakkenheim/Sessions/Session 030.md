@@ -46,6 +46,3 @@ tags:
 - We hear a wailing/moaning and are ambushed by some creatures.
 - [[Seven]] gains two levels of [[Contamination]] and takes the Spider Climb mutation.
 - [[Seven]] also "gains" the Eyeless sight mutation, his eyes become milky orbs.
-- 
-
-

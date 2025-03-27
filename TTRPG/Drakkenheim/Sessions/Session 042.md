@@ -25,4 +25,3 @@ tags:
 - We decide that it's best to not try to take the fight on the bridge
 - We make our way towards the [[Klineburg Estate]] and encounter a few [[Haze]] husks and wights.
 - We get a bit lost, then end up near Slaughterstone square. We hear loud stomping and take cover (poorly). A 20-25 foot tall metallic construct appears ahead of us, wielding what appears to be an entire guillotine.
-

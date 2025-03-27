@@ -32,4 +32,3 @@ tags:
 	- 1 Planar Binding
 	- 2 Raise Dead
 	- 1 Scrying
-

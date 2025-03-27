@@ -58,4 +58,3 @@ tags:
 - [[Keth Darklighter]] is trapped in a wall of force. Someone invisible tells [[Keth Darklighter]] that they would help us find a new place if we didn't talk to anyone in town about anyone being there.
 - [[Wyldenten Proudsky]] realizes whomever is in that manor is a very powerful spell caster.
 - On the next session, we should follow up on the dwarves we saw going up to the [[Red Lion Hotel]]
-

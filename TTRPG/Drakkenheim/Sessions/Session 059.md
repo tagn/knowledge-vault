@@ -17,6 +17,3 @@ tags:
 	- Potion of Fear - Will make you feared if you drink it. 
 	- Potion of Navigation - Unable to get lost, advantage of checks for finding a route for 1 hour. 
 - We make it back to the tower after [[Keth Darklighter]] died. We successfully revived her.
-- 
-
-

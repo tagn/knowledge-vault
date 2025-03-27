@@ -28,5 +28,3 @@ tags:
 	- [[Arken Highbloom]]'s Mistress ([[Lucritia]])
 - The factions want to draw lines on if they are allies or enemies.
 - Most of them are kind of cunts about this. 
-
-
