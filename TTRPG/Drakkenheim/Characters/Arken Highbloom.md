@@ -2,13 +2,13 @@
 aliases:
   - Arken
 ---
-#### **Summary**
+## **Summary**
 
 Arken Highbloom was a devout fighter of unshakable faith, originally an Aasimar and later transformed into a Yuan-Ti. His journey was marked by unwavering conviction, spiritual transformation, and ultimate sacrifice. As a former follower of the Sacred Flame and later a leading voice of the Church of the Falling Fire, Arken was the party’s spiritual center, pushing them into alignment with religious power in Drakkenheim. He met his end in Session 68 during the Battle of the Cathedral of Saint Vitruvio, slain in honorable single combat against Knight Commander Theodore Marshall. After death, he was canonized as a saint within the Church, with a statue erected in his likeness—a symbol of sacrifice, devotion, and unbreakable belief.
 
 ---
 
-#### **Motivations**
+## **Motivations**
 
 Faith defined Arken. Whether wielding his sword or offering counsel, every action was rooted in a desire to serve a higher purpose. His motivations included:
 
@@ -19,7 +19,7 @@ Faith defined Arken. Whether wielding his sword or offering counsel, every actio
 
 ---
 
-#### **Major Events**
+## **Major Events**
 
 - **Conversion to the Church of the Falling Fire**: While initially a follower of the Sacred Flame, Arken was drawn to the more mystical, meteor-worshipping Church of the Falling Fire. He became its most loyal adherent within the party and laid the groundwork for their current alliance with the Church.
     

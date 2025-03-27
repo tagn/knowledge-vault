@@ -10,6 +10,37 @@ class: ""
 tags:
  - pc
 ---
+## **Summary**
+
+Seven was a Warforged Barbarian, once built for violence, later repurposed for loyalty. Though his time with the party was brief, his impact was significant. Rescued by the Proudsky family after being discarded by his former masters, Seven served them faithfully before the fall of Drakkenheim. He joined the party in the ruins of the city, bringing raw strength and bitter wisdom. In Session 35, Seven sacrificed himself by absorbing an overwhelming amount of Delirium-induced corruption in a desperate bid to protect his allies—ultimately undergoing a monstrous transformation and perishing in the process.
+
+---
+
+## **Motivations**
+
+Seven was forged in captivity and tempered by cruelty. His motivations were deeply rooted in his past as a gladiator and tool of the powerful:
+
+- **Hatred of Oppression**: Seven harbored deep resentment for both the Amethyst Academy and noble houses, seeing them as architects of systems that reduce beings like him to weapons and property.
+    
+- **Loyalty to the Proudsky Family**: Though not bound by magic or servitude, Seven remained devoted to the Proudsky family for rescuing him and giving him a semblance of purpose after his years of abuse.
+    
+- **Desire for Self-Worth**: Beneath his rage, there was a yearning to be more than a machine of war. His time with the party, however short, hinted at a search for identity and belonging outside the role he was built for.
+    
+
+---
+
+## **Major Events**
+
+- **Joining the Party**: Seven entered the group already weathered, both physically and emotionally. He was a soldier among rogues and zealots, offering grounded strength and a surprisingly sharp read on moral gray zones.
+    
+- **Combat in the Pits**: One of Seven's most defining contributions was his role in the battle against the Queen’s Champion in the fighting pits. His brutality and tenacity helped turn the tide in a contest that could have broken lesser warriors.
+    
+- **Corruption and Sacrifice**: In Session 35, facing a dire threat, Seven made the deliberate choice to absorb a dangerous amount of Delirium. The decision was tactical and selfless—he sought to gain power rapidly to defend his companions. But the price was high. The corruption overtook him, warping his form into something monstrous. He died not from enemy blades, but from the cost of his own desperate choice.
+    
+- **Legacy of a Weapon Turned Hero**: Though his time was limited, Seven's sacrifice resonated. He died on his own terms—not as a slave, not as a tool, but as a protector. In a city that devours the strong and exploits the weak, he died resisting both.
+
+---
+
 ## Backstory
 
 Seven originates from the realm of Caspia, the Mediterranean nation to the south of Westemar, past the Glitter Mountains. His life had a particularly unique beginning compared to most others. His first memories are not of birth or childhood, but rather of his creation.

@@ -3,13 +3,13 @@ aliases:
   - Wyl
   - Wyll
 ---
-#### **Summary**
+## **Summary**
 
 Wyldenten Proudsky was a ghostwise halfling and arcane tinkerer, originally hailing from the ruined city of Drakkenheim. Quirky, inventive, and emotionally volatile, Wyldenten’s contributions to the party included magical item crafting, scouting, and creative problem solving—often accompanied by a deep personal vulnerability. His journey was defined by obsession with his family’s fate, an erratic moral compass, and eventual collapse under the city's corrupting pressures. Wyldenten ultimately died in Session 25, executed by the Hooded Lanterns after betraying them while under immense psychological and political duress.
 
 ---
 
-#### **Motivations**
+## **Motivations**
 
 At his core, Wyldenten was driven by a desperate hope: that his family had somehow survived the cataclysm that destroyed Drakkenheim. This belief propelled him back into the city’s depths, seeking out ruins of his childhood home and business, even recovering a family safe and heirlooms. That pursuit increasingly twisted into a fixation, his emotional state fraying further each time reality failed to meet his hopes.
 
@@ -24,7 +24,7 @@ Beyond family, he was motivated by:
 
 ---
 
-#### **Major Events**
+## **Major Events**
 
 - **Return to Drakkenheim**: Wyldenten’s early goals centered on finding his childhood home. He eventually located the ruins of his family’s shop, discovering the safe and a journal locked with his birthday and parents’ anniversary—proof of his deep emotional ties and nostalgic reasoning.
     
