@@ -6,8 +6,7 @@ name: Bark & Buzzard
 container: false
 within: Emberwood Village
 ---
-
-## **Description**
+## Description
 
 The _Bark & Buzzard_ is a tavern in Emberwood Village. It has a more rugged, no-nonsense feel compared to some of the other establishments in the village. It's mentioned multiple times as a go-to spot for actual adventurers — less frilly than the _Gilded Lily_, less dangerous than _Skull & Sword_, and not as snooty as the _Red Lion Hotel_.
 
@@ -19,7 +18,7 @@ Also notable: this was supposedly **Sammy Eight-Fingers’** favorite hangout be
 
 ---
 
-## **Notable Landmarks or Features**
+## Notable Landmarks or Features
 
 - **Karen**: The bartender or proprietor; seems to be in the know and tied into the local network of adventurers.
     
@@ -34,7 +33,7 @@ Also notable: this was supposedly **Sammy Eight-Fingers’** favorite hangout be
 
 ---
 
-## **Location Events**
+## Location Events
 
 - **Initial Visit**: You were sent there on arrival in Emberwood and greeted by Karen. You ordered drinks and were approached by **Renard**, who seems to run a band called the _Gentlemen Bastards_, along with **Lyrian** (an elven woman) and **Grummish** (a bugbear with massive glasses).
     

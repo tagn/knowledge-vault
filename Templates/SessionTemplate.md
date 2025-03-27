@@ -7,11 +7,10 @@ tags:
  - session
 ---
 <% tp.file.rename("Session " + tp.user.getThisSessionNum(tp)) %>
-
 ## Summary
 
 ## Event Log
 
-<% tp.file.cursor() %>
+- <% tp.file.cursor() %>
 
 

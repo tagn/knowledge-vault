@@ -8,69 +8,74 @@ name: Emberwood Village
 container: true
 within: [[Drakkenheim Wilds]]
 ---
-
 ## Description
 
-Small village about five miles south of [[Drakkenheim]]. This is where our adventurers return after travels. There are various establishments and services available in the area, but since the area on 
-the outskirts of a literal hellscape, services in the town are very costly.
+**Emberwood Village** is a **makeshift frontier settlement** located **just outside the city of Drakkenheim**, functioning as the primary **launch point for scavengers, mercenaries, and adventurers** seeking to brave the ruins. Originally a small, possibly half-abandoned village, Emberwood was **rebuilt and reinforced** after the meteor strike, taking on the character of a **refugee shantytown meets adventurer outpost**.
 
-Most of the people here are trying to make ends meet, with some adventurers passing through to make treks to the outskirts of the ruined city and some more ambitious will venture inside of the walls to search for [[Delerium]] and other treasures.
+It was your party’s **initial home base**, where you were first paid, equipped, and introduced to the major factions and dangers surrounding Drakkenheim. Over time, however, your **relationship with the Hooded Lanterns — Emberwood’s de facto rulers — deteriorated**, and the village is now **hostile ground** for your group.
 
-## Sub Areas/Locations
+Despite the tension, Emberwood remains a **key logistical hub**, with vital services like **Caravan Park**, **Crow and Sons Smithy**, the **Chapel of Saint Ardenna**, and the **newly opened magic shop**. You continue to **infiltrate it via disguise, invisibility, or other stealth tactics** to access its resources.
 
-<!-- QueryToSerialize: LIST FROM "TTRPG/Drakkenheim/Locations" WHERE within = "Emberwood Village" -->
-<!-- SerializedQuery: LIST FROM "TTRPG/Drakkenheim/Locations" WHERE within = "Emberwood Village" -->
-- [[Bark & Buzzard]]
-<!-- SerializedQuery END -->
+## Notable Landmarks or Features
 
-## Notable Areas
+### Your Former Home
 
-### Watchtower
+- You were granted **a house in Emberwood**, renovated for you by **Emma** (daughter of Tobias at the Smithy) and her family.
+    
+- It served as your **resting point, stash house, and staging ground** early on.
+    
+- After tensions with the **Hooded Lanterns** escalated, you were forced to **abandon the property**. It is now **occupied** by other villagers and **Lantern personnel**, and returning is **high-risk**.
+    
 
+### Caravan Park
 
----
-### Bark & Buzzard
-Tavern run by a nice lady named Karen. They offer "rooms" to stay, which are actually run down houses near the tavern. Our group paid for a few rooms.
+- The **mercantile hub** of the village. Stalls, wagons, and peddlers gather here around a **boarded-up well**.
+    
+- Your go-to spot for supplies, gossip, and rumor-hunting.
+    
+- Home to **Armin Gainsbury**, an eccentric merchant, and the place where **Azan the Wanderer** briefly appeared.
+    
 
----
-### Gilded Lily
-Tavern that runs a regular talent show.
-#### NPCs
-#### Notes
-- Our group participated in the talent show here one evening when we arrived in town and made a small amount of gold by putting on a daredevil spectacle.
-
----
-### Skull *and* Sword
-Tavern that is quite roudy compared to the rest. Very cheap to drink. Seems to be "run" by members of the [[Queen's Men]].
-#### NPCs
-- [[Blackjack Mel]] - Member of the [[Queen's Men]]. Seems to run the place. Offered [[Keth Darklighter]] a job.
-#### Notes
-- Don't order the Dip
-
----
-### Eventide Manor
-Creepy haunted seeming place at the front of the town. We're told by "[[Emma]]" that sometimes people see things moving inside of it at night.
-#### NPCs
-
----
 ### Chapel of Saint Ardenna
-This chapel houses a chapter of the Sacred Flame religion, but more heretical and worshiping of meteors hitting cities.
-#### NPCs
 
----
-### Red Lion Hotel
-Fancy smansy hotel up the hill. Run by rich people and seems to be where to find the Amythyst Academy.
-#### NPCs
+- A **circular temple** devoted to the **Church of the Falling Fire**, staffed by **Flamekeeper Hannah** and visited by **Ophelia Reed**.
+    
+- The brazier at its center is used for **purging or inducing mutation**, and it serves as the **religious touchstone** for many villagers.
+    
 
----
-### Crowe & Sons
-Smithy run by [[Emma]]'s dad. Haven't gone here yet.
-#### NPCs
+### Crow and Sons Smithy
 
----
-### Caravan Court
-#### NPCs
+- The **local blacksmith**, run by **Tobias and his son Peter**.
+    
+- Functional, a bit shabby, but critical for repairing and upgrading gear.
+    
+- Close family ties to Emma, who has appeared frequently in your early village scenes.
+    
 
+### The Bark & Buzzard
 
+- The **go-to adventurer tavern** — gritty, map-covered tables, known for drawing real operators.
+    
+- You met **Karen** (the bartender), and were introduced to the **Gentlemen Bastards** here.
+    
 
+### Vil's Magic Shop
 
+- **Recently opened** within the village, but **frequently visited** by your party.
+    
+- Offers magical goods, scrolls, and minor enchanted items.
+    
+- Suggests Emberwood’s infrastructure has continued to **grow and evolve**, despite factional conflict.
+    
+
+## Location Events
+
+- **Arrival & Early Quests**: You were paid your first job wages here and began establishing connections with key figures like **Eren Marlow**, **Armin**, and **Emma**.
+    
+- **Faction Introductions**: Your first real exposure to the **Hooded Lanterns** and **Church of the Falling Fire** took place in Emberwood. You were also warned about the **Queen’s Men** from here.
+    
+- **Party Home**: Your house served as a **safe haven** for the early game — a quiet place to sleep, rest, and plan.
+    
+- **Tensions with Hooded Lanterns**: Your group’s **increasing autonomy and questionable allegiances** drew suspicion from the Lanterns. After a string of events (including **carrying out missions for rival factions**), you were **effectively exiled**.
+    
+- **Ongoing Infiltration**: You still visit for supplies or contact, but only through **disguises, invisibility, or careful timing**. Getting caught would likely spark immediate confrontation.

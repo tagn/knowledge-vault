@@ -73,10 +73,10 @@ tags:
 	- The creatures here appear to be stable. Nobody eats or drinks, but nobody seems to be decomposing or mutating any further. They are consistently unpacking and touching [[Delerium]] without issue.
 	- [[Silas]] notices that none of the creatures go into the back corner. He uncovers a hatch in the back corner.
 	- He opens and descends about 10 feet into some sort of unpleasant smelling cavern. There are a few torches lighting the way.
-- [[Sihrr]] is shown around, he notices a map on the wall that depicts the [[Inscruitable Tower]].
+- [[Sihrr]] is shown around, he notices a map on the wall that depicts the [[Inscrutable Tower]].
 	- The [[Pale Man]] mentions he hasn't let another soul inside the room in years.
 	- There is something in the city that is corrupting those within it. He explains he has a way of fixing it, to remove [[Contamination]] from creatures. He can cure it, help those grotesquely transformed to regain some of their original sanity and abilities. He said he could have cured some of the [[Haze]] creatures entirely, but it's useful at times to keep some around. Some of the creatures were those that attempted to rob him in the past, and now serve him.
-	- He has no intention of curing the creatures with him. He speaks that he has reached an amount of power that is almost godlike. To finish what he needs, he needs to get access to the [[Inscruitable Tower]]. It is in a very dangerous part of the city, even for him. He finds it difficult to travel the city unnoticed.
+	- He has no intention of curing the creatures with him. He speaks that he has reached an amount of power that is almost godlike. To finish what he needs, he needs to get access to the [[Inscrutable Tower]]. It is in a very dangerous part of the city, even for him. He finds it difficult to travel the city unnoticed.
 	- He says he has gifts for [[Sihrr]]. 
 	- He wants to harness the power from the [[Contamination]] and control it. 
 	- He offers if [[Sihrr]] can bring the queen to him, he may be able to cure her or something similar.

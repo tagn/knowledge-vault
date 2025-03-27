@@ -21,10 +21,8 @@ name: <%* tR += location_name %>
 container: false
 within: <%* tR += location_within %>
 ---
-
 ## Description
 
+## Notable Landmarks or Features
 
-## Sub Areas/Locations
-
-<!-- QueryToSerialize: LIST FROM "<%* tR += campaign_dir %>/Locations" WHERE within = "<%* tR += location_name %>" -->
+## Location Events

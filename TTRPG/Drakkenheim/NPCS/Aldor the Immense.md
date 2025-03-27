@@ -12,7 +12,7 @@ tags:
 ---
 ## Summary:
 
-**Aldor the Immense** is a prominent merchant based in [[Emberwood Village]], known primarily for dealing in magic items and particularly items associated with [[Delirium]]. He is described as physically imposing ("huge ass guy") and notably flamboyant, with an air of affluence, always surrounded by an aroma of fine tobacco and typically drinking wine. He travels with steel-skinned oxen breathing green mist and is guarded by armed attendants, which implies both wealth and caution given the dangerous nature of his trade.
+**Aldor the Immense** is a prominent merchant based in [[Emberwood Village]], known primarily for dealing in magic items and particularly items associated with [[Delirium]]. He is described as physically imposing ("huge ass guy") and notably flamboyant, with an air of affluence, always surrounded by an aroma of fine tobacco and typically drinking wine. He was often seen perched on a small chair, that did not appear to be able to support his weight in the slightest, but it somehow did. He travels with steel-skinned oxen breathing green mist and is guarded by armed attendants, which implies both wealth and caution given the dangerous nature of his trade.
 
 ---
 
@@ -27,7 +27,8 @@ tags:
 - Served as a key point of commerce when the party sought specific magical items, such as the **Dead Ringer's Mask** and healing potions.
     
 - Offered rare and powerful magical items, albeit at steep prices, making him an influential figure for adventurers operating around [[Drakkenheim]].
-    
+	
+- When the party returned with what appeared to be a genie's lamp, the relationship with Aldor quickly soured, realizing he himself may be a Djinn. After a brief confrontation Aldor disappeared from the Village, soon to be replaced by Vil's Magic Shop.
 
 ---
 

@@ -23,7 +23,7 @@ tags:
 - [[Sihrr]] buys some paper and ink to make spell scrolls
 - [[Sihrr]] goes by himself to the chapel to detect evil and good
 - We go to the [[Bark & Buzzard]] to ask [[Grummish]] for some information
-- He tells us the general area in [[The Sprawl]]  - South of [[Shepard's Way]] in the north end of [[The Sprawl]]
+- He tells us the general area in [[The Sprawl]]  - South of Shepard's Way in the north end of [[The Sprawl]]
 - He mentioned wanting some Wine if we find some
 - Guy with Captain Insignia walks into [[Bark & Buzzard]] while we are in there
 - 10am we leave town to go towards [[Drakkenheim]] to find the [[Rats Nest Tavern]]
@@ -33,7 +33,7 @@ tags:
 	- Many of them were killed, two soldiers got away
 	- Might be able to get us through the gate into the city near [[The Sprawl]]
 	- [[Wyldenten Proudsky]] almost gets beat up
-- [[Scrag Lane]] - Mud slicked road, some rubble, 
+- Scrag Lane - Mud slicked road, some rubble, 
 - [[Rats Nest Tavern]] - Pretty much destroyed
 - Wooden floorboards of the ground level are collapsed into a hole
 - [[Wyldenten Proudsky]] sets up an alarm on the entrance, gives his googles of night to [[Sihrr]]

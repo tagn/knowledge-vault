@@ -26,7 +26,7 @@ tags:
 - Clocktower in Market Square
 - Northwest is the [[Amethyst Academy]] tower, broken in the middle, top hovering above defying gravity
 - Two hours to the town, it's about 9:30am when we arrive
-- We enter up through [[Temple Road]] - this road roughly 20 feet wide
+- We enter up through Temple Road - this road roughly 20 feet wide
 - We see a bunch of shattered buildings, they seemed to be poorly constructed
 - Looking ahead straight we go towards [[The Sprawl]], to the right we see a park area
 - [[Keth Darklighter]] spots some recent tracks, three or four tracks, one is heavy footed,  horse hoof prints
