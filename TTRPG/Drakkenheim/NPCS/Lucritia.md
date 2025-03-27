@@ -10,22 +10,23 @@ class: ""
 tags:
  - npc
 ---
-## Description
+## Summary:
 
-Leader of the [[Church of the Falling Fire]]
+Lucritia appears to be associated with religious or spiritual elements in the campaign. She leads the [[Church of the Falling Fire]] faction in [[Drakkenheim]]. She is mentioned briefly but consistently in connection with [[Saint Selina's Monastery]] and the [[Chapel of Saint Ardenna]]. Lucritia seems to be a figure of religious or spiritual importance, likely involved in matters concerning contamination, corruption, and possibly healing or purification rituals related to [[Delerium]].
 
-## Quests
-<!-- QueryToSerialize: TASK FROM "TTRPG/Drakkenheim/Quests" WHERE !completed AND contains(outlinks, [[Lucritia]]) -->
+---
 
-#### Session Appearances
-<!-- QueryToSerialize: LIST FROM [[Lucritia]] WHERE file.folder = "TTRPG/Drakkenheim/Sessions" -->
-<!-- SerializedQuery: LIST FROM [[Lucritia]] WHERE file.folder = "TTRPG/Drakken[[Drakkenheim/Sessions/Session 004|Session 004]]n 004.md|Session 004]]
-- [[Session 016]]
-- [[Session 024]]
-- [[Session 030]]
-- [[Session 031]]
-- [[Session 045]]
-<!-- SerializedQuery END -->
+## Significant Events:
 
+- Lucritia is mentioned as being located at [[Saint Selina's Monastery]], indicating her involvement with religious activities or groups focused on spirituality or purification rituals​.
+    
+- She is associated with significant locations that the party considers important for dealing with corruption, contamination, and [[Delerium]]-related problems​.
+    
 
+---
 
+## Faction Associations:
+
+- Associated with **Saint Selina’s Monastery**, indicating connections with religious or spiritual groups focused on handling contamination or spiritual corruption.
+    
+- Potential indirect connection with the **Sacred Flame** and/or the followers of the meteor ("star that came") due to her religious and spiritual affiliations implied through Saint Selina’s Monastery and the Chapel of Saint Ardenna.

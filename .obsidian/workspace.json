@@ -8,37 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fcabcd48cba7e673",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TTRPG/Drakkenheim/Quests/It Always Starts With Rats In A Cellar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "It Always Starts With Rats In A Cellar"
-            }
-          },
-          {
             "id": "aa9d5270cb130498",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Drakkenheim/NPCS/Bogdon.md",
-                "mode": "preview",
+                "file": "index.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bogdon"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,32 +232,32 @@
   },
   "active": "aa9d5270cb130498",
   "lastOpenFiles": [
-    "TTRPG/Drakkenheim/NPCS/Baskerville.md",
-    "TTRPG/Drakkenheim/NPCS/Armin Gainsbury.md",
-    "TTRPG/Drakkenheim/NPCS/Aldor the Immense.md",
-    "TTRPG/Drakkenheim/NPCS/Ansom Lang.md",
-    "TTRPG/Drakkenheim/NPCS/Archmage Adriana Modiera.md",
-    "TTRPG/Drakkenheim/NPCS/Blackjack Mel.md",
-    "templates/NPCTemplate.md",
-    "TTRPG/Drakkenheim/Sessions/Session 078.md",
-    "TTRPG/Drakkenheim/Sessions/Session 079.md",
+    "TTRPG/Drakkenheim/Factions/Queen's Men.md",
+    "TTRPG/Drakkenheim/World Summary.md",
+    "TTRPG/Drakkenheim/Quests/Bomb the Gate.md",
+    "TTRPG/Drakkenheim/Quests/It Always Starts With Rats In A Cellar.md",
+    "TTRPG/Drakkenheim/Quests/Prayers for Ironhelm Delerium.md",
+    "TTRPG/Drakkenheim/Quests/Spell Crafting In the Tower.md",
+    "TTRPG/Drakkenheim/Quests/The Pale Man with a Pale Plan.md",
+    "TTRPG/Drakkenheim/Quests/The Queen's Lillies.md",
+    "TTRPG/Drakkenheim/Quests/The Smuggler's Bar.md",
+    "TTRPG/Drakkenheim/Quests/This Helm Is My Ironhelm.md",
+    "TTRPG/Drakkenheim/Quests/Ironhelm Delerium Exclusivity.md",
+    "TTRPG/Drakkenheim/Quests/I'm Cleaning Out My Clock Tower.md",
+    "TTRPG/Drakkenheim/Factions/Knights of the Silver Order.md",
+    "TTRPG/Drakkenheim/Sessions/Session 062.md",
+    "TTRPG/Drakkenheim/Sessions/Session 063.md",
+    "TTRPG/Drakkenheim/Sessions/Session 064.md",
+    "TTRPG/Drakkenheim/Sessions/Session 065.md",
+    "TTRPG/Drakkenheim/Sessions/Session 066.md",
+    "TTRPG/Drakkenheim/Sessions/Session 067.md",
+    "TTRPG/Drakkenheim/Sessions/Session 068.md",
     "TTRPG/Drakkenheim/Sessions/Session 069.md",
-    "TTRPG/Drakkenheim/Sessions/Session 055.md",
-    "TTRPG/Drakkenheim/Sessions/Session 047.md",
-    "TTRPG/Drakkenheim/Sessions/Session 011.md",
-    "TTRPG/Drakkenheim/Sessions/Session 003.md",
-    "TTRPG/Drakkenheim/Sessions/Session 001.md",
-    "TTRPG/Drakkenheim/Locations/Bark & Buzzard.md",
-    "TTRPG/Drakkenheim/Locations/Black Ivory Inn.md",
-    "TTRPG/Drakkenheim/Locations/Buckle Down Row.md",
-    "TTRPG/Drakkenheim/Locations/Caravan Park.md",
-    "TTRPG/Drakkenheim/Locations/Castle Drakken.md",
-    "TTRPG/Drakkenheim/Locations/Chapel of Saint Ardenna.md",
-    "TTRPG/Drakkenheim/Locations/Crow and Sons Smithy.md",
-    "TTRPG/Drakkenheim/Locations/Drakkenheim.md",
-    "TTRPG/Drakkenheim/Locations/Drakkenheim Wilds.md",
-    "TTRPG/Drakkenheim/Locations/Emberwood Village.md",
-    "TTRPG/Drakkenheim/Locations/Eventide Manor.md",
+    "TTRPG/Drakkenheim/Sessions/Session 070.md",
+    "TTRPG/Drakkenheim/Sessions/Session 071.md",
+    "TTRPG/Drakkenheim/Sessions/Session 072.md",
+    "TTRPG/Drakkenheim/Sessions/Session 075.md",
+    "TTRPG/Drakkenheim/Sessions/Session 074.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",

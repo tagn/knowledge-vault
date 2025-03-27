@@ -17,12 +17,10 @@ created: <%* tR += creation_date %>
 campaign: <%* tR += campaign_name %>
 name: <%* tR += faction_name %>
 ---
+## Summary
 
-## Description
+## Significant Events
 
+## Major Members
 
-## Associated NPCS
-
-<!-- QueryToSerialize: LIST FROM "<%* tR += campaign_dir %>/NPCS" WHERE faction = "<%* tR += faction_name %>" -->
-
-## Notes
+## Relationships

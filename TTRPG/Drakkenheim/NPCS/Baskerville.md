@@ -30,11 +30,3 @@ tags:
 - **Queen's Men**:
     
     - **Baskerville** leads the **Howling Dogs**, a gang within **Buckle Down Row**, likely under the broader umbrella of the **Queen's Men**, given their territorial control and influence in Drakkenheim.
-#### Session Appearances
-<!-- QueryToSerialize: LIST FROM [[Baskerville]] WHERE file.folder = "TTRPG/Drakkenheim/Sessions" -->
-<!-- SerializedQuery: LIST FROM [[Baskerville]] WHERE file.folder = "TTRPG/Drakkenheim/Sessions" -->
-- [[TTRPG/Drakkenheim/Sessions/Session 008.md|Session 008]]
-<!-- SerializedQuery END -->
-
-
-

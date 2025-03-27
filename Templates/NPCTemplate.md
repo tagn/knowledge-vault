@@ -26,15 +26,8 @@ class:
 tags:
  - npc
 ---
-
 ## Summary
 
 ## Significant Events
 
 ## Faction Associations
-
-#### Session Appearances
-<!-- QueryToSerialize: LIST FROM [[<%* tR += npc_name %>]] WHERE file.folder = "<%* tR += campaign_dir %>/Sessions" -->
-
-
-

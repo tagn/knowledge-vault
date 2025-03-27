@@ -36,19 +36,3 @@ tags:
     - Acts as a critical member or facilitator within the **Queen’s Men** organization, responsible for local recruitment, intelligence gathering, and connecting new recruits with powerful figures.
         
     - Directly involved in maintaining order and criminal activities within **Buckle Down Row** and beyond.
-
-#### Session Appearances
-<!-- QueryToSerialize: LIST FROM [[Blackjack Mel]] WHERE file.folder = "TTRPG/Drakkenheim/Sessions" -->
-<!-- SerializedQuery: LIST FROM [[Blackjack Mel]] WHERE file.folder = "TTRPG/Drakkenheim/Sessions" -->
-- [[TTRPG/Drakkenheim/Sessions/Session 004.md|Session 004]]
-- [[TTRPG/Drakkenheim/Sessions/Session 008.md|Session 008]]
-- [[Session 012]]
-- [[Session 017]]
-- [[Session 025]]
-- [[Session 028]]
-- [[Session 029]]
-- [[Session 060]]
-<!-- SerializedQuery END -->
-
-
-

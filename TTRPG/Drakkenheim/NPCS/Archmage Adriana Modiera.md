@@ -51,14 +51,3 @@ tags:
 - **Potential Rivals and Allies**:
     
     - Given the political climate, she likely interacted, competed, or cooperated with factions like the **Hooded Lanterns**, the **Queen’s Men**, and possibly the **Silver Order**, particularly regarding governance and the management of magical threats.
-
----
-
-#### Session Appearances
-<!-- QueryToSerialize: LIST FROM [[Archmage Adriana Modiera]] WHERE file.folder = "TTRPG/Drakkenheim/Sessions" -->
-<!-- SerializedQuery: LIST FROM [[Archmage Adriana Modiera]] WHERE file.folder = "TTRPG/Drakkenheim/Sessions" -->
-- [[Session 028]]
-<!-- SerializedQuery END -->
-
-
-

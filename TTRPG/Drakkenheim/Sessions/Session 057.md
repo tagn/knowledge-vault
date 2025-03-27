@@ -25,9 +25,9 @@ tags:
 		- Digging further he finds a book on ruins. This book details that this is a building, as far as anyone knows, has always been here. This building predates [[Drakkenheim]], predating the [[Amethyst Academy]]. The initial founding of the city was around this tower. No real record has ever been found of its construction.
 		- It's one of three widely known strongholds of the [[Amethyst Academy]].
 - We get back over to the Cathedral after coming up with nothing major at the Library.
-- We find there to be a reasonable mass of people hanging around the Cathedral. There are about 25 members of the Falling Fire, working on cleaning up/performing repairs. About 15 members of the Silver Order. Standing on a small pulpit in the center of the Cathedral we see Lucretia reading out passages. 
+- We find there to be a reasonable mass of people hanging around the Cathedral. There are about 25 members of the Falling Fire, working on cleaning up/performing repairs. About 15 members of the Silver Order. Standing on a small pulpit in the center of the Cathedral we see [[Lucritia]] reading out passages. 
 - In a few days there will be a meeting of some of the factions.
-- [[Arken Highbloom]] asks Lucretia about the Phylactery. She insists it's not the original after study with the Academy mages.
+- [[Arken Highbloom]] asks [[Lucritia]] about the Phylactery. She insists it's not the original after study with the Academy mages.
 - [[Sihrr]] catches something odd from a comment [[Silas]] made about the Phylactery not being found.
 - We head back out the Temple Gate towards [[Emberwood Village]].
 - We come home to [[Milando]] sitting in our house, smoking a pipe, eating some cheese.

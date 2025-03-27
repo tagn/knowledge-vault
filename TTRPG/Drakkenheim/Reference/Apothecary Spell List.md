@@ -1,5 +1,4 @@
 
-
 ## Cantrips
 
 ### Acid Burn

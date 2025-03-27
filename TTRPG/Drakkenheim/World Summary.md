@@ -1,14 +1,4 @@
 
-## Active Quests
-
-<!-- QueryToSerialize: TABLE WITHOUT ID file.link AS "Quest", "[[" + location + "]]" as "Location", complete_by AS "Time Remaining", "[[" + faction + "]]" as "Faction", initator AS "Initiator" FROM "TTRPG/Drakkenheim" WHERE type = "quest" AND !completed SORT file.name ASC -->
-<!-- SerializedQuery: TABLE WITHOUT ID file.link AS "Quest", "[[" + location + "]]" as "Location", complete_by AS "Time Remaining", "[[" + faction + "]]" as "Faction", initator AS "Initiator" FROM "TTRPG/Drakkenheim" WHERE type = "quest" AND !completed SORT file.name ASC -->
-
-| Quest | Location | Time Remaining | Faction | Initiator |
-| ----- | -------- | -------------- | ------- | --------- |
-<!-- SerializedQuery END -->
-
-
 ## Major Locations
 
 <!-- QueryToSerialize: LIST FROM "TTRPG/Drakkenheim/Locations" WHERE within = "None" -->

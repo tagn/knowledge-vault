@@ -20,7 +20,7 @@ tags:
 - On the top, large firepit and a bell with two guards looking outward to the city
 - [[Hooded Lanterns]] wear a cloak/hood with a brooch that looks like a lantern
 	- We meet [[Rain Highlash]] and start asking about the city - Sergeant
-	- Teenage woman walks out, bold noble features, [[Petra Lang]] - Lieutenant - "[[Lang]]"
+	- Teenage woman walks out, bold noble features, [[Petra Lang]] - Lieutenant
 - [[Hooded Lanterns]] - Used to be the defacto military of [[Drakkenheim]], they are what is left of the Army. Stayed loyal to the monarchy, fought under [[Elias Drexxel]], who now runs the [[Hooded Lanterns]]. They want to eventually retake the city and destroy all the Delirium.
 - "Don't go near the walls, very dangerous"
 	- Stay anywhere outside of the walls, stay away from the gates

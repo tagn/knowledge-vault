@@ -27,7 +27,7 @@ tags:
 - [[Arken Highbloom|Arken]] checks out the statue of the Queen for anything interesting, no luck.
 - We encounter some trolls that want us to give up a limb in exchange for the flowers.
 - We kill one of them, the other one offers to parlay.
-- He leads us to the "Eldritch [[Lily]] Pond" after we spare him.
+- He leads us to the "Eldritch Lily Pond" after we spare him.
 - We see five more of the handmaidens standing in the water. We see two large flowers with the petals.
 - The troll departs, and gives us directions to the other garden place.
 - [[Arken Highbloom|Arken]] swaps with his echo to get close to the flowers, clicks the immovable rod in place to hang in the air, then grabs a flower. 
