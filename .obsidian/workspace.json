@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Drakkenheim/NPCS/Grandmother.md",
+                "file": "TTRPG/Drakkenheim/NPCS/Aldor the Immense.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Grandmother"
+              "title": "Aldor the Immense"
             }
           }
         ]
@@ -230,34 +230,34 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "aa9d5270cb130498",
+  "active": "f2ed483abcf08cad",
   "lastOpenFiles": [
-    "TTRPG/Drakkenheim/NPCS/Aldor the Immense.md",
+    "TTRPG/Drakkenheim/NPCS/Blackjack Mel.md",
+    "TTRPG/Drakkenheim/NPCS/Grummish.md",
+    "TTRPG/Drakkenheim/NPCS/Grunt.md",
+    "TTRPG/Drakkenheim/NPCS/Keith.md",
+    "TTRPG/Drakkenheim/NPCS/Lady Frostgleam.md",
+    "TTRPG/Drakkenheim/NPCS/Lily.md",
     "TTRPG/Drakkenheim/NPCS/Grandmother.md",
+    "TTRPG/Drakkenheim/Factions/Church of the Falling Fire.md",
+    "TTRPG/Drakkenheim/Sessions/Session 078.md",
+    "TTRPG/Drakkenheim/Sessions/Session 079.md",
+    "TTRPG/Drakkenheim/NPCS/Archmage Adriana Modiera.md",
+    "TTRPG/Drakkenheim/NPCS/Ansom Lang.md",
+    "TTRPG/Drakkenheim/NPCS/Aldor the Immense.md",
+    "TTRPG/Drakkenheim/Factions/Queen's Men.md",
+    "TTRPG/Drakkenheim/Factions/Knights of the Silver Order.md",
+    "TTRPG/Drakkenheim/Factions/Hooded Lanterns.md",
+    "TTRPG/Drakkenheim/Factions/Amethyst Academy.md",
     "TTRPG/Drakkenheim/NPCS/Lucretia.md",
     "TTRPG/Drakkenheim/NPCS/Ryan Greymere.md",
     "TTRPG/Drakkenheim/Sessions/Session 001.md",
     "TTRPG/Drakkenheim/Sessions/Session 002.md",
     "TTRPG/Drakkenheim/Sessions/Session 076.md",
-    "TTRPG/Drakkenheim/Sessions/Session 078.md",
-    "TTRPG/Drakkenheim/Sessions/Session 079.md",
     "TTRPG/Drakkenheim/Sessions/Session 005.md",
     "TTRPG/Drakkenheim/NPCS/Armin Gainsbury.md",
     "TTRPG/Drakkenheim/NPCS/Eldrich Runeweaver.md",
     "TTRPG/Drakkenheim/Sessions/Session 063.md",
-    "TTRPG/Drakkenheim/Sessions/Session 062.md",
-    "TTRPG/Drakkenheim/Sessions/Session 003.md",
-    "TTRPG/Drakkenheim/Sessions/Session 004.md",
-    "TTRPG/Drakkenheim/Sessions/Session 006.md",
-    "TTRPG/Drakkenheim/Sessions/Session 007.md",
-    "TTRPG/Drakkenheim/Sessions/Session 008.md",
-    "TTRPG/Drakkenheim/Sessions/Session 009.md",
-    "TTRPG/Drakkenheim/Sessions/Session 010.md",
-    "TTRPG/Drakkenheim/Sessions/Session 011.md",
-    "TTRPG/Drakkenheim/Sessions/Session 012.md",
-    "TTRPG/Drakkenheim/Sessions/Session 013.md",
-    "TTRPG/Drakkenheim/Sessions/Session 014.md",
-    "TTRPG/Drakkenheim/Sessions/Session 015.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",

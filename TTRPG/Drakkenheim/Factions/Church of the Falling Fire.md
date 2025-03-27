@@ -28,7 +28,7 @@ The **Church of the Falling Fire** is a dominant religious faction centered arou
 
 ## Major Members:
 
-- **Lucretia**: Spiritual leader and possibly the **High Flamekeeper** or equivalent within the Church. She plays a pivotal role in guiding the faith’s moral compass and interacting with outsiders. Respected, trusted, and seen by your party as a rare stable force.
+- **Lucretia**: Spiritual leader within the **Church of the Falling Fire**. She plays a pivotal role in guiding the faith’s moral compass and interacting with outsiders. Respected, trusted, and seen by your party as a rare stable force.
     
 - **Ophelia Reed**: **High Flamekeeper** of the **Chapel of Saint Ardenna**, flanked by **Knights of the Silver Order**. Wields potent divine magic and relics. While more militant and dogmatic than Lucretia, she represents the Church’s formal power and authority​.
     
