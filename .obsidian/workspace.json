@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Drakkenheim/NPCS/Aldor the Immense.md",
-                "mode": "source",
+                "file": "TTRPG/Drakkenheim/Locations/Buckle Down Row.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aldor the Immense"
+              "title": "Buckle Down Row"
             }
           }
         ]
@@ -230,8 +230,12 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f2ed483abcf08cad",
+  "active": "aa9d5270cb130498",
   "lastOpenFiles": [
+    "TTRPG/Drakkenheim/Locations/Black Ivory Inn.md",
+    "TTRPG/Drakkenheim/Locations/Bark & Buzzard.md",
+    "TTRPG/Drakkenheim/Locations/Buckle Down Row.md",
+    "TTRPG/Drakkenheim/NPCS/Aldor the Immense.md",
     "TTRPG/Drakkenheim/NPCS/Blackjack Mel.md",
     "TTRPG/Drakkenheim/NPCS/Grummish.md",
     "TTRPG/Drakkenheim/NPCS/Grunt.md",
@@ -244,7 +248,6 @@
     "TTRPG/Drakkenheim/Sessions/Session 079.md",
     "TTRPG/Drakkenheim/NPCS/Archmage Adriana Modiera.md",
     "TTRPG/Drakkenheim/NPCS/Ansom Lang.md",
-    "TTRPG/Drakkenheim/NPCS/Aldor the Immense.md",
     "TTRPG/Drakkenheim/Factions/Queen's Men.md",
     "TTRPG/Drakkenheim/Factions/Knights of the Silver Order.md",
     "TTRPG/Drakkenheim/Factions/Hooded Lanterns.md",
@@ -255,9 +258,6 @@
     "TTRPG/Drakkenheim/Sessions/Session 002.md",
     "TTRPG/Drakkenheim/Sessions/Session 076.md",
     "TTRPG/Drakkenheim/Sessions/Session 005.md",
-    "TTRPG/Drakkenheim/NPCS/Armin Gainsbury.md",
-    "TTRPG/Drakkenheim/NPCS/Eldrich Runeweaver.md",
-    "TTRPG/Drakkenheim/Sessions/Session 063.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
