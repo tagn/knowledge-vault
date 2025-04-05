@@ -15,4 +15,4 @@ tags:
 - [[Keth Darklighter|Keth]] finds some large hoof prints, perhaps a War Horse, possibly belonging to some scouts/members of the [[Knights of the Silver Order]].
 - While attempting to short rest, a [[Hooded Lanterns]] patrol comes by, but we scare them off with a cloudkill spell.
 - While attempting to rest again, we start hearing shambling coming down the walkway. Combat starts against three undead looking creatures.
-- 
+- Elbows to hands, covered in green pustules, bubble to bubble. 
