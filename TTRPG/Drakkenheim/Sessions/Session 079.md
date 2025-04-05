@@ -25,3 +25,5 @@ tags:
 			- Choose proficiencies that I don't have when I rest
 - We sleep overnight in the [[Inscrutable Tower]], then make our way down to the Great Hall for breakfast and are greeted with a note on the Elevator from [[Ryan Greymere]].
 - The bearer of this note is under the protection of the Archmage of [[Drakkenheim]], any who would do them harm are gonna get tossed, anyone who would aid them are good friends.
+- We went to check out the Temple Gate
+- We end up fighting a vampire.
