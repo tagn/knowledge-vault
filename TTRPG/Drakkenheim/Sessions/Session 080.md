@@ -22,4 +22,6 @@ tags:
 - On our way to [[Buckle Down Row]], we approach the [[Drann River]] and come across a ferryman, that appears to be a haze husk, who approaches us and reaches his hand out. We give him a gold piece each and board his small boat, and he takes us across the river.
 - We fail our next encounter check trying to make it back to [[Buckle Down Row]].
 - We succeed in a battle against some large haze creature, plus a few Garmyr.
+- We make it back to [[Buckle Down Row]], then drag the unconscious knight into our bar.
+- Occasionally, around midday there is a large gathering in the middle of camp.
 - 
