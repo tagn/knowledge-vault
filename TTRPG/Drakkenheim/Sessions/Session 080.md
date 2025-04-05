@@ -31,4 +31,4 @@ tags:
 	- 50% of the force is awake and armed at all times. Manned their walls 24/7.
 	- "I suppose if he got word that the reinforcements were under attack, he could lead a group of people out to go rally to them."
 	- When asked about a method of killing the commander, the knight recoiled and refused to answer.
-	- 
+- 
