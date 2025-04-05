@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Drakkenheim/Characters/Keth Darklighter.md",
-                "mode": "preview",
+                "file": "TTRPG/Drakkenheim/Sessions/Session 080.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Keth Darklighter"
+              "title": "Session 080"
             }
           }
         ]
@@ -232,11 +232,12 @@
   },
   "active": "fefdedef8003d4b4",
   "lastOpenFiles": [
+    "TTRPG/Drakkenheim/Characters/Keth Darklighter.md",
+    "TTRPG/Drakkenheim/Sessions/Session 080.md",
     "TTRPG/Drakkenheim/Characters/Silas.md",
     "TTRPG/Drakkenheim/Characters/Sihrr.md",
     "TTRPG/Drakkenheim/Characters/Seven.md",
     "TTRPG/Drakkenheim/Characters/Nox.md",
-    "TTRPG/Drakkenheim/Characters/Keth Darklighter.md",
     "TTRPG/Drakkenheim/Reference/Apothecary Spell List.md",
     "TTRPG/Drakkenheim/Reference/Contamination.md",
     "TTRPG/Drakkenheim/Reference/Travel Rules.md",
@@ -257,7 +258,6 @@
     "TTRPG/Drakkenheim/Creatures/Minotaur Pirates.md",
     "TTRPG/Drakkenheim/Sessions/Session 019.md",
     "TTRPG/Drakkenheim/Creatures/Giant Clockwork Spider.md",
-    "TTRPG/Drakkenheim/Creatures/Haze Husk.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
