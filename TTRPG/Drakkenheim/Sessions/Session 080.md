@@ -21,4 +21,5 @@ tags:
 - We bind the Knight after he is infected, and convince the page that we're helpful. He says they have maybe half of their forces. We're not able to ascertain much more information out of the page. Once he seems to have outlived his usefulness, [[Silas]] beckons him closer and stabs him. We knock the knight unconscious and throw him on top of the horse.
 - On our way to [[Buckle Down Row]], we approach the [[Drann River]] and come across a ferryman, that appears to be a haze husk, who approaches us and reaches his hand out. We give him a gold piece each and board his small boat, and he takes us across the river.
 - We fail our next encounter check trying to make it back to [[Buckle Down Row]].
+- We succeed in a battle against some large haze creature, plus a few Garmyr.
 - 
