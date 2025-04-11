@@ -24,5 +24,11 @@ tags:
 - [[Keth Darklighter|Keth]] suggested about "cutting off the head" of the [[Hooded Lanterns]] and we noticed a negative reaction from the [[Queen of Thieves]].
 - The [[Queen of Thieves]] informed [[Ryan Greymere]] that she will get in touch with the directorate, and advise them to send a representative to meet her.
 - We request materials from the [[Inscrutable Tower]] that can aid us in burning a purple smoke.
-
+- The [[Queen of Thieves]] bestows a boon upon [[Silas]], by casting the spell Foresight on him.
+	- [[Silas]] gets: For 8 hours:
+		- Can't be surprised
+		- Advantage on Attack rolls, Ability Checks, and Saving Throws
+		- Other creatures have disadvantage on attack rolls against me for 8 hours.
+- [[Ryan Greymere]] taps a crows feather on each of us, giving us the ability to fly for the next 10 minutes.
+- We head to execute our plan against the [[Knights of the Silver Order]].
 
