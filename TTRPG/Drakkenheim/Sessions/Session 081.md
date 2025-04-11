@@ -31,4 +31,10 @@ tags:
 		- Other creatures have disadvantage on attack rolls against me for 8 hours.
 - [[Ryan Greymere]] taps a crows feather on each of us, giving us the ability to fly for the next 10 minutes.
 - We head to execute our plan against the [[Knights of the Silver Order]].
+- We set the smoke about a hour outside of [[Camp Dawn]], then head back towards [[Camp Dawn]] to stage an ambush.
+- We draw some cards from the deck of cards that [[Nox]] has.
+- [[Silas]] draws two cards, one has a horrific face on it.
+	- [[Silas]] is subtracting 1d4 from any saving throw he makes.
+	- For the next 9 days, [[Silas]] has resistance to radiant damage.
+- 
 
