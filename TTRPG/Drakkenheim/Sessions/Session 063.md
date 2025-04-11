@@ -15,7 +15,7 @@ tags:
 - We head over to the Rose Theatre to see if Ryan can assist us getting to the fey wilds.
 - [[Ryan Greymere]] gave us some information, but was unable to help us get to the Fey Wilds.
 - We likely need to talk to the [[Amethyst Academy]] directly
-- The [[Queen of Blades]] could help us in exchange for the head of [[Elias Drexxel]].
+- The [[Queen of Thieves]] could help us in exchange for the head of [[Elias Drexxel]].
 - We return to [[Emberwood Village]] and [[Arken Highbloom]] somehow charms a guard on our way back into town.
 - We convince [[Eldrich Runeweaver]] to transport us to the fey wilds.
 - [[Silas]] strips naked and the gate to the city lets him in. [[Sihrr]] and [[Keth Darklighter]] both give the gate a nice compliment. [[Arken Highbloom]] runs into the gate and it hits him, then he lays on the ground and is allowed in.

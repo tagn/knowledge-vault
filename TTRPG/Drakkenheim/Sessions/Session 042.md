@@ -12,7 +12,7 @@ tags:
 
 ## Event Log
 
-- We awake to a phone call from the [[Queen of Blades]]
+- We awake to a phone call from the [[Queen of Thieves]]
 - We say we'll meet her around noon tomorrow at the smugglers tunnel.
 - We take a peek up at the roof of the Clocktower
 - We talk about going to the bridge to the south, then go up towards the [[Klineburg Estate]].

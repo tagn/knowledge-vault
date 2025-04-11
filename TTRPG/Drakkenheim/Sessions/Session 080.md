@@ -27,7 +27,7 @@ tags:
 - We make it back to [[Buckle Down Row]], then drag the unconscious knight into our bar.
 - Occasionally, around midday there is a large gathering in the middle of camp.
 - We all rest for an hour at the bar, while [[Silas]] removes the disease inflicted on himself and the knight we captured so that we may interrogate him further.
-- We interrogate the Knight Commander, while the [[Queen of Blades]] has him under the effect of Dominate Person.
+- We interrogate the Knight Commander, while the [[Queen of Thieves]] has him under the effect of Dominate Person.
 	- 50% of the force is awake and armed at all times. Manned their walls 24/7.
 	- "I suppose if he got word that the reinforcements were under attack, he could lead a group of people out to go rally to them."
 	- When asked about a method of killing the commander, the knight recoiled and refused to answer.

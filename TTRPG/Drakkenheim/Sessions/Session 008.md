@@ -58,7 +58,7 @@ tags:
 - [[Rita]] seems nice but is a "ruthless killer", she was one of the most notorious assassins before she retired
 - Younger girl comes over to [[Keth Darklighter]], says "Veronica" would like to talk to [[Keth Darklighter]]
 - [[Veronica Venom]], she runs this bar [[Keth Darklighter]] went to. [[Blackjack Mel]] mentioned [[Keth Darklighter]] to Veronica
-- She tells [[Keth Darklighter]] if she were to pass the exam to enter she might be able to join. She'll have to pay a fee to the [[Queen of Blades]] if she joins the crew
+- She tells [[Keth Darklighter]] if she were to pass the exam to enter she might be able to join. She'll have to pay a fee to the [[Queen of Thieves]] if she joins the crew
 - This group controls a decent territory in the city
 - They do smuggling/odd jobs/whatever pays
 - They did a little digging on [[Keth Darklighter]], found that she might have a bounty out on her
