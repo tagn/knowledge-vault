@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Drakkenheim/Sessions/Session 080.md",
+                "file": "TTRPG/Drakkenheim/Sessions/Session 081.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 080"
+              "title": "Session 081"
             }
           }
         ]
@@ -233,8 +233,9 @@
   },
   "active": "fefdedef8003d4b4",
   "lastOpenFiles": [
-    "TTRPG/Drakkenheim/Sessions/Session 079.md",
     "TTRPG/Drakkenheim/Sessions/Session 080.md",
+    "TTRPG/Drakkenheim/Sessions/Session 081.md",
+    "TTRPG/Drakkenheim/Sessions/Session 079.md",
     "TTRPG/Drakkenheim/Sessions/Session 078.md",
     "TTRPG/Drakkenheim/Characters/Keth Darklighter.md",
     "TTRPG/Drakkenheim/Characters/Silas.md",
@@ -258,7 +259,6 @@
     "TTRPG/Drakkenheim/Sessions/Session 004.md",
     "TTRPG/Drakkenheim/Creatures/Minotaur Pirates.md",
     "TTRPG/Drakkenheim/Sessions/Session 019.md",
-    "TTRPG/Drakkenheim/Creatures/Giant Clockwork Spider.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",

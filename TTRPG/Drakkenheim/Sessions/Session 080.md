@@ -32,4 +32,3 @@ tags:
 	- "I suppose if he got word that the reinforcements were under attack, he could lead a group of people out to go rally to them."
 	- When asked about a method of killing the commander, the knight recoiled and refused to answer.
 - [[Silas]] walks the poor, flayed, knight out of town, then gives him a disease for him to die in the street.
-- 
