@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Drakkenheim/Sessions/Session 081.md",
+                "file": "Personal Misc/Packing List - Berlin.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 081"
+              "title": "Packing List - Berlin"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.51103591918945,
-    "collapsed": true
+    "width": 357.51103591918945
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -233,8 +232,8 @@
   },
   "active": "fefdedef8003d4b4",
   "lastOpenFiles": [
-    "TTRPG/Drakkenheim/Sessions/Session 080.md",
     "TTRPG/Drakkenheim/Sessions/Session 081.md",
+    "TTRPG/Drakkenheim/Sessions/Session 080.md",
     "TTRPG/Drakkenheim/Sessions/Session 079.md",
     "TTRPG/Drakkenheim/Sessions/Session 078.md",
     "TTRPG/Drakkenheim/Characters/Keth Darklighter.md",
