@@ -20,6 +20,7 @@ tags:
 - [[Lucretia]] wants to bring [[Theodore Marshall]] back to life to coerce him into changing to her side.
 - We rest for the night, and level up to 11.
 - In the morning we head down to see how the resurrection of [[Theodore Marshall]] has gone.
+- [[Nox]] has a tentacle mommy that booped [[Silas]] and [[Keth Darklighter|Keth]], whom now have eye balls on their chests.
 - 
 
 
