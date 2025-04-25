@@ -22,5 +22,9 @@ tags:
 - In the morning we head down to see how the resurrection of [[Theodore Marshall]] has gone.
 - [[Nox]] has a tentacle mommy that booped [[Silas]] and [[Keth Darklighter|Keth]], whom now have eye balls on their chests.
 - The [[Queen of Thieves]] gives us a new set of pins, so we each now have one.
-
+- Nobody that was sent to investigate [[Castle Drakken]] has returned.
+- She tells that not everyone got out of the Castle after the meteor struck.
+	- The Royal Steward refused to leave the King. He failed. He may still be there.
+	- The castle has protections on the walls. Similar to the Gargoyles on the walls enclosing the city, there is something similar. There are also tower dragons.
+	- 
 
