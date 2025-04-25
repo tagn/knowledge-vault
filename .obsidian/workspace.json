@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,8 +232,9 @@
   },
   "active": "fefdedef8003d4b4",
   "lastOpenFiles": [
-    "TTRPG/Drakkenheim/Sessions/Session 081.md",
+    "TTRPG/Drakkenheim/Sessions/Session 029.md",
     "TTRPG/Drakkenheim/Sessions/Session 082.md",
+    "TTRPG/Drakkenheim/Sessions/Session 081.md",
     "TTRPG/Drakkenheim/Characters/Arken Highbloom.md",
     "TTRPG/Drakkenheim/Characters/Keth Darklighter.md",
     "TTRPG/Drakkenheim/Characters/Seven.md",
@@ -257,7 +258,6 @@
     "TTRPG/Drakkenheim/Sessions/Session 076.md",
     "TTRPG/Drakkenheim/Sessions/Session 077.md",
     "TTRPG/Drakkenheim/Sessions/Session 070.md",
-    "TTRPG/Drakkenheim/Sessions/Session 074.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
