@@ -18,6 +18,8 @@ tags:
 - We pile up the corpses of the remaining knights to burn and pack up [[Theodore Marshall]]'s corpse in the bag of holding.
 - We make out way back around towards the city, steering far south to avoid any additional reinforcements.
 - [[Lucretia]] wants to bring [[Theodore Marshall]] back to life to coerce him into changing to her side.
+- We rest for the night, and level up to 11.
+- In the morning we head down to see how the resurrection of [[Theodore Marshall]] has gone.
 - 
 
 
