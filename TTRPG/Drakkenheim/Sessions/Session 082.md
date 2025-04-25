@@ -26,5 +26,6 @@ tags:
 - She tells that not everyone got out of the Castle after the meteor struck.
 	- The Royal Steward refused to leave the King. He failed. He may still be there.
 	- The castle has protections on the walls. Similar to the Gargoyles on the walls enclosing the city, there is something similar. There are also tower dragons.
+	- The Diamond of Mount Kadath is believed to be in the Royal Vaults
 	- 
 
