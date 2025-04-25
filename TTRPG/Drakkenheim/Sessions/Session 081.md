@@ -38,5 +38,5 @@ tags:
 	- For the next 9 days, [[Silas]] has resistance to radiant damage.
 - We do more preparation for a fight than we ever have.
 - We ambush a group of horse riders that enter the woods.
-- 
+- We successfully slay [[Theodore Marshall]]
 

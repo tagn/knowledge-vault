@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Misc/Packing List - Berlin.md",
+                "file": "TTRPG/Drakkenheim/Sessions/Session 082.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Packing List - Berlin"
+              "title": "Session 082"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.51103591918945
+    "width": 222.51103591918945
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -233,6 +233,8 @@
   "active": "fefdedef8003d4b4",
   "lastOpenFiles": [
     "TTRPG/Drakkenheim/Sessions/Session 081.md",
+    "TTRPG/Drakkenheim/Sessions/Session 082.md",
+    "Personal Misc/Packing List - Berlin.md",
     "TTRPG/Drakkenheim/Sessions/Session 080.md",
     "TTRPG/Drakkenheim/Sessions/Session 079.md",
     "TTRPG/Drakkenheim/Sessions/Session 078.md",
@@ -256,8 +258,6 @@
     "TTRPG/Drakkenheim/Sessions/Session 018.md",
     "TTRPG/Drakkenheim/Creatures/Rat Prince.md",
     "TTRPG/Drakkenheim/Sessions/Session 004.md",
-    "TTRPG/Drakkenheim/Creatures/Minotaur Pirates.md",
-    "TTRPG/Drakkenheim/Sessions/Session 019.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
