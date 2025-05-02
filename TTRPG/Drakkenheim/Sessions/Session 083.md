@@ -20,6 +20,7 @@ tags:
 	- Among the corpses we see a variety of folk, hooded lanterns, amethyst academy, queen's men, etc..
 - We move into an area of the sewers, and encounter a group of "dregish" merfolk, accompanied by waterlogged women with sea weed for hair. 
 - After originally telling us that there is no path through the sewers. They suddenly shift gears and offer to take us to a passage out. After a 30 or 40 minute walk, we reach the "exit" but there is no visible exit. One of the merladies pulls out a crab and smashes it against the wall, then smears it over the wall and a glamour on the wall disappears which reveals a staircase up into the city.
+- We drop by the [[Klineburg Estate]], then head over to the library. On the way  there we do see a [[Hooded Lanterns]] patrol, perhaps 4 or 5 of them. [[Sihrr]] and [[Keth Darklighter|Keth]] want to assault them or something. [[Silas]] and [[Nox]] reluctantly follow. [[Keth Darklighter|Keth]] pounces on one of them and begins questioning them.
 - 
 
 
