@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Session 082"
             }
+          },
+          {
+            "id": "89b8338a95d45b07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/Drakkenheim/Sessions/Session 083.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 083"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.51103591918945
+    "width": 222.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -230,10 +256,11 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "fefdedef8003d4b4",
+  "active": "89b8338a95d45b07",
   "lastOpenFiles": [
-    "TTRPG/Drakkenheim/Sessions/Session 029.md",
     "TTRPG/Drakkenheim/Sessions/Session 082.md",
+    "TTRPG/Drakkenheim/Sessions/Session 083.md",
+    "TTRPG/Drakkenheim/Sessions/Session 029.md",
     "TTRPG/Drakkenheim/Sessions/Session 081.md",
     "TTRPG/Drakkenheim/Characters/Arken Highbloom.md",
     "TTRPG/Drakkenheim/Characters/Keth Darklighter.md",
@@ -257,7 +284,6 @@
     "TTRPG/Drakkenheim/Reference/Delerium.md",
     "TTRPG/Drakkenheim/Sessions/Session 076.md",
     "TTRPG/Drakkenheim/Sessions/Session 077.md",
-    "TTRPG/Drakkenheim/Sessions/Session 070.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
