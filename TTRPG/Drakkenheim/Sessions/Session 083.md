@@ -19,6 +19,7 @@ tags:
 	- This appears to be an old reservoir. Down in the water it's filled with dozens of water logged corpses.
 	- Among the corpses we see a variety of folk, hooded lanterns, amethyst academy, queen's men, etc..
 - We move into an area of the sewers, and encounter a group of "dregish" merfolk, accompanied by waterlogged women with sea weed for hair. 
+- After originally telling us that there is no path through the sewers. They suddenly shift gears and offer to take us to a passage out. After a 30 or 40 minute walk, we reach the "exit" but there is no visible exit. One of the merladies pulls out a crab and smashes it against the wall, then smears it over the wall and a glamour on the wall disappears which reveals a staircase up into the city.
 - 
 
 
