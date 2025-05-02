@@ -31,5 +31,6 @@ tags:
 - [[Silas]] is torn on what happened with the summoned dragon.
 	- 1. Something corrupts things draconic.
 	- 2. Something about the area tries to take over summons.
+- The gate/etc.. has Armor of Agathas on it. It seems like it's completely magically reinforced. They are immune to fire, poison, psychic damage, resistant to all other damage. It completely extends into the ethereal plane. Creatures outside of any castle structure cannot teleport into the interior of any other castle structure. A character attuned to a seal of drakkenheim ignores this effect.
 
 
