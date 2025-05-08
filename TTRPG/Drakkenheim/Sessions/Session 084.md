@@ -26,7 +26,6 @@ tags:
 	- She has a few conditions for it.
 	- She would prefer if the Phylactery is not used to harm anyone that she considers innocent, or unsure on their path of their religious journey.
 	- The only other request is that whichever one of us chooses to utilize it, will pledge that we won't sell or offer it in trade.
-	- 
-- 
+- The Queen may have another seal
 
 
