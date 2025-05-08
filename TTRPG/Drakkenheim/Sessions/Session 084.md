@@ -21,5 +21,6 @@ tags:
 	- As we get closer to the castle, a bright purple glow emanates from every window. It is not the haze, it blocks any line of sight from the outside into the castle.
 	- Defenses are in place that prevent teleporting in/out of the Castle. You need a direct line of sight to your destination.
 	- They will attack any enemy the travels up the road on foot, climbs more than halfway up the walls, or fly over the walls. They will pursue relentlessly into the castle itself.
+	- If we do make it deep into the castle, they have put warding on the royal vaults itself. 
 
 
