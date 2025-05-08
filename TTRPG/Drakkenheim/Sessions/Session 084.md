@@ -26,6 +26,6 @@ tags:
 	- She has a few conditions for it.
 	- She would prefer if the Phylactery is not used to harm anyone that she considers innocent, or unsure on their path of their religious journey.
 	- The only other request is that whichever one of us chooses to utilize it, will pledge that we won't sell or offer it in trade.
-- The Queen may have another seal
+- The Queen may have another seal, perhaps we can make a deal with her for it. Otherwise our options are get it from Ryan Greymere, get it from Elias Drexxel, or perhaps stick one of us into a bag and carry them in, but that's risky if we need to be within the castle grounds.
 
 
