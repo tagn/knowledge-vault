@@ -21,6 +21,12 @@ tags:
 	- As we get closer to the castle, a bright purple glow emanates from every window. It is not the haze, it blocks any line of sight from the outside into the castle.
 	- Defenses are in place that prevent teleporting in/out of the Castle. You need a direct line of sight to your destination.
 	- They will attack any enemy the travels up the road on foot, climbs more than halfway up the walls, or fly over the walls. They will pursue relentlessly into the castle itself.
-	- If we do make it deep into the castle, they have put warding on the royal vaults itself. 
+	- If we do make it deep into the castle, they have put warding on the royal vaults itself.
+- WE GET THE PHYLACTERY BOYS!!
+	- She has a few conditions for it.
+	- She would prefer if the Phylactery is not used to harm anyone that she considers innocent, or unsure on their path of their religious journey.
+	- The only other request is that whichever one of us chooses to utilize it, will pledge that we won't sell or offer it in trade.
+	- 
+- 
 
 
