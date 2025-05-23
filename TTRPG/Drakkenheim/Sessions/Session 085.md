@@ -24,6 +24,6 @@ In Oregon City USA, graveyard contains Glenn and Marie Pendergraph with a shared
 - We asked the Queen about the spymasters signet, she said she looked for it for years.
 - The spymaster was a half-elf assassin - turns out the queen killed her and got the ring from her.
 - There are many denizens inside the tower that won't respect them. Chief amongst them, menezerad.
-- 
+- We make back for our tower.
 
 
