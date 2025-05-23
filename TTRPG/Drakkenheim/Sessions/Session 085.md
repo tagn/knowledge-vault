@@ -15,6 +15,13 @@ In Oregon City USA, graveyard contains Glenn and Marie Pendergraph with a shared
 
 ## Event Log
 
-- 
+- We have 2 of the 4 seals that we need, and discuss the possibilities to get the remaining.
+	- The staff - Unlikely, Ryan Greymere has it
+	- The lord commanders seal - Would need to talk to Elias Drexxel
+	- The chancellors crest - The queen is going to give it back to us
+	- The spymasters signet - Unsure, best guess is that the queen has it
+	- The crown - Unknown, probably in the castle
+- We asked the Queen about the spymasters signet, she said she looked for it for years.
+- The spymaster was a half-elf assassin
 
 
