@@ -26,6 +26,7 @@ In Oregon City USA, graveyard contains Glenn and Marie Pendergraph with a shared
 - There are many denizens inside the tower that won't respect them. Chief amongst them, menezerad.
 - We make back for our tower.
 - Nox has some vision about a rift next to the throne, a large scary creature, and a crown.
+- We all got a cast of death ward on us.
 - 
 
 
