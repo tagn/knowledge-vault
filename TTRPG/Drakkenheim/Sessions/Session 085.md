@@ -25,5 +25,6 @@ In Oregon City USA, graveyard contains Glenn and Marie Pendergraph with a shared
 - The spymaster was a half-elf assassin - turns out the queen killed her and got the ring from her.
 - There are many denizens inside the tower that won't respect them. Chief amongst them, menezerad.
 - We make back for our tower.
+- Nox has some vision about a rift next to the throne, a large scary creature, and a crown.
 
 
