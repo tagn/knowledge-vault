@@ -27,5 +27,7 @@ tags:
 - There is no exit to the second floor here. 
 - At the top of the stairs we find a ladder that goes to a hatch on the ceiling. We decide to head back down.
 - We head up the stairs on the left side of the second floor and encounter another Veroc, some quasits, and some Gabaligoo demon.
+- We head up a spiral staircase, then encounter a group of large demons.
+- Ulrich, his will alone contains the Haze. The King is not strong enough to defeat the haze himself, but these demons can show us how to stop it.
 - 
 
