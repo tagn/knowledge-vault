@@ -26,6 +26,6 @@ tags:
 - On the side of the wall, Silas notices some spores stuck to the wall. It's a residue of sorts. This is "veroc" poison. These are large flying vulture demons. We kill one, then head back towards
 - There is no exit to the second floor here. 
 - At the top of the stairs we find a ladder that goes to a hatch on the ceiling. We decide to head back down.
-- We head up the stairs on the left side of the second floor.
+- We head up the stairs on the left side of the second floor and encounter another Veroc, some quasits, and some Gabaligoo demon.
 - 
 
