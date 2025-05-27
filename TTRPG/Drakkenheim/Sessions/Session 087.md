@@ -1,0 +1,27 @@
+---
+type: session
+created: 2025-05-26
+campaign: Drakkenheim
+location: []
+tags:
+ - session
+---
+
+## Summary
+
+## Event Log
+
+- We pick up back in the castle, on the second floor perhaps.
+- Retcon - We actually have 60 feet vision.
+- When the forcefield went up, everyone in the room, including the Queen, would have heard:
+	- "Not yet. Save me."
+- We ask the queen about where the King's Chambers would be. They should be two or three floors up from where we are. Below may be the vault, and mausoleum.
+- We enter up the "Stair Tower".
+	- At the first landing:
+	- There are two arched walkways to the right, leading towards other towers.
+	- To the left we see a hallway which terminates with stairs going up and down.
+- Keth notices what might be an eye watching us. She also notices that the eye on her chest is closed.
+- Keth finds a route leading downwards behind the fireplace in the first room on the left.
+- Heading to the left, we find a sitting room, then to the left from that we see multiple Quasits.
+
+

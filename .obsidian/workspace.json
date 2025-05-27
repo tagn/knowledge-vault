@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Drakkenheim/Sessions/Session 085.md",
+                "file": "TTRPG/Drakkenheim/Sessions/Session 087.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 085"
+              "title": "Session 087"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.51103591918945
+    "width": 222.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -232,8 +233,10 @@
   },
   "active": "610bdbfb5ec2c3db",
   "lastOpenFiles": [
-    "TTRPG/Drakkenheim/Sessions/Session 084.md",
+    "TTRPG/Drakkenheim/Sessions/Session 086.md",
+    "TTRPG/Drakkenheim/Sessions/Session 087.md",
     "TTRPG/Drakkenheim/Sessions/Session 085.md",
+    "TTRPG/Drakkenheim/Sessions/Session 084.md",
     "TTRPG/Drakkenheim/Sessions/Session 046.md",
     "TTRPG/Drakkenheim/Sessions/Session 076.md",
     "TTRPG/Drakkenheim/Sessions/Session 083.md",
@@ -256,8 +259,6 @@
     "TTRPG/Drakkenheim/Sessions/Session 078.md",
     "TTRPG/Drakkenheim/Characters/Nox.md",
     "TTRPG/Drakkenheim/Reference/Apothecary Spell List.md",
-    "TTRPG/Drakkenheim/Reference/Contamination.md",
-    "TTRPG/Drakkenheim/Reference/Travel Rules.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
