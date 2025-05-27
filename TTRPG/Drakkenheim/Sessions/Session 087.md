@@ -23,7 +23,8 @@ tags:
 - Keth notices what might be an eye watching us. She also notices that the eye on her chest is closed.
 - Keth finds a route leading downwards behind the fireplace in the first room on the left.
 - Heading to the left, we find a sitting room, then to the left from that we see multiple Quasits.
-- On the side of the wall, Silas notices some spores stuck to the wall. It's a residue of sorts. This is "veroc" poison. These are large flying vulture demons.
+- On the side of the wall, Silas notices some spores stuck to the wall. It's a residue of sorts. This is "veroc" poison. These are large flying vulture demons. We kill one, then head back towards
 - There is no exit to the second floor here. 
+- At the top of the stairs we find a ladder that goes to a hatch on the ceiling. We decide to head back down.
 - 
 
