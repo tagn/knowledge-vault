@@ -29,5 +29,6 @@ tags:
 - We head up the stairs on the left side of the second floor and encounter another Veroc, some quasits, and some Gabaligoo demon.
 - We head up a spiral staircase, then encounter a group of large demons.
 - Ulrich, his will alone contains the Haze. The King is not strong enough to defeat the haze himself, but these demons can show us how to stop it.
+- The rat prince was Leonard von Kessel, the son of the king.
 - 
 
