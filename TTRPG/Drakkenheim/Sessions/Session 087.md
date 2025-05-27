@@ -31,5 +31,7 @@ tags:
 - Ulrich, his will alone contains the Haze. The King is not strong enough to defeat the haze himself, but these demons can show us how to stop it.
 - The rat prince was Leonard von Kessel, the son of the king.
 - Nox attacks the demon and starts a brawl.
-- 
+- Sihrr reclaims the Shield from the Kings chambers, but we're trapped inside of his chambers with the same disembodied voice saying "save me".
+- The Queen tells us she knows - Katherine Von Kessel. Daughter of the king and queen. Unfortunately she knows both of her parents are deceased or monsters worse than deceased. She would of course like to free her father, but won't throw her life away doing it.
+- The other three towers - the stewards tower, the ambassadors tower, and the stewards tower.
 
