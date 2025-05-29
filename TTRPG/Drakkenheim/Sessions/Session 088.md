@@ -18,6 +18,6 @@ tags:
 - Keth looks around the statues more, and finds a hidden passage that leads into another hallway. She hears some clanging from down the hall, sounds like a kitchen.
 - To the south-east there is the servants entrance. Through the kitchen we may find a sewer entrance.
 - We fight some sludges, silas goes down. We enter the sewers with Nox protecting us with a neutralizing field.
-- 
+- Nox's patron is known as the Dutchess, 
 
 
