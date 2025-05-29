@@ -13,6 +13,5 @@ tags:
 
 - We pick up going down the chute outside of the Kings chambers.
 - 
-- 
 
 
