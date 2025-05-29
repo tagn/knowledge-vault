@@ -25,6 +25,8 @@ tags:
 	- Should the bastard be removed from the picture or not?
 - Can see straight across to the Royal apartments area, can't see into them over their battlements. We see Menazerand outside.
 - We head way down the Stewards tower towards the basement.
+- We make our way through the Kitchen, and then through a long passage south, into the servants lodge. This is in the lower bailey area of the castle.
+- Towards the Mausoleum we see two large mother fuckers.
 - 
 
 
