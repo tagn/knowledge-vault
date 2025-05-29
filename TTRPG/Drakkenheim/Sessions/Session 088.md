@@ -36,5 +36,5 @@ tags:
 		- A mask - Winged, looks like a helmet with a masquerade mask in front of it
 		- A robe - It is adorned with eyelike patterns
 - We leave the vault, heading into the mausoleum. There are very large delerium crystals, leaking delerium sludge, filled to knee height.
-- 
+- Magical
 
