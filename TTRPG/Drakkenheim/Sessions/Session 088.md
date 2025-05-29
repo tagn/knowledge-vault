@@ -11,6 +11,8 @@ tags:
 
 ## Event Log
 
+- We pick up going down the chute outside of the Kings chambers.
+- 
 - 
 
 
