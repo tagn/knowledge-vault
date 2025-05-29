@@ -27,6 +27,13 @@ tags:
 - We head way down the Stewards tower towards the basement.
 - We make our way through the Kitchen, and then through a long passage south, into the servants lodge. This is in the lower bailey area of the castle.
 - Towards the Mausoleum we see two large mother fuckers.
-- 
-
+- AND MY AXE
+- We find the vault,
+	- Keth steals gold bars
+	- 6 emeralds, 4 diamonds, rubies, and sapphires.
+	- Collection of magically notarized, sealed, documents. Jewelry boxes containing some really expensive looking stuff. Keth steals some sapphire stuff
+	- Scroll of resurrection, one rare magic item, one very rare magic item.
+		- A mask - Winged, looks like a helmet with a masquerade mask in front of it
+		- A robe - It is adorned with eyelike patterns
+- We leave the vault, heading into the mausoleum. There are very large delerium crystals, leaking delerium sludge, filled to knee height.
 
