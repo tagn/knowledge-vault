@@ -35,6 +35,6 @@ tags:
 - Above the throne, through the rift, we can see the space between worlds.
 - Character may only attune to the crown, each attuned to the
 	- 3 charges, can expend 1 action to cast the wish spell
-	- While wearing the crown
+	- While wearing the crown he can command
 
 
