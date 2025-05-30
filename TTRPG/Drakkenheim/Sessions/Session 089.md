@@ -30,6 +30,6 @@ tags:
 - Around the balcony, still in royal garb, are delerium dregs. Gibbering mouthers are spread throughout the room. Before the throne is a gibbering amalgamation, suspended between the ceiling and the floor. The mass is covered in bursting sores, and weeps bile and Delerium sludge through its pours. Dangling amongst the shit is the crown. Contamination emanates from the creature.
 - We begin possibly the last combat of the game.
 - Out of the portal, gibbering mouthers start spawning
-- 
+- Top of the round, starts vibrating and gibbering mouther explodes.
 
 
