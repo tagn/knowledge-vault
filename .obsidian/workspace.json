@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Drakkenheim/Sessions/Session 088.md",
+                "file": "TTRPG/Drakkenheim/Sessions/Session 089.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 088"
+              "title": "Session 089"
             }
           }
         ]
@@ -233,8 +233,9 @@
   },
   "active": "610bdbfb5ec2c3db",
   "lastOpenFiles": [
-    "TTRPG/Drakkenheim/Sessions/Session 087.md",
     "TTRPG/Drakkenheim/Sessions/Session 088.md",
+    "TTRPG/Drakkenheim/Sessions/Session 089.md",
+    "TTRPG/Drakkenheim/Sessions/Session 087.md",
     "TTRPG/Drakkenheim/Sessions/Session 086.md",
     "TTRPG/Drakkenheim/Sessions/Session 085.md",
     "TTRPG/Drakkenheim/Sessions/Session 084.md",
@@ -258,7 +259,6 @@
     "TTRPG/Drakkenheim/Sessions/Session 080.md",
     "TTRPG/Drakkenheim/Sessions/Session 079.md",
     "TTRPG/Drakkenheim/Sessions/Session 078.md",
-    "TTRPG/Drakkenheim/Characters/Nox.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
