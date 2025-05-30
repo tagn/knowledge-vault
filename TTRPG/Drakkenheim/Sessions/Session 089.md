@@ -22,5 +22,13 @@ tags:
 - The steward requests that we don't aid the monster above.
 	- With the seals invested in the steward, he may be able to return the guardians (dragon, etc..) and turn them upon the monsters in the castle and the city.
 - Johan currently is just able to activate and deactivate some defenses, but has little power left. If he dies the pillar will not be able to contain the rift.
+- Silas, Sihrr, and Elias Drexxel have Death Ward cast on them.
+- We charge into the throne room.
+- The sovern chamber has a 60ft ceiling, ringed by columns, supporting balcony 30 feet up.
+- The throne itself is on a three tiered marble platform, flanked by warped statues of knights.
+- Above the throne is a dimensional rift, leading to the space between worlds.
+- Around the balcony, still in royal garb, are delerium dregs. Gibbering mouthers are spread throughout the room. Before the throne is a gibbering amalgamation, suspended between the ceiling and the floor. The mass is covered in bursting sores, and weeps bile and Delerium sludge through its pours. Dangling amongst the shit is the crown. Contamination emanates from the creature.
+- We begin possibly the last combat of the game.
+- 
 
 
