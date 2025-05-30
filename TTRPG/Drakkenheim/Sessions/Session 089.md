@@ -31,6 +31,8 @@ tags:
 - We begin possibly the last combat of the game.
 - Out of the portal, gibbering mouthers start spawning
 - Top of the round, starts vibrating and gibbering mouther explodes.
+- We slay the amalgamation, everything starts collapsing.
+- Above the throne, through the rift, we can see the space between worlds.
 - 
 
 
