@@ -34,7 +34,9 @@ tags:
 	- Collection of magically notarized, sealed, documents. Jewelry boxes containing some really expensive looking stuff. Keth steals some sapphire stuff
 	- Scroll of resurrection, one rare magic item, one very rare magic item.
 		- A mask - Winged, looks like a helmet with a masquerade mask in front of it
+			- Flying speed of 60 feet, advantage on initiative rolls.
 		- A robe - It is adorned with eyelike patterns
-- We leave the vault, heading into the mausoleum. There are very large delerium crystals, leaking delerium sludge, filled to knee height.
+			- Robe lets you see in all directions, darkvision out to 120 feet, see invisible creatures and objects, out to 120 feet, and see out into the ethereal plane. Eyes on the robe cannot be closed or averted. A light spell or daylight causes you to be blinded for 1 minute.
+- We leave the vault, heading into the mausoleum. There are very large Delerium crystals, leaking Delerium sludge, filled to knee height.
 - We defeat the Gravekeeper, and find Johan Isner glued to it, along with a gross fleshy mound.
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Drakkenheim/Sessions/Session 089.md",
+                "file": "TTRPG/Drakkenheim/Sessions/Session 088.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 089"
+              "title": "Session 088"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.51103591918945,
-    "collapsed": true
+    "width": 222.51103591918945
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -233,9 +232,9 @@
   },
   "active": "610bdbfb5ec2c3db",
   "lastOpenFiles": [
+    "TTRPG/Drakkenheim/Sessions/Session 089.md",
     "TTRPG/Drakkenheim/Sessions/Session 087.md",
     "TTRPG/Drakkenheim/Sessions/Session 088.md",
-    "TTRPG/Drakkenheim/Sessions/Session 089.md",
     "TTRPG/Drakkenheim/Sessions/Session 086.md",
     "TTRPG/Drakkenheim/Sessions/Session 085.md",
     "TTRPG/Drakkenheim/Sessions/Session 084.md",
