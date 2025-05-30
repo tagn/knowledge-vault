@@ -36,5 +36,6 @@ tags:
 - Character may only attune to the crown, each attuned to the
 	- 3 charges, can expend 1 action to cast the wish spell
 	- While wearing the crown he can command
-- 
+- Sihrr wishes the portal closed.
+- The portal collapses in on itself.
 
