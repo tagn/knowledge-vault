@@ -37,5 +37,7 @@ tags:
 	- 3 charges, can expend 1 action to cast the wish spell
 	- While wearing the crown he can command
 - Sihrr wishes the portal closed.
-- The portal collapses in on itself.
+- The portal collapses in on itself. The haze is not resolved.
+- We attempt to resurrect Johan Isner, but he does not willingly accept the resurrection spell.
+- 
 
