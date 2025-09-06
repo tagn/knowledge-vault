@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Drakkenheim/Sessions/Session 089.md",
+                "file": "TTRPG/Waking Realms/Reference/Lore Dump.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 089"
+              "title": "Lore Dump"
             }
           }
         ]
@@ -230,10 +230,14 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "610bdbfb5ec2c3db",
+  "active": "f2ed483abcf08cad",
   "lastOpenFiles": [
-    "TTRPG/Drakkenheim/Sessions/Session 088.md",
+    "TTRPG/Waking Realms/Reference",
+    "TTRPG/Waking Realms/Sessions",
     "TTRPG/Drakkenheim/Sessions/Session 089.md",
+    "TTRPG/Waking Realms/Reference/Lore Dump.md",
+    "TTRPG/Waking Realms",
+    "TTRPG/Drakkenheim/Sessions/Session 088.md",
     "TTRPG/Drakkenheim/Sessions/Session 087.md",
     "TTRPG/Drakkenheim/Sessions/Session 086.md",
     "TTRPG/Drakkenheim/Sessions/Session 085.md",
@@ -256,8 +260,6 @@
     "TTRPG/Drakkenheim/Sessions/Session 065.md",
     "Personal Misc/Packing List - Berlin.md",
     "TTRPG/Drakkenheim/Sessions/Session 080.md",
-    "TTRPG/Drakkenheim/Sessions/Session 079.md",
-    "TTRPG/Drakkenheim/Sessions/Session 078.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
@@ -266,8 +268,6 @@
     "Scripts/getThisCampaignFactions.js",
     "Scripts/getThisCampaignDir.js",
     "Scripts",
-    "rewrite.py",
-    "Dockerfile",
     "Images/Pasted image 20240425201415.png",
     "Pasted image 20240425201415.png",
     "Images/quaggoth.png",
