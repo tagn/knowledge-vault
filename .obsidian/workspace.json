@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "Lore Dump"
             }
+          },
+          {
+            "id": "e2618fd09d144613",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,6 +227,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -230,7 +244,7 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f2ed483abcf08cad",
+  "active": "e2618fd09d144613",
   "lastOpenFiles": [
     "TTRPG/Waking Realms/Reference",
     "TTRPG/Waking Realms/Sessions",
