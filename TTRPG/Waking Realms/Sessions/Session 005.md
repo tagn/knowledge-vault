@@ -9,4 +9,4 @@
 - Unknown to the group, Rinn sneaks out at night to go keep an eye on Shamus, as he feels like he might be under an attack from some shady individuals that think they can rob him.
 - The group goes back to pick up the Potions, but the potions they get are all different looking from the one Drovak bought. She throws in a fourth purple potion.
 - Drovak goes to run a few errands while they are doing that. He tries to get some information on the Coin Dancer, but is too intimidating while asking random passerby's questions. He buys some cartographer's tools and a few more spools of rope.
-- We sail out to the location. 
+- We sail out to the location. Everyone but Serena dives into the water. Vaelion uses locate object and we begin heading towards the location of the 
