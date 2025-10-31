@@ -1,0 +1,1 @@
+- We have a job from the "Jolly Shadow", which is some sort of underground faction. .  
