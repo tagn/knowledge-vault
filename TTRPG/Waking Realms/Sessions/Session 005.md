@@ -5,5 +5,8 @@
 - "The cure for honesty" is the slogan of the store.
 - Drovak purchases a potion of "Water Breathing" from the shop.
 - Serena donates some gold to someone on the street.
-- At the barnacle thing, Drovak hears someone talking that the Coin Dancers are looking for people to go and put a stop to the raiding happening. They are sick of it, and considering signing up because they are supposed to be paying fairly well.
+- At the barnacle thing, Drovak hears someone talking that the Coin Dancers are looking for people to go and put a stop to the raiding happening. They are sick of it, and considering signing up because they are supposed to be paying fairly well. They might be able to be found in the Casino district. They are the guild that runs the Casino. 
 - Unknown to the group, Rinn sneaks out at night to go keep an eye on Shamus, as he feels like he might be under an attack from some shady individuals that think they can rob him.
+- The group goes back to pick up the Potions, but the potions they get are all different looking from the one Drovak bought. She throws in a fourth purple potion.
+- Drovak goes to run a few errands while they are doing that. He tries to get some information on the Coin Dancer, but is too intimidating while asking random passerby's questions. He buys some cartographer's tools and a few more spools of rope.
+- 
