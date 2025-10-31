@@ -4,4 +4,5 @@
 - Bring up the encounter with the halfling, ask where they slept. The halflings in this place are lustful.
 - "The cure for honesty" is the slogan of the store.
 - Drovak purchases a potion of "Water Breathing" from the shop.
+- Serena donates some gold to someone on the street.
 - 
