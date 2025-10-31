@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Waking Realms/Reference/Lore Dump.md",
+                "file": "TTRPG/Waking Realms/Sessions/Session 005.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lore Dump"
-            }
-          },
-          {
-            "id": "e2618fd09d144613",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "Session 005"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,12 +231,13 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "e2618fd09d144613",
+  "active": "610bdbfb5ec2c3db",
   "lastOpenFiles": [
+    "TTRPG/Waking Realms/Reference/Lore Dump.md",
+    "TTRPG/Waking Realms/Sessions/Session 005.md",
     "TTRPG/Waking Realms/Reference",
     "TTRPG/Waking Realms/Sessions",
     "TTRPG/Drakkenheim/Sessions/Session 089.md",
-    "TTRPG/Waking Realms/Reference/Lore Dump.md",
     "TTRPG/Waking Realms",
     "TTRPG/Drakkenheim/Sessions/Session 088.md",
     "TTRPG/Drakkenheim/Sessions/Session 087.md",
@@ -281,7 +269,6 @@
     "Scripts/getThisCampaignLocations.js",
     "Scripts/getThisCampaignFactions.js",
     "Scripts/getThisCampaignDir.js",
-    "Scripts",
     "Images/Pasted image 20240425201415.png",
     "Pasted image 20240425201415.png",
     "Images/quaggoth.png",
