@@ -3,4 +3,5 @@
 - Drovak goes and knocks on the wrong door. A halfling man attempts to mate with him. He heads back to the bar, and ends up booking a room for himself.
 - Bring up the encounter with the halfling, ask where they slept. The halflings in this place are lustful.
 - "The cure for honesty" is the slogan of the store.
-- Drovak 
+- Drovak purchases a potion of "Water Breathing" from the shop.
+- 
