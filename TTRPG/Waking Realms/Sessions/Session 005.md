@@ -1,3 +1,4 @@
 - We have a job from the "Jolly Shadow", which is some sort of underground faction. 
 - We're in some Tavern, Smoking Mirror exits her room, her guards stand immediate and begin to follow her. She doesn't even give us a glance as she passes by us and heads to the bar, pours herself a glass of wine, then walks out the door in the back.
-- Drovak goes and knocks on the wrong door. 
+- Drovak goes and knocks on the wrong door. A halfling man attempts to mate with him. He heads back to the bar, and ends up booking a room for himself.
+- 
