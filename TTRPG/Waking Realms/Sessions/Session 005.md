@@ -6,4 +6,4 @@
 - Drovak purchases a potion of "Water Breathing" from the shop.
 - Serena donates some gold to someone on the street.
 - At the barnacle thing, Drovak hears someone talking that the Coin Dancers are looking for people to go and put a stop to the raiding happening. They are sick of it, and considering signing up because they are supposed to be paying fairly well.
-- 
+- Unknown to the group, Rinn sneaks out at night to go keep an eye on Shamus, as he feels like he might be under an attack from some shady individuals that think they can rob him.

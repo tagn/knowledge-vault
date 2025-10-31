@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.51103591918945
+    "width": 227.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DND - Drakkenheim/Locations/Bark & Buzzard.md",
+                "file": "TTRPG/Waking Realms/Sessions/Session 005.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bark & Buzzard"
+              "title": "Backlinks for Session 005"
             }
           },
           {
@@ -209,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
