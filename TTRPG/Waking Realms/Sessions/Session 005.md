@@ -5,4 +5,5 @@
 - "The cure for honesty" is the slogan of the store.
 - Drovak purchases a potion of "Water Breathing" from the shop.
 - Serena donates some gold to someone on the street.
+- At the barnacle thing, Drovak hears someone talking that the Coin Dancers are looking for people to go and put a stop to the raiding happening. They are sick of it, and considering signing up because they are supposed to be paying fairly well.
 - 
