@@ -6,4 +6,6 @@
 - A kraken grabs out ship and snaps the mast of our ship.
 - We make it back to Bilge City, with the broken ship, then head to cash in the box we retrieved.
 - Drovak orders calamari at the tavern, believing its made of small kraken.
-- We deliver the box.
+- We deliver the box. She pins a pearl earring on Drovak.
+- Triton are typically captured by the Mamba Band after they escape out of the thousand eyes.
+- 
