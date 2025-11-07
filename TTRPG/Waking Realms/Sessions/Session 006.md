@@ -6,4 +6,4 @@
 - A kraken grabs out ship and snaps the mast of our ship.
 - We make it back to Bilge City, with the broken ship, then head to cash in the box we retrieved.
 - Drovak orders calamari at the tavern, believing its made of small kraken.
-- 
+- We deliver the box.
