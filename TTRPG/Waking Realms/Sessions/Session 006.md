@@ -8,4 +8,6 @@
 - Drovak orders calamari at the tavern, believing its made of small kraken.
 - We deliver the box. She pins a pearl earring on Drovak.
 - Triton are typically captured by the Mamba Band after they escape out of the thousand eyes.
-- 
+- We're given a tip to go over and ask for Jaeger, from the Coin Dancers.
+- Drovak hands over the scrap of cloth. She can't say much about. The Crimson Sigil is the group responsible, but they are hard to find.
+- The Mamba band has sold slaves to various places, including the Goblin nation to the south.
