@@ -1,1 +1,2 @@
-- We go prod at the giant clam
+- We go prod at the giant clam, it has runes in sylvan that indicate that there needs to be an exchange.
+- We toss in 
