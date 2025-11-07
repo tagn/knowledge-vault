@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Waking Realms/Sessions/Session 005.md",
+                "file": "TTRPG/Waking Realms/Sessions/Session 006.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 005"
+              "title": "Session 006"
             }
           }
         ]
@@ -234,8 +234,9 @@
   },
   "active": "610bdbfb5ec2c3db",
   "lastOpenFiles": [
-    "TTRPG/Waking Realms/Reference/Lore Dump.md",
     "TTRPG/Waking Realms/Sessions/Session 005.md",
+    "TTRPG/Waking Realms/Sessions/Session 006.md",
+    "TTRPG/Waking Realms/Reference/Lore Dump.md",
     "TTRPG/Waking Realms/Reference",
     "TTRPG/Waking Realms/Sessions",
     "TTRPG/Drakkenheim/Sessions/Session 089.md",
@@ -262,7 +263,6 @@
     "TTRPG/Drakkenheim/Sessions/Session 064.md",
     "TTRPG/Drakkenheim/Sessions/Session 065.md",
     "Personal Misc/Packing List - Berlin.md",
-    "TTRPG/Drakkenheim/Sessions/Session 080.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
