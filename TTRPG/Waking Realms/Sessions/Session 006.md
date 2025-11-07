@@ -7,7 +7,10 @@
 - We make it back to Bilge City, with the broken ship, then head to cash in the box we retrieved.
 - Drovak orders calamari at the tavern, believing its made of small kraken.
 - We deliver the box. She pins a pearl earring on Drovak.
+- Drovak was given an earring, and his ear was pierced by the lady. Thinking back on it, he feels some other sensation that the pinch hid. He's unsure of what this other sensation was.
 - Triton are typically captured by the Mamba Band after they escape out of the thousand eyes.
 - We're given a tip to go over and ask for Jaeger, from the Coin Dancers.
-- Drovak hands over the scrap of cloth. She can't say much about. The Crimson Sigil is the group responsible, but they are hard to find.
+- Drovak hands over the scrap of cloth. She can't say much about. The Crimson Sigil is the group responsible, but they are hard to find. The Mamba band has some dealings with them, perhaps we can get information from them on it.
 - The Mamba band has sold slaves to various places, including the Goblin nation to the south.
+- Drovak needs to ask the group about the proper name for the Kraken, because he felt foolish and must have forgotten it.
+- 
