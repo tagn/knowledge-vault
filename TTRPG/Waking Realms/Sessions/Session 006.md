@@ -1,2 +1,7 @@
 - We go prod at the giant clam, it has runes in sylvan that indicate that there needs to be an exchange.
-- We toss in 
+- Tyriok sticks his sword into the clam and the water is sucked out of the room.
+- We toss in a bag of gold to swap for the box.
+- Tyriok grabs the box, then stupidly grabs the bag of gold and the clam slams shut on his arm, with two spectres coming out of the floor to fight.
+- We get back to the ship, and head back off to sea.
+- A kraken grabs out ship and snaps the mast of our ship.
+- 
