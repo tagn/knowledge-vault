@@ -4,4 +4,6 @@
 - Tyriok grabs the box, then stupidly grabs the bag of gold and the clam slams shut on his arm, with two spectres coming out of the floor to fight.
 - We get back to the ship, and head back off to sea.
 - A kraken grabs out ship and snaps the mast of our ship.
+- We make it back to Bilge City, with the broken ship, then head to cash in the box we retrieved.
+- Drovak orders calamari at the tavern, believing its made of small kraken.
 - 
