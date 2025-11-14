@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Waking Realms/Sessions/Session 006.md",
+                "file": "TTRPG/Waking Realms/Sessions/Session 007.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 006"
+              "title": "Session 007"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.51103591918945,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -99,63 +99,6 @@
         "id": "0b6e4633f349b680",
         "type": "tabs",
         "children": [
-          {
-            "id": "e7d9eaf580f766bf",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "TTRPG/Waking Realms/Sessions/Session 005.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Session 005"
-            }
-          },
-          {
-            "id": "031d9aa135e28429",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "DND - Drakkenheim/Locations/Bark & Buzzard.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Bark & Buzzard"
-            }
-          },
-          {
-            "id": "396c64d9493484d1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "f4ef120f94050a75",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
           {
             "id": "7228c7eff18407c0",
             "type": "leaf",
@@ -234,8 +177,9 @@
   },
   "active": "610bdbfb5ec2c3db",
   "lastOpenFiles": [
-    "TTRPG/Waking Realms/Sessions/Session 005.md",
     "TTRPG/Waking Realms/Sessions/Session 006.md",
+    "TTRPG/Waking Realms/Sessions/Session 007.md",
+    "TTRPG/Waking Realms/Sessions/Session 005.md",
     "TTRPG/Waking Realms/Reference/Lore Dump.md",
     "TTRPG/Waking Realms/Reference",
     "TTRPG/Waking Realms/Sessions",
@@ -262,7 +206,6 @@
     "TTRPG/Drakkenheim/Sessions/Session 067.md",
     "TTRPG/Drakkenheim/Sessions/Session 064.md",
     "TTRPG/Drakkenheim/Sessions/Session 065.md",
-    "Personal Misc/Packing List - Berlin.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
