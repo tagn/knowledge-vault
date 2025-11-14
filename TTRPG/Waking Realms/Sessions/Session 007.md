@@ -8,4 +8,5 @@
  - We meet with Jaeger, and he takes us to a back room to speak with Fiblo?
  - We're being given a job to take over multiple pirate ships to hurt the Mamba band. We'd go out as bait.
  - Alessia would go out with us.
- - They can give us a ship for two weeks time to
+ - They can give us a ship for two weeks time to.
+ - We retire
