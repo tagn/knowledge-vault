@@ -1,4 +1,6 @@
  - We make our way towards the Casino, noticing multiple payday loan looking places.
  - In the center of the district, we see what looks to be an old Theatre, which is the casino.
  - The long red carpet at the entrance appears to be a casino is an illusion.
+ - Drovak inquires about what a Casino is, then follows the group in with some uncertainty.
+ - The walls have framed portraits, each lit by its own golden skance. The faces inside the frames move. They move, breathe, smirk. Each one tells us some story about how they lost against the Casino.
  - 
