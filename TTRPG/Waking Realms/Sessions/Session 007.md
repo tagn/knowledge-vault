@@ -6,4 +6,6 @@
  - Serena attempts to explain how slots work to Drovak.
  - We play a few games, Drovak wins so much money.
  - We meet with Jaeger, and he takes us to a back room to speak with Fiblo?
- - We're being given a job to take over multiple pirate ships to hurt the Mamba band. We'd go out as bait
+ - We're being given a job to take over multiple pirate ships to hurt the Mamba band. We'd go out as bait.
+ - Alessia would go out with us.
+ - They can give us a ship for two weeks time to
