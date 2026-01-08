@@ -1,4 +1,4 @@
 - We get a 25% cut of stuff we pilfer from the pirates.
 - Our boat is the Good Fortune
-- Odeeus?
+- Odemeus is the Captain of our ship
 - 
