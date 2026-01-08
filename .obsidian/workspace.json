@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Waking Realms/Sessions/Session 008.md",
+                "file": "TTRPG/Waking Realms/Sessions/Session 007.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 008"
+              "title": "Session 007"
             }
           }
         ]
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPG/Waking Realms/Sessions/Session 008.md",
+                "file": "TTRPG/Waking Realms/Sessions/Session 007.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 008"
+              "title": "Backlinks for Session 007"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG/Waking Realms/Sessions/Session 008.md",
+                "file": "TTRPG/Waking Realms/Sessions/Session 007.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 008"
+              "title": "Outline of Session 007"
             }
           }
         ]
@@ -225,9 +225,9 @@
   },
   "active": "610bdbfb5ec2c3db",
   "lastOpenFiles": [
+    "TTRPG/Waking Realms/Sessions/Session 008.md",
     "TTRPG/Waking Realms/Sessions/Session 007.md",
     "TTRPG/Waking Realms/Sessions/Session 006.md",
-    "TTRPG/Waking Realms/Sessions/Session 008.md",
     "TTRPG/Waking Realms/Sessions/Session 005.md",
     "TTRPG/Waking Realms/Reference/Lore Dump.md",
     "TTRPG/Waking Realms/Reference",

@@ -10,5 +10,3 @@
  - Alessia would go out with us.
  - They can give us a ship for two weeks time to.
  - We retire
-- Matt > Austin > Chris > Phillip > Ryan
-- 1 1 4 4 2
