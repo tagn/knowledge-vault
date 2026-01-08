@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Waking Realms/Sessions/Session 007.md",
+                "file": "TTRPG/Waking Realms/Sessions/Session 008.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 007"
+              "title": "Session 008"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -131,6 +130,55 @@
               "state": {},
               "icon": "dices",
               "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "9d8f6517d21888d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TTRPG/Waking Realms/Sessions/Session 008.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Session 008"
+            }
+          },
+          {
+            "id": "f3d4af654afd88fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1b18d256cc43ceaa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TTRPG/Waking Realms/Sessions/Session 008.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session 008"
             }
           }
         ]
@@ -177,9 +225,10 @@
   },
   "active": "610bdbfb5ec2c3db",
   "lastOpenFiles": [
-    "TTRPG/Waking Realms/Sessions/Session 005.md",
-    "TTRPG/Waking Realms/Sessions/Session 006.md",
     "TTRPG/Waking Realms/Sessions/Session 007.md",
+    "TTRPG/Waking Realms/Sessions/Session 006.md",
+    "TTRPG/Waking Realms/Sessions/Session 008.md",
+    "TTRPG/Waking Realms/Sessions/Session 005.md",
     "TTRPG/Waking Realms/Reference/Lore Dump.md",
     "TTRPG/Waking Realms/Reference",
     "TTRPG/Waking Realms/Sessions",
@@ -205,7 +254,6 @@
     "TTRPG/Drakkenheim/Sessions/Session 069.md",
     "TTRPG/Drakkenheim/Sessions/Session 067.md",
     "TTRPG/Drakkenheim/Sessions/Session 064.md",
-    "TTRPG/Drakkenheim/Sessions/Session 065.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
