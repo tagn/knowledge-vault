@@ -3,4 +3,4 @@
 - Odemeus is the Captain of our ship
 - Vaelion beats the Captain at arm wrestling
 - We sail out towards the Four-Fold sea and encounter some pirates.
-- 
+- Drovak hid in a barrel and definitely scared the pirates we engaged.
