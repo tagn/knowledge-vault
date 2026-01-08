@@ -2,4 +2,5 @@
 - Our boat is the Good Fortune
 - Odemeus is the Captain of our ship
 - Vaelion beats the Captain at arm wrestling
-- We sail out towards
+- We sail out towards the Four-Fold sea and encounter some pirates.
+- 
