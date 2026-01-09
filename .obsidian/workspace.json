@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "Session 008"
             }
+          },
+          {
+            "id": "6a24065dfb4b6c8a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,7 +237,7 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "610bdbfb5ec2c3db",
+  "active": "6a24065dfb4b6c8a",
   "lastOpenFiles": [
     "TTRPG/Waking Realms/Sessions/Session 007.md",
     "TTRPG/Waking Realms/Sessions/Session 008.md",
