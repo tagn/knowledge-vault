@@ -3,4 +3,7 @@
 - Drovak gets the key and a locket off the captain, and tosses the key over to Rinn, almost throwing it into the water.
 - We convince the Captain to plot points on our map where we are more likely to be finding pirates from the Mamba Band
 - We make our way with our captive towards Rugosa, but encounter a shipwreck that we decide to stop and investigate at the suggestion of our Captain.
-- 
+- The people that went to shore are rather creeped out by what they found.
+- The boat was very large, and from an unrecognizable faction or group. 
+- The ship could have had 20 cannons on each side, which is larger than most military ships we've ever seen.
+- They found a pile of 80-100 bodies worth of bones stacked neatly. 
