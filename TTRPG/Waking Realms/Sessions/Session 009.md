@@ -7,3 +7,5 @@
 - The boat was very large, and from an unrecognizable faction or group. 
 - The ship could have had 20 cannons on each side, which is larger than most military ships we've ever seen.
 - They found a pile of 80-100 bodies worth of bones stacked neatly. 
+- We attack another pirate ship, this one seems like it's a Mamba band ship.
+- Frank is a god damn hero.
