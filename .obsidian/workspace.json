@@ -42,9 +42,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.10.6"
             }
+          },
+          {
+            "id": "774508886ae0db59",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,7 +249,7 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "6a24065dfb4b6c8a",
+  "active": "774508886ae0db59",
   "lastOpenFiles": [
     "TTRPG/Waking Realms/Sessions/Session 007.md",
     "TTRPG/Waking Realms/Sessions/Session 008.md",
