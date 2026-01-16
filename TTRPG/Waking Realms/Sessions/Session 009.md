@@ -1,0 +1,3 @@
+- Rinn heads over to the pirate ship and starts searching through the captains quarters. He is unable to open up the foot locker he finds.
+- Vaelion and Ty'riok head over to search for any prisoners / search the rest of the ship.
+- 
