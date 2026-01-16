@@ -1,4 +1,4 @@
 - Rinn heads over to the pirate ship and starts searching through the captains quarters. He is unable to open up the foot locker he finds.
 - Vaelion and Ty'riok head over to search for any prisoners / search the rest of the ship.
 - Drovak gets the key and a locket off the captain, and tosses the key over to Rinn, almost throwing it into the water.
-- 
+- We convince the Captain to plot points on our map where we are more likely to be finding pirates from the Mamba Band
