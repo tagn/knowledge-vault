@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Waking Realms/Sessions/Session 008.md",
+                "file": "TTRPG/Waking Realms/Sessions/Session 009.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 008"
-            }
-          },
-          {
-            "id": "6a24065dfb4b6c8a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
-          },
-          {
-            "id": "774508886ae0db59",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "title": "Session 009"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -249,10 +223,11 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "774508886ae0db59",
+  "active": "610bdbfb5ec2c3db",
   "lastOpenFiles": [
-    "TTRPG/Waking Realms/Sessions/Session 007.md",
     "TTRPG/Waking Realms/Sessions/Session 008.md",
+    "TTRPG/Waking Realms/Sessions/Session 009.md",
+    "TTRPG/Waking Realms/Sessions/Session 007.md",
     "TTRPG/Waking Realms/Sessions/Session 006.md",
     "TTRPG/Waking Realms/Sessions/Session 005.md",
     "TTRPG/Waking Realms/Reference/Lore Dump.md",
@@ -279,7 +254,6 @@
     "TTRPG/Drakkenheim/Sessions/Session 068.md",
     "TTRPG/Drakkenheim/Sessions/Session 069.md",
     "TTRPG/Drakkenheim/Sessions/Session 067.md",
-    "TTRPG/Drakkenheim/Sessions/Session 064.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
