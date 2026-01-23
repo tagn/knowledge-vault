@@ -13,4 +13,4 @@
  - Odemeaus comes over and pulls Vaelion aside to advice him that ditching the liferaft to do a viking-style funeral for the skulls isn't the most wise thing to do if we're repairing the ship to take.
  - The ship is going to be dropping stuff off in Cerelset, and another in Gloomwatch.
  - Most of the "legit" goods seemed to come from a place called the Black Bean Depot. The less savory goods seemed to come from the Iron Locked Store.
- - 
+ - We ignite the ship
