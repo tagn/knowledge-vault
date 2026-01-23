@@ -15,4 +15,8 @@
  - Most of the "legit" goods seemed to come from a place called the Black Bean Depot. The less savory goods seemed to come from the Iron Locked Store.
  - We ignite the ship to sink it, and start heading towards Rugosa.
  - We level up to 4, while heading to Rugosa.
- - 
+ - Rugosa is heavily populated by Tortles.
+ - Drovak goes looking for a Longbow and is pointed to a store called the "Bent Reed" by a guard.
+ - The city has a lot of channels of water that the Tortle residents use.
+ - Drovak purchases a longbow that protects against whomever he shoots.
+ - We make our way over to an armor shop. Malow the middle aged tortle.
