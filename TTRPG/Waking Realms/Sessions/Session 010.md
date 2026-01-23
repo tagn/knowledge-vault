@@ -1,0 +1,6 @@
+ - Serena tosses the captains crossbow straight off the side.
+ - Ty'riok uses spare the dying to prevent the Captain from dying.
+ - The captain wakes up, reaches for his rapier which is gone, and tells us to go fuck ourselves.
+ - Drovak ties the captains feet with a rope and hangs him upside down from a mast then ties it off so he just dangles.
+ - We head down the stairs below deck on the ship. The underside of the ship is mostly a cargo hold. There is a prisoner section. The rest of the space is filled with crates, barrels, boxes, and other storage containers. There is no space for anyone to sleep and no sight of any slaves or captives.
+ - 

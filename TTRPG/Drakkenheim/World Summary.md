@@ -29,7 +29,7 @@
 - [[TTRPG/Drakkenheim/Sessions/Session 007.md|Session 007]]
 - [[TTRPG/Drakkenheim/Sessions/Session 008.md|Session 008]]
 - [[TTRPG/Drakkenheim/Sessions/Session 009.md|Session 009]]
-- [[Session 010]]
+- [[TTRPG/Drakkenheim/Sessions/Session 010.md|Session 010]]
 - [[Session 011]]
 - [[Session 012]]
 - [[Session 013]]

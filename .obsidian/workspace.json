@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Session 009"
             }
+          },
+          {
+            "id": "393bf462e5f5ee94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/Waking Realms/Sessions/Session 010.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 010"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -223,10 +249,11 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "610bdbfb5ec2c3db",
+  "active": "393bf462e5f5ee94",
   "lastOpenFiles": [
-    "TTRPG/Waking Realms/Sessions/Session 006.md",
     "TTRPG/Waking Realms/Sessions/Session 009.md",
+    "TTRPG/Waking Realms/Sessions/Session 010.md",
+    "TTRPG/Waking Realms/Sessions/Session 006.md",
     "TTRPG/Waking Realms/Sessions/Session 005.md",
     "TTRPG/Waking Realms/Sessions/Session 008.md",
     "TTRPG/Waking Realms/Sessions/Session 007.md",
@@ -253,7 +280,6 @@
     "TTRPG/Drakkenheim/Characters/Silas.md",
     "TTRPG/Drakkenheim/Sessions/Session 068.md",
     "TTRPG/Drakkenheim/Sessions/Session 069.md",
-    "TTRPG/Drakkenheim/Sessions/Session 067.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
