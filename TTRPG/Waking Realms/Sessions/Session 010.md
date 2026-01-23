@@ -8,3 +8,6 @@
  -  Drovak opens a second crate, which is also wrapped. It's filled with silver bowls. Not quite chalices, but they have a base to them. They are inlayed with the same pattern on the cloth.
  - Inside a third crate is something wrapped with cloth and hay, as if its more fragile. It's filled with ritual daggers.
  - The fourth box is empty, but Vaelion senses magic shrouding something. Drovak pulls out what appears to be a skull of a baby or small child.
+ - Serena storms off upstairs to confront the captain, named K'yokiir.
+ - Serena executes the captain after he refuses to give any information about where the cargo came from.
+ - Odemeaus comes over and pulls Vaelion aside. 
