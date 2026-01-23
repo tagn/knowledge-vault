@@ -5,9 +5,12 @@
  - We head down the stairs below deck on the ship. The underside of the ship is mostly a cargo hold. There is a prisoner section. The rest of the space is filled with crates, barrels, boxes, and other storage containers. There is no space for anyone to sleep and no sight of any slaves or captives.
  - Serena detects some sort of descration/hallowed effect on some of the crates. Vaelion also detects magic from them. They smell waxy.
  - We open a crate and there are layers of cloth that Drovak recognizes as who attacked his people. Inside the box under cloth are stacks of red candles.
- -  Drovak opens a second crate, which is also wrapped. It's filled with silver bowls. Not quite chalices, but they have a base to them. They are inlayed with the same pattern on the cloth.
+ - Drovak opens a second crate, which is also wrapped. It's filled with silver bowls. Not quite chalices, but they have a base to them. They are inlayed with the same pattern on the cloth.
  - Inside a third crate is something wrapped with cloth and hay, as if its more fragile. It's filled with ritual daggers.
  - The fourth box is empty, but Vaelion senses magic shrouding something. Drovak pulls out what appears to be a skull of a baby or small child.
  - Serena storms off upstairs to confront the captain, named K'yokiir.
  - Serena executes the captain after he refuses to give any information about where the cargo came from.
- - Odemeaus comes over and pulls Vaelion aside. 
+ - Odemeaus comes over and pulls Vaelion aside to advice him that ditching the liferaft to do a viking-style funeral for the skulls isn't the most wise thing to do if we're repairing the ship to take.
+ - The ship is going to be dropping stuff off in Cerelset, and another in Gloomwatch.
+ - Most of the "legit" goods seemed to come from a place called the Black Bean Depot. The less savory goods seemed to come from the Iron Locked Store.
+ - 
