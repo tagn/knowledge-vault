@@ -14,3 +14,5 @@
  - The ship is going to be dropping stuff off in Cerelset, and another in Gloomwatch.
  - Most of the "legit" goods seemed to come from a place called the Black Bean Depot. The less savory goods seemed to come from the Iron Locked Store.
  - We ignite the ship to sink it, and start heading towards Rugosa.
+ - We level up to 4, while heading to Rugosa.
+ - 
