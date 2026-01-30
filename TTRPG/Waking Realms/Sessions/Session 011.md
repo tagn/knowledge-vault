@@ -2,4 +2,6 @@
 - Ty'riok uses some new cantrip to get information on the piece of cloth that Drovak holds. The cloth is made of silk, and is common and can come from multiple places of the world. It could come from the Echolands, the sanctified realm, and the pridelands. The ink used to make the patterns is more rare on the cloth comes from a region of the Pridelands.
 - He uses it on the other trinkets found in the boxes of the pirate ship, and the bowls come from Cerulset. The knives come from the Sanctified Realms.
 -  Rinn attempts to find a weapon shop, but nobody seems to pay him any attention.
-- We wander around the city to find an establishment that we can rest at for the next few days. We find a domed place called the Cracked Carapace. We find a table and decide to get 3 rooms. Vaelion approaches an attractive Tortle. We pay 3 gold for rooms, paying a higher price than the merchants wo
+- We wander around the city to find an establishment that we can rest at for the next few days. We find a domed place called the Cracked Carapace. We find a table and decide to get 3 rooms. Vaelion approaches an attractive Tortle. We pay 3 gold for rooms, paying a higher price than the merchants would normally get.
+- The other patrons at the inn seem to be avoiding interacting with us. The vibe is fairly quiet compared to most taverns.
+- The oldest Tortle we've ever seen slowly makes his way over to bring us food. Vaelion goes over to ask him if he needs help, and there is a gasp around the 
