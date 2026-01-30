@@ -10,4 +10,7 @@
 - We make our way to the rooms we purchased, and the keys that we have are made of stone.
 - There are no doors on the inn rooms. There are hanging screens and mats. In the rooms there are shell cradles, rather than beds. They are designed to distribute shell weight evenly. There are also piles of straw and blankets for those who do not want to sleep in the cradles.
 - Outside of the inn in the morning, we find one of our crew waiting for us. The captain told him to come give us an update. They'll probably have the ship fixed in a day or two. The ship was fairly fucked. Alessia said she would split the cost. Drovak pays the crewman 27 gold for our share plus for him to get some food for the crew. Vaelion tells him to be meaner to the crew. Ty'riok repays Drovak his gold so Drovak gives him a stern reply, to Vaelions dismay.
-- 
+- Rinn asks for a rather unique Haft to use for a dual-bladed weapon. They don't have any knowledge of something like it, but then later one of the shopkeepers comes back out with a card directing Rinn to try some other place. It's a place called the Deep Shelf.
+- Drovak buys 8 daggers and straps to hold them, then straps them all over his arms and legs.
+- We make our way over to the Deep Shelf. It looks like a house, rather than a store. We go inside and the place seems to be laid out less like a shop, and more like a repository. They have a lot of curious wares for sale. We're introduced to Eshuun, who happens to have precisely what Rinn was seeking. It is given at no cost, as these items should belong with whom they are destined for.
+- Vaelion finds a part of the "prow" of a triton ship, that was destroyed.
