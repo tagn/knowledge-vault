@@ -15,4 +15,4 @@
 - We make our way over to the Deep Shelf. It looks like a house, rather than a store. We go inside and the place seems to be laid out less like a shop, and more like a repository. They have a lot of curious wares for sale. We're introduced to Eshuun, who happens to have precisely what Rinn was seeking. It is given at no cost, as these items should belong with whom they are destined for.
 - Vaelion finds a part of the "prow" of a triton ship, that was destroyed.
 - Rinn originally wound up in Korvosa after being banished from the Fey Wild, after refusing a political assassination. He lost his dual bladed scimitar early on, and has been seeking rebuilding it.
-- 
+- Drovak draws up a map of Rugosa
