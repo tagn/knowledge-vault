@@ -19,4 +19,5 @@
 - We head back out to sea, taking a longer route to pass by Korvosa on our way back to Bilge City.
 - On the first day, it is calm.
 - On the second day, we come up on a triton drifting alone on a raft in very poor condition. The triton seems to be on the verge of death or something, and is badly sunburnt. Vaelion brings him back into the quarters of the ship to try to heal him. He has a pin of two crossed tridents with a wave in the back. It is a crest of Thalassarion. 
-- 
+- On the third day we approach two ships at the same time. They appear to be ships from the sons of the sea pirate group.
+- On the fourth day we have bad dreams.
