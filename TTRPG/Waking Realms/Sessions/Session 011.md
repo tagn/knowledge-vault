@@ -1,0 +1,4 @@
+- Last session we ended after completing our "successful" takeover of the pirate ship. Did some investigation, chose to sink the ship, then made our way to Rugosa where we docked for repairs on our ship and walked around a bit and did some shopping.
+- Ty'riok uses some new cantrip to get information on the piece of cloth that Drovak holds. The cloth is made of silk, and is common and can come from multiple places of the world. It could come from the Echolands, the sanctified realm, and the pridelands. The ink used to make the patterns is more rare on the cloth comes from a region of the Pridelands.
+- He uses it on the other trinkets found in the boxes of the pirate ship, and the bowls come from Cerulset. The knives come from the Sanctified Realms.
+-  
