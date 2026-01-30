@@ -5,4 +5,9 @@
 - We wander around the city to find an establishment that we can rest at for the next few days. We find a domed place called the Cracked Carapace. We find a table and decide to get 3 rooms. Vaelion approaches an attractive Tortle. We pay 3 gold for rooms, paying a higher price than the merchants would normally get.
 - The other patrons at the inn seem to be avoiding interacting with us. The vibe is fairly quiet compared to most taverns.
 - The oldest Tortle we've ever seen slowly makes his way over to bring us food. Vaelion goes over to ask him if he needs help, and there is a gasp around the inn at the offence. He says his name is Nok, it is his tavern, and he apologizes for the slow service. He seemed fairly offended at our quickness.
-- Looks like a job for a Drovak. He makes his way over to another table with a stack of bowls. My name is Maressa.
+- Looks like a job for a Drovak. He makes his way over to another table with a stack of bowls. My name is Maressa. Drovak gets no information for some reason, after boasting about his pirate slaying and kraken scaring.
+- Vaelion offends Nok once again.
+- We make our way to the rooms we purchased, and the keys that we have are made of stone.
+- There are no doors on the inn rooms. There are hanging screens and mats. In the rooms there are shell cradles, rather than beds. They are designed to distribute shell weight evenly. There are also piles of straw and blankets for those who do not want to sleep in the cradles.
+- Outside of the inn in the morning, we find one of our crew waiting for us. The captain told him to come give us an update. They'll probably have the ship fixed in a day or two. The ship was fairly fucked. Alessia said she would split the cost. Drovak pays the crewman 27 gold for our share plus for him to get some food for the crew. Vaelion tells him to be meaner to the crew. Ty'riok repays Drovak his gold so Drovak gives him a stern reply, to Vaelions dismay.
+- 
