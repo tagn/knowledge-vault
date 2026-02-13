@@ -5,4 +5,7 @@
 - Box 3 - Abjuration
 - Box 4 - Conjuration
 - We choose box 1, and recieve a Folding Tent magic item.
-- We 
+- We have a cart full of general goods and two horses to bring to Korvosa.
+- To get from Bilge City to Korvosa we decide on taking the main road since we have a cart.
+- We head south out of Bilge City, with Rinn and Serena riding in the cart, Ty'riok following closely behind, Vaelion walking to the side of the cart, and Drovak walking ahead of the cart.
+- Drovak catches glimpses of some predators as we walk along. The forest feels "alive" around us. 
