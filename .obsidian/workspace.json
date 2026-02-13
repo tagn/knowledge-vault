@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Waking Realms/Sessions/Session 011.md",
+                "file": "TTRPG/Waking Realms/Sessions/Session 012.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 011"
+              "title": "Session 012"
             }
           }
         ],
@@ -251,8 +251,10 @@
   },
   "active": "393bf462e5f5ee94",
   "lastOpenFiles": [
-    "TTRPG/Waking Realms/Sessions/Session 010.md",
+    "TTRPG/Waking Realms/Sessions/Session 013.md",
+    "TTRPG/Waking Realms/Sessions/Session 012.md",
     "TTRPG/Waking Realms/Sessions/Session 011.md",
+    "TTRPG/Waking Realms/Sessions/Session 010.md",
     "TTRPG/Waking Realms/Sessions/Session 009.md",
     "TTRPG/Waking Realms/Sessions/Session 005.md",
     "TTRPG/Waking Realms/Sessions/Session 007.md",
@@ -278,8 +280,6 @@
     "TTRPG/Drakkenheim/Characters/Keth Darklighter.md",
     "TTRPG/Drakkenheim/Characters/Seven.md",
     "TTRPG/Drakkenheim/Characters/Sihrr.md",
-    "TTRPG/Drakkenheim/Characters/Silas.md",
-    "TTRPG/Drakkenheim/Sessions/Session 068.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
