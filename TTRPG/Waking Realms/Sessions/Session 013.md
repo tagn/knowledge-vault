@@ -9,3 +9,5 @@
 - To get from Bilge City to Korvosa we decide on taking the main road since we have a cart.
 - We head south out of Bilge City, with Rinn and Serena riding in the cart, Ty'riok following closely behind, Vaelion walking to the side of the cart, and Drovak walking ahead of the cart.
 - Drovak catches glimpses of some predators as we walk along. The forest feels "alive" around us. 
+- We travel without issue along the road for the first part of the day. Before it gets too late we decide to find camp for the night, and wander off the trail to find a clearing and stumble on what appears to be a previous campsite for other travelers.
+- 
