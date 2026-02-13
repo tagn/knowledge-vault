@@ -4,3 +4,5 @@
 - Box 2 - Abjuration
 - Box 3 - Abjuration
 - Box 4 - Conjuration
+- We choose box 1, and recieve a Folding Tent magic item.
+- 
