@@ -40,5 +40,4 @@
     24. Fibblo provided a list of known Mamba Band warehouses: Stonehook Yards, Ironlock Stores, Low Tide Lockup, Driftmark Warehouse, Saltwind Exchange, and Gallowstock (noted as central).
     25. Suspicious cargo (like the cursed candles) was previously traced to the Ironlock Store; legitimate goods came from Black Bean Depot.
     26. We can choose which warehouse to target, and Fibblo will arrange for us to be smuggled into Corvosa with a cover identity when ready.
-    
-5. 27. Fibblo offered us a suite at the casino for the night, free drinks, and promised a magic item reward at breakfast before we depart for Corvosa.
+     27. Fibblo offered us a suite at the casino for the night, free drinks, and promised a magic item reward at breakfast before we depart for Corvosa.

@@ -1,0 +1,6 @@
+- We awaken in the tavern at the place and have some breakfast. Fibblo servants give us some rations.
+- We head to Fibblo's office. She presents us a gift in the form of four boxes and instructs us to pick one of them.
+- Box 1 - Conjuration
+- Box 2 - Abjuration
+- Box 3 - Abjuration
+- Box 4 - Conjuration
