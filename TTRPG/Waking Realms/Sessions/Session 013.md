@@ -10,4 +10,7 @@
 - We head south out of Bilge City, with Rinn and Serena riding in the cart, Ty'riok following closely behind, Vaelion walking to the side of the cart, and Drovak walking ahead of the cart.
 - Drovak catches glimpses of some predators as we walk along. The forest feels "alive" around us. 
 - We travel without issue along the road for the first part of the day. Before it gets too late we decide to find camp for the night, and wander off the trail to find a clearing and stumble on what appears to be a previous campsite for other travelers.
-- 
+- We camp for the night with no issue, then continue the next day. It's a bit rainy and dreary today.
+- Drovak, valiantly leading the way, he navigates the group around various obstacles. There are times of the day where he feels like they are being watched.
+- We come up upon a tree bent in an arch shape. The area we are going through now looks like it once was a riverbed that has dried up and the forest has reclaimed the area.
+- Drovak cautiously skirts around the outside of a bit of a clearing. He doesn't see any creatures, but he does see tracks. The tracks are different than what he would expect. They look almost like footprints, but also drag marks. Not quite humanoid. It looks like something was walking but also dragging part of its body along. Drovak slowly walks into the clearing keeping a look out for whatever creature may have left these tracks. 
