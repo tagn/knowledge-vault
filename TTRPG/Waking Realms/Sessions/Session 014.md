@@ -3,3 +3,5 @@
 - Drovak slays the gigantic dragon.
 - Serena attacked Rinn during the fight while charmed, now Rinn is pretty upset at her about it.
 - We travel further along, until we're about half a days journey out from Korvosa, and make camp for the night. During the night Serena confesses some stuff about her son to Rinn while apologizing for attacking him. 
+- We continue our journey approaching Korvosa, and along the way discuss some ideas of what we're going to try to do once we are there.
+- 
