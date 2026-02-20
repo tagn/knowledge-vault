@@ -14,4 +14,4 @@
 - Drovak, valiantly leading the way, he navigates the group around various obstacles. There are times of the day where he feels like they are being watched.
 - We come up upon a tree bent in an arch shape. The area we are going through now looks like it once was a riverbed that has dried up and the forest has reclaimed the area.
 - Drovak cautiously skirts around the outside of a bit of a clearing. He doesn't see any creatures, but he does see tracks. The tracks are different than what he would expect. They look almost like footprints, but also drag marks. Not quite humanoid. It looks like something was walking but also dragging part of its body along. Drovak slowly walks into the clearing keeping a look out for whatever creature may have left these tracks. A little creature appears next to Drovak and casts entangle to restrain Drovak.
-- Drovak and Serena murder some crocodile humanoid creature. 
+- Drovak and Serena murder some crocodile humanoid creature who is being assisted by a bunch of small fey creatures.

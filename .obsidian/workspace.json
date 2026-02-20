@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "610bdbfb5ec2c3db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TTRPG/Waking Realms/Sessions/Session 009.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Session 009"
-            }
-          },
-          {
             "id": "393bf462e5f5ee94",
             "type": "leaf",
             "state": {
@@ -55,8 +31,7 @@
               "title": "Session 014"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,10 +228,10 @@
   "lastOpenFiles": [
     "TTRPG/Waking Realms/Sessions/Session 013.md",
     "TTRPG/Waking Realms/Sessions/Session 014.md",
+    "TTRPG/Waking Realms/Sessions/Session 009.md",
     "TTRPG/Waking Realms/Sessions/Session 012.md",
     "TTRPG/Waking Realms/Sessions/Session 011.md",
     "TTRPG/Waking Realms/Sessions/Session 010.md",
-    "TTRPG/Waking Realms/Sessions/Session 009.md",
     "TTRPG/Waking Realms/Sessions/Session 005.md",
     "TTRPG/Waking Realms/Sessions/Session 007.md",
     "TTRPG/Waking Realms/Sessions/Session 008.md",
