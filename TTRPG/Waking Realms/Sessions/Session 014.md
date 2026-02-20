@@ -4,4 +4,5 @@
 - Serena attacked Rinn during the fight while charmed, now Rinn is pretty upset at her about it.
 - We travel further along, until we're about half a days journey out from Korvosa, and make camp for the night. During the night Serena confesses some stuff about her son to Rinn while apologizing for attacking him. 
 - We continue our journey approaching Korvosa, and along the way discuss some ideas of what we're going to try to do once we are there.
-- 
+- We make our way to the Iron Lock Store, and after speaking with the guards we're instructed to come back at 4PM to speak with someone about storing goods there.
+- We head out over to the Saltwind exchange.
