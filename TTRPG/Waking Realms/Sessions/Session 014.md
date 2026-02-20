@@ -1,3 +1,5 @@
 - The group proceeds on the route from after their encounter.
 - We come upon a section of the path that is well worn. Drovak, still leading the way, does not realize they were walking right into..... an area with trees covered with thorn that tried to grab him, which he avoids, but then a group of dryads come out of the woods to attack the party, including a small green dragon wyrmling.
 - Drovak slays the gigantic dragon.
+- Serena attacked Rinn during the fight while charmed, now Rinn is pretty upset at her about it.
+- We travel further along, until we're about half a days journey out from Korvosa, and make camp for the night. During the night Serena confesses some stuff about her son to Rinn while apologizing for attacking him. 
