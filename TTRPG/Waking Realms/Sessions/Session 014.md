@@ -1,3 +1,3 @@
 - The group proceeds on the route from after their encounter.
 - We come upon a section of the path that is well worn. Drovak, still leading the way, does not realize they were walking right into..... an area with trees covered with thorn that tried to grab him, which he avoids, but then a group of dryads come out of the woods to attack the party, including a small green dragon wyrmling.
-- 
+- Drovak slays the gigantic dragon.
