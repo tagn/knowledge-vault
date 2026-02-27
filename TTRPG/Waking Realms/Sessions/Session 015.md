@@ -15,4 +15,6 @@
 - Shala says a command word, the lights in the tavern all go out, then the cauldron spews some yellow smoke. Out comes a set of studded leather mariners armor.
 - Drovak throws in this Scarlet Scourge whip, and some iron ball - iron bands of balaro - can throw it at a huge or smaller creature within 60 feet, it opens into a bunch of metal bands, make a ranged attack with dex+proficiency, any other creature can touch the bands and try to make an action to break it. If they fail, they will fail every attempt for the next 24 hours. If they succeed. Drovak attempts to throw it at some guy that talked bad about it, but misses and hits another table.
 - We rent the three rooms on the third floor of the Inn.
-- 
+- The iron cauldron seems to be made of iron coming from the Diss, the second circle of hell.
+- We watch other patrons throw coins/etc.. into the Cauldron and see it change some of them, like discolor their teeth, change the color of their eyes, etc..
+- We head up to our rooms.
