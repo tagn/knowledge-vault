@@ -17,4 +17,5 @@
 - We rent the three rooms on the third floor of the Inn.
 - The iron cauldron seems to be made of iron coming from the Diss, the second circle of hell.
 - We watch other patrons throw coins/etc.. into the Cauldron and see it change some of them, like discolor their teeth, change the color of their eyes, etc..
-- We head up to our rooms.
+- We head up to our rooms. Serena searches around the room for leftover hag shit.
+- 
