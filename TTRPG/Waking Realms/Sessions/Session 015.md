@@ -11,4 +11,6 @@
 - Shala Winspinner, middleaged human behind the bar.
 - It's staffed by pretty much her entire family.
 - Rinn recognizes the proprietor
+- Serena gets a bad vibe about the Cauldron. Another patron suggests we put money in it. Rinn walks over and throws in a pair of magical goggles.
+- Shala says a command word, the lights in the tavern all go out, then the cauldron spews some yellow smoke. Out comes a set of studded leather mariners armor.
 - 
