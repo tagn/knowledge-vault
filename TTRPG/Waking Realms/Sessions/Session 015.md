@@ -4,4 +4,11 @@
 - The Brinehouse - an alehouse where barrels of beer and rum are stored in brine pits. The locals swear by the flavor of the drinks.
 - There is also some sort of Brothel, that we considered.
 - There is also the Bed hag, that used to be a a three story barn, before Korvosa turned into the city. A few hags had taken over the place and were doing some nasty deeds. The building has since been repainted, but is still decorated such as a place that used to be the home of hags.
+- Drovak suggests we keep an eye out for wanted posters since we left here last on not very good terms.
+- We decide on going to the Bed hag.
+- We arrive at the place, and it's still decorated very much as if still occupied by hags.
+- There aren't very many people in the place, none of which really seem to look like locals.
+- Shala Winspinner, middleaged human behind the bar.
+- It's staffed by pretty much her entire family.
+- Rinn recognizes the proprietor
 - 
