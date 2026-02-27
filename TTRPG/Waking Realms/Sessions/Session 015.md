@@ -1,1 +1,7 @@
+- We set out after looking at slave sales, to find an Inn to make as a bit of a base.
+- The Dockside something - where we got picked up
+- The Gutted Gall
+- The Brinehouse - an alehouse where barrels of beer and rum are stored in brine pits. The locals swear by the flavor of the drinks.
+- There is also some sort of Brothel, that we considered.
+- There is also the Bed hag, that used to be a a three story barn, before Korvosa turned into the city. A few hags had taken over the place and were doing some nasty deeds. The building has since been repainted, but is still decorated such as a place that used to be the home of hags.
 - 
