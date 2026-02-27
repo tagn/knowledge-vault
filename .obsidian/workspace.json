@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Waking Realms/Sessions/Session 014.md",
+                "file": "TTRPG/Waking Realms/Sessions/Session 012.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 014"
+              "title": "Session 012"
+            }
+          },
+          {
+            "id": "25a6c2d758c3db97",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,10 +237,10 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "393bf462e5f5ee94",
+  "active": "25a6c2d758c3db97",
   "lastOpenFiles": [
-    "TTRPG/Waking Realms/Sessions/Session 012.md",
     "TTRPG/Waking Realms/Sessions/Session 014.md",
+    "TTRPG/Waking Realms/Sessions/Session 012.md",
     "TTRPG/Waking Realms/Sessions/Session 013.md",
     "TTRPG/Waking Realms/Sessions/Session 009.md",
     "TTRPG/Waking Realms/Sessions/Session 011.md",
