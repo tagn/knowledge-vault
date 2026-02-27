@@ -19,3 +19,5 @@
 - We watch other patrons throw coins/etc.. into the Cauldron and see it change some of them, like discolor their teeth, change the color of their eyes, etc..
 - We head up to our rooms. Serena searches around the room for leftover hag shit.
 - We ponder for a long time about what to do next. Plan seems to be that we're going to want to get more information o n the other warehouses, then perhaps come up with a plan to set them on fire.
+- Rinn bribes the dockmaster to get information on a warehouse, and is given information on the Driftmark warehouse. It's in the district with shopping stuff
+- Lowtide lockup is also given, 
