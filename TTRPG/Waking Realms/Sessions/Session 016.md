@@ -1,1 +1,5 @@
+- We continue to look through the bodies, and find nothing significant to identify them. Ty'riok takes note of one of the slain peoples appearance to perhaps disguise as one of them at a later time. 
+- We head over to see the state of the ship on fire, and whatever started the fire wasn't enough to take it down. The sails and rope were burned which was enough to damage the ship, but not enough to sink it. The fire brigade seems to have put out the fire.
+- The boat that was attacked was called "The Last Cut".
+- Drovak makes his way over to chat up some Drow/Sailor people for information on who attacked them. We don't get much information, Drovak tries to look around for anyone in the crowd that seemed suspicious, but he found nothing significant.
 - 
