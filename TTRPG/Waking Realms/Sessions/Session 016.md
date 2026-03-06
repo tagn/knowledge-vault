@@ -8,4 +8,5 @@
 - Drovak and Serena try to distract the guards, while we try to look through some of the goods to see if we can find anything related to Drovaks cloth. 
 - We take three barrels off of the cart, and carry them out, after causing a ruckus in the warehouse. While inside, we saw 4 guards and a guard captain.
 - We leave and search for the dockmaster Varco. We ask about going to the Lowtide lockup and need some skiffs. We rent them for half a day. It costs us 8 silver for two days of renting the boats. We're shown to where they are, and we are able to use them whenever we'd like. It's not recommended to swim. We learn that there is about a 90 minute window around high tide of when we can safely reach the store, without being stranded.
-- We take the skiffs through some channels. We come up on the lowtide lockup, which looks like it's on stilts. There are a few other boats around the size of a skiff docked and placed around the store. This one seems to be made of wood, with a thatched roof. 
+- We take the skiffs through some channels. We come up on the lowtide lockup, which looks like it's on stilts. There are a few other boats around the size of a skiff docked and placed around the store. This one seems to be made of wood, with a thatched roof.
+- 
