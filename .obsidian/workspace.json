@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Waking Realms/Sessions/Session 015.md",
+                "file": "TTRPG/Waking Realms/Sessions/Session 016.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 015"
-            }
-          },
-          {
-            "id": "2fc897d7dd11a2b3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "title": "Session 016"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -216,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,10 +224,11 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "2fc897d7dd11a2b3",
+  "active": "393bf462e5f5ee94",
   "lastOpenFiles": [
-    "TTRPG/Waking Realms/Sessions/Session 014.md",
     "TTRPG/Waking Realms/Sessions/Session 015.md",
+    "TTRPG/Waking Realms/Sessions/Session 016.md",
+    "TTRPG/Waking Realms/Sessions/Session 014.md",
     "TTRPG/Waking Realms/Sessions/Session 012.md",
     "TTRPG/Waking Realms/Sessions/Session 013.md",
     "TTRPG/Waking Realms/Sessions/Session 009.md",
@@ -267,7 +255,6 @@
     "TTRPG/Drakkenheim/Sessions/Session 029.md",
     "TTRPG/Drakkenheim/Sessions/Session 081.md",
     "TTRPG/Drakkenheim/Characters/Arken Highbloom.md",
-    "TTRPG/Drakkenheim/Characters/Keth Darklighter.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
