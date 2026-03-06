@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "Session 015"
             }
+          },
+          {
+            "id": "2fc897d7dd11a2b3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,8 +184,19 @@
               "icon": "lucide-list",
               "title": "Outline of Session 008"
             }
+          },
+          {
+            "id": "d3f45739f599ba28",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {},
+              "icon": "FANTASY_CALENDAR",
+              "title": "Fantasy Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "d0a713f5386b98d5",
@@ -192,8 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,7 +237,7 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "393bf462e5f5ee94",
+  "active": "2fc897d7dd11a2b3",
   "lastOpenFiles": [
     "TTRPG/Waking Realms/Sessions/Session 014.md",
     "TTRPG/Waking Realms/Sessions/Session 015.md",
