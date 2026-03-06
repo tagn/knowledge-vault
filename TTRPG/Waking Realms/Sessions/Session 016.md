@@ -11,4 +11,4 @@
 - We take the skiffs through some channels. We come up on the lowtide lockup, which looks like it's on stilts. There are a few other boats around the size of a skiff docked and placed around the store. This one seems to be made of wood, with a thatched roof.
 - We carry our fake goods into the lockup. The lockup is a wreck, the floorboards are damp, it is not weather tight. The things in there are haphazardly spread all throughout. There are a pile of child sized sandals with manacles attached to iron spikes to the wall in some places. It seems likely that people are trafficked through here. We are photographed by some black mirror and leave. On the way back we discuss our plans.
 - We get back to the town, and while walking there is some commotion. In the distance we see a mast was erected, on the mast there are two people we don't know that are hung. Their eyes were gouged out, and their hands were cut off. 
-- 
+- We make our way to a younger bar to listen in on any plans of rebellion. Drovak approaches a table of a couple on some sort of date, and Drovak believes he spoke with the ringleader of the rebellion. 
