@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Misc/Characters/Drak/Draks Wares.md",
-                "mode": "preview",
+                "file": "TTRPG/Waking Realms/Sessions/Session 016.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Draks Wares"
+              "title": "Session 016"
             }
           }
         ]
@@ -210,11 +210,12 @@
   },
   "active": "393bf462e5f5ee94",
   "lastOpenFiles": [
+    "TTRPG/Waking Realms/Sessions/Untitled.md",
+    "TTRPG/Waking Realms/Sessions/Session 016.md",
     "Personal Misc/Characters/Drak/Drak.md",
     "Personal Misc/Characters/Drak/Draks Wares.md",
     "Personal Misc/Characters/Ponzi Deeproot/Character Info.md",
     "Personal Misc/Characters/Turdis/Backstory.md",
-    "TTRPG/Waking Realms/Sessions/Session 016.md",
     "Personal Misc/Characters/Drak",
     "TTRPG/Waking Realms/Sessions/Session 012.md",
     "TTRPG/Waking Realms/Sessions/Session 013.md",
@@ -239,7 +240,6 @@
     "TTRPG/Drakkenheim/Sessions/Session 084.md",
     "TTRPG/Drakkenheim/Sessions/Session 046.md",
     "TTRPG/Drakkenheim/Sessions/Session 076.md",
-    "TTRPG/Drakkenheim/Sessions/Session 083.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
