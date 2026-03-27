@@ -1,0 +1,4 @@
+- We enter a town
+- Rowan Thornwick - Used to be an adventurer, has a giant spider, hates fools and dragons.
+- Thrain - Wants to hunt down the dragon that wounded him,  he has a peg leg and burn scars on his head. 
+- 

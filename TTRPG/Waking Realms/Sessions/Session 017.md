@@ -16,4 +16,4 @@
 - Drovak draws up some maps of the plans before we go meet up with the people.
 - The girl in the crowd approaches Rinn and recognizes him. She says that she thought he was dead or captured. They called Rinn Revenant. Rinn is some sort of shitty robin hood. We get attacked by a group of assassins of some sort that also seem to know Rinn. Lyra gets held at knifepoint and a fight starts.
 - "Do we save Valdris?" one of the assassins says to the other.
-- 
+- We save the kids, and 

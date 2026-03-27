@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Waking Realms/Sessions/Session 017.md",
-                "mode": "source",
+                "file": "Personal Misc/Characters/Drak/Draks Wares.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 017"
+              "title": "Draks Wares"
             }
           }
         ]
@@ -211,11 +211,13 @@
   },
   "active": "393bf462e5f5ee94",
   "lastOpenFiles": [
-    "TTRPG/Waking Realms/Sessions/Session 015.md",
-    "TTRPG/Waking Realms/Sessions/Session 016.md",
-    "TTRPG/Waking Realms/Sessions/Session 017.md",
     "Personal Misc/Characters/Drak/Drak.md",
     "Personal Misc/Characters/Drak/Draks Wares.md",
+    "TTRPG/Dungeon Delves/Session 000.md",
+    "TTRPG/Dungeon Delves",
+    "TTRPG/Waking Realms/Sessions/Session 017.md",
+    "TTRPG/Waking Realms/Sessions/Session 016.md",
+    "TTRPG/Waking Realms/Sessions/Session 015.md",
     "Personal Misc/Characters/Ponzi Deeproot/Character Info.md",
     "Personal Misc/Characters/Turdis/Backstory.md",
     "Personal Misc/Characters/Drak",
@@ -240,13 +242,11 @@
     "TTRPG/Drakkenheim/Sessions/Session 085.md",
     "TTRPG/Drakkenheim/Sessions/Session 084.md",
     "TTRPG/Drakkenheim/Sessions/Session 046.md",
-    "TTRPG/Drakkenheim/Sessions/Session 076.md",
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
     "Scripts/getThisCampaignName.js",
     "Scripts/getThisCampaignLocations.js",
-    "Scripts/getThisCampaignFactions.js",
     "Images/Pasted image 20240425201415.png",
     "Pasted image 20240425201415.png",
     "Images/quaggoth.png",
