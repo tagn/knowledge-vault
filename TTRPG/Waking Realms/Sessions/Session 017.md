@@ -9,3 +9,7 @@
 	- There are ship rigging and ropes, mastheads, etc.. They don't have a problem allowing us in with an escort. The interior of the place seems very curated. It seems unreasonably clean for a warehouse. 
 	- Idea: Our client could be stopping through town, and really enjoyed some bread or some shit that he got in some other nearbyish town and had to have it himself, so we have barrels of flour sourced from there to bring back to his personal home.
 	- There are people patrolling around the warehouse in pairs. There are always two on the door and two on the roof and two patrolling around the building.
+- We procure our wagon, gather some of the barrels, and fill barrels with gunpowder topped with fish.
+- We arrive at the Lowtide Lockup to drop off goods, and it seems like someone else was there dropping off some "rowdy" merchandise, aka Phillip ruining the plan.
+- There are a pile of people bound and gagged tightly together in the corner. They are anchored by chains to the wall by their ankles and necks.
+- There is a variety of ages of people bound. 
