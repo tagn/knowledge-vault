@@ -3,4 +3,4 @@
 - We head to a run down part of town. 
 - Rinn goes to see if Peg-Leg Paul is at his house, and he pops his head out of the thatch roof of the house. Rinn is invited in, and his house is a mess, sounds like a hoarders house. Rinn is offered coffee and retches at the scent of it.
 - Peg-Leg Paul seems to think the explosive barrel plan kind of sucks. He offers some ideas about fuses, and remote detonation would be a custom magic item likely that will take a while.
-- 
+- We plan to hit the Ironlock Stores, the Lowtide Lockup, and Drift
