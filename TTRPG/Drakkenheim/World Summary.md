@@ -36,7 +36,7 @@
 - [[TTRPG/Drakkenheim/Sessions/Session 014.md|Session 014]]
 - [[TTRPG/Drakkenheim/Sessions/Session 015.md|Session 015]]
 - [[TTRPG/Drakkenheim/Sessions/Session 016.md|Session 016]]
-- [[Session 017]]
+- [[TTRPG/Drakkenheim/Sessions/Session 017.md|Session 017]]
 - [[Session 018]]
 - [[Session 019]]
 - [[Session 020]]
@@ -109,4 +109,5 @@
 - [[Session 087]]
 - [[Session 088]]
 - [[Session 089]]
+
 <!-- SerializedQuery END -->
