@@ -12,4 +12,6 @@
 - We procure our wagon, gather some of the barrels, and fill barrels with gunpowder topped with fish.
 - We arrive at the Lowtide Lockup to drop off goods, and it seems like someone else was there dropping off some "rowdy" merchandise, aka Phillip ruining the plan.
 - There are a pile of people bound and gagged tightly together in the corner. They are anchored by chains to the wall by their ankles and necks.
-- There is a variety of ages of people bound. 
+- There is a variety of ages of people bound.
+- Drovak draws up some maps of the plans before we go meet up with the people.
+- The girl in the crowd approaches Rinn and recognizes him. She says that she thought he was dead or captured. 
