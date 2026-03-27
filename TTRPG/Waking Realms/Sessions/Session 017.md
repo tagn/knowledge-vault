@@ -4,8 +4,8 @@
 - Rinn goes to see if Peg-Leg Paul is at his house, and he pops his head out of the thatch roof of the house. Rinn is invited in, and his house is a mess, sounds like a hoarders house. Rinn is offered coffee and retches at the scent of it.
 - Peg-Leg Paul seems to think the explosive barrel plan kind of sucks. He offers some ideas about fuses, and remote detonation would be a custom magic item likely that will take a while.
 - We plan to hit the Ironlock Stores, the Lowtide Lockup, and Driftmark warehouse thing.
-- Ty'riok and Serena head up towards the Mamba ship and try to get information about us possibly attacking them there.
+- Ty'riok and Serena head up towards the Mamba ship, the Black Fang, and try to get information about us possibly attacking them there.
 - We head to the Driftmark Warehouse to tour and get some information on the place.
 	- There are ship rigging and ropes, mastheads, etc.. They don't have a problem allowing us in with an escort. The interior of the place seems very curated. It seems unreasonably clean for a warehouse. 
 	- Idea: Our client could be stopping through town, and really enjoyed some bread or some shit that he got in some other nearbyish town and had to have it himself, so we have barrels of flour sourced from there to bring back to his personal home.
-	- There are people patrolling around the warehouse in pairs. There are always two on the door and two on the roof. 
+	- There are people patrolling around the warehouse in pairs. There are always two on the door and two on the roof and two patrolling around the building.
