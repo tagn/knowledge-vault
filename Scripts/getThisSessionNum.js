@@ -1,22 +1,18 @@
+const {
+    getCampaignDirectoryPath,
+    getCampaignName,
+    getPages,
+    padNumber,
+} = require("./templaterUtils");
+
 function getThisSessionNum(tp) {
-    let thisDirectory = tp.file.folder(true);
-    let thisCampaignDir = thisDirectory.split("/")[1]
-    let thisCampaignName = thisCampaignDir.replace("DND - ", "")
-    let numOfSessions = app.plugins.plugins.dataview.api
-        .pages(`"TTRPG/${thisCampaignDir}/Sessions"`)
-        .where(page => {
-            if (page.type === 'session') {
-                if (page.campaign === thisCampaignName) {
-                    console.log('sessionNum: ' + page.sessionNum)
-                    return true;
-                }
-            }
-        }).length
-    nextSession = JSON.stringify(numOfSessions + 1);
-    while (nextSession.length < 3) {
-        nextSession = "0" + nextSession;
-    }
-    return nextSession;
+    const campaignName = getCampaignName(tp);
+    const sessionsPath = `${getCampaignDirectoryPath(tp)}/Sessions`;
+    const sessionCount = getPages(sessionsPath).filter(
+        (page) => page.type === "session" && page.campaign === campaignName,
+    ).length;
+
+    return padNumber(sessionCount + 1, 3);
 }
 
 module.exports = getThisSessionNum;

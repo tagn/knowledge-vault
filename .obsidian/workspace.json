@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Dungeon Delves/Sessions/Session 000.md",
+                "file": "TTRPG/Dungeon Delves/Sessions/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 000"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "470a87fc7e010f0d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,10 +221,12 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "2ef6ca06b0640a74",
+  "active": "470a87fc7e010f0d",
   "lastOpenFiles": [
-    "TTRPG/Dungeon Delves/Sessions/Session 001.md",
     "TTRPG/Dungeon Delves/Sessions/Session 000.md",
+    "TTRPG/Dungeon Delves/Sessions/Untitled.md",
+    "Scripts/templaterUtils.js",
+    "TTRPG/Dungeon Delves/Sessions/Session 001.md",
     "TTRPG/Dungeon Delves/Sessions",
     "templates/SessionTemplate.md",
     "Personal Misc/Session 24.5.md",
@@ -244,7 +259,6 @@
     "update-names.py",
     "TTRPG",
     "Scripts/getThisSessionNum.js",
-    "Scripts/getThisCampaignName.js",
     "Images/Pasted image 20240425201415.png",
     "Pasted image 20240425201415.png",
     "Images/quaggoth.png",

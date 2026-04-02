@@ -1,17 +1,12 @@
-function getThisCampaignLocations (tp) {
-    let thisDirectory = tp.file.folder(true);
-    let thisCampaignDir = thisDirectory.split("/")[1]
-    let locations = app.plugins.plugins.dataview.api
-        .pages(`"TTRPG/${thisCampaignDir}/Locations"`)
-        .where(page => {
-            if (page.type === 'location' && page.container) {
-                return true;
-            }
-        })
-    let locationsArray = Array.from(locations);
-    let locationNames = locationsArray.map(location => location.file.name)
-    locationNames.unshift('None')
-    return locationNames
+const { getCampaignDirectoryPath, getPages } = require("./templaterUtils");
+
+function getThisCampaignLocations(tp) {
+    const locationsPath = `${getCampaignDirectoryPath(tp)}/Locations`;
+    const locationNames = getPages(locationsPath)
+        .filter((page) => page.type === "location" && page.container)
+        .map((location) => location.file.name);
+
+    return ["None", ...locationNames];
 }
 
 module.exports = getThisCampaignLocations;

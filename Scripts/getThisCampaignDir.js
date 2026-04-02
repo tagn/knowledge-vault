@@ -1,7 +1,7 @@
-function getThisCampaignDir (tp) {
-    let thisDirectory = tp.file.folder(true);
-    let thisCampaignDir = thisDirectory.split("/")[1]
-    return `TTRPG/${thisCampaignDir}`;
+const { getCampaignDirectoryPath } = require("./templaterUtils");
+
+function getThisCampaignDir(tp) {
+    return getCampaignDirectoryPath(tp);
 }
 
 module.exports = getThisCampaignDir;

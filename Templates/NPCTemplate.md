@@ -1,12 +1,12 @@
 <%*
 	const creation_date = tp.file.creation_date("YYYY-MM-DD");
+	let npc_name;
 	if (tp.file.title.includes("Untitled")) {
-		npc_name = await tp.system.prompt("Enter NPC Name")
+		npc_name = await tp.system.prompt("Enter NPC Name");
 		await tp.file.rename(npc_name);
 	} else {
 		npc_name = tp.file.title;
 	}
-	const campaign_dir = await tp.user.getThisCampaignDir(tp);
 	const campaign_name = await tp.user.getThisCampaignName(tp);
 	const factions = await tp.user.getThisCampaignFactions(tp);
 	const faction = await tp.system.suggester(factions, factions, false, "Which faction is this NPC associated with?");

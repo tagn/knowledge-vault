@@ -1,12 +1,17 @@
 <%*
 const file = tp.file.find_tfile(tp.file.title);
-const {update} = app.plugins.plugins["metaedit"].api;
+const metaEditApi = app.plugins.plugins["metaedit"]?.api;
 const status = tp.frontmatter.status;
 
-if (status === "In Progress") {
- await update("status","Complete",file);
+if (!metaEditApi || !file) {
+  return;
 }
-if (status === "Backlog") {
-await update("status", "In Progress", file);
+
+const { update } = metaEditApi;
+
+if (status === "In Progress") {
+  await update("status", "Complete", file);
+} else if (status === "Backlog") {
+  await update("status", "In Progress", file);
 }
 -%>
