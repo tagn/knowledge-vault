@@ -40,6 +40,10 @@
     {
       "folder": "TTRPG/Tales from the Yawning Portal/Sessions",
       "template": "templates/SessionTemplate.md"
+    },
+    {
+      "folder": "TTRPG/Dungeon Delves/Sessions",
+      "template": "templates/SessionTemplate.md"
     }
   ],
   "enable_file_templates": false,
@@ -52,7 +56,8 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "templates/UpdateField.md"
+    "templates/UpdateField.md",
+    ""
   ],
   "startup_templates": [
     ""

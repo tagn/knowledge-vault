@@ -7,7 +7,11 @@
       "removeExpr": "",
       "appendDateFormat": "",
       "registerCommand": false,
-      "useContextMenu": false
+      "useContextMenu": false,
+      "collection": {
+        "areaHeading": "## Log",
+        "removeCheckbox": false
+      }
     },
     "complete": {
       "name": "complete",
