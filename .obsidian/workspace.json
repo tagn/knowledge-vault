@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ef6ca06b0640a74",
+            "id": "e7f57f2869999a40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Dungeon Delves/Sessions/Untitled.md",
+                "file": "TTRPG/Dungeon Delves/Sessions/Session 001.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "470a87fc7e010f0d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "title": "Session 001"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,17 +208,19 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "470a87fc7e010f0d",
+  "active": "e7f57f2869999a40",
   "lastOpenFiles": [
     "TTRPG/Dungeon Delves/Sessions/Session 000.md",
-    "TTRPG/Dungeon Delves/Sessions/Untitled.md",
+    "TTRPG/Dungeon Delves/Sessions/Session 001.md",
+    "templates/SessionTemplate.md",
+    "templates/QuestTemplate.md",
+    "templates/UpdateField.md",
+    "templates/CharacterTemplate.md",
+    "TTRPG/Dungeon Delves/Sessions/Untitled 1.md",
     "Scripts/templaterUtils.js",
     "TTRPG/Dungeon Delves/Sessions/Session 001.md",
     "TTRPG/Dungeon Delves/Sessions",
-    "templates/SessionTemplate.md",
     "Personal Misc/Session 24.5.md",
-    "templates/UpdateField.md",
-    "templates/CharacterTemplate.md",
     "templates/LocationTemplate.md",
     "templates/FactionTemplate.md",
     "Personal Misc/Characters/Drak/Draks Wares.md",
@@ -251,8 +240,6 @@
     "TTRPG/Waking Realms/Sessions/Session 010.md",
     "TTRPG/Waking Realms/Sessions/Session 005.md",
     "TTRPG/Waking Realms/Sessions/Session 007.md",
-    "TTRPG/Waking Realms/Sessions/Session 008.md",
-    "TTRPG/Waking Realms/Sessions/Session 006.md",
     "TTRPG/Waking Realms/Reference",
     "TTRPG/Waking Realms/Sessions",
     "TTRPG/Waking Realms",
