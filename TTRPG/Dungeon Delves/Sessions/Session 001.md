@@ -14,6 +14,16 @@ tags:
 - The woman we helped is [[Eldamere]]. She hands some golden egg that fell out of her basket to Thrain. It was a gift of the last great dragon Kosmeko who had been slain by some blue dragon Asmodust. She sifted the egg from her ashes. The egg needs to be empowered by being part of different dragon hoards. The egg was warm to the touch
 - Drak is handed the egg.
 - A child approaches Rowan on the street, and asks him for bread, while attempting to reach into his pocket to steal from him. He gives the the child his bedroll.
-- 
-
-
+- [[Eldamere]] disappears on us. [[Thrain]] tries to see if the egg feels as if it's pulling him in any direction but it does not. We head back towards the inn. [[Rowan]] and [[Thrain]] are welcome to rooms, but [[Drak]] doesn't get a room and he needs to go chat up the inn keep and perhaps lie to him that his name was Steve. [[Drak]] is given room 3. [[Rowan]] has room 9 and [[Thrain]] has room 6.
+- [[Drak]] buys pistachios f0r 8 copper, and 5 sugar dates for 5 copper from a fairly obvious scammer.
+- [[Drak]] attempts to sell them right outside of the stall for 10 copper but nobody wants to buy them.
+- [[Thrain]] has a dream about some green dragon flying in the sky. He sees him land in a forest of incredibly tall redwood trees. The dragon appears to be terrorizing the village, and he's seen to have gotten slain by a band of elves, who then throw a celebration. He sees the same sort of malice and corruption begin growing again. He gets visions of villagers (elves) becoming ill, trees wilt and die. He hears a voice call out and he feels like he's woken up. "I am [[Gwenhumara Goldmoss]], if anyone out there can help us please, come to the redwood watch, he is back. Death at sunset has returned."
+- [[Rowan]] and [[Thrain]] have a conversation about the dream being a lead before [[Drak]] has come down out of his room.
+- We have some breakfast, and after about 11 days of travel we arrive at the redwood watch.
+- Drak's specials for today: `56`, `75`, `54`, `95`
+-  `Rope of Obedience 56` goes to [[Rowan]]
+- `Gloves of Scale Grip 95` go to [[Thrain]]
+- We're introduced to [[Silas]], who is already waiting for us in the redwood place.
+- [[Gwenhumara Goldmoss]] addresses our group, that we've come to help them. She talks about having tended to the wounded after the battle with the dragon, and fears his spirit is still within the redwoods roots. The other guy [[Solanar]] insists the forests corruption is not related to the dragon. They ask us to  bring back their third councilman, [[Armen]], who has been gone for a month to the grove. [[Armen]] is said to have been a skilled elf tracker.
+- [[Thrain]] asks for us to be pointed in the direction of the non-dragon-dragon problem. 
+- [[Gwenhumara Goldmoss]] hands over 6 vials to collect some forest stuff.
