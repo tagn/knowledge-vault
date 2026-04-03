@@ -23,8 +23,11 @@ tags:
 - Drak's specials for today: `56`, `75`, `54`, `95`
 -  `Rope of Obedience 56` goes to [[Rowan]]
 - `Gloves of Scale Grip 95` go to [[Thrain]]
+- `Bracelet of Water Walking 75` go to [[Silas]]
 - We're introduced to [[Silas]], who is already waiting for us in the redwood place.
 - [[Gwenhumara Goldmoss]] addresses our group, that we've come to help them. She talks about having tended to the wounded after the battle with the dragon, and fears his spirit is still within the redwoods roots. The other guy [[Solanar]] insists the forests corruption is not related to the dragon. They ask us to  bring back their third councilman, [[Armen]], who has been gone for a month to the grove. [[Armen]] is said to have been a skilled elf tracker.
 - [[Thrain]] asks for us to be pointed in the direction of the non-dragon-dragon problem. 
 - [[Gwenhumara Goldmoss]] hands over 6 vials to collect some forest stuff.
-- 
+- [[Rowan]] explains that [[Briar]] isn't a pet, and is only kinda sorta tame and might lash out during battle.
+- We're told to head due south. On our way through we get flagged down by some Scottish woman. [[Silas]] asks why we are in a rush leaving, [[Rowan]] says there has been a lot more talking than he is used to. 
+- We make our way walking to the [[redwood grove]]. We see toweringly tall trees, with the canopy shading the area. It's a very luscious and thick tree canopy.  Each tree looks a little to a lot off in certain ways. With [[Rowan]] leading the way, we approach the first tree. We're supposed to collect samples from the trees.
