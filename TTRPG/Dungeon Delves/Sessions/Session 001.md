@@ -27,3 +27,4 @@ tags:
 - [[Gwenhumara Goldmoss]] addresses our group, that we've come to help them. She talks about having tended to the wounded after the battle with the dragon, and fears his spirit is still within the redwoods roots. The other guy [[Solanar]] insists the forests corruption is not related to the dragon. They ask us to  bring back their third councilman, [[Armen]], who has been gone for a month to the grove. [[Armen]] is said to have been a skilled elf tracker.
 - [[Thrain]] asks for us to be pointed in the direction of the non-dragon-dragon problem. 
 - [[Gwenhumara Goldmoss]] hands over 6 vials to collect some forest stuff.
+- 
