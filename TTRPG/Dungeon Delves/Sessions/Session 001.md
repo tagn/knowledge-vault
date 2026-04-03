@@ -32,4 +32,6 @@ tags:
 - We're told to head due south. On our way through we get flagged down by some Scottish woman. [[Silas]] asks why we are in a rush leaving, [[Rowan]] says there has been a lot more talking than he is used to. 
 - We make our way walking to the [[redwood grove]]. We see toweringly tall trees, with the canopy shading the area. It's a very luscious and thick tree canopy.  Each tree looks a little to a lot off in certain ways. With [[Rowan]] leading the way, we approach the first tree. We're supposed to collect samples from the trees. We prepare to collect samples from the trees, and as we enter the area we notice multiple dead bodies near a tree. We make our way approaching the bodies. The bodies come alive as zombies, and we enter a combat against them and some insects in the forest. We wrap up combat.
 - We find a bunch of crap on the corpses, and we find some boot prints wandering off towards the northeast side of the grove.
-- We start to collect samples from the trees. A tree talks to saying it is Keynan, do not touch my tree. [[Thrain]] goes over and scrapes a sample off the tree, and that was noticed by Keynan.
+- We start to collect samples from the trees. A tree talks to saying it is Keynan, do not touch my tree. [[Thrain]] goes over and scrapes a sample off the tree, and that was noticed by Keynan. [[Rowan]] is downed during the encounter.
+- We make our way back to town after stabilizing the elf, dog, and [[Rowan]].
+- [[Armin]] tries to leave after being brought up after we get back to the town.
