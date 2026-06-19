@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Dungeon Delves/Sessions/Session 001.md",
+                "file": "TTRPG/Waking Realms/Sessions/Session 019.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 001"
+              "title": "Session 019"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 331
   },
   "right": {
     "id": "c919327ecf250aca",
@@ -232,20 +231,22 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "webpage-html-export:Export as HTML": false,
-      "obisidian-note-linker:Note Linker": false
+      "obisidian-note-linker:Note Linker": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7f57f2869999a40",
+  "active": "f2ed483abcf08cad",
   "lastOpenFiles": [
-    "TTRPG/Dungeon Delves/Sessions/Session 000.md",
+    "Untitled 1.base",
+    "Untitled.base",
     "TTRPG/Dungeon Delves/Sessions/Session 001.md",
+    "TTRPG/Dungeon Delves/Sessions/Session 000.md",
     "templates/SessionTemplate.md",
     "templates/QuestTemplate.md",
     "templates/UpdateField.md",
     "templates/CharacterTemplate.md",
     "TTRPG/Dungeon Delves/Sessions/Untitled 1.md",
     "Scripts/templaterUtils.js",
-    "TTRPG/Dungeon Delves/Sessions/Session 001.md",
     "TTRPG/Dungeon Delves/Sessions",
     "Personal Misc/Session 24.5.md",
     "templates/LocationTemplate.md",
@@ -266,13 +267,11 @@
     "TTRPG/Waking Realms/Sessions/Session 011.md",
     "TTRPG/Waking Realms/Sessions/Session 010.md",
     "TTRPG/Waking Realms/Sessions/Session 005.md",
-    "TTRPG/Waking Realms/Sessions/Session 007.md",
     "TTRPG/Waking Realms/Reference",
     "TTRPG/Waking Realms/Sessions",
     "TTRPG/Waking Realms",
     "update-names.py",
     "TTRPG",
-    "Scripts/getThisSessionNum.js",
     "Images/Pasted image 20240425201415.png",
     "Pasted image 20240425201415.png",
     "Images/quaggoth.png",
