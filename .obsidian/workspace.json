@@ -119,8 +119,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -178,8 +178,18 @@
             "state": {
               "type": "FANTASY_CALENDAR",
               "state": {},
-              "icon": "FANTASY_CALENDAR",
-              "title": "Fantasy Calendar"
+              "icon": "lucide-ghost",
+              "title": "FANTASY_CALENDAR"
+            }
+          },
+          {
+            "id": "28ee172a3ed55310",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
@@ -195,8 +205,8 @@
             "state": {
               "type": "fantasy-statblocks-creature-pane",
               "state": {},
-              "icon": "skull",
-              "title": "Combatant"
+              "icon": "lucide-ghost",
+              "title": "fantasy-statblocks-creature-pane"
             }
           }
         ]
@@ -215,14 +225,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-git:Open Git source control": false,
-      "obisidian-note-linker:Note Linker": false,
-      "webpage-html-export:Export as HTML": false
+      "templater-obsidian:Templater": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "webpage-html-export:Export as HTML": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
   "active": "e7f57f2869999a40",

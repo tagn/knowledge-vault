@@ -1,0 +1,7 @@
+- We're awoken to a knock at the door of the inn. Rinn answers, we're getting kicked out. The Mamba Band is searching for us.
+- We make our way to the bombmaker, and find the door booby trapped with some electricity. We inquire with Peg Leg if the Mamba band has been around.
+- Peg Leg says at the dock district there is a patisserie that makes some good biscuits. If he get him a bag of biscuits he'll help us out. Drovak and Rinn both head out together to grab him his breakfast.
+- The group that hangs behind talks to Peg Leg about the fuse stuff, but still insists on wanting to blow all three places up.
+- A young boys voice, Atello, knocks on the door looking for Mirinda and Revel. He says we really should have someone on watch.
+- He tells us the vibe around town. The Mamba band is definitely looking for us. There was a conflict between some of the Drow and one of the other pirate factions that morning.
+-
