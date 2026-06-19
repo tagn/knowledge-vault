@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7c0f25f41f1015f2",
+        "id": "b9b9e45ad06a48e1",
         "type": "tabs",
         "children": [
           {
-            "id": "e7f57f2869999a40",
+            "id": "c85bd0de63429a72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TTRPG/Waking Realms/Sessions/Session 019.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Session 019"
+              "title": "New tab"
             }
           }
         ]
@@ -118,8 +104,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -128,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPG/Waking Realms/Sessions/Session 008.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 008"
+              "title": "Backlinks"
             }
           },
           {
@@ -172,16 +157,6 @@
             }
           },
           {
-            "id": "d3f45739f599ba28",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "FANTASY_CALENDAR"
-            }
-          },
-          {
             "id": "28ee172a3ed55310",
             "type": "leaf",
             "state": {
@@ -190,30 +165,33 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "91aa63bab118ca9a",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "0983f2dfc9d0798f",
+            "id": "f70f1c27d46d53df",
             "type": "leaf",
             "state": {
-              "type": "fantasy-statblocks-creature-pane",
+              "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "fantasy-statblocks-creature-pane"
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "00144297c129a010",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 364
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,13 +210,35 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "webpage-html-export:Export as HTML": false,
       "obisidian-note-linker:Note Linker": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f2ed483abcf08cad",
+  "active": "00144297c129a010",
   "lastOpenFiles": [
-    "Untitled 1.base",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "Untitled.base",
+    "TTRPG/Drakkenheim/NPCS/Rose Carver.md",
+    "Untitled 1.base",
+    "TTRPG/Waking Realms/Sessions/Session 019.md",
+    "Excalidraw/Drawing 2026-06-19 19.42.08.excalidraw.md",
+    "Excalidraw",
     "TTRPG/Dungeon Delves/Sessions/Session 001.md",
     "TTRPG/Dungeon Delves/Sessions/Session 000.md",
     "templates/SessionTemplate.md",
@@ -249,29 +249,9 @@
     "Scripts/templaterUtils.js",
     "TTRPG/Dungeon Delves/Sessions",
     "Personal Misc/Session 24.5.md",
-    "templates/LocationTemplate.md",
-    "templates/FactionTemplate.md",
-    "Personal Misc/Characters/Drak/Draks Wares.md",
-    "Personal Misc/Characters/Drak/Drak.md",
     "TTRPG/Dungeon Delves",
-    "TTRPG/Waking Realms/Sessions/Session 017.md",
-    "TTRPG/Waking Realms/Sessions/Session 016.md",
-    "TTRPG/Waking Realms/Sessions/Session 015.md",
-    "Personal Misc/Characters/Ponzi Deeproot/Character Info.md",
-    "Personal Misc/Characters/Turdis/Backstory.md",
     "Personal Misc/Characters/Drak",
-    "TTRPG/Waking Realms/Sessions/Session 012.md",
-    "TTRPG/Waking Realms/Sessions/Session 013.md",
-    "TTRPG/Waking Realms/Sessions/Session 014.md",
-    "TTRPG/Waking Realms/Sessions/Session 009.md",
-    "TTRPG/Waking Realms/Sessions/Session 011.md",
-    "TTRPG/Waking Realms/Sessions/Session 010.md",
-    "TTRPG/Waking Realms/Sessions/Session 005.md",
     "TTRPG/Waking Realms/Reference",
-    "TTRPG/Waking Realms/Sessions",
-    "TTRPG/Waking Realms",
-    "update-names.py",
-    "TTRPG",
     "Images/Pasted image 20240425201415.png",
     "Pasted image 20240425201415.png",
     "Images/quaggoth.png",

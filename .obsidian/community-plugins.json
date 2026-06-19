@@ -2,13 +2,10 @@
   "table-editor-obsidian",
   "dataview",
   "hotkeysplus-obsidian",
-  "obsidian-task-collector",
   "obsidian-languagetool-plugin",
   "obsidian-git",
   "buttons",
   "templater-obsidian",
-  "fantasy-calendar",
-  "obsidian-5e-statblocks",
   "cm-editor-syntax-highlight-obsidian",
   "metaedit",
   "obsidian-dice-roller",
@@ -16,5 +13,6 @@
   "dataview-serializer",
   "obisidian-note-linker",
   "obsidian-excalidraw-plugin",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "copilot"
 ]
