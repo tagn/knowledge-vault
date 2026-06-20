@@ -24,7 +24,7 @@
   "githubCopilotToken": "",
   "githubCopilotTokenExpiresAt": 0,
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "google/gemini-2.5-flash|openrouterai",
+  "defaultModelKey": "ggml-org/gemma-3-1b-it-GGUF|3rd party (openai-format)",
   "embeddingModelKey": "openai/text-embedding-3-small|openrouterai",
   "temperature": 0.1,
   "maxTokens": 6000,
@@ -330,6 +330,23 @@
         "reasoning"
       ],
       "apiKey": ""
+    },
+    {
+      "name": "ggml-org/gemma-3-1b-it-GGUF",
+      "provider": "3rd party (openai-format)",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "http://127.0.0.1:8080",
+      "apiKey": "",
+      "isEmbeddingModel": false,
+      "capabilities": [
+        "reasoning",
+        "vision",
+        "websearch"
+      ],
+      "stream": true,
+      "displayName": "llama.cpp gemma-3",
+      "enableCors": true
     }
   ],
   "activeEmbeddingModels": [
@@ -464,7 +481,7 @@
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
-  "enableSemanticSearchV3": false,
+  "enableSemanticSearchV3": true,
   "enableSelfHostMode": false,
   "enableMiyo": false,
   "miyoSearchAll": false,

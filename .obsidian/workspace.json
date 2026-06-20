@@ -11,10 +11,24 @@
             "id": "c85bd0de63429a72",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/Waking Realms/Sessions/Session 019.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Session 019"
             }
           }
         ]
@@ -114,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TTRPG/Waking Realms/Sessions/Session 019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Session 019"
             }
           },
           {
@@ -216,6 +231,12 @@
   },
   "active": "00144297c129a010",
   "lastOpenFiles": [
+    "copilot/memory/Recent Conversations.md",
+    "copilot/memory",
+    "TTRPG/Waking Realms/Sessions/Session 017.md",
+    "TTRPG/Waking Realms/Sessions/Session 019.md",
+    "copilot/copilot-conversations/API_Key_Verification_Issue@20260619_195358.md",
+    "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -236,7 +257,6 @@
     "Untitled.base",
     "TTRPG/Drakkenheim/NPCS/Rose Carver.md",
     "Untitled 1.base",
-    "TTRPG/Waking Realms/Sessions/Session 019.md",
     "Excalidraw/Drawing 2026-06-19 19.42.08.excalidraw.md",
     "Excalidraw",
     "TTRPG/Dungeon Delves/Sessions/Session 001.md",
@@ -244,14 +264,9 @@
     "templates/SessionTemplate.md",
     "templates/QuestTemplate.md",
     "templates/UpdateField.md",
-    "templates/CharacterTemplate.md",
-    "TTRPG/Dungeon Delves/Sessions/Untitled 1.md",
     "Scripts/templaterUtils.js",
     "TTRPG/Dungeon Delves/Sessions",
-    "Personal Misc/Session 24.5.md",
     "TTRPG/Dungeon Delves",
-    "Personal Misc/Characters/Drak",
-    "TTRPG/Waking Realms/Reference",
     "Images/Pasted image 20240425201415.png",
     "Pasted image 20240425201415.png",
     "Images/quaggoth.png",
