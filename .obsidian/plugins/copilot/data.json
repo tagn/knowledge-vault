@@ -25,7 +25,7 @@
   "githubCopilotTokenExpiresAt": 0,
   "defaultChainType": "llm_chain",
   "defaultModelKey": "ggml-org/gemma-3-1b-it-GGUF|3rd party (openai-format)",
-  "embeddingModelKey": "openai/text-embedding-3-small|openrouterai",
+  "embeddingModelKey": "embedding-bge-base-zh.Q8_0|3rd party (openai-format)",
   "temperature": 0.1,
   "maxTokens": 6000,
   "contextTurns": 15,
@@ -46,7 +46,7 @@
   "qaInclusions": "",
   "chatNoteContextPath": "",
   "chatNoteContextTags": [],
-  "enableIndexSync": true,
+  "enableIndexSync": false,
   "debug": false,
   "maxSourceChunks": 30,
   "enableInlineCitations": true,
@@ -341,8 +341,7 @@
       "isEmbeddingModel": false,
       "capabilities": [
         "reasoning",
-        "vision",
-        "websearch"
+        "vision"
       ],
       "stream": true,
       "displayName": "llama.cpp gemma-3",
@@ -460,10 +459,22 @@
       "isBuiltIn": true,
       "isEmbeddingModel": true,
       "apiKey": ""
+    },
+    {
+      "name": "embedding-bge-base-zh.Q8_0",
+      "provider": "3rd party (openai-format)",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "http://127.0.0.1:8081/v1",
+      "apiKey": "",
+      "isEmbeddingModel": true,
+      "capabilities": [],
+      "displayName": "embedding-bge-base-zh.Q8_0",
+      "enableCors": false
     }
   ],
   "embeddingRequestsPerMin": 60,
-  "embeddingBatchSize": 16,
+  "embeddingBatchSize": 32,
   "disableIndexOnMobile": true,
   "showSuggestedPrompts": true,
   "showRelevantNotes": true,
