@@ -29,3 +29,7 @@
 ## Summary of TTRPG Session Events
 **Time:** 2026-06-19 22:47
 **Summary:** This summary details the events of Session 008 for the TTRPG/Waking Realms campaign. The key events involved the group picking up following a previous fight and attempting to return to the tavern. Throughout this process, the group was actively being chased by a group of thugs.
+
+## Ship Investigation and Pirate Cargo Discovery
+**Time:** 2026-06-21 14:22
+**Summary:** The session details a dramatic series of events involving a ship investigation, where Serena immediately tosses the captain's crossbow overboard, and Drovak hangs the captain upside down. The party discovers illicit pirate cargo in the crates, including cloth, silver bowls, and ritual daggers. Following a confrontation, Serena executes the captain, and the party then begins loading the skulls for a funeral. The session concludes with the party leveling up to Level 4 while heading toward Rugosa.

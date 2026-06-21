@@ -11,10 +11,24 @@
             "id": "085971e77b7beb61",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/Waking Realms/Sessions/Session 006.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Session 006"
             }
           }
         ]
@@ -191,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 550
+    "width": 493
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,8 +220,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "webpage-html-export:Export as HTML": false,
       "obisidian-note-linker:Note Linker": false,
       "obsidian-excalidraw-plugin:New drawing": false,
@@ -216,6 +228,11 @@
   },
   "active": "00144297c129a010",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/Session_summary_request@20260621_142139.md",
+    "TTRPG/Waking Realms/Sessions/Session 010.md",
+    "copilot/copilot-conversations/Session_Summary_Request@20260621_141947.md",
+    "TTRPG/Waking Realms/Sessions/Session 012.md",
+    "TTRPG/Waking Realms/Sessions/Session 017.md",
     "copilot/copilot-conversations/TTRPG_Session_Summary@20260619_224638.md",
     "copilot/copilot-conversations/Exploring_the_Waking_Realms,_Challenging_Reality.@20260619_205356.md",
     "TTRPG/Keys from the Golden Vault/Sessions/Session 001.md",
@@ -223,7 +240,6 @@
     "TTRPG/Waking Realms/Sessions/Session 016.md",
     "copilot/copilot-conversations/Vault_Campaign_Status@20260619_204721.md",
     "copilot/copilot-conversations/Campaign_Status_Overview@20260619_204133.md",
-    "TTRPG/Waking Realms/Sessions/Session 017.md",
     "copilot/copilot-conversations/Conversation_Summary@20260619_204043.md",
     "TTRPG/Waking Realms/Sessions/Session 019.md",
     "copilot/copilot-conversations/Next_Objective_Discussing_Goals@20260619_204002.md",
@@ -240,10 +256,6 @@
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Untitled.base",
