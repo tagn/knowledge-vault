@@ -2,3 +2,8 @@
 - Adrian gives a lecture at the college, with nets him a title change with no raise.
 - We make our way to the Wakeful Heron Inn, looking to possibly pick up some work.
 - We seek out the professor who posted the missing professor request. 
+
+Resistances:
+bludgeoning/piercing/slashing - nonmagical attacks
+immune to force, necrotic poison
+blind, charm deafened, paralyze, poison, stun
