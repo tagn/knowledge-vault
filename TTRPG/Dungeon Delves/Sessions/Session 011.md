@@ -1,0 +1,14 @@
+- Keliphron, traveling with Argus, when Dragon brought him to it's lair.
+- We ask what kind of dragon trapped him. He says he is color blind, but can't discern the color of the dragons scales. He's big enough to carry a person on his back.
+- We cross a magical shimmering bridge crossing a canyon that is about 200 feet deep.
+- We approach the doors, they are mainly made of a thick glass.
+- Go inside, chamber with crystal fountain.
+- In the room to the right, we see some floating creature that is tending to bookcases.
+- We find a bunch of merchant stalls north of the courtyard that seem to be in disarray. At the top there is a tunnel heading west that is blocked by rubble.
+- Rowan and Silas enter some greenhouse room and something springs to life. We fight some lightning immune shambling mounds and get fairly fucked up.
+- To the north we go back to the rubble, peggy reads a glyph next to a door, and finds that it is a "glyph card reader".
+- The douchebag Modron that isn't letting us in tells is something about Quarra. We find another Modron inside of a stove, who gives us a keycard. There is a hallway off that room that is filled with poison gas the seems to lead nowhere.
+- We get into the security group with the douchebag Modron, and he explains how to use the Console to Rowan, who chooses to not tell us what's up.
+- Illogon, the Bronze/Brass dragon, puts the group to sleep, but we lie to him about killing the thieves that he despises.
+- Dragon already used sleep breath. Silas pissed it the fuck off after saying we'd take the bag from him.
+-

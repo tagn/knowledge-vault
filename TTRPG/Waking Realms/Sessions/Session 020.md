@@ -1,0 +1,7 @@
+- Graz'et - A demon lord of pleasure, found on a signet ring looted from the corpse of one of the cultists executing prisoners at the lowtide lockup. Ty'riok also finds a notebook, upon opening it he falls unconcious. We carry him out and guide the prisoners to a boat, and Vaelion ignites the fuses to set the place ablaze. Ty'riok also looted ~40 gold from the corpses of the cultists.
+- We rescued two prisoners from the cultists. They seem in poor condition. Drovak would like to get information from them when we have gotten to safety.
+- Rinn and Serena come back to conciousness and find themselves in a cell in the mamba band's headquarters.
+- Drovak questions the people on the way. A few of them managed to kill themselves in the first few weeks. He asks where they were taken from. Gloomwatch.
+- We head to the meet up point outside of town. There is sign of a struggle, we find a body of some mercenary nearby. A message was left that it wasn't safe. We head further up the road and find where our friends are camping for the evening.
+- Rinn is questioned in prison, then brought out to some gallows to be hung. He mocks Black Talon before he is to be hung. They put a hood over his head, then kick out the block under his feet. 
+- Calenta comes back into the prisoner later, pulls Rinn's head out of a sack, and says that she does not need to suffer the same fate.

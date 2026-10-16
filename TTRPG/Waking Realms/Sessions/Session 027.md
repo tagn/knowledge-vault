@@ -1,0 +1,7 @@
+- The orry brings us to some ruins in Kathapoli we find a few items
+- On our trip back to klesithold it points again towards the everdark jungle
+- We head up to Willowfirth via boat
+- We take a walking trip from Willowfirth towards Deminai Clearing
+- Ty'riok has a brother named Cody, who has gone to Kleisthold for the university.
+- We arrive in Kleisthold - There is only one land entrance, known as the Memorial Gate.
+-

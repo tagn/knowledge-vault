@@ -4,4 +4,4 @@
 - The group that hangs behind talks to Peg Leg about the fuse stuff, but still insists on wanting to blow all three places up.
 - A young boys voice, Atello, knocks on the door looking for Mirinda and Revel. He says we really should have someone on watch.
 - He tells us the vibe around town. The Mamba band is definitely looking for us. There was a conflict between some of the Drow and one of the other pirate factions that morning.
--
+- =

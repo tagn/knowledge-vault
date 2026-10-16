@@ -1,0 +1,23 @@
+- We're guided to the "Velvet Vault" which is a very fancy inn, right nearby the Gilded Seat. We reach the raised platform where the grand bank of Ceruset is, and it splits into a set of marble stairs that leads up to the "Velvet Vault".
+- We approach the inn, then two large golems move and open two massive marble doors to the Inn. We smell a variety of fragrences as soon as we enter. Every surface in sight is velvet, nice stained glass, high quality leather.
+- There is a tiefling concierge, a small blue tiefling wearing black tie style clothing. He immediately addresses Dr. Adrian Corso by name, and tells us his name is Gilvo. The place has private and public baths, entertainment, two restaurants.
+- We're still seeking the "Ebonglass Needle", which was recently sold at auction.
+- We go to our room. There is a salon sofa, in the shape of an S infront of a well stocked fireplace. There is a golem behind a bar standing still. There is a small red book in the nightstand next to the bed. Vaelion pulls a rope while in the shower and a few minutes later there is a knock at the door. Adrian answers the door and there are 4 beautiful women.
+- Another knock to the door later, and we answer and there is a middle aged conservatively dressed woman, who asks if the women that were sent earlier were of his liking.
+- We head down to the bar/restaurant to get a meal, and find that there is a table already prepared for us. A young halfling lady comes and drops off some paper menus on the table. Adrian eats some centaur. We get a tour of the kitchen after our meal. There are multiple magic circles in the kitchen, who tells us that the building is not large enough to store everything anyone could ask for, so they have regional warehouses to keep the food fresh. When someone orders something they send a worker through the portal to pick up the food and bring it back.
+- In the bar/lounge area, Adrian approaches a hobgoblin who says his name is Zarkof?
+- Adrian asks another guest about the ebonglass needle, which sold for a little over 4000 gold, to someone named Perrin, who is a half elf living there in the city. Perrin runs another auction house in the city. They think sometimes he buys items to show them in his own auction house.
+- We went into the Adventurous Arcanist to try to get some information on the cultist notebook in Drovaks possession. There is a gnome - Osa Mariquil.
+- Drovak gets the cultist notebook cleansed, we stay at the Fair Exchange for the evening. He also buys sending stones and has one of them shipped to his bastion in Kathapoli.
+- At the Fair Exchange, the proprietor is named Tibit, who is a middle aged tiefling.
+- The cultist notebook is written in Abyssal. It was written by some priest, it was his journal. Inside of it there are dozens of entries dating back months. Some of the earliest ones in there are him describing his initial arrival in Korvosa, and how he finds the city distasteful, and that he hopes he doesnt have to stay there long. It is however a great place for their work. As we read more entries we see a few things:
+  - Entry #7 - a crate went astray on the northern route, the one outside did not survive. A death outside the rite is a waste. It's talking about weaving threads, and something seems to be relating the rite to weaving new threads.
+  - The Tritons are the difficult ones, something inside of them the rite reacts strongly to the tritons, something inside them, something in their blood. It's like they are made for it.
+  - The candles bleed into my sleep, everyone says they dream about it. In his dream
+  - Someone is moving through the harbor operations, the mamba bands fret about their measly profits, they are simply just a wall they are sheltered by.
+  - There is a group or person that may be called the Shepard's Hand.
+  - Sacrifices seem to need to happen at specific places.
+- We pay more room fees, then make our way to the auction.
+- There are a bunch of items up for sale
+  - A dwarven staff found at the bottom of a thing.
+- The perrin guy seems

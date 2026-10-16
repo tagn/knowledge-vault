@@ -1,0 +1,31 @@
+- We wake up, find that Serena and Rinn didn't make it out of Korvosa alive.
+- Ty'riok wakes up and is blind, and he has a madness, but at the moment he doesn't know what it is.
+- We start traveling towards Bilge City, making camp after the first day of safe travel.
+- The man we rescued is "Firth" who used to be a fisherman in Millerlet Landing. One day he was pulled out to sea, and dropped anchor. When morning came he was boarded by another ship, his son and uncle were killed, and he was taken prisoner. He was with them for a little over a week.
+- The woman we rescued is from Gilden Lane, south of Korvosa. Her name is "Tiffany". She has been with them for about a month and a half and has been moved through various ports and places. She was not mistreated, but nobody did anything horrible to her. 
+- Our group right now is:
+  - Lyria (unconscious)
+  - Attello
+  - Revel
+  - Merinda
+  - Peg Leg Paul
+- Merinda pulls Vaelion aside while we're talking pulls up her eyepatch, and asks if he could cure her as well.
+- Shouting Sail tavern - We buy 4 rooms for the evening
+  - Peg Leg Paul
+  - The Kids
+  - The slaves
+  - Us
+- Margie - the bartender.
+- Temple to Karoth in the foundry district of town.
+- Ty'riok speaks to Revel and Revel says he'll give us a year, but then want to make it back to Korvosa to take matters into their own hands.
+- Ty'riok gives 5 gold to Firth and he immediately makes his way to go find a boat. We now have an ally in Millerlet Landing.
+- Tiffany was also given 5 gold, she is going to go find clothing to purchase, and look for a job as a seamstress.
+- Drovak carries Lyria into the template of Karoth, and is greeted by an elven woman. She examines Lyria and casts Remove Curse on her. We hear a loud noise, like a snapping anchor chain, echoing around the temple. There is a brief moment where we are almost certain that something comes out of her that is almost ghost or wraith-like, then disapates. She is still out, but the priest looks tired. She says she will likely come to shortly but we should take care of her.
+- Revel takes Lyria back to the inn to take care of her and see if she wakes. We make our way back to the casino.
+- We're taken in to see Fibblo, and meet Herak-Gul and Dr. Adrian Corso.
+- They are there to see Fibblo about some opportunity for adventure they have.
+- We ask Fibblo if she has heard of a place called Gloom Watch. She asks if it's a carefully orchestrated joke. She shouts for Jaeger, then calls Dr. Adrian and Herak-Gul back in.
+- Dr. Corso has been looking for this Gloom Watch place. He thinks it's a myth, but recently it seems like it might be a reality. The brotherhood has been trying to track it down and hes tried to stay ahead of them.
+- Gloom Watch is spoken of as a legendary sunken city.
+- The new companions seems to also be following a lead that would take them to Gloom Watch. We decide we have aligned interests and will travel to Cerulset together to seek out the lead that Dr. Corso has.
+- Accepting a gift in Cerulset is a crime. Offering gifts is openly encouraged. Accepting a gift is punished with a year in slavery from the giver, or the hand that accepted the gift.

@@ -1,0 +1,1 @@
+- We leave the Thrrikahn camp and make our way for the quest regarding the Leonin

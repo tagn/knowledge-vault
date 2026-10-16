@@ -1,0 +1,18 @@
+- We set out by sea to the House of All Wealth
+- We're attacked by a manticore while out at sea and defeat it. 
+- The following day we arrive at the city.
+- We approach the gate to the House of all Wealth.
+- The custom of even hands
+  - accepting a gift within the city is punishable by a year in service of the person who gave it to you, or loss of the hand that took it.
+- The Avarice are the guard of the city.
+- Both guards on their waist have identical compasses on their belt. They look very nice.
+- The walls of the city are 80 feet high, 10 feet thick, and appear like one smooth piece of marble. The city is completely surrounded by the walls. There are thin threads of an golden inlay repeating all across the walls as far as we can see in the distance.
+- Beyond the gate there are pathes with a single line of golden bricks heading to the heart of the city.
+- Sah'z Gavel - Auction House that Adrian is familiar with.
+- Adrian talks up the auction house lady about some items he was looking for. Both have been sold, on separate dates, unknown if it was to the same person.
+- We head to the Second Skin to try to find some better clothing
+- Adrian is not wound doctor. Small man needs protection.
+- Vaelion encountered "Yoden" the triton
+- We make our way back to the clothing shop, Vaelion bribes his and Adrians way back in
+- We do some shopping after purchasing some clothing
+-
