@@ -14,4 +14,4 @@ blind, charm deafened, paralyze, poison, stun
 	- Oblex - the gelatin, to get a specimen of it large enough it needs to be from at least an adult Oblex. A juvenile one would not suffice. We can just harvest a chunk of the creature.
 	- The Venom Troll has an organ, a sack inside of their torso that holds the Venom. Their venom likely damages you on contact with their skin.
 	- Almost all adventurers know to fight a troll you need fire, but not for venom trolls. 
-	- 
+- 
