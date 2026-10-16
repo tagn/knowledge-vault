@@ -7,3 +7,5 @@ Resistances:
 bludgeoning/piercing/slashing - nonmagical attacks
 immune to force, necrotic poison
 blind, charm deafened, paralyze, poison, stun
+
+- We fail to pick the lock on the window, we fail to crowbar it open, we fail to open it with a mage hand, drovak tries to restrain it with the iron bands and it catches it and pins it to the ground, then Drovak gets stabbed while trying to retrieve it. 
