@@ -1,0 +1,4 @@
+- We start the day in Kleisthold going to get breakfast with Ty'rioks favorite bakery.
+- Adrian gives a lecture at the college, with nets him a title change with no raise.
+- We make our way to the Wakeful Heron Inn, looking to possibly pick up some work.
+- 

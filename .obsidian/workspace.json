@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Waking Realms/Sessions/Session 006.md",
+                "file": "TTRPG/Waking Realms/Sessions/Session 028.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 006"
+              "title": "Session 028"
             }
           }
         ]
@@ -205,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 493
+    "width": 493,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,8 +227,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "00144297c129a010",
+  "active": "085971e77b7beb61",
   "lastOpenFiles": [
+    "TTRPG/Waking Realms/Sessions/Session 027.md",
+    "TTRPG/Waking Realms/Sessions/Session 028.md",
+    "TTRPG/Waking Realms/Sessions/Session 006.md",
     "copilot/copilot-conversations/Session_summary_request@20260621_142139.md",
     "TTRPG/Waking Realms/Sessions/Session 010.md",
     "copilot/copilot-conversations/Session_Summary_Request@20260621_141947.md",
@@ -253,9 +257,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Untitled.base",
