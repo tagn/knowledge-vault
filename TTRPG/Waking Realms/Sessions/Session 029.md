@@ -1,1 +1,3 @@
+- The group reconciles, does some shopping for potions, then decides to head to Elmbend, taking a direct path there from Kleisthold.
+- We are greeted by a young boy, Remy Krout, and inquire after Thierry Dubois.
 - 
