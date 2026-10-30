@@ -1,3 +1,3 @@
 - The group reconciles, does some shopping for potions, then decides to head to Elmbend, taking a direct path there from Kleisthold.
 - We are greeted by a young boy, Remy Krout, and inquire after Thierry Dubois.
-- 
+- We're told there is a trailhead, right at the beginning of the swamp, there is a large cypress stump marking the beginning of the swamp. Going inside of there, taking the path into the swamp we will start to see some deeper water. There will be branching paths. 
