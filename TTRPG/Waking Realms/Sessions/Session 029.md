@@ -5,4 +5,4 @@
 - We get some information from the hags
 	- How do the oblex fight?
 		- They are strong creatures. A copy of Auntie nettle may be with the Oblex that we may need to fight.
-	- 
+
